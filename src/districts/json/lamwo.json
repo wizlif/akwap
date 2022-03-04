@@ -1,1 +1,23 @@
-{ "id": 100, "name": "Lamwo", "counties": [{ "id": 78, "name": "Lamwo", "sub_counties": [] }] }
+{
+  "id": 100,
+  "name": "Lamwo",
+  "counties": [
+    {
+      "id": 78,
+      "name": "Lamwo",
+      "sub_counties": [
+        { "id": 472, "name": "Agoro", "parishes": [] },
+        { "id": 1377, "name": "Lamwo town council", "parishes": [] },
+        { "id": 473, "name": "Lokung", "parishes": [] },
+        { "id": 474, "name": "Madi-opei", "parishes": [] },
+        { "id": 1243, "name": "Ogili", "parishes": [] },
+        { "id": 475, "name": "Padibe east", "parishes": [] },
+        { "id": 1376, "name": "Padibe town council", "parishes": [] },
+        { "id": 478, "name": "Padibe west", "parishes": [] },
+        { "id": 476, "name": "Palabek-gem", "parishes": [] },
+        { "id": 479, "name": "Palabek-kal", "parishes": [] },
+        { "id": 477, "name": "Paloga", "parishes": [] }
+      ]
+    }
+  ]
+}

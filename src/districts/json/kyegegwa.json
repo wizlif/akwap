@@ -2,7 +2,26 @@
   "id": 99,
   "name": "Kyegegwa",
   "counties": [
-    { "id": 447, "name": "Kyaka north", "sub_counties": [] },
-    { "id": 448, "name": "Kyaka south", "sub_counties": [] }
+    {
+      "id": 447,
+      "name": "Kyaka north",
+      "sub_counties": [
+        { "id": 504, "name": "Hapuuyo", "parishes": [] },
+        { "id": 505, "name": "Kakabara", "parishes": [] },
+        { "id": 506, "name": "Kasule", "parishes": [] },
+        { "id": 1486, "name": "Kigambo", "parishes": [] },
+        { "id": 1239, "name": "Kyegegwa town council", "parishes": [] }
+      ]
+    },
+    {
+      "id": 448,
+      "name": "Kyaka south",
+      "sub_counties": [
+        { "id": 507, "name": "Kyegegwa", "parishes": [] },
+        { "id": 508, "name": "Mpara", "parishes": [] },
+        { "id": 1238, "name": "Ruyonza", "parishes": [] },
+        { "id": 1237, "name": "Rwentuha", "parishes": [] }
+      ]
+    }
   ]
 }

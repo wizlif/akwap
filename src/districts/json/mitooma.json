@@ -2,7 +2,29 @@
   "id": 103,
   "name": "Mitooma",
   "counties": [
-    { "id": 28, "name": "Ruhinda", "sub_counties": [] },
-    { "id": 485, "name": "Ruhinda north", "sub_counties": [] }
+    {
+      "id": 28,
+      "name": "Ruhinda",
+      "sub_counties": [
+        { "id": 1415, "name": "Kabira", "parishes": [] },
+        { "id": 149, "name": "Kashenshero", "parishes": [] },
+        { "id": 1314, "name": "Kashenshero town council", "parishes": [] },
+        { "id": 1315, "name": "Katenga", "parishes": [] },
+        { "id": 1316, "name": "Mayanga", "parishes": [] },
+        { "id": 151, "name": "Mitooma", "parishes": [] },
+        { "id": 1313, "name": "Mitooma town council", "parishes": [] },
+        { "id": 152, "name": "Mutara", "parishes": [] },
+        { "id": 1317, "name": "Rurehe", "parishes": [] }
+      ]
+    },
+    {
+      "id": 485,
+      "name": "Ruhinda north",
+      "sub_counties": [
+        { "id": 146, "name": "Bitereko", "parishes": [] },
+        { "id": 148, "name": "Kanyabwanga", "parishes": [] },
+        { "id": 150, "name": "Kiyanga", "parishes": [] }
+      ]
+    }
   ]
 }

@@ -2,7 +2,23 @@
   "id": 114,
   "name": "Omoro",
   "counties": [
-    { "id": 34, "name": "Omoro", "sub_counties": [] },
-    { "id": 494, "name": "Tochi", "sub_counties": [] }
+    {
+      "id": 34,
+      "name": "Omoro",
+      "sub_counties": [
+        { "id": 191, "name": "Lakwana", "parishes": [] },
+        { "id": 192, "name": "Lalogi", "parishes": [] },
+        { "id": 193, "name": "Odek", "parishes": [] }
+      ]
+    },
+    {
+      "id": 494,
+      "name": "Tochi",
+      "sub_counties": [
+        { "id": 189, "name": "Bobi", "parishes": [] },
+        { "id": 190, "name": "Koro", "parishes": [] },
+        { "id": 194, "name": "Ongako", "parishes": [] }
+      ]
+    }
   ]
 }

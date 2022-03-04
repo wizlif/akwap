@@ -2,8 +2,36 @@
   "id": 25,
   "name": "Kaabong",
   "counties": [
-    { "id": 46, "name": "Dodoth east", "sub_counties": [] },
-    { "id": 194, "name": "Dodoth west", "sub_counties": [] },
-    { "id": 416, "name": "Kamion", "sub_counties": [] }
+    {
+      "id": 46,
+      "name": "Dodoth east",
+      "sub_counties": [
+        { "id": 262, "name": "Kaabong east", "parishes": [] },
+        { "id": 261, "name": "Kaabong town council", "parishes": [] },
+        { "id": 1128, "name": "Kaabong west", "parishes": [] },
+        { "id": 1355, "name": "Kakamar", "parishes": [] },
+        { "id": 269, "name": "Kalapata", "parishes": [] },
+        { "id": 264, "name": "Kathile", "parishes": [] },
+        { "id": 1354, "name": "Kathile south", "parishes": [] },
+        { "id": 1129, "name": "Lodiko", "parishes": [] },
+        { "id": 265, "name": "Lolelia", "parishes": [] },
+        { "id": 1353, "name": "Lotim", "parishes": [] },
+        { "id": 266, "name": "Loyoro", "parishes": [] },
+        { "id": 1352, "name": "Sidok (kopoth)", "parishes": [] }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "Dodoth west",
+      "sub_counties": [
+        { "id": 263, "name": "Kapedo", "parishes": [] },
+        { "id": 267, "name": "Karenga(napore)", "parishes": [] },
+        { "id": 1132, "name": "Kawalakol", "parishes": [] },
+        { "id": 1131, "name": "Lobalangit", "parishes": [] },
+        { "id": 1431, "name": "Lokori", "parishes": [] },
+        { "id": 1430, "name": "Sangar", "parishes": [] }
+      ]
+    },
+    { "id": 416, "name": "Kamion", "sub_counties": [{ "id": 1130, "name": "Kamion", "parishes": [] }] }
   ]
 }

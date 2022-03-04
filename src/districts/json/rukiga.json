@@ -1,1 +1,17 @@
-{ "id": 123, "name": "Rukiga", "counties": [{ "id": 50, "name": "Rukiga", "sub_counties": [] }] }
+{
+  "id": 123,
+  "name": "Rukiga",
+  "counties": [
+    {
+      "id": 50,
+      "name": "Rukiga",
+      "sub_counties": [
+        { "id": 285, "name": "Bukinda", "parishes": [] },
+        { "id": 286, "name": "Kamwezi", "parishes": [] },
+        { "id": 287, "name": "Kashambya", "parishes": [] },
+        { "id": 1318, "name": "Muhanga town council", "parishes": [] },
+        { "id": 288, "name": "Rwamucucu", "parishes": [] }
+      ]
+    }
+  ]
+}

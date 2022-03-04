@@ -2,7 +2,32 @@
   "id": 82,
   "name": "Agago",
   "counties": [
-    { "id": 141, "name": "Agago", "sub_counties": [] },
-    { "id": 351, "name": "Agago north", "sub_counties": [] }
+    {
+      "id": 141,
+      "name": "Agago",
+      "sub_counties": [
+        { "id": 836, "name": "Adilang", "parishes": [] },
+        { "id": 1395, "name": "Agago town council", "parishes": [] },
+        { "id": 974, "name": "Arum", "parishes": [] },
+        { "id": 977, "name": "Kotomor", "parishes": [] },
+        { "id": 975, "name": "Lamiyo", "parishes": [] },
+        { "id": 837, "name": "Lira-palwo", "parishes": [] },
+        { "id": 842, "name": "Omot", "parishes": [] },
+        { "id": 840, "name": "Patongo", "parishes": [] },
+        { "id": 979, "name": "Patongo town council", "parishes": [] }
+      ]
+    },
+    {
+      "id": 351,
+      "name": "Agago north",
+      "sub_counties": [
+        { "id": 976, "name": "Kalongo town council", "parishes": [] },
+        { "id": 845, "name": "Lapono", "parishes": [] },
+        { "id": 973, "name": "Omiya pacwa", "parishes": [] },
+        { "id": 838, "name": "Paimol", "parishes": [] },
+        { "id": 839, "name": "Parabongo", "parishes": [] },
+        { "id": 843, "name": "Wol", "parishes": [] }
+      ]
+    }
   ]
 }

@@ -1,1 +1,16 @@
-{ "id": 84, "name": "Amudat", "counties": [{ "id": 129, "name": "Upe", "sub_counties": [] }] }
+{
+  "id": 84,
+  "name": "Amudat",
+  "counties": [
+    {
+      "id": 129,
+      "name": "Upe",
+      "sub_counties": [
+        { "id": 759, "name": "Amudat", "parishes": [] },
+        { "id": 1341, "name": "Amudat town council", "parishes": [] },
+        { "id": 760, "name": "Karita", "parishes": [] },
+        { "id": 761, "name": "Loroo", "parishes": [] }
+      ]
+    }
+  ]
+}

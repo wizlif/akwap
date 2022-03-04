@@ -2,7 +2,30 @@
   "id": 113,
   "name": "Zombo",
   "counties": [
-    { "id": 134, "name": "Okoro", "sub_counties": [] },
-    { "id": 477, "name": "Ora", "sub_counties": [] }
+    {
+      "id": 134,
+      "name": "Okoro",
+      "sub_counties": [
+        { "id": 1297, "name": "Abanga", "parishes": [] },
+        { "id": 1391, "name": "Athuma", "parishes": [] },
+        { "id": 792, "name": "Jangokoro", "parishes": [] },
+        { "id": 794, "name": "Nyapea", "parishes": [] },
+        { "id": 795, "name": "Paidha", "parishes": [] },
+        { "id": 796, "name": "Paidha town council", "parishes": [] },
+        { "id": 1299, "name": "Zombo town council", "parishes": [] }
+      ]
+    },
+    {
+      "id": 477,
+      "name": "Ora",
+      "sub_counties": [
+        { "id": 1511, "name": "Akaa", "parishes": [] },
+        { "id": 1510, "name": "Alangi", "parishes": [] },
+        { "id": 791, "name": "Atyak", "parishes": [] },
+        { "id": 793, "name": "Kango", "parishes": [] },
+        { "id": 1298, "name": "Warr", "parishes": [] },
+        { "id": 797, "name": "Zeu", "parishes": [] }
+      ]
+    }
   ]
 }

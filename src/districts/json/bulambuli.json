@@ -2,7 +2,36 @@
   "id": 88,
   "name": "Bulambuli",
   "counties": [
-    { "id": 152, "name": "Bulambuli", "sub_counties": [] },
-    { "id": 398, "name": "Elgon", "sub_counties": [] }
+    {
+      "id": 152,
+      "name": "Bulambuli",
+      "sub_counties": [
+        { "id": 911, "name": "Bukhalu", "parishes": [] },
+        { "id": 1398, "name": "Bulambuli town council", "parishes": [] },
+        { "id": 907, "name": "Bunambutye", "parishes": [] },
+        { "id": 1056, "name": "Bwikhonge", "parishes": [] },
+        { "id": 909, "name": "Muyembe", "parishes": [] },
+        { "id": 1051, "name": "Nabbongo", "parishes": [] }
+      ]
+    },
+    {
+      "id": 398,
+      "name": "Elgon",
+      "sub_counties": [
+        { "id": 908, "name": "Buginyanya", "parishes": [] },
+        { "id": 906, "name": "Bulago", "parishes": [] },
+        { "id": 912, "name": "Bulegeni", "parishes": [] },
+        { "id": 1054, "name": "Bulegeni town council", "parishes": [] },
+        { "id": 913, "name": "Buluganya", "parishes": [] },
+        { "id": 1050, "name": "Bumasobo", "parishes": [] },
+        { "id": 1466, "name": "Bumugibole", "parishes": [] },
+        { "id": 1465, "name": "Kamu", "parishes": [] },
+        { "id": 1055, "name": "Lusha", "parishes": [] },
+        { "id": 914, "name": "Masira", "parishes": [] },
+        { "id": 1053, "name": "Namisuni", "parishes": [] },
+        { "id": 1052, "name": "Simu", "parishes": [] },
+        { "id": 910, "name": "Sisiyi", "parishes": [] }
+      ]
+    }
   ]
 }

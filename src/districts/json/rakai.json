@@ -2,8 +2,39 @@
   "id": 74,
   "name": "Rakai",
   "counties": [
-    { "id": 391, "name": "Buyamba", "sub_counties": [] },
-    { "id": 144, "name": "Kakuuto", "sub_counties": [] },
-    { "id": 145, "name": "Kooki", "sub_counties": [] }
+    {
+      "id": 391,
+      "name": "Buyamba",
+      "sub_counties": [
+        { "id": 1464, "name": "Ddwaniro", "parishes": [] },
+        { "id": 864, "name": "Kacheera", "parishes": [] },
+        { "id": 866, "name": "Kagamba (buyamba)", "parishes": [] },
+        { "id": 869, "name": "Lwamaggwa", "parishes": [] }
+      ]
+    },
+    {
+      "id": 144,
+      "name": "Kakuuto",
+      "sub_counties": [
+        { "id": 860, "name": "Kakuuto", "parishes": [] },
+        { "id": 859, "name": "Kasasa", "parishes": [] },
+        { "id": 861, "name": "Kibanda", "parishes": [] },
+        { "id": 862, "name": "Kifamba", "parishes": [] },
+        { "id": 863, "name": "Kyebe", "parishes": [] },
+        { "id": 1600, "name": "Nangoma", "parishes": [] }
+      ]
+    },
+    {
+      "id": 145,
+      "name": "Kooki",
+      "sub_counties": [
+        { "id": 867, "name": "Byakabanda", "parishes": [] },
+        { "id": 871, "name": "Ddwaniro - rakai", "parishes": [] },
+        { "id": 1225, "name": "Kiziba", "parishes": [] },
+        { "id": 870, "name": "Kyalulangira", "parishes": [] },
+        { "id": 868, "name": "Lwanda", "parishes": [] },
+        { "id": 865, "name": "Rakai town council", "parishes": [] }
+      ]
+    }
   ]
 }

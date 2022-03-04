@@ -2,7 +2,23 @@
   "id": 95,
   "name": "Kiryandongo",
   "counties": [
-    { "id": 428, "name": "Kibanda north", "sub_counties": [] },
-    { "id": 429, "name": "Kibanda south", "sub_counties": [] }
+    {
+      "id": 428,
+      "name": "Kibanda north",
+      "sub_counties": [
+        { "id": 1200, "name": "Bweyale town council", "parishes": [] },
+        { "id": 611, "name": "Kiryandongo", "parishes": [] },
+        { "id": 1201, "name": "Kiryandongo town", "parishes": [] }
+      ]
+    },
+    {
+      "id": 429,
+      "name": "Kibanda south",
+      "sub_counties": [
+        { "id": 610, "name": "Kigumba", "parishes": [] },
+        { "id": 1199, "name": "Kigumba town council", "parishes": [] },
+        { "id": 612, "name": "Masindi port", "parishes": [] }
+      ]
+    }
   ]
 }

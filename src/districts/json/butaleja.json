@@ -2,7 +2,29 @@
   "id": 17,
   "name": "Butaleja",
   "counties": [
-    { "id": 31, "name": "Bunyole east", "sub_counties": [] },
-    { "id": 188, "name": "Bunyole west", "sub_counties": [] }
+    {
+      "id": 31,
+      "name": "Bunyole east",
+      "sub_counties": [
+        { "id": 173, "name": "Butaleja", "parishes": [] },
+        { "id": 1087, "name": "Butaleja town council", "parishes": [] },
+        { "id": 1086, "name": "Himutu", "parishes": [] },
+        { "id": 174, "name": "Kachonga", "parishes": [] },
+        { "id": 175, "name": "Mazimasa", "parishes": [] },
+        { "id": 1088, "name": "Naweyo", "parishes": [] }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "Bunyole west",
+      "sub_counties": [
+        { "id": 170, "name": "Budumba", "parishes": [] },
+        { "id": 171, "name": "Busaba", "parishes": [] },
+        { "id": 1089, "name": "Busabi", "parishes": [] },
+        { "id": 172, "name": "Busolwe", "parishes": [] },
+        { "id": 177, "name": "Busolwe town council", "parishes": [] },
+        { "id": 1426, "name": "Nawanjofu", "parishes": [] }
+      ]
+    }
   ]
 }

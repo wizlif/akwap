@@ -2,7 +2,22 @@
   "id": 92,
   "name": "Gomba",
   "counties": [
-    { "id": 401, "name": "Gomba east", "sub_counties": [] },
-    { "id": 402, "name": "Gomba west", "sub_counties": [] }
+    {
+      "id": 401,
+      "name": "Gomba east",
+      "sub_counties": [
+        { "id": 1145, "name": "Kanoni town council", "parishes": [] },
+        { "id": 702, "name": "Kyegonza", "parishes": [] },
+        { "id": 704, "name": "Mpenja", "parishes": [] }
+      ]
+    },
+    {
+      "id": 402,
+      "name": "Gomba west",
+      "sub_counties": [
+        { "id": 701, "name": "Kabulasoke", "parishes": [] },
+        { "id": 703, "name": "Maddu", "parishes": [] }
+      ]
+    }
   ]
 }

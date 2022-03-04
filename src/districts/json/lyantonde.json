@@ -1,1 +1,19 @@
-{ "id": 59, "name": "Lyantonde", "counties": [{ "id": 112, "name": "Kabula", "sub_counties": [] }] }
+{
+  "id": 59,
+  "name": "Lyantonde",
+  "counties": [
+    {
+      "id": 112,
+      "name": "Kabula",
+      "sub_counties": [
+        { "id": 670, "name": "Kaliiro", "parishes": [] },
+        { "id": 671, "name": "Kasagama", "parishes": [] },
+        { "id": 672, "name": "Kinuuka", "parishes": [] },
+        { "id": 1382, "name": "Lyakajura", "parishes": [] },
+        { "id": 673, "name": "Lyantonde", "parishes": [] },
+        { "id": 676, "name": "Lyantonde town council", "parishes": [] },
+        { "id": 674, "name": "Mpumudde", "parishes": [] }
+      ]
+    }
+  ]
+}

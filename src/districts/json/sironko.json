@@ -2,7 +2,38 @@
   "id": 77,
   "name": "Sironko",
   "counties": [
-    { "id": 359, "name": "Budadiri east", "sub_counties": [] },
-    { "id": 358, "name": "Budadiri west", "sub_counties": [] }
+    {
+      "id": 359,
+      "name": "Budadiri east",
+      "sub_counties": [
+        { "id": 1021, "name": "Budadiri town council", "parishes": [] },
+        { "id": 1023, "name": "Bugitimwa", "parishes": [] },
+        { "id": 897, "name": "Buhugu", "parishes": [] },
+        { "id": 1020, "name": "Bukiise", "parishes": [] },
+        { "id": 1014, "name": "Bukyabo", "parishes": [] },
+        { "id": 1018, "name": "Bukyambi", "parishes": [] },
+        { "id": 1017, "name": "Bumalimba", "parishes": [] },
+        { "id": 898, "name": "Bumasifwa", "parishes": [] },
+        { "id": 899, "name": "Busulani", "parishes": [] },
+        { "id": 902, "name": "Butandiga", "parishes": [] },
+        { "id": 1557, "name": "Masaba", "parishes": [] },
+        { "id": 1022, "name": "Zesui", "parishes": [] }
+      ]
+    },
+    {
+      "id": 358,
+      "name": "Budadiri west",
+      "sub_counties": [
+        { "id": 904, "name": "Bukhulo", "parishes": [] },
+        { "id": 1024, "name": "Bukiyi", "parishes": [] },
+        { "id": 1019, "name": "Bunyafwa", "parishes": [] },
+        { "id": 903, "name": "Buteza", "parishes": [] },
+        { "id": 901, "name": "Buwalasi", "parishes": [] },
+        { "id": 1025, "name": "Buwasa", "parishes": [] },
+        { "id": 900, "name": "Buyobo", "parishes": [] },
+        { "id": 1015, "name": "Nalusala", "parishes": [] },
+        { "id": 905, "name": "Sironko town council", "parishes": [] }
+      ]
+    }
   ]
 }

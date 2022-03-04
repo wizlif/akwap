@@ -1,1 +1,23 @@
-{ "id": 3, "name": "Amolatar", "counties": [{ "id": 3, "name": "Kioga", "sub_counties": [] }] }
+{
+  "id": 3,
+  "name": "Amolatar",
+  "counties": [
+    {
+      "id": 3,
+      "name": "Kioga",
+      "sub_counties": [
+        { "id": 1212, "name": "Agikdak", "parishes": [] },
+        { "id": 1210, "name": "Agwingiri", "parishes": [] },
+        { "id": 1211, "name": "Akwon", "parishes": [] },
+        { "id": 16, "name": "Amolatar town council", "parishes": [] },
+        { "id": 12, "name": "Aputi", "parishes": [] },
+        { "id": 1209, "name": "Arwotcek", "parishes": [] },
+        { "id": 13, "name": "Awello", "parishes": [] },
+        { "id": 1208, "name": "Etam", "parishes": [] },
+        { "id": 14, "name": "Muntu", "parishes": [] },
+        { "id": 15, "name": "Namasale", "parishes": [] },
+        { "id": 1580, "name": "Namasale town council", "parishes": [] }
+      ]
+    }
+  ]
+}

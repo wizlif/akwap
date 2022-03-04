@@ -2,7 +2,17 @@
   "id": 12,
   "name": "Bukedea",
   "counties": [
-    { "id": 20, "name": "Bukedea", "sub_counties": [] },
-    { "id": 413, "name": "Kachumbala", "sub_counties": [] }
+    {
+      "id": 20,
+      "name": "Bukedea",
+      "sub_counties": [
+        { "id": 113, "name": "Bukedea", "parishes": [] },
+        { "id": 118, "name": "Bukedea town council", "parishes": [] },
+        { "id": 115, "name": "Kidongole", "parishes": [] },
+        { "id": 116, "name": "Kolir", "parishes": [] },
+        { "id": 117, "name": "Malera", "parishes": [] }
+      ]
+    },
+    { "id": 413, "name": "Kachumbala", "sub_counties": [{ "id": 114, "name": "Kachumbala", "parishes": [] }] }
   ]
 }

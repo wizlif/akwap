@@ -2,9 +2,53 @@
   "id": 70,
   "name": "Ntungamo",
   "counties": [
-    { "id": 136, "name": "Kajara", "sub_counties": [] },
-    { "id": 167, "name": "Ntungamo municipality", "sub_counties": [] },
-    { "id": 137, "name": "Ruhaama", "sub_counties": [] },
-    { "id": 138, "name": "Rushenyi", "sub_counties": [] }
+    {
+      "id": 136,
+      "name": "Kajara",
+      "sub_counties": [
+        { "id": 805, "name": "Bwongera", "parishes": [] },
+        { "id": 806, "name": "Ihunga", "parishes": [] },
+        { "id": 1590, "name": "Kagarama town council", "parishes": [] },
+        { "id": 807, "name": "Kibatsi", "parishes": [] },
+        { "id": 808, "name": "Nyabihoko", "parishes": [] },
+        { "id": 1392, "name": "Rwashameire town council", "parishes": [] }
+      ]
+    },
+    {
+      "id": 167,
+      "name": "Ntungamo municipality",
+      "sub_counties": [
+        { "id": 1565, "name": "Central division", "parishes": [] },
+        { "id": 1584, "name": "Eastern division", "parishes": [] },
+        { "id": 1585, "name": "Western division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "Ruhaama",
+      "sub_counties": [
+        { "id": 809, "name": "Itojo", "parishes": [] },
+        { "id": 1394, "name": "Kitwe town council", "parishes": [] },
+        { "id": 810, "name": "Ntungamo", "parishes": [] },
+        { "id": 814, "name": "Ntungamo tc", "parishes": [] },
+        { "id": 815, "name": "Nyakyera", "parishes": [] },
+        { "id": 1586, "name": "Ruhaama", "parishes": [] },
+        { "id": 811, "name": "Ruhaama east", "parishes": [] },
+        { "id": 812, "name": "Rukoni east", "parishes": [] },
+        { "id": 1312, "name": "Rukoni west", "parishes": [] },
+        { "id": 813, "name": "Rweikiniro", "parishes": [] }
+      ]
+    },
+    {
+      "id": 138,
+      "name": "Rushenyi",
+      "sub_counties": [
+        { "id": 816, "name": "Kayonza - ntungamo", "parishes": [] },
+        { "id": 817, "name": "Ngoma - ntungamo", "parishes": [] },
+        { "id": 1575, "name": "Rubaare", "parishes": [] },
+        { "id": 818, "name": "Rubaare town council", "parishes": [] },
+        { "id": 819, "name": "Rugarama", "parishes": [] }
+      ]
+    }
   ]
 }

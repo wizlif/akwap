@@ -2,7 +2,36 @@
   "id": 23,
   "name": "Isingiro",
   "counties": [
-    { "id": 174, "name": "Bukanga", "sub_counties": [] },
-    { "id": 409, "name": "Isingiro north", "sub_counties": [] }
+    {
+      "id": 174,
+      "name": "Bukanga",
+      "sub_counties": [
+        { "id": 247, "name": "Endinzi", "parishes": [] },
+        { "id": 1424, "name": "Endinzi town council", "parishes": [] },
+        { "id": 1423, "name": "Kakamba", "parishes": [] },
+        { "id": 248, "name": "Kashumba", "parishes": [] },
+        { "id": 1043, "name": "Mbaare", "parishes": [] },
+        { "id": 246, "name": "Ngarama", "parishes": [] },
+        { "id": 245, "name": "Rugaaga", "parishes": [] },
+        { "id": 1042, "name": "Rushasha", "parishes": [] }
+      ]
+    },
+    {
+      "id": 409,
+      "name": "Isingiro north",
+      "sub_counties": [
+        { "id": 239, "name": "Birere", "parishes": [] },
+        { "id": 1165, "name": "Isingiro town council", "parishes": [] },
+        { "id": 1166, "name": "Kaberebere town council", "parishes": [] },
+        { "id": 241, "name": "Kabingo", "parishes": [] },
+        { "id": 244, "name": "Kabuyanda", "parishes": [] },
+        { "id": 1164, "name": "Kabuyanda town council", "parishes": [] },
+        { "id": 242, "name": "Kikagate", "parishes": [] },
+        { "id": 240, "name": "Masha", "parishes": [] },
+        { "id": 243, "name": "Nyakitunda", "parishes": [] },
+        { "id": 1163, "name": "Nyamuyanja", "parishes": [] },
+        { "id": 1167, "name": "Ruborogota", "parishes": [] }
+      ]
+    }
   ]
 }

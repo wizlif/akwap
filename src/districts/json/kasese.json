@@ -2,9 +2,59 @@
   "id": 35,
   "name": "Kasese",
   "counties": [
-    { "id": 371, "name": "Bukonjo east", "sub_counties": [] },
-    { "id": 369, "name": "Bukonjo west", "sub_counties": [] },
-    { "id": 389, "name": "Busongora north", "sub_counties": [] },
-    { "id": 193, "name": "Kasese municipality", "sub_counties": [] }
+    {
+      "id": 371,
+      "name": "Bukonjo east",
+      "sub_counties": [
+        { "id": 1579, "name": "Kisinga", "parishes": [] },
+        { "id": 368, "name": "Kisinga town council", "parishes": [] },
+        { "id": 370, "name": "Kyarumba", "parishes": [] },
+        { "id": 371, "name": "Kyondo", "parishes": [] },
+        { "id": 372, "name": "Mahango", "parishes": [] },
+        { "id": 373, "name": "Munkunyu", "parishes": [] },
+        { "id": 1450, "name": "Nyakatonzi", "parishes": [] }
+      ]
+    },
+    {
+      "id": 369,
+      "name": "Bukonjo west",
+      "sub_counties": [
+        { "id": 365, "name": "Bwera", "parishes": [] },
+        { "id": 366, "name": "Ihandiro", "parishes": [] },
+        { "id": 1046, "name": "Isango", "parishes": [] },
+        { "id": 1550, "name": "Karambi", "parishes": [] },
+        { "id": 369, "name": "Kitholu", "parishes": [] },
+        { "id": 1045, "name": "Mpondwe/lhubiriha town council", "parishes": [] },
+        { "id": 374, "name": "Nyakiyumbu", "parishes": [] }
+      ]
+    },
+    {
+      "id": 389,
+      "name": "Busongora north",
+      "sub_counties": [
+        { "id": 375, "name": "Bugoye", "parishes": [] },
+        { "id": 1103, "name": "Buhuhira", "parishes": [] },
+        { "id": 1101, "name": "Bwesumbu", "parishes": [] },
+        { "id": 1102, "name": "Hima town council", "parishes": [] },
+        { "id": 376, "name": "Karusandara", "parishes": [] },
+        { "id": 379, "name": "Kilembe", "parishes": [] },
+        { "id": 1100, "name": "Kitswamba", "parishes": [] },
+        { "id": 385, "name": "Kyabarungira", "parishes": [] },
+        { "id": 384, "name": "Lake kabatoro town council", "parishes": [] },
+        { "id": 383, "name": "Lake katwe", "parishes": [] },
+        { "id": 380, "name": "Maliba", "parishes": [] },
+        { "id": 381, "name": "Muhokya", "parishes": [] },
+        { "id": 382, "name": "Rukoki", "parishes": [] }
+      ]
+    },
+    {
+      "id": 193,
+      "name": "Kasese municipality",
+      "sub_counties": [
+        { "id": 1176, "name": "Bulembia division", "parishes": [] },
+        { "id": 1563, "name": "Central division", "parishes": [] },
+        { "id": 1177, "name": "Nyamwamba division", "parishes": [] }
+      ]
+    }
   ]
 }

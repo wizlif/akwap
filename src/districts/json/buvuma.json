@@ -1,1 +1,21 @@
-{ "id": 90, "name": "Buvuma", "counties": [{ "id": 124, "name": "Buvuma islands", "sub_counties": [] }] }
+{
+  "id": 90,
+  "name": "Buvuma",
+  "counties": [
+    {
+      "id": 124,
+      "name": "Buvuma islands",
+      "sub_counties": [
+        { "id": 1387, "name": "Bugaya", "parishes": [] },
+        { "id": 736, "name": "Busamuzi", "parishes": [] },
+        { "id": 1110, "name": "Buvuma town council", "parishes": [] },
+        { "id": 1386, "name": "Buwooya", "parishes": [] },
+        { "id": 737, "name": "Bweema", "parishes": [] },
+        { "id": 1385, "name": "Lubya", "parishes": [] },
+        { "id": 1384, "name": "Lwaje", "parishes": [] },
+        { "id": 1383, "name": "Lyabaana", "parishes": [] },
+        { "id": 738, "name": "Nairambi", "parishes": [] }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,20 @@
-{ "id": 105, "name": "Napak", "counties": [{ "id": 113, "name": "Bokora", "sub_counties": [] }] }
+{
+  "id": 105,
+  "name": "Napak",
+  "counties": [
+    {
+      "id": 113,
+      "name": "Bokora",
+      "sub_counties": [
+        { "id": 677, "name": "Iriiri", "parishes": [] },
+        { "id": 678, "name": "Lokopo", "parishes": [] },
+        { "id": 679, "name": "Lopei", "parishes": [] },
+        { "id": 994, "name": "Lorengecora", "parishes": [] },
+        { "id": 680, "name": "Lotome", "parishes": [] },
+        { "id": 681, "name": "Matany", "parishes": [] },
+        { "id": 993, "name": "Napak town council", "parishes": [] },
+        { "id": 682, "name": "Ngoleriet", "parishes": [] }
+      ]
+    }
+  ]
+}

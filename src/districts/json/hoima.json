@@ -2,9 +2,44 @@
   "id": 20,
   "name": "Hoima",
   "counties": [
-    { "id": 36, "name": "Bugahya", "sub_counties": [] },
-    { "id": 37, "name": "Buhaguzi", "sub_counties": [] },
-    { "id": 189, "name": "Hoima municipality", "sub_counties": [] },
-    { "id": 430, "name": "Kigorobya", "sub_counties": [] }
+    {
+      "id": 36,
+      "name": "Bugahya",
+      "sub_counties": [
+        { "id": 200, "name": "Buhanika", "parishes": [] },
+        { "id": 201, "name": "Buseruka", "parishes": [] },
+        { "id": 204, "name": "Kitoba", "parishes": [] },
+        { "id": 205, "name": "Kyabigambire", "parishes": [] }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Buhaguzi",
+      "sub_counties": [
+        { "id": 206, "name": "Bugambe", "parishes": [] },
+        { "id": 207, "name": "Buhimba", "parishes": [] },
+        { "id": 208, "name": "Kabwoya", "parishes": [] },
+        { "id": 209, "name": "Kiziranfumbi", "parishes": [] },
+        { "id": 210, "name": "Kyangwali", "parishes": [] }
+      ]
+    },
+    {
+      "id": 189,
+      "name": "Hoima municipality",
+      "sub_counties": [
+        { "id": 1147, "name": "Bujumbura division", "parishes": [] },
+        { "id": 199, "name": "Busiisi division", "parishes": [] },
+        { "id": 1148, "name": "Kahoora division", "parishes": [] },
+        { "id": 1146, "name": "Mparo division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 430,
+      "name": "Kigorobya",
+      "sub_counties": [
+        { "id": 203, "name": "Kigorobya", "parishes": [] },
+        { "id": 202, "name": "Kigorobya town council", "parishes": [] }
+      ]
+    }
   ]
 }

@@ -2,7 +2,25 @@
   "id": 51,
   "name": "Maracha",
   "counties": [
-    { "id": 93, "name": "Maracha", "sub_counties": [] },
-    { "id": 457, "name": "Maracha east", "sub_counties": [] }
+    {
+      "id": 93,
+      "name": "Maracha",
+      "sub_counties": [
+        { "id": 567, "name": "Kijomoro", "parishes": [] },
+        { "id": 573, "name": "Olufe", "parishes": [] },
+        { "id": 570, "name": "Oluvu", "parishes": [] }
+      ]
+    },
+    {
+      "id": 457,
+      "name": "Maracha east",
+      "sub_counties": [
+        { "id": 1259, "name": "Maracha town council", "parishes": [] },
+        { "id": 568, "name": "Nyadri", "parishes": [] },
+        { "id": 569, "name": "Oleba", "parishes": [] },
+        { "id": 572, "name": "Tara", "parishes": [] },
+        { "id": 571, "name": "Yivu", "parishes": [] }
+      ]
+    }
   ]
 }

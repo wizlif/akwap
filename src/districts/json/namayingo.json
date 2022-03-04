@@ -2,7 +2,20 @@
   "id": 104,
   "name": "Namayingo",
   "counties": [
-    { "id": 169, "name": "Bukooli island", "sub_counties": [] },
-    { "id": 192, "name": "Bukooli south", "sub_counties": [] }
+    { "id": 169, "name": "Bukooli island", "sub_counties": [{ "id": 100, "name": "Sigulu islands", "parishes": [] }] },
+    {
+      "id": 192,
+      "name": "Bukooli south",
+      "sub_counties": [
+        { "id": 102, "name": "Banda", "parishes": [] },
+        { "id": 1047, "name": "Buhemba", "parishes": [] },
+        { "id": 1429, "name": "Bukana", "parishes": [] },
+        { "id": 103, "name": "Buswale", "parishes": [] },
+        { "id": 94, "name": "Buyinja", "parishes": [] },
+        { "id": 1428, "name": "Lolwe", "parishes": [] },
+        { "id": 106, "name": "Mutumba", "parishes": [] },
+        { "id": 1048, "name": "Namayingo town council", "parishes": [] }
+      ]
+    }
   ]
 }

@@ -1,1 +1,21 @@
-{ "id": 120, "name": "Kyotera", "counties": [{ "id": 146, "name": "Kyotera", "sub_counties": [] }] }
+{
+  "id": 120,
+  "name": "Kyotera",
+  "counties": [
+    {
+      "id": 146,
+      "name": "Kyotera",
+      "sub_counties": [
+        { "id": 1554, "name": "Kabira", "parishes": [] },
+        { "id": 872, "name": "Kabira - rakai", "parishes": [] },
+        { "id": 873, "name": "Kalisizo", "parishes": [] },
+        { "id": 1241, "name": "Kalisizo town council", "parishes": [] },
+        { "id": 874, "name": "Kasaali", "parishes": [] },
+        { "id": 875, "name": "Kirumba", "parishes": [] },
+        { "id": 877, "name": "Kyotera town council", "parishes": [] },
+        { "id": 878, "name": "Lwankoni", "parishes": [] },
+        { "id": 876, "name": "Nabigasa", "parishes": [] }
+      ]
+    }
+  ]
+}

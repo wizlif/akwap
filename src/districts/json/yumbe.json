@@ -2,8 +2,36 @@
   "id": 81,
   "name": "Yumbe",
   "counties": [
-    { "id": 163, "name": "Aringa", "sub_counties": [] },
-    { "id": 353, "name": "Aringa north", "sub_counties": [] },
-    { "id": 354, "name": "Aringa south", "sub_counties": [] }
+    {
+      "id": 163,
+      "name": "Aringa",
+      "sub_counties": [
+        { "id": 970, "name": "Apo", "parishes": [] },
+        { "id": 983, "name": "Kochi", "parishes": [] },
+        { "id": 986, "name": "Kululu", "parishes": [] },
+        { "id": 966, "name": "Kuru", "parishes": [] },
+        { "id": 967, "name": "Romogi", "parishes": [] },
+        { "id": 969, "name": "Yumbe town council", "parishes": [] }
+      ]
+    },
+    {
+      "id": 353,
+      "name": "Aringa north",
+      "sub_counties": [
+        { "id": 965, "name": "Kei", "parishes": [] },
+        { "id": 987, "name": "Kerwa", "parishes": [] },
+        { "id": 971, "name": "Midigo", "parishes": [] }
+      ]
+    },
+    {
+      "id": 354,
+      "name": "Aringa south",
+      "sub_counties": [
+        { "id": 984, "name": "Ariwa", "parishes": [] },
+        { "id": 964, "name": "Drajini/arajim", "parishes": [] },
+        { "id": 985, "name": "Lodonga", "parishes": [] },
+        { "id": 968, "name": "Odravu", "parishes": [] }
+      ]
+    }
   ]
 }

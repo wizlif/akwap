@@ -2,8 +2,37 @@
   "id": 6,
   "name": "Apac",
   "counties": [
-    { "id": 352, "name": "Apac municipality", "sub_counties": [] },
-    { "id": 9, "name": "Kwania", "sub_counties": [] },
-    { "id": 10, "name": "Maruzi", "sub_counties": [] }
+    {
+      "id": 352,
+      "name": "Apac municipality",
+      "sub_counties": [
+        { "id": 1439, "name": "Agulu division", "parishes": [] },
+        { "id": 1438, "name": "Akere division", "parishes": [] },
+        { "id": 1437, "name": "Arocha division", "parishes": [] },
+        { "id": 1436, "name": "Atik division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Kwania",
+      "sub_counties": [
+        { "id": 45, "name": "Abongomola", "parishes": [] },
+        { "id": 41, "name": "Aduku", "parishes": [] },
+        { "id": 1227, "name": "Aduku town council", "parishes": [] },
+        { "id": 42, "name": "Cawente", "parishes": [] },
+        { "id": 43, "name": "Inomo", "parishes": [] },
+        { "id": 44, "name": "Nambieso", "parishes": [] }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Maruzi",
+      "sub_counties": [
+        { "id": 47, "name": "Akokoro", "parishes": [] },
+        { "id": 50, "name": "Apac", "parishes": [] },
+        { "id": 48, "name": "Chegere", "parishes": [] },
+        { "id": 49, "name": "Ibuje", "parishes": [] }
+      ]
+    }
   ]
 }

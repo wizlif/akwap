@@ -2,10 +2,56 @@
   "id": 79,
   "name": "Tororo",
   "counties": [
-    { "id": 159, "name": "Tororo municipality", "sub_counties": [] },
-    { "id": 495, "name": "Tororo north", "sub_counties": [] },
-    { "id": 496, "name": "Tororo south", "sub_counties": [] },
-    { "id": 498, "name": "West budama north", "sub_counties": [] },
-    { "id": 499, "name": "West budama south", "sub_counties": [] }
+    {
+      "id": 159,
+      "name": "Tororo municipality",
+      "sub_counties": [
+        { "id": 946, "name": "Tororo eastern", "parishes": [] },
+        { "id": 947, "name": "Tororo western", "parishes": [] }
+      ]
+    },
+    {
+      "id": 495,
+      "name": "Tororo north",
+      "sub_counties": [
+        { "id": 945, "name": "Merikit", "parishes": [] },
+        { "id": 943, "name": "Molo", "parishes": [] },
+        { "id": 942, "name": "Mukuju", "parishes": [] }
+      ]
+    },
+    {
+      "id": 496,
+      "name": "Tororo south",
+      "sub_counties": [
+        { "id": 941, "name": "Kwapa", "parishes": [] },
+        { "id": 1340, "name": "Malaba town council", "parishes": [] },
+        { "id": 1339, "name": "Mella", "parishes": [] },
+        { "id": 944, "name": "Osukuru", "parishes": [] }
+      ]
+    },
+    {
+      "id": 498,
+      "name": "West budama north",
+      "sub_counties": [
+        { "id": 933, "name": "Kirewa", "parishes": [] },
+        { "id": 934, "name": "Kisoko", "parishes": [] },
+        { "id": 937, "name": "Nagongera", "parishes": [] },
+        { "id": 1345, "name": "Nagongera town council", "parishes": [] },
+        { "id": 939, "name": "Paya", "parishes": [] },
+        { "id": 940, "name": "Petta", "parishes": [] },
+        { "id": 1344, "name": "Sopsop", "parishes": [] }
+      ]
+    },
+    {
+      "id": 499,
+      "name": "West budama south",
+      "sub_counties": [
+        { "id": 932, "name": "Iyolwa", "parishes": [] },
+        { "id": 1343, "name": "Magola", "parishes": [] },
+        { "id": 935, "name": "Mulanda", "parishes": [] },
+        { "id": 936, "name": "Nabuyoga", "parishes": [] },
+        { "id": 938, "name": "Rubongi", "parishes": [] }
+      ]
+    }
   ]
 }

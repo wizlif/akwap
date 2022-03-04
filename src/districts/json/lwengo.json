@@ -2,8 +2,31 @@
   "id": 102,
   "name": "Lwengo",
   "counties": [
-    { "id": 376, "name": "Bukoto mid-west", "sub_counties": [] },
-    { "id": 378, "name": "Bukoto south", "sub_counties": [] },
-    { "id": 377, "name": "Bukoto west", "sub_counties": [] }
+    {
+      "id": 376,
+      "name": "Bukoto mid-west",
+      "sub_counties": [
+        { "id": 589, "name": "Lwengo", "parishes": [] },
+        { "id": 1246, "name": "Lwengo town council", "parishes": [] },
+        { "id": 1245, "name": "Ndagwe", "parishes": [] }
+      ]
+    },
+    {
+      "id": 378,
+      "name": "Bukoto south",
+      "sub_counties": [
+        { "id": 586, "name": "Kingo", "parishes": [] },
+        { "id": 587, "name": "Kisekka", "parishes": [] }
+      ]
+    },
+    {
+      "id": 377,
+      "name": "Bukoto west",
+      "sub_counties": [
+        { "id": 593, "name": "Kyazanga", "parishes": [] },
+        { "id": 1244, "name": "Kyazanga town council", "parishes": [] },
+        { "id": 590, "name": "Malongo", "parishes": [] }
+      ]
+    }
   ]
 }

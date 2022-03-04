@@ -2,7 +2,30 @@
   "id": 117,
   "name": "Kakumiro",
   "counties": [
-    { "id": 70, "name": "Bugangaizi east", "sub_counties": [] },
-    { "id": 166, "name": "Bugangaizi west", "sub_counties": [] }
+    {
+      "id": 70,
+      "name": "Bugangaizi east",
+      "sub_counties": [
+        { "id": 1372, "name": "Katikara", "parishes": [] },
+        { "id": 409, "name": "Kisiita", "parishes": [] },
+        { "id": 1031, "name": "Mpasaana", "parishes": [] },
+        { "id": 408, "name": "Nkooko", "parishes": [] }
+      ]
+    },
+    {
+      "id": 166,
+      "name": "Bugangaizi west",
+      "sub_counties": [
+        { "id": 1032, "name": "Birembo", "parishes": [] },
+        { "id": 404, "name": "Bwanswa", "parishes": [] },
+        { "id": 405, "name": "Kakindo", "parishes": [] },
+        { "id": 1422, "name": "Kakumiro town council", "parishes": [] },
+        { "id": 1421, "name": "Kasambya", "parishes": [] },
+        { "id": 1420, "name": "Kijangi", "parishes": [] },
+        { "id": 1596, "name": "Kikwaya", "parishes": [] },
+        { "id": 1419, "name": "Kitaihuka", "parishes": [] },
+        { "id": 407, "name": "Narweyo", "parishes": [] }
+      ]
+    }
   ]
 }

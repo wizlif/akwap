@@ -2,8 +2,37 @@
   "id": 48,
   "name": "Luweero",
   "counties": [
-    { "id": 90, "name": "Bamunanika", "sub_counties": [] },
-    { "id": 423, "name": "Katikamu north", "sub_counties": [] },
-    { "id": 424, "name": "Katikamu south", "sub_counties": [] }
+    {
+      "id": 90,
+      "name": "Bamunanika",
+      "sub_counties": [
+        { "id": 545, "name": "Bamunanika", "parishes": [] },
+        { "id": 546, "name": "Kalagala", "parishes": [] },
+        { "id": 549, "name": "Kamira", "parishes": [] },
+        { "id": 547, "name": "Kikyusa", "parishes": [] },
+        { "id": 548, "name": "Zirobwe", "parishes": [] }
+      ]
+    },
+    {
+      "id": 423,
+      "name": "Katikamu north",
+      "sub_counties": [
+        { "id": 538, "name": "Butuntumula", "parishes": [] },
+        { "id": 541, "name": "Katikamu", "parishes": [] },
+        { "id": 540, "name": "Luweero  town council", "parishes": [] },
+        { "id": 539, "name": "Luwero", "parishes": [] }
+      ]
+    },
+    {
+      "id": 424,
+      "name": "Katikamu south",
+      "sub_counties": [
+        { "id": 537, "name": "Bombo town council", "parishes": [] },
+        { "id": 1605, "name": "Katikamu", "parishes": [] },
+        { "id": 542, "name": "Makulubita", "parishes": [] },
+        { "id": 543, "name": "Nyimbwa", "parishes": [] },
+        { "id": 544, "name": "Wobulenzi town council", "parishes": [] }
+      ]
+    }
   ]
 }

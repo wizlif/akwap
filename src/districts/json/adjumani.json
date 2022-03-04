@@ -2,7 +2,27 @@
   "id": 2,
   "name": "Adjumani",
   "counties": [
-    { "id": 349, "name": "Adjumani east", "sub_counties": [] },
-    { "id": 350, "name": "Adjumani west", "sub_counties": [] }
+    {
+      "id": 349,
+      "name": "Adjumani east",
+      "sub_counties": [
+        { "id": 1139, "name": "Arinyapi", "parishes": [] },
+        { "id": 8, "name": "Dzaipi", "parishes": [] },
+        { "id": 1138, "name": "Itirikwa", "parishes": [] },
+        { "id": 9, "name": "Ofua", "parishes": [] },
+        { "id": 10, "name": "Pakele", "parishes": [] }
+      ]
+    },
+    {
+      "id": 350,
+      "name": "Adjumani west",
+      "sub_counties": [
+        { "id": 11, "name": "Adjumani town council", "parishes": [] },
+        { "id": 6, "name": "Adropi", "parishes": [] },
+        { "id": 7, "name": "Ciforo", "parishes": [] },
+        { "id": 1141, "name": "Pachara", "parishes": [] },
+        { "id": 1140, "name": "Ukusijoni", "parishes": [] }
+      ]
+    }
   ]
 }

@@ -1,1 +1,27 @@
-{ "id": 121, "name": "Namisindwa", "counties": [{ "id": 356, "name": "Bubulo east", "sub_counties": [] }] }
+{
+  "id": 121,
+  "name": "Namisindwa",
+  "counties": [
+    {
+      "id": 356,
+      "name": "Bubulo east",
+      "sub_counties": [
+        { "id": 550, "name": "Bubutu", "parishes": [] },
+        { "id": 1013, "name": "Bukhabusi", "parishes": [] },
+        { "id": 997, "name": "Bukhaweka", "parishes": [] },
+        { "id": 998, "name": "Bukiabi", "parishes": [] },
+        { "id": 996, "name": "Bukoho", "parishes": [] },
+        { "id": 553, "name": "Bumbo", "parishes": [] },
+        { "id": 557, "name": "Bumwoni", "parishes": [] },
+        { "id": 554, "name": "Bupoto", "parishes": [] },
+        { "id": 552, "name": "Buwabwala", "parishes": [] },
+        { "id": 1004, "name": "Lwakhakha town council", "parishes": [] },
+        { "id": 1006, "name": "Magale", "parishes": [] },
+        { "id": 1011, "name": "Mukoto", "parishes": [] },
+        { "id": 1009, "name": "Namabya", "parishes": [] },
+        { "id": 995, "name": "Namboko", "parishes": [] },
+        { "id": 1002, "name": "Tsekululu", "parishes": [] }
+      ]
+    }
+  ]
+}

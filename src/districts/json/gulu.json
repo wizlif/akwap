@@ -2,7 +2,27 @@
   "id": 19,
   "name": "Gulu",
   "counties": [
-    { "id": 33, "name": "Aswa", "sub_counties": [] },
-    { "id": 35, "name": "Gulu municipality", "sub_counties": [] }
+    {
+      "id": 33,
+      "name": "Aswa",
+      "sub_counties": [
+        { "id": 184, "name": "Awach", "parishes": [] },
+        { "id": 185, "name": "Bungatira", "parishes": [] },
+        { "id": 186, "name": "Paicho", "parishes": [] },
+        { "id": 187, "name": "Palaro", "parishes": [] },
+        { "id": 188, "name": "Patiko", "parishes": [] },
+        { "id": 991, "name": "Unyama", "parishes": [] }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Gulu municipality",
+      "sub_counties": [
+        { "id": 196, "name": "Bar-dege", "parishes": [] },
+        { "id": 197, "name": "Laroo", "parishes": [] },
+        { "id": 198, "name": "Layibi", "parishes": [] },
+        { "id": 195, "name": "Pece", "parishes": [] }
+      ]
+    }
   ]
 }

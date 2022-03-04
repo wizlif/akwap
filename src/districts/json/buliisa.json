@@ -1,1 +1,19 @@
-{ "id": 13, "name": "Buliisa", "counties": [{ "id": 21, "name": "Buliisa", "sub_counties": [] }] }
+{
+  "id": 13,
+  "name": "Buliisa",
+  "counties": [
+    {
+      "id": 21,
+      "name": "Buliisa",
+      "sub_counties": [
+        { "id": 120, "name": "Biiso", "parishes": [] },
+        { "id": 119, "name": "Buliisa", "parishes": [] },
+        { "id": 1063, "name": "Buliisa town council", "parishes": [] },
+        { "id": 1059, "name": "Butiaba", "parishes": [] },
+        { "id": 1060, "name": "Kigwera", "parishes": [] },
+        { "id": 1062, "name": "Kihungya", "parishes": [] },
+        { "id": 1061, "name": "Ngwedo", "parishes": [] }
+      ]
+    }
+  ]
+}

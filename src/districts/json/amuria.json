@@ -2,8 +2,39 @@
   "id": 4,
   "name": "Amuria",
   "counties": [
-    { "id": 4, "name": "Amuria", "sub_counties": [] },
-    { "id": 5, "name": "Kapelebyong", "sub_counties": [] },
-    { "id": 478, "name": "Orungo", "sub_counties": [] }
+    {
+      "id": 4,
+      "name": "Amuria",
+      "sub_counties": [
+        { "id": 17, "name": "Abarilela", "parishes": [] },
+        { "id": 23, "name": "Amuria town council", "parishes": [] },
+        { "id": 1402, "name": "Apeduru", "parishes": [] },
+        { "id": 20, "name": "Asamuk", "parishes": [] },
+        { "id": 22, "name": "Kuju", "parishes": [] },
+        { "id": 18, "name": "Wera", "parishes": [] },
+        { "id": 1401, "name": "Willa", "parishes": [] }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Kapelebyong",
+      "sub_counties": [
+        { "id": 24, "name": "Acowa", "parishes": [] },
+        { "id": 1404, "name": "Akoromit", "parishes": [] },
+        { "id": 26, "name": "Kapelebyong", "parishes": [] },
+        { "id": 25, "name": "Obalanga", "parishes": [] },
+        { "id": 1403, "name": "Okungur", "parishes": [] }
+      ]
+    },
+    {
+      "id": 478,
+      "name": "Orungo",
+      "sub_counties": [
+        { "id": 1513, "name": "Akeriau", "parishes": [] },
+        { "id": 19, "name": "Morungatuny", "parishes": [] },
+        { "id": 1512, "name": "Ogoloi", "parishes": [] },
+        { "id": 21, "name": "Orungo", "parishes": [] }
+      ]
+    }
   ]
 }

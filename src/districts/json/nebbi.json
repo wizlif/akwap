@@ -2,7 +2,28 @@
   "id": 69,
   "name": "Nebbi",
   "counties": [
-    { "id": 474, "name": "Nebbi municipality", "sub_counties": [] },
-    { "id": 135, "name": "Padyere", "sub_counties": [] }
+    {
+      "id": 474,
+      "name": "Nebbi municipality",
+      "sub_counties": [
+        { "id": 1503, "name": "Abindu division", "parishes": [] },
+        { "id": 1535, "name": "Central division", "parishes": [] },
+        { "id": 1502, "name": "Thatha division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 135,
+      "name": "Padyere",
+      "sub_counties": [
+        { "id": 798, "name": "Akworo", "parishes": [] },
+        { "id": 1306, "name": "Atego", "parishes": [] },
+        { "id": 799, "name": "Erussi", "parishes": [] },
+        { "id": 800, "name": "Kucwiny", "parishes": [] },
+        { "id": 1307, "name": "Ndhew", "parishes": [] },
+        { "id": 801, "name": "Nebbi", "parishes": [] },
+        { "id": 803, "name": "Nyaravur", "parishes": [] },
+        { "id": 804, "name": "Parombo", "parishes": [] }
+      ]
+    }
   ]
 }

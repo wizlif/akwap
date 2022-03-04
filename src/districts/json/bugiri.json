@@ -2,8 +2,35 @@
   "id": 10,
   "name": "Bugiri",
   "counties": [
-    { "id": 365, "name": "Bugiri municipality", "sub_counties": [] },
-    { "id": 372, "name": "Bukooli central", "sub_counties": [] },
-    { "id": 373, "name": "Bukooli north", "sub_counties": [] }
+    {
+      "id": 365,
+      "name": "Bugiri municipality",
+      "sub_counties": [
+        { "id": 1445, "name": "Eastern division", "parishes": [] },
+        { "id": 1444, "name": "Western division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 372,
+      "name": "Bukooli central",
+      "sub_counties": [
+        { "id": 105, "name": "Budhaya", "parishes": [] },
+        { "id": 92, "name": "Bulesa", "parishes": [] },
+        { "id": 104, "name": "Bulidha", "parishes": [] },
+        { "id": 1451, "name": "Buwunga", "parishes": [] },
+        { "id": 97, "name": "Muterere", "parishes": [] },
+        { "id": 99, "name": "Nankoma", "parishes": [] }
+      ]
+    },
+    {
+      "id": 373,
+      "name": "Bukooli north",
+      "sub_counties": [
+        { "id": 93, "name": "Buluguyi", "parishes": [] },
+        { "id": 101, "name": "Iwemba", "parishes": [] },
+        { "id": 96, "name": "Kapyanga", "parishes": [] },
+        { "id": 98, "name": "Nabukalu", "parishes": [] }
+      ]
+    }
   ]
 }

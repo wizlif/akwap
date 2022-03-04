@@ -2,7 +2,26 @@
   "id": 61,
   "name": "Moyo",
   "counties": [
-    { "id": 116, "name": "Obongi", "sub_counties": [] },
-    { "id": 117, "name": "West moyo", "sub_counties": [] }
+    {
+      "id": 116,
+      "name": "Obongi",
+      "sub_counties": [
+        { "id": 688, "name": "Aliba", "parishes": [] },
+        { "id": 689, "name": "Gimara", "parishes": [] },
+        { "id": 690, "name": "Itula", "parishes": [] }
+      ]
+    },
+    {
+      "id": 117,
+      "name": "West moyo",
+      "sub_counties": [
+        { "id": 691, "name": "Dufile", "parishes": [] },
+        { "id": 1346, "name": "Laropi", "parishes": [] },
+        { "id": 695, "name": "Lefori", "parishes": [] },
+        { "id": 692, "name": "Metu", "parishes": [] },
+        { "id": 693, "name": "Moyo", "parishes": [] },
+        { "id": 694, "name": "Moyo town council", "parishes": [] }
+      ]
+    }
   ]
 }

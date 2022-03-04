@@ -1,1 +1,21 @@
-{ "id": 108, "name": "Nwoya", "counties": [{ "id": 7, "name": "Nwoya", "sub_counties": [] }] }
+{
+  "id": 108,
+  "name": "Nwoya",
+  "counties": [
+    {
+      "id": 7,
+      "name": "Nwoya",
+      "sub_counties": [
+        { "id": 32, "name": "Alero", "parishes": [] },
+        { "id": 33, "name": "Anaka (payira)", "parishes": [] },
+        { "id": 1293, "name": "Anaka town council", "parishes": [] },
+        { "id": 1408, "name": "Got apwoyo", "parishes": [] },
+        { "id": 34, "name": "Koch-goma", "parishes": [] },
+        { "id": 1407, "name": "Lii", "parishes": [] },
+        { "id": 1406, "name": "Lungulu", "parishes": [] },
+        { "id": 1405, "name": "Nwoya town council", "parishes": [] },
+        { "id": 35, "name": "Purongo", "parishes": [] }
+      ]
+    }
+  ]
+}

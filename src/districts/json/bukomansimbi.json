@@ -2,7 +2,22 @@
   "id": 87,
   "name": "Bukomansimbi",
   "counties": [
-    { "id": 367, "name": "Bukomansimbi north", "sub_counties": [] },
-    { "id": 368, "name": "Bukomansimbi south", "sub_counties": [] }
+    {
+      "id": 367,
+      "name": "Bukomansimbi north",
+      "sub_counties": [
+        { "id": 580, "name": "Bigasa", "parishes": [] },
+        { "id": 1447, "name": "Bukomansimbi town council", "parishes": [] },
+        { "id": 583, "name": "Kitanda", "parishes": [] }
+      ]
+    },
+    {
+      "id": 368,
+      "name": "Bukomansimbi south",
+      "sub_counties": [
+        { "id": 581, "name": "Butenga", "parishes": [] },
+        { "id": 582, "name": "Kibinge", "parishes": [] }
+      ]
+    }
   ]
 }

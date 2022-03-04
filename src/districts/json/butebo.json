@@ -2,7 +2,24 @@
   "id": 118,
   "name": "Butebo",
   "counties": [
-    { "id": 142, "name": "Butebo", "sub_counties": [] },
-    { "id": 502, "name": "Kibale", "sub_counties": [] }
+    {
+      "id": 142,
+      "name": "Butebo",
+      "sub_counties": [
+        { "id": 846, "name": "Butebo", "parishes": [] },
+        { "id": 847, "name": "Kabwangasi", "parishes": [] },
+        { "id": 848, "name": "Kakoro", "parishes": [] },
+        { "id": 1106, "name": "Kanginima", "parishes": [] },
+        { "id": 1108, "name": "Petete", "parishes": [] }
+      ]
+    },
+    {
+      "id": 502,
+      "name": "Kibale",
+      "sub_counties": [
+        { "id": 849, "name": "Kibale", "parishes": [] },
+        { "id": 1107, "name": "Opwateta", "parishes": [] }
+      ]
+    }
   ]
 }

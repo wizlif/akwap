@@ -2,14 +2,49 @@
   "id": 31,
   "name": "Kampala",
   "counties": [
-    { "id": 58, "name": "Kampala central divi", "sub_counties": [] },
-    { "id": 425, "name": "Kawempe division north", "sub_counties": [] },
-    { "id": 426, "name": "Kawempe division south", "sub_counties": [] },
-    { "id": 454, "name": "Makindye division east", "sub_counties": [] },
-    { "id": 455, "name": "Makindye division west", "sub_counties": [] },
-    { "id": 197, "name": "Nakawa division", "sub_counties": [] },
+    {
+      "id": 58,
+      "name": "Kampala central division",
+      "sub_counties": [{ "id": 324, "name": "Kampala central division", "parishes": [] }]
+    },
+    {
+      "id": 425,
+      "name": "Kawempe division north",
+      "sub_counties": [{ "id": 1540, "name": "Kawempe division", "parishes": [] }]
+    },
+    {
+      "id": 426,
+      "name": "Kawempe division south",
+      "sub_counties": [
+        { "id": 325, "name": "Kawempe division", "parishes": [] },
+        { "id": 1191, "name": "Makerere university", "parishes": [] }
+      ]
+    },
+    {
+      "id": 454,
+      "name": "Makindye division east",
+      "sub_counties": [{ "id": 1542, "name": "Makindye division", "parishes": [] }]
+    },
+    {
+      "id": 455,
+      "name": "Makindye division west",
+      "sub_counties": [{ "id": 326, "name": "Makindye division", "parishes": [] }]
+    },
+    {
+      "id": 197,
+      "name": "Nakawa division",
+      "sub_counties": [{ "id": 327, "name": "Nakawa division", "parishes": [] }]
+    },
     { "id": 182, "name": "Rubaga division", "sub_counties": [] },
-    { "id": 481, "name": "Rubaga division north", "sub_counties": [] },
-    { "id": 482, "name": "Rubaga division south", "sub_counties": [] }
+    {
+      "id": 481,
+      "name": "Rubaga division north",
+      "sub_counties": [{ "id": 328, "name": "Rubaga division", "parishes": [] }]
+    },
+    {
+      "id": 482,
+      "name": "Rubaga division south",
+      "sub_counties": [{ "id": 1545, "name": "Rubaga division", "parishes": [] }]
+    }
   ]
 }

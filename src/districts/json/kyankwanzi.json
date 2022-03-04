@@ -2,7 +2,29 @@
   "id": 98,
   "name": "Kyankwanzi",
   "counties": [
-    { "id": 390, "name": "Butemba", "sub_counties": [] },
-    { "id": 476, "name": "Ntwetwe", "sub_counties": [] }
+    {
+      "id": 390,
+      "name": "Butemba",
+      "sub_counties": [
+        { "id": 1463, "name": "Bananywa", "parishes": [] },
+        { "id": 424, "name": "Butemba", "parishes": [] },
+        { "id": 1203, "name": "Butemba town council", "parishes": [] },
+        { "id": 1462, "name": "Byerima", "parishes": [] },
+        { "id": 430, "name": "Kyankwanzi", "parishes": [] },
+        { "id": 432, "name": "Nsambya", "parishes": [] }
+      ]
+    },
+    {
+      "id": 476,
+      "name": "Ntwetwe",
+      "sub_counties": [
+        { "id": 429, "name": "Gayaza", "parishes": [] },
+        { "id": 431, "name": "Mulagi", "parishes": [] },
+        { "id": 1509, "name": "Nkandwa", "parishes": [] },
+        { "id": 1508, "name": "Ntwetwe - kitabona", "parishes": [] },
+        { "id": 427, "name": "Ntwetwe town council", "parishes": [] },
+        { "id": 1507, "name": "Wattuba", "parishes": [] }
+      ]
+    }
   ]
 }

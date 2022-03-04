@@ -2,8 +2,35 @@
   "id": 86,
   "name": "Buikwe",
   "counties": [
-    { "id": 366, "name": "Buikwe south", "sub_counties": [] },
-    { "id": 450, "name": "Lugazi municipality", "sub_counties": [] },
-    { "id": 475, "name": "Njeru municipality", "sub_counties": [] }
+    {
+      "id": 366,
+      "name": "Buikwe south",
+      "sub_counties": [
+        { "id": 724, "name": "Buikwe", "parishes": [] },
+        { "id": 1041, "name": "Buikwe town council", "parishes": [] },
+        { "id": 731, "name": "Najja", "parishes": [] },
+        { "id": 727, "name": "Ngogwe", "parishes": [] },
+        { "id": 1446, "name": "Nkokonjeru town council", "parishes": [] },
+        { "id": 734, "name": "Ssi", "parishes": [] }
+      ]
+    },
+    {
+      "id": 450,
+      "name": "Lugazi municipality",
+      "sub_counties": [
+        { "id": 1489, "name": "Central division", "parishes": [] },
+        { "id": 1488, "name": "Kawolo division", "parishes": [] },
+        { "id": 1487, "name": "Najjembe division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 475,
+      "name": "Njeru municipality",
+      "sub_counties": [
+        { "id": 1506, "name": "Njeru division", "parishes": [] },
+        { "id": 1505, "name": "Nyenga division", "parishes": [] },
+        { "id": 1504, "name": "Wakisi division", "parishes": [] }
+      ]
+    }
   ]
 }

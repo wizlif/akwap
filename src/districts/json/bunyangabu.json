@@ -1,1 +1,23 @@
-{ "id": 119, "name": "Bunyangabu", "counties": [{ "id": 51, "name": "Bunyangabu", "sub_counties": [] }] }
+{
+  "id": 119,
+  "name": "Bunyangabu",
+  "counties": [
+    {
+      "id": 51,
+      "name": "Bunyangabu",
+      "sub_counties": [
+        { "id": 289, "name": "Buheesi", "parishes": [] },
+        { "id": 1081, "name": "Kabonero", "parishes": [] },
+        { "id": 1082, "name": "Kateebwa", "parishes": [] },
+        { "id": 290, "name": "Kibiito", "parishes": [] },
+        { "id": 1079, "name": "Kibiito town council", "parishes": [] },
+        { "id": 291, "name": "Kisomoro", "parishes": [] },
+        { "id": 1357, "name": "Kiyombya", "parishes": [] },
+        { "id": 1356, "name": "Kyamukube town council", "parishes": [] },
+        { "id": 1080, "name": "Rubona town council", "parishes": [] },
+        { "id": 292, "name": "Rwimi", "parishes": [] },
+        { "id": 1078, "name": "Rwimi town council", "parishes": [] }
+      ]
+    }
+  ]
+}

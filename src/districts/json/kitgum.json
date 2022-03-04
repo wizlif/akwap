@@ -2,8 +2,35 @@
   "id": 42,
   "name": "Kitgum",
   "counties": [
-    { "id": 393, "name": "Chua east", "sub_counties": [] },
-    { "id": 394, "name": "Chua west", "sub_counties": [] },
-    { "id": 439, "name": "Kitgum municipality", "sub_counties": [] }
+    {
+      "id": 393,
+      "name": "Chua east",
+      "sub_counties": [
+        { "id": 467, "name": "Muchwini", "parishes": [] },
+        { "id": 468, "name": "Nam-okora", "parishes": [] },
+        { "id": 471, "name": "Omiya-anyima", "parishes": [] },
+        { "id": 469, "name": "Orom", "parishes": [] }
+      ]
+    },
+    {
+      "id": 394,
+      "name": "Chua west",
+      "sub_counties": [
+        { "id": 480, "name": "Akwang", "parishes": [] },
+        { "id": 466, "name": "Kitgum matidi", "parishes": [] },
+        { "id": 464, "name": "Labongo-amida", "parishes": [] },
+        { "id": 481, "name": "Labongo-layamo", "parishes": [] },
+        { "id": 470, "name": "Lagoro", "parishes": [] }
+      ]
+    },
+    {
+      "id": 439,
+      "name": "Kitgum municipality",
+      "sub_counties": [
+        { "id": 1521, "name": "Central division", "parishes": [] },
+        { "id": 1484, "name": "Pager division", "parishes": [] },
+        { "id": 1483, "name": "Pandwong division", "parishes": [] }
+      ]
+    }
   ]
 }

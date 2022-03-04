@@ -2,8 +2,33 @@
   "id": 78,
   "name": "Soroti",
   "counties": [
-    { "id": 395, "name": "Dakabela", "sub_counties": [] },
-    { "id": 155, "name": "Soroti", "sub_counties": [] },
-    { "id": 156, "name": "Soroti municipality", "sub_counties": [] }
+    {
+      "id": 395,
+      "name": "Dakabela",
+      "sub_counties": [
+        { "id": 923, "name": "Arapai", "parishes": [] },
+        { "id": 926, "name": "Katine", "parishes": [] },
+        { "id": 927, "name": "Tubur", "parishes": [] }
+      ]
+    },
+    {
+      "id": 155,
+      "name": "Soroti",
+      "sub_counties": [
+        { "id": 922, "name": "Asuret", "parishes": [] },
+        { "id": 924, "name": "Gweri", "parishes": [] },
+        { "id": 925, "name": "Kamuda", "parishes": [] },
+        { "id": 928, "name": "Soroti", "parishes": [] }
+      ]
+    },
+    {
+      "id": 156,
+      "name": "Soroti municipality",
+      "sub_counties": [
+        { "id": 929, "name": "Eastern", "parishes": [] },
+        { "id": 930, "name": "Northern", "parishes": [] },
+        { "id": 931, "name": "Western", "parishes": [] }
+      ]
+    }
   ]
 }

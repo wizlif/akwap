@@ -1,1 +1,24 @@
-{ "id": 11, "name": "Bukwo", "counties": [{ "id": 19, "name": "Kongasis", "sub_counties": [] }] }
+{
+  "id": 11,
+  "name": "Bukwo",
+  "counties": [
+    {
+      "id": 19,
+      "name": "Kongasis",
+      "sub_counties": [
+        { "id": 107, "name": "Bukwa", "parishes": [] },
+        { "id": 112, "name": "Bukwo town council", "parishes": [] },
+        { "id": 1221, "name": "Chepkwasta", "parishes": [] },
+        { "id": 108, "name": "Chesower", "parishes": [] },
+        { "id": 109, "name": "Kabei", "parishes": [] },
+        { "id": 1224, "name": "Kamet", "parishes": [] },
+        { "id": 1220, "name": "Kaptererwo", "parishes": [] },
+        { "id": 1222, "name": "Kortek", "parishes": [] },
+        { "id": 1219, "name": "Riwo", "parishes": [] },
+        { "id": 1218, "name": "Senendet", "parishes": [] },
+        { "id": 111, "name": "Suam", "parishes": [] },
+        { "id": 1223, "name": "Tulel", "parishes": [] }
+      ]
+    }
+  ]
+}

@@ -2,7 +2,31 @@
   "id": 58,
   "name": "Kapchorwa",
   "counties": [
-    { "id": 419, "name": "Kapchorwa municipality", "sub_counties": [] },
-    { "id": 111, "name": "Tingey", "sub_counties": [] }
+    {
+      "id": 419,
+      "name": "Kapchorwa municipality",
+      "sub_counties": [
+        { "id": 1517, "name": "Central division", "parishes": [] },
+        { "id": 1472, "name": "East division", "parishes": [] },
+        { "id": 1471, "name": "West division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 111,
+      "name": "Tingey",
+      "sub_counties": [
+        { "id": 1381, "name": "Amukol", "parishes": [] },
+        { "id": 668, "name": "Chema", "parishes": [] },
+        { "id": 1380, "name": "Chepterech", "parishes": [] },
+        { "id": 1336, "name": "Gamogo", "parishes": [] },
+        { "id": 1331, "name": "Kabeywa", "parishes": [] },
+        { "id": 1333, "name": "Kapsinda", "parishes": [] },
+        { "id": 665, "name": "Kaptanya", "parishes": [] },
+        { "id": 666, "name": "Kaserem", "parishes": [] },
+        { "id": 669, "name": "Kawowo", "parishes": [] },
+        { "id": 1332, "name": "Munarya", "parishes": [] },
+        { "id": 667, "name": "Sipi", "parishes": [] }
+      ]
+    }
   ]
 }

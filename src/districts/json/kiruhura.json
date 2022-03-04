@@ -2,8 +2,41 @@
   "id": 40,
   "name": "Kiruhura",
   "counties": [
-    { "id": 422, "name": "Kashongi", "sub_counties": [] },
-    { "id": 74, "name": "Kazo", "sub_counties": [] },
-    { "id": 75, "name": "Nyabushozi", "sub_counties": [] }
+    {
+      "id": 422,
+      "name": "Kashongi",
+      "sub_counties": [
+        { "id": 447, "name": "Kashongi", "parishes": [] },
+        { "id": 1296, "name": "Kitura", "parishes": [] }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Kazo",
+      "sub_counties": [
+        { "id": 437, "name": "Buremba", "parishes": [] },
+        { "id": 438, "name": "Burunga", "parishes": [] },
+        { "id": 1193, "name": "Engari", "parishes": [] },
+        { "id": 439, "name": "Kanoni", "parishes": [] },
+        { "id": 440, "name": "Kazo", "parishes": [] },
+        { "id": 1192, "name": "Kazo town council", "parishes": [] },
+        { "id": 1194, "name": "Nkungu", "parishes": [] },
+        { "id": 441, "name": "Rwemikoma", "parishes": [] }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Nyabushozi",
+      "sub_counties": [
+        { "id": 446, "name": "Kanyaryeru", "parishes": [] },
+        { "id": 442, "name": "Kenshunga", "parishes": [] },
+        { "id": 448, "name": "Kikatsi", "parishes": [] },
+        { "id": 1375, "name": "Kinoni", "parishes": [] },
+        { "id": 1295, "name": "Kiruhura town council", "parishes": [] },
+        { "id": 444, "name": "Nyakashashara", "parishes": [] },
+        { "id": 445, "name": "Sanga", "parishes": [] },
+        { "id": 1294, "name": "Sanga town council", "parishes": [] }
+      ]
+    }
   ]
 }

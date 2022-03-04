@@ -1,1 +1,17 @@
-{ "id": 106, "name": "Ngora", "counties": [{ "id": 82, "name": "Ngora", "sub_counties": [] }] }
+{
+  "id": 106,
+  "name": "Ngora",
+  "counties": [
+    {
+      "id": 82,
+      "name": "Ngora",
+      "sub_counties": [
+        { "id": 500, "name": "Kapir", "parishes": [] },
+        { "id": 1595, "name": "Kobuin", "parishes": [] },
+        { "id": 502, "name": "Mukura", "parishes": [] },
+        { "id": 503, "name": "Ngora", "parishes": [] },
+        { "id": 498, "name": "Ngora town council", "parishes": [] }
+      ]
+    }
+  ]
+}

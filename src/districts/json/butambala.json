@@ -1,1 +1,18 @@
-{ "id": 89, "name": "Butambala", "counties": [{ "id": 118, "name": "Butambala", "sub_counties": [] }] }
+{
+  "id": 89,
+  "name": "Butambala",
+  "counties": [
+    {
+      "id": 118,
+      "name": "Butambala",
+      "sub_counties": [
+        { "id": 697, "name": "Budde", "parishes": [] },
+        { "id": 696, "name": "Bulo", "parishes": [] },
+        { "id": 1105, "name": "Gombe town council", "parishes": [] },
+        { "id": 698, "name": "Kalamba", "parishes": [] },
+        { "id": 699, "name": "Kibibi", "parishes": [] },
+        { "id": 700, "name": "Ngando", "parishes": [] }
+      ]
+    }
+  ]
+}

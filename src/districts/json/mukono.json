@@ -2,9 +2,44 @@
   "id": 64,
   "name": "Mukono",
   "counties": [
-    { "id": 168, "name": "Mukono municipality", "sub_counties": [] },
-    { "id": 466, "name": "Mukono north", "sub_counties": [] },
-    { "id": 467, "name": "Mukono south", "sub_counties": [] },
-    { "id": 126, "name": "Nakifuma", "sub_counties": [] }
+    {
+      "id": 168,
+      "name": "Mukono municipality",
+      "sub_counties": [
+        { "id": 739, "name": "Goma division", "parishes": [] },
+        { "id": 741, "name": "Mukono division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 466,
+      "name": "Mukono north",
+      "sub_counties": [
+        { "id": 740, "name": "Kyampisi", "parishes": [] },
+        { "id": 742, "name": "Nama", "parishes": [] }
+      ]
+    },
+    {
+      "id": 467,
+      "name": "Mukono south",
+      "sub_counties": [
+        { "id": 743, "name": "Koome islands", "parishes": [] },
+        { "id": 1268, "name": "Mpatta", "parishes": [] },
+        { "id": 1269, "name": "Mpunge", "parishes": [] },
+        { "id": 744, "name": "Nakisunga", "parishes": [] },
+        { "id": 745, "name": "Ntenjeru", "parishes": [] }
+      ]
+    },
+    {
+      "id": 126,
+      "name": "Nakifuma",
+      "sub_counties": [
+        { "id": 746, "name": "Kasawo", "parishes": [] },
+        { "id": 747, "name": "Kimenyedde", "parishes": [] },
+        { "id": 748, "name": "Nabbale", "parishes": [] },
+        { "id": 749, "name": "Nagojje", "parishes": [] },
+        { "id": 750, "name": "Namuganga", "parishes": [] },
+        { "id": 751, "name": "Ntunda", "parishes": [] }
+      ]
+    }
   ]
 }

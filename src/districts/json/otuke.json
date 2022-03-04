@@ -1,1 +1,20 @@
-{ "id": 109, "name": "Otuke", "counties": [{ "id": 87, "name": "Otuke", "sub_counties": [] }] }
+{
+  "id": 109,
+  "name": "Otuke",
+  "counties": [
+    {
+      "id": 87,
+      "name": "Otuke",
+      "sub_counties": [
+        { "id": 529, "name": "Adwari", "parishes": [] },
+        { "id": 1601, "name": "Alango", "parishes": [] },
+        { "id": 1300, "name": "Ogor", "parishes": [] },
+        { "id": 1602, "name": "Ogwette", "parishes": [] },
+        { "id": 530, "name": "Okwang", "parishes": [] },
+        { "id": 531, "name": "Olilim", "parishes": [] },
+        { "id": 532, "name": "Orum", "parishes": [] },
+        { "id": 1301, "name": "Otuke town council", "parishes": [] }
+      ]
+    }
+  ]
+}

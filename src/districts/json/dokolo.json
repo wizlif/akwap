@@ -2,7 +2,28 @@
   "id": 18,
   "name": "Dokolo",
   "counties": [
-    { "id": 396, "name": "Dokolo north", "sub_counties": [] },
-    { "id": 397, "name": "Dokolo south", "sub_counties": [] }
+    {
+      "id": 396,
+      "name": "Dokolo north",
+      "sub_counties": [
+        { "id": 1134, "name": "Adok", "parishes": [] },
+        { "id": 178, "name": "Agwatta", "parishes": [] },
+        { "id": 1137, "name": "Amwoma", "parishes": [] },
+        { "id": 179, "name": "Batta", "parishes": [] },
+        { "id": 180, "name": "Dokolo", "parishes": [] },
+        { "id": 1136, "name": "Okwalongwen", "parishes": [] }
+      ]
+    },
+    {
+      "id": 397,
+      "name": "Dokolo south",
+      "sub_counties": [
+        { "id": 1133, "name": "Adeknino", "parishes": [] },
+        { "id": 183, "name": "Dokolo town council", "parishes": [] },
+        { "id": 181, "name": "Kangai", "parishes": [] },
+        { "id": 182, "name": "Kwera", "parishes": [] },
+        { "id": 1135, "name": "Okwongodul", "parishes": [] }
+      ]
+    }
   ]
 }

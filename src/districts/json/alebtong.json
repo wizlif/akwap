@@ -2,7 +2,26 @@
   "id": 83,
   "name": "Alebtong",
   "counties": [
-    { "id": 191, "name": "Ajuri", "sub_counties": [] },
-    { "id": 86, "name": "Moroto", "sub_counties": [] }
+    {
+      "id": 191,
+      "name": "Ajuri",
+      "sub_counties": [
+        { "id": 524, "name": "Abako", "parishes": [] },
+        { "id": 526, "name": "Amugu", "parishes": [] },
+        { "id": 982, "name": "Awei", "parishes": [] },
+        { "id": 528, "name": "Omoro", "parishes": [] }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Moroto",
+      "sub_counties": [
+        { "id": 1265, "name": "Abia", "parishes": [] },
+        { "id": 1267, "name": "Akura", "parishes": [] },
+        { "id": 1266, "name": "Alebtong town council", "parishes": [] },
+        { "id": 525, "name": "Aloi", "parishes": [] },
+        { "id": 527, "name": "Apala", "parishes": [] }
+      ]
+    }
   ]
 }

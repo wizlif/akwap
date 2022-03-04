@@ -2,8 +2,32 @@
   "id": 43,
   "name": "Koboko",
   "counties": [
-    { "id": 79, "name": "Koboko", "sub_counties": [] },
-    { "id": 501, "name": "Koboko municipality", "sub_counties": [] },
-    { "id": 441, "name": "Koboko north", "sub_counties": [] }
+    {
+      "id": 79,
+      "name": "Koboko",
+      "sub_counties": [
+        { "id": 1216, "name": "Dranya", "parishes": [] },
+        { "id": 485, "name": "Kuluba", "parishes": [] },
+        { "id": 482, "name": "Lobule", "parishes": [] },
+        { "id": 484, "name": "Midia", "parishes": [] }
+      ]
+    },
+    {
+      "id": 501,
+      "name": "Koboko municipality",
+      "sub_counties": [
+        { "id": 1522, "name": "North division", "parishes": [] },
+        { "id": 1523, "name": "South division", "parishes": [] },
+        { "id": 1524, "name": "West division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 441,
+      "name": "Koboko north",
+      "sub_counties": [
+        { "id": 1215, "name": "Abuku", "parishes": [] },
+        { "id": 483, "name": "Ludara", "parishes": [] }
+      ]
+    }
   ]
 }

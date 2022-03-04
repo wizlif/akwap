@@ -2,7 +2,30 @@
   "id": 8,
   "name": "Budaka",
   "counties": [
-    { "id": 15, "name": "Budaka", "sub_counties": [] },
-    { "id": 186, "name": "Iki-iki", "sub_counties": [] }
+    {
+      "id": 15,
+      "name": "Budaka",
+      "sub_counties": [
+        { "id": 69, "name": "Budaka", "parishes": [] },
+        { "id": 75, "name": "Budaka town council", "parishes": [] },
+        { "id": 1026, "name": "Kachomo", "parishes": [] },
+        { "id": 71, "name": "Kaderuna", "parishes": [] },
+        { "id": 1027, "name": "Kakule", "parishes": [] },
+        { "id": 73, "name": "Lyama", "parishes": [] },
+        { "id": 74, "name": "Naboa", "parishes": [] },
+        { "id": 1028, "name": "Nansanga", "parishes": [] }
+      ]
+    },
+    {
+      "id": 186,
+      "name": "Iki-iki",
+      "sub_counties": [
+        { "id": 70, "name": "Iki-iki", "parishes": [] },
+        { "id": 76, "name": "Kameruka", "parishes": [] },
+        { "id": 72, "name": "Kamonkoli", "parishes": [] },
+        { "id": 1161, "name": "Katira", "parishes": [] },
+        { "id": 1162, "name": "Mugiti", "parishes": [] }
+      ]
+    }
   ]
 }

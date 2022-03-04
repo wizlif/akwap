@@ -2,9 +2,45 @@
   "id": 22,
   "name": "Iganga",
   "counties": [
-    { "id": 39, "name": "Bugweri", "sub_counties": [] },
-    { "id": 196, "name": "Iganga municipality", "sub_counties": [] },
-    { "id": 431, "name": "Kigulu north", "sub_counties": [] },
-    { "id": 432, "name": "Kigulu south", "sub_counties": [] }
+    {
+      "id": 39,
+      "name": "Bugweri",
+      "sub_counties": [
+        { "id": 223, "name": "Busembatia town council", "parishes": [] },
+        { "id": 1556, "name": "Buyanga", "parishes": [] },
+        { "id": 219, "name": "Ibulanku", "parishes": [] },
+        { "id": 220, "name": "Igombe", "parishes": [] },
+        { "id": 221, "name": "Makuutu", "parishes": [] },
+        { "id": 222, "name": "Namalemba", "parishes": [] }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "Iganga municipality",
+      "sub_counties": [
+        { "id": 1562, "name": "Central division", "parishes": [] },
+        { "id": 1156, "name": "Northern division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 431,
+      "name": "Kigulu north",
+      "sub_counties": [
+        { "id": 226, "name": "Nabitende", "parishes": [] },
+        { "id": 1473, "name": "Nambale", "parishes": [] },
+        { "id": 230, "name": "Namungalwe", "parishes": [] },
+        { "id": 231, "name": "Nawandala", "parishes": [] }
+      ]
+    },
+    {
+      "id": 432,
+      "name": "Kigulu south",
+      "sub_counties": [
+        { "id": 224, "name": "Bulamagi", "parishes": [] },
+        { "id": 227, "name": "Nakalama", "parishes": [] },
+        { "id": 228, "name": "Nakigo", "parishes": [] },
+        { "id": 1207, "name": "Nawanyingi", "parishes": [] }
+      ]
+    }
   ]
 }

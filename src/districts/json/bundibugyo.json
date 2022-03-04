@@ -2,7 +2,38 @@
   "id": 14,
   "name": "Bundibugyo",
   "counties": [
-    { "id": 23, "name": "Bughendera", "sub_counties": [] },
-    { "id": 22, "name": "Bwamba", "sub_counties": [] }
+    {
+      "id": 23,
+      "name": "Bughendera",
+      "sub_counties": [
+        { "id": 1036, "name": "Bukonzo", "parishes": [] },
+        { "id": 1414, "name": "Bunyamwera", "parishes": [] },
+        { "id": 1413, "name": "Burondo", "parishes": [] },
+        { "id": 125, "name": "Harugali", "parishes": [] },
+        { "id": 1412, "name": "Kagugu", "parishes": [] },
+        { "id": 126, "name": "Kasitu", "parishes": [] },
+        { "id": 127, "name": "Ndugutu", "parishes": [] },
+        { "id": 1034, "name": "Ngamba", "parishes": [] },
+        { "id": 1411, "name": "Ntandi town council", "parishes": [] },
+        { "id": 1035, "name": "Ntotoro", "parishes": [] },
+        { "id": 1033, "name": "Sindila", "parishes": [] }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Bwamba",
+      "sub_counties": [
+        { "id": 121, "name": "Bubandi", "parishes": [] },
+        { "id": 122, "name": "Bubukwanga", "parishes": [] },
+        { "id": 123, "name": "Bundibugyo town council", "parishes": [] },
+        { "id": 1410, "name": "Bundingoma", "parishes": [] },
+        { "id": 124, "name": "Busaru", "parishes": [] },
+        { "id": 1126, "name": "Kirumya", "parishes": [] },
+        { "id": 1123, "name": "Kisubba", "parishes": [] },
+        { "id": 1124, "name": "Mirambi", "parishes": [] },
+        { "id": 1125, "name": "Nyahuka  town council", "parishes": [] },
+        { "id": 1409, "name": "Tokwe", "parishes": [] }
+      ]
+    }
   ]
 }

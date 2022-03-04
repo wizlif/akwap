@@ -2,7 +2,23 @@
   "id": 91,
   "name": "Buyende",
   "counties": [
-    { "id": 59, "name": "Budiope east", "sub_counties": [] },
-    { "id": 187, "name": "Budiope west", "sub_counties": [] }
+    {
+      "id": 59,
+      "name": "Budiope east",
+      "sub_counties": [
+        { "id": 1553, "name": "Bugaya", "parishes": [] },
+        { "id": 331, "name": "Kagulu", "parishes": [] }
+      ]
+    },
+    {
+      "id": 187,
+      "name": "Budiope west",
+      "sub_counties": [
+        { "id": 330, "name": "Buyende", "parishes": [] },
+        { "id": 1029, "name": "Buyende town council", "parishes": [] },
+        { "id": 332, "name": "Kidera", "parishes": [] },
+        { "id": 333, "name": "Nkondo", "parishes": [] }
+      ]
+    }
   ]
 }

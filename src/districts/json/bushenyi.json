@@ -2,8 +2,36 @@
   "id": 15,
   "name": "Bushenyi",
   "counties": [
-    { "id": 195, "name": "Bushenyi-ishaka municipality", "sub_counties": [] },
-    { "id": 406, "name": "Igara east", "sub_counties": [] },
-    { "id": 408, "name": "Igara west", "sub_counties": [] }
+    {
+      "id": 195,
+      "name": "Bushenyi-ishaka municipality",
+      "sub_counties": [
+        { "id": 1561, "name": "Central division", "parishes": [] },
+        { "id": 139, "name": "Ishaka division", "parishes": [] },
+        { "id": 1094, "name": "Nyakabirizi division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 406,
+      "name": "Igara east",
+      "sub_counties": [
+        { "id": 140, "name": "Bumbaire", "parishes": [] },
+        { "id": 1159, "name": "Ibaare", "parishes": [] },
+        { "id": 142, "name": "Kyabugimbi", "parishes": [] },
+        { "id": 1469, "name": "Kyeizooba", "parishes": [] },
+        { "id": 1160, "name": "Ruhumuro", "parishes": [] }
+      ]
+    },
+    {
+      "id": 408,
+      "name": "Igara west",
+      "sub_counties": [
+        { "id": 1158, "name": "Bitooma", "parishes": [] },
+        { "id": 141, "name": "Kakanju", "parishes": [] },
+        { "id": 143, "name": "Kyamuhunga", "parishes": [] },
+        { "id": 1470, "name": "Kyamuhunga town council", "parishes": [] },
+        { "id": 145, "name": "Nyabubare", "parishes": [] }
+      ]
+    }
   ]
 }

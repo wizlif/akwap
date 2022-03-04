@@ -2,8 +2,39 @@
   "id": 16,
   "name": "Busia",
   "counties": [
-    { "id": 185, "name": "Busia municipality", "sub_counties": [] },
-    { "id": 486, "name": "Samia bugwe north", "sub_counties": [] },
-    { "id": 487, "name": "Samia bugwe south", "sub_counties": [] }
+    {
+      "id": 185,
+      "name": "Busia municipality",
+      "sub_counties": [
+        { "id": 1566, "name": "Eastern division", "parishes": [] },
+        { "id": 1567, "name": "Western division", "parishes": [] }
+      ]
+    },
+    {
+      "id": 486,
+      "name": "Samia bugwe north",
+      "sub_counties": [
+        { "id": 161, "name": "Bulumbi", "parishes": [] },
+        { "id": 163, "name": "Busitema", "parishes": [] },
+        { "id": 164, "name": "Buteba", "parishes": [] },
+        { "id": 1432, "name": "Buyanga", "parishes": [] },
+        { "id": 165, "name": "Dabani", "parishes": [] },
+        { "id": 1324, "name": "Sikuda", "parishes": [] }
+      ]
+    },
+    {
+      "id": 487,
+      "name": "Samia bugwe south",
+      "sub_counties": [
+        { "id": 160, "name": "Buhehe", "parishes": [] },
+        { "id": 1322, "name": "Busime", "parishes": [] },
+        { "id": 168, "name": "Lumino", "parishes": [] },
+        { "id": 169, "name": "Lunyo", "parishes": [] },
+        { "id": 1325, "name": "Majanji", "parishes": [] },
+        { "id": 1433, "name": "Masaba", "parishes": [] },
+        { "id": 166, "name": "Masafu", "parishes": [] },
+        { "id": 1326, "name": "Masinya", "parishes": [] }
+      ]
+    }
   ]
 }

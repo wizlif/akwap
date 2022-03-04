@@ -2,7 +2,35 @@
   "id": 116,
   "name": "Kagadi",
   "counties": [
-    { "id": 71, "name": "Buyaga east", "sub_counties": [] },
-    { "id": 178, "name": "Buyaga west", "sub_counties": [] }
+    {
+      "id": 71,
+      "name": "Buyaga east",
+      "sub_counties": [
+        { "id": 1113, "name": "Kabamba", "parishes": [] },
+        { "id": 411, "name": "Kagadi", "parishes": [] },
+        { "id": 1111, "name": "Kagadi town council", "parishes": [] },
+        { "id": 412, "name": "Kiryanga", "parishes": [] },
+        { "id": 413, "name": "Kyanaisoke", "parishes": [] },
+        { "id": 1114, "name": "Kyenzige", "parishes": [] },
+        { "id": 414, "name": "Mabaale", "parishes": [] },
+        { "id": 1112, "name": "Pachwa", "parishes": [] }
+      ]
+    },
+    {
+      "id": 178,
+      "name": "Buyaga west",
+      "sub_counties": [
+        { "id": 1115, "name": "Burora", "parishes": [] },
+        { "id": 410, "name": "Bwikara", "parishes": [] },
+        { "id": 1117, "name": "Kyakabadiima", "parishes": [] },
+        { "id": 1116, "name": "Kyaterekera", "parishes": [] },
+        { "id": 417, "name": "Mpeefu", "parishes": [] },
+        { "id": 415, "name": "Muhorro", "parishes": [] },
+        { "id": 1425, "name": "Muhorro town council", "parishes": [] },
+        { "id": 1118, "name": "Ndaiga", "parishes": [] },
+        { "id": 416, "name": "Rugashari", "parishes": [] },
+        { "id": 1549, "name": "Ruteete", "parishes": [] }
+      ]
+    }
   ]
 }

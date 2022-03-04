@@ -2,8 +2,31 @@
   "id": 76,
   "name": "Ssembabule",
   "counties": [
-    { "id": 149, "name": "Lwemiyaga", "sub_counties": [] },
-    { "id": 458, "name": "Mawogola north", "sub_counties": [] },
-    { "id": 459, "name": "Mawogola south", "sub_counties": [] }
+    {
+      "id": 149,
+      "name": "Lwemiyaga",
+      "sub_counties": [
+        { "id": 890, "name": "Lwemiyaga", "parishes": [] },
+        { "id": 891, "name": "Ntuusi", "parishes": [] }
+      ]
+    },
+    {
+      "id": 458,
+      "name": "Mawogola north",
+      "sub_counties": [
+        { "id": 894, "name": "Lugusulu", "parishes": [] },
+        { "id": 896, "name": "Mijwala", "parishes": [] },
+        { "id": 895, "name": "Ssembabule town", "parishes": [] }
+      ]
+    },
+    {
+      "id": 459,
+      "name": "Mawogola south",
+      "sub_counties": [
+        { "id": 892, "name": "Lwebitakuli", "parishes": [] },
+        { "id": 893, "name": "Mateete", "parishes": [] },
+        { "id": 1262, "name": "Mateete town council", "parishes": [] }
+      ]
+    }
   ]
 }

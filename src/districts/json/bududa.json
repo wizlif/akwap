@@ -2,7 +2,39 @@
   "id": 9,
   "name": "Bududa",
   "counties": [
-    { "id": 451, "name": "Lutseshe", "sub_counties": [] },
-    { "id": 92, "name": "Manjiya", "sub_counties": [] }
+    {
+      "id": 451,
+      "name": "Lutseshe",
+      "sub_counties": [
+        { "id": 84, "name": "Bubiita", "parishes": [] },
+        { "id": 1252, "name": "Bukalasi", "parishes": [] },
+        { "id": 88, "name": "Bulucheke", "parishes": [] },
+        { "id": 89, "name": "Bumayoka", "parishes": [] },
+        { "id": 1256, "name": "Bushiyi", "parishes": [] },
+        { "id": 1255, "name": "Buwali", "parishes": [] },
+        { "id": 1257, "name": "Nalwanza", "parishes": [] }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Manjiya",
+      "sub_counties": [
+        { "id": 561, "name": "Bubiita - manjiya district", "parishes": [] },
+        { "id": 85, "name": "Bududa", "parishes": [] },
+        { "id": 1250, "name": "Bududa town council", "parishes": [] },
+        { "id": 86, "name": "Bukibokolo", "parishes": [] },
+        { "id": 566, "name": "Bukibokolo - manjiya district", "parishes": [] },
+        { "id": 87, "name": "Bukigai", "parishes": [] },
+        { "id": 562, "name": "Bukigai - manjiya district", "parishes": [] },
+        { "id": 563, "name": "Bulucheke - manjiya district", "parishes": [] },
+        { "id": 1254, "name": "Bumasheti", "parishes": [] },
+        { "id": 565, "name": "Bumayoka - manjiya district", "parishes": [] },
+        { "id": 90, "name": "Bushika", "parishes": [] },
+        { "id": 564, "name": "Bushika - manjiya district", "parishes": [] },
+        { "id": 1258, "name": "Bushiribo", "parishes": [] },
+        { "id": 1251, "name": "Nabweya", "parishes": [] },
+        { "id": 1253, "name": "Nakatsi", "parishes": [] }
+      ]
+    }
   ]
 }

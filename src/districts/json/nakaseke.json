@@ -2,7 +2,32 @@
   "id": 66,
   "name": "Nakaseke",
   "counties": [
-    { "id": 165, "name": "Nakaseke north", "sub_counties": [] },
-    { "id": 130, "name": "Nakaseke south", "sub_counties": [] }
+    {
+      "id": 165,
+      "name": "Nakaseke north",
+      "sub_counties": [
+        { "id": 763, "name": "Kikamulo", "parishes": [] },
+        { "id": 1278, "name": "Kinoni - nakaseke", "parishes": [] },
+        { "id": 769, "name": "Kinyogoga", "parishes": [] },
+        { "id": 1279, "name": "Kitto", "parishes": [] },
+        { "id": 1277, "name": "Kiwoko town council", "parishes": [] },
+        { "id": 1280, "name": "Nakaseke butalangu town council", "parishes": [] },
+        { "id": 1577, "name": "Ngoma", "parishes": [] },
+        { "id": 765, "name": "Ngoma town council", "parishes": [] },
+        { "id": 767, "name": "Wakyato", "parishes": [] }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "Nakaseke south",
+      "sub_counties": [
+        { "id": 768, "name": "Kaasangombe", "parishes": [] },
+        { "id": 762, "name": "Kapeeka", "parishes": [] },
+        { "id": 764, "name": "Nakaseke", "parishes": [] },
+        { "id": 1283, "name": "Nakaseke town council", "parishes": [] },
+        { "id": 766, "name": "Semuto", "parishes": [] },
+        { "id": 1282, "name": "Semuto town council", "parishes": [] }
+      ]
+    }
   ]
 }

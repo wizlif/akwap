@@ -2,12 +2,75 @@
   "id": 7,
   "name": "Arua",
   "counties": [
-    { "id": 14, "name": "Arua municipality", "sub_counties": [] },
-    { "id": 11, "name": "Ayivu", "sub_counties": [] },
-    { "id": 449, "name": "Lower madi", "sub_counties": [] },
-    { "id": 492, "name": "Terego east", "sub_counties": [] },
-    { "id": 493, "name": "Terego west", "sub_counties": [] },
-    { "id": 497, "name": "Upper madi", "sub_counties": [] },
-    { "id": 13, "name": "Vurra", "sub_counties": [] }
+    {
+      "id": 14,
+      "name": "Arua municipality",
+      "sub_counties": [
+        { "id": 67, "name": "Arua hill", "parishes": [] },
+        { "id": 68, "name": "Oli river", "parishes": [] }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Ayivu",
+      "sub_counties": [
+        { "id": 51, "name": "Adumi", "parishes": [] },
+        { "id": 52, "name": "Aroi", "parishes": [] },
+        { "id": 992, "name": "Ayivuni", "parishes": [] },
+        { "id": 56, "name": "Dadamu", "parishes": [] },
+        { "id": 55, "name": "Manibe", "parishes": [] },
+        { "id": 53, "name": "Oluko", "parishes": [] },
+        { "id": 54, "name": "Pajulu", "parishes": [] }
+      ]
+    },
+    {
+      "id": 449,
+      "name": "Lower madi",
+      "sub_counties": [
+        { "id": 1248, "name": "Ewanga", "parishes": [] },
+        { "id": 58, "name": "Ogoko", "parishes": [] },
+        { "id": 1247, "name": "Pawor", "parishes": [] },
+        { "id": 60, "name": "Rhino camp", "parishes": [] },
+        { "id": 61, "name": "Rigbo", "parishes": [] }
+      ]
+    },
+    {
+      "id": 492,
+      "name": "Terego east",
+      "sub_counties": [
+        { "id": 578, "name": "Odupi", "parishes": [] },
+        { "id": 577, "name": "Omugo", "parishes": [] },
+        { "id": 579, "name": "Uriama", "parishes": [] }
+      ]
+    },
+    {
+      "id": 493,
+      "name": "Terego west",
+      "sub_counties": [
+        { "id": 574, "name": "Aii-vu/ajivu", "parishes": [] },
+        { "id": 575, "name": "Beleafe", "parishes": [] },
+        { "id": 576, "name": "Katrini", "parishes": [] }
+      ]
+    },
+    {
+      "id": 497,
+      "name": "Upper madi",
+      "sub_counties": [
+        { "id": 1249, "name": "Anyiribu", "parishes": [] },
+        { "id": 57, "name": "Offaka", "parishes": [] },
+        { "id": 59, "name": "Okollo", "parishes": [] },
+        { "id": 62, "name": "Uleppi", "parishes": [] }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vurra",
+      "sub_counties": [
+        { "id": 63, "name": "Ajia", "parishes": [] },
+        { "id": 64, "name": "Arivu", "parishes": [] },
+        { "id": 65, "name": "Logiri", "parishes": [] },
+        { "id": 66, "name": "Vurra", "parishes": [] }
+      ]
+    }
   ]
 }

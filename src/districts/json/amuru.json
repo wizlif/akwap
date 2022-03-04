@@ -2,7 +2,22 @@
   "id": 5,
   "name": "Amuru",
   "counties": [
-    { "id": 433, "name": "Kilak north", "sub_counties": [] },
-    { "id": 434, "name": "Kilak south", "sub_counties": [] }
+    {
+      "id": 433,
+      "name": "Kilak north",
+      "sub_counties": [
+        { "id": 28, "name": "Atiak", "parishes": [] },
+        { "id": 29, "name": "Pabbo", "parishes": [] }
+      ]
+    },
+    {
+      "id": 434,
+      "name": "Kilak south",
+      "sub_counties": [
+        { "id": 27, "name": "Amuru", "parishes": [] },
+        { "id": 31, "name": "Amuru town council", "parishes": [] },
+        { "id": 30, "name": "Lamogi", "parishes": [] }
+      ]
+    }
   ]
 }
