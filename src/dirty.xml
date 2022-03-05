@@ -1,0 +1,339 @@
+<option value="([0-9]+)">([a-zA-Z- .]+)</option>
+{id: $1, name:"$2"},
+
+([a-zA-z]+):
+"$1":
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw"><![CDATA[<table id="form:tabVw:j_idt50" class="ui-panelgrid ui-widget" role="grid"><tbody><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt51" class="ui-outputlabel ui-widget" style="font-weight: bolder !important;font-size: 16px !important;color: blue;">Postal address where notices and correspondence should be sent (Optional)</label></td><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt52" class="ui-outputlabel ui-widget" style="font-weight: bolder !important;font-size: 16px !important;color: blue;"></label></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt53" class="ui-outputlabel ui-widget" for="form:tabVw:indipostboxno">Post Office Box number/Private Bag:</label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:indipostboxno" type="text" name="form:tabVw:indipostboxno" value="" title="Indipostboxno" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:indipostboxno&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt54" class="ui-outputlabel ui-widget" for="form:tabVw:indipodistrict">District/city where box is located:</label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:indipodistrict" name="form:tabVw:indipodistrict" size="1" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:indipodistrict&quot;});" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:indipodistrict&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="1">Abim</option>
+	<option value="2">Adjumani</option>
+	<option value="82">Agago</option>
+	<option value="83">Alebtong</option>
+	<option value="3">Amolatar</option>
+	<option value="84">Amudat</option>
+	<option value="4">Amuria</option>
+	<option value="5">Amuru</option>
+	<option value="6">Apac</option>
+	<option value="7">Arua</option>
+	<option value="8">Budaka</option>
+	<option value="9">Bududa</option>
+	<option value="10">Bugiri</option>
+	<option value="85">Buhweju</option>
+	<option value="86">Buikwe</option>
+	<option value="12">Bukedea</option>
+	<option value="87">Bukomansimbi</option>
+	<option value="11">Bukwo</option>
+	<option value="88">Bulambuli</option>
+	<option value="13">Buliisa</option>
+	<option value="14">Bundibugyo</option>
+	<option value="119">Bunyangabu</option>
+	<option value="15">Bushenyi</option>
+	<option value="16">Busia</option>
+	<option value="17">Butaleja</option>
+	<option value="89">Butambala</option>
+	<option value="118">Butebo</option>
+	<option value="90">Buvuma</option>
+	<option value="91">Buyende</option>
+	<option value="18">Dokolo</option>
+	<option value="92">Gomba</option>
+	<option value="19">Gulu</option>
+	<option value="20">Hoima</option>
+	<option value="21">Ibanda</option>
+	<option value="22">Iganga</option>
+	<option value="23">Isingiro</option>
+	<option value="24">Jinja</option>
+	<option value="25">Kaabong</option>
+	<option value="26">Kabale</option>
+	<option value="27">Kabarole</option>
+	<option value="28">Kaberamaido</option>
+	<option value="116">Kagadi</option>
+	<option value="117">Kakumiro</option>
+	<option value="29">Kalangala</option>
+	<option value="30">Kaliro</option>
+	<option value="93">Kalungu</option>
+	<option value="31">Kampala</option>
+	<option value="32">Kamuli</option>
+	<option value="33">Kamwenge</option>
+	<option value="34">Kanungu</option>
+	<option value="58">Kapchorwa</option>
+	<option value="35">Kasese</option>
+	<option value="36">Katakwi</option>
+	<option value="37">Kayunga</option>
+	<option value="38">Kibaale</option>
+	<option value="39">Kiboga</option>
+	<option value="94">Kibuku</option>
+	<option value="40">Kiruhura</option>
+	<option value="95">Kiryandongo</option>
+	<option value="41">Kisoro</option>
+	<option value="42">Kitgum</option>
+	<option value="43">Koboko</option>
+	<option value="96">Kole</option>
+	<option value="44">Kotido</option>
+	<option value="45">Kumi</option>
+	<option value="97">Kween</option>
+	<option value="98">Kyankwanzi</option>
+	<option value="99">Kyegegwa</option>
+	<option value="46">Kyenjojo</option>
+	<option value="120">Kyotera</option>
+	<option value="100">Lamwo</option>
+	<option value="47">Lira</option>
+	<option value="101">Luuka</option>
+	<option value="48">Luweero</option>
+	<option value="102">Lwengo</option>
+	<option value="59">Lyantonde</option>
+	<option value="49">Manafwa</option>
+	<option value="51">Maracha</option>
+	<option value="52">Masaka</option>
+	<option value="53">Masindi</option>
+	<option value="54">Mayuge</option>
+	<option value="55">Mbale</option>
+	<option value="56">Mbarara</option>
+	<option value="103">Mitooma</option>
+	<option value="57">Mityana</option>
+	<option value="60">Moroto</option>
+	<option value="61">Moyo</option>
+	<option value="62">Mpigi</option>
+	<option value="63">Mubende</option>
+	<option value="64">Mukono</option>
+	<option value="65">Nakapiripirit</option>
+	<option value="66">Nakaseke</option>
+	<option value="67">Nakasongola</option>
+	<option value="104">Namayingo</option>
+	<option value="121">Namisindwa</option>
+	<option value="68">Namutumba</option>
+	<option value="105">Napak</option>
+	<option value="69">Nebbi</option>
+	<option value="106">Ngora</option>
+	<option value="107">Ntoroko</option>
+	<option value="70">Ntungamo</option>
+	<option value="108">Nwoya</option>
+	<option value="114">Omoro</option>
+	<option value="109">Otuke</option>
+	<option value="71">Oyam</option>
+	<option value="72">Pader</option>
+	<option value="122">Pakwach</option>
+	<option value="73">Pallisa</option>
+	<option value="74">Rakai</option>
+	<option value="115">Rubanda</option>
+	<option value="110">Rubirizi</option>
+	<option value="123">Rukiga</option>
+	<option value="75">Rukungiri</option>
+	<option value="111">Serere</option>
+	<option value="112">Sheema</option>
+	<option value="77">Sironko</option>
+	<option value="78">Soroti</option>
+	<option value="76">Ssembabule</option>
+	<option value="79">Tororo</option>
+	<option value="80">Wakiso</option>
+	<option value="81">Yumbe</option>
+	<option value="113">Zombo</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt57" class="ui-outputlabel ui-widget" style="font-weight: bolder !important;font-size: 16px !important;color: blue;">Home / Residential address in Uganda (This must be a permanent physical address.</label></td><td role="gridcell" class="ui-panelgrid-cell"><br /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt59" class="ui-outputlabel ui-widget" style="font-weight: bolder !important;font-size: 16px !important;color: blue;">Complete all boxes that apply)</label></td><td role="gridcell" class="ui-panelgrid-cell"><br /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt61" class="ui-outputlabel ui-widget" for="form:tabVw:homeplotno">Plot Number:</label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:homeplotno" type="text" name="form:tabVw:homeplotno" value="" title="Homeplotno" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeplotno&quot;,u:&quot;form:tabVw:bsnsplotno&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt62" class="ui-outputlabel ui-widget" for="form:tabVw:homestreetname">Street Name:</label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:homestreetname" type="text" name="form:tabVw:homestreetname" value="" title="Homestreetname" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homestreetname&quot;,u:&quot;form:tabVw:bsnsstreetname&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt63" class="ui-outputlabel ui-widget" for="form:tabVw:homebuildname">Building Name:</label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:homebuildname" type="text" name="form:tabVw:homebuildname" value="" title="Homebuildname" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homebuildname&quot;,u:&quot;form:tabVw:bsnsbuildname&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt64" class="ui-outputlabel ui-widget" for="form:tabVw:hometradecenter">Trading Center:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:hometradecenter" type="text" name="form:tabVw:hometradecenter" value="" title="Hometradecenter" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:hometradecenter&quot;,u:&quot;form:tabVw:bsnstradecenter&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt65" class="ui-outputlabel ui-widget" for="form:tabVw:homedistrict">District/City:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:homedistrict" name="form:tabVw:homedistrict" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homedistrict&quot;,u:&quot;form:tabVw:homecounty form:tabVw:homesubcounty form:tabVw:homeparish form:tabVw:homevillage form:tabVw:bsnsdistrict&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="1">Abim</option>
+	<option value="2">Adjumani</option>
+	<option value="82">Agago</option>
+	<option value="83">Alebtong</option>
+	<option value="3">Amolatar</option>
+	<option value="84">Amudat</option>
+	<option value="4">Amuria</option>
+	<option value="5">Amuru</option>
+	<option value="6">Apac</option>
+	<option value="7">Arua</option>
+	<option value="8">Budaka</option>
+	<option value="9">Bududa</option>
+	<option value="10">Bugiri</option>
+	<option value="85">Buhweju</option>
+	<option value="86">Buikwe</option>
+	<option value="12">Bukedea</option>
+	<option value="87">Bukomansimbi</option>
+	<option value="11">Bukwo</option>
+	<option value="88">Bulambuli</option>
+	<option value="13">Buliisa</option>
+	<option value="14">Bundibugyo</option>
+	<option value="119">Bunyangabu</option>
+	<option value="15">Bushenyi</option>
+	<option value="16">Busia</option>
+	<option value="17">Butaleja</option>
+	<option value="89">Butambala</option>
+	<option value="118">Butebo</option>
+	<option value="90">Buvuma</option>
+	<option value="91">Buyende</option>
+	<option value="18">Dokolo</option>
+	<option value="92">Gomba</option>
+	<option value="19">Gulu</option>
+	<option value="20">Hoima</option>
+	<option value="21">Ibanda</option>
+	<option value="22">Iganga</option>
+	<option value="23">Isingiro</option>
+	<option value="24">Jinja</option>
+	<option value="25">Kaabong</option>
+	<option value="26">Kabale</option>
+	<option value="27">Kabarole</option>
+	<option value="28">Kaberamaido</option>
+	<option value="116">Kagadi</option>
+	<option value="117">Kakumiro</option>
+	<option value="29">Kalangala</option>
+	<option value="30">Kaliro</option>
+	<option value="93">Kalungu</option>
+	<option value="31">Kampala</option>
+	<option value="32">Kamuli</option>
+	<option value="33">Kamwenge</option>
+	<option value="34">Kanungu</option>
+	<option value="58">Kapchorwa</option>
+	<option value="35">Kasese</option>
+	<option value="36">Katakwi</option>
+	<option value="37">Kayunga</option>
+	<option value="38">Kibaale</option>
+	<option value="39">Kiboga</option>
+	<option value="94">Kibuku</option>
+	<option value="40">Kiruhura</option>
+	<option value="95">Kiryandongo</option>
+	<option value="41">Kisoro</option>
+	<option value="42">Kitgum</option>
+	<option value="43">Koboko</option>
+	<option value="96">Kole</option>
+	<option value="44">Kotido</option>
+	<option value="45">Kumi</option>
+	<option value="97">Kween</option>
+	<option value="98">Kyankwanzi</option>
+	<option value="99">Kyegegwa</option>
+	<option value="46">Kyenjojo</option>
+	<option value="120">Kyotera</option>
+	<option value="100">Lamwo</option>
+	<option value="47">Lira</option>
+	<option value="101">Luuka</option>
+	<option value="48">Luweero</option>
+	<option value="102">Lwengo</option>
+	<option value="59">Lyantonde</option>
+	<option value="49">Manafwa</option>
+	<option value="51">Maracha</option>
+	<option value="52">Masaka</option>
+	<option value="53">Masindi</option>
+	<option value="54">Mayuge</option>
+	<option value="55">Mbale</option>
+	<option value="56">Mbarara</option>
+	<option value="103">Mitooma</option>
+	<option value="57">Mityana</option>
+	<option value="60">Moroto</option>
+	<option value="61">Moyo</option>
+	<option value="62">Mpigi</option>
+	<option value="63">Mubende</option>
+	<option value="64">Mukono</option>
+	<option value="65">Nakapiripirit</option>
+	<option value="66">Nakaseke</option>
+	<option value="67">Nakasongola</option>
+	<option value="104">Namayingo</option>
+	<option value="121">Namisindwa</option>
+	<option value="68">Namutumba</option>
+	<option value="105">Napak</option>
+	<option value="69">Nebbi</option>
+	<option value="106">Ngora</option>
+	<option value="107">Ntoroko</option>
+	<option value="70">Ntungamo</option>
+	<option value="108">Nwoya</option>
+	<option value="114">Omoro</option>
+	<option value="109">Otuke</option>
+	<option value="71">Oyam</option>
+	<option value="72">Pader</option>
+	<option value="122">Pakwach</option>
+	<option value="73">Pallisa</option>
+	<option value="74">Rakai</option>
+	<option value="115">Rubanda</option>
+	<option value="110">Rubirizi</option>
+	<option value="123">Rukiga</option>
+	<option value="75">Rukungiri</option>
+	<option value="111">Serere</option>
+	<option value="112">Sheema</option>
+	<option value="77">Sironko</option>
+	<option value="78">Soroti</option>
+	<option value="76">Ssembabule</option>
+	<option value="79">Tororo</option>
+	<option value="80">Wakiso</option>
+	<option value="81">Yumbe</option>
+	<option value="113">Zombo</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt68" class="ui-outputlabel ui-widget" for="form:tabVw:homecounty">County/Municipality:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:homecounty" name="form:tabVw:homecounty" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homecounty&quot;,u:&quot;form:tabVw:homesubcounty form:tabVw:homeparish form:tabVw:homevillage form:tabVw:bsnscounty&quot;});">	<option value="" selected="selected">Select</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt71" class="ui-outputlabel ui-widget" for="form:tabVw:homesubcounty">Sub-County/Town Council/Division:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:homesubcounty" name="form:tabVw:homesubcounty" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homesubcounty&quot;,u:&quot;form:tabVw:homeparish form:tabVw:homevillage form:tabVw:bsnssubcounty&quot;});">	<option value="" selected="selected">Select</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt74" class="ui-outputlabel ui-widget" for="form:tabVw:homeparish">Parish:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt77" class="ui-outputlabel ui-widget" for="form:tabVw:homevillage">Village:<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt80" class="ui-outputlabel ui-widget" for="form:tabVw:homemobileno">Mobile Phone Number e.g (256700014425)<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:homemobileno" type="text" name="form:tabVw:homemobileno" value="" title="homemobileno" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homemobileno&quot;,u:&quot;form:tabVw:homemobileno&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt81" class="ui-outputlabel ui-widget" for="form:tabVw:homelandlineno">Alternate Mobile Phone Number e.g (256700014425)</label></td><td role="gridcell" class="ui-panelgrid-cell"><input id="form:tabVw:homelandlineno" type="text" name="form:tabVw:homelandlineno" value="" title="homelandlineno" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homelandlineno&quot;,u:&quot;form:tabVw:homelandlineno&quot;});" /></td></tr><tr class="ui-widget-content" role="row"><td role="gridcell" class="ui-panelgrid-cell"><label id="form:tabVw:j_idt82" class="ui-outputlabel ui-widget" for="form:tabVw:homeemailid">Email Address<span class="ui-outputlabel-rfi">*</span></label></td><td role="gridcell" class="ui-panelgrid-cell"><div id="form:tabVw:j_idt83" class="ui-outputpanel ui-widget" style="display: flex; white-space: nowrap"><input id="form:tabVw:homeemailid" type="text" name="form:tabVw:homeemailid" value="roriki5579@xindax.com" maxlength="80" size="40" title="Homeemailid" onblur="PrimeFaces.ab({s:this,e:&quot;blur&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeemailid&quot;,u:&quot;form:tabVw:homeemailid&quot;});" readonly="readonly" /><div id="form:tabVw:j_idt84" role="alert" aria-atomic="true" aria-live="polite" class="ui-message"></div><script id="form:tabVw:j_idt84_s" type="text/javascript">PrimeFaces.cw("Message","widget_form_tabVw_j_idt84",{id:"form:tabVw:j_idt84",target:"form:tabVw:homeemailid"});</script></div></td></tr></tbody></table><br /><button id="form:tabVw:B2247503958928121-3-2" name="form:tabVw:B2247503958928121-3-2" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only t-Button t-Button--hot t-Button-label" onclick="PrimeFaces.ab({s:&quot;form:tabVw:B2247503958928121-3-2&quot;,f:&quot;form&quot;,u:&quot;form form_app_resp&quot;});return false;" type="submit"><span class="ui-button-text ui-c">Save application to complete later</span></button><script id="form:tabVw:B2247503958928121-3-2_s" type="text/javascript">PrimeFaces.cw("CommandButton","widget_form_tabVw_B2247503958928121_3_2",{id:"form:tabVw:B2247503958928121-3-2"});</script>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="447">Aninata</option>
+	<option value="516">Arembwola</option>
+	<option value="585">Atunga</option>
+	<option value="2828">Kanu</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="2668">Kalakala ward</option>
+	<option value="3750">Kiru ward</option>
+	<option value="7433">Wiawer ward</option>
+	<option value="6593">Oyaro ward</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="4566">Loyoroit</option>
+	<option value="4148">Kulodwong</option>
+	<option value="7436">Wilela</option>
+	<option value="6580">Otumpili</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="597">Awach</option>
+	<option value="697">Barlyech</option>
+	<option value="2092">Gotapwou</option>
+	<option value="6514">Oporoth</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="79">Achangali</option>
+	<option value="520">Aridai</option>
+	<option value="2037">Gangming</option>
+	<option value="6541">Orwamuge</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="2099">Gulotworo</option>
+	<option value="4137">Koya</option>
+	<option value="5041">Monyang</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="106">Adea</option>
+	<option value="273">Akwangagwel</option>
+	<option value="439">Angolebwal</option>
+	<option value="517">Aremo</option>
+	<option value="3147">Katabok east</option>
+	<option value="3148">Katabok west</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
+
+
+<?xml version='1.0' encoding='UTF-8'?>
+<partial-response id="j_id1"><changes><update id="form:tabVw:homeparish"><![CDATA[<select id="form:tabVw:homeparish" name="form:tabVw:homeparish" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homeparish&quot;,u:&quot;form:tabVw:homevillage form:tabVw:bsnsparish&quot;});">	<option value="" selected="selected">Select</option>
+	<option value="4058">Kobulin</option>
+	<option value="6804">Pupukamuya</option>
+	<option value="6842">Rogom</option>
+	<option value="6512">Opopongo</option>
+	<option value="6527">Oretha</option>
+</select>]]></update><update id="form:tabVw:homevillage"><![CDATA[<select id="form:tabVw:homevillage" name="form:tabVw:homevillage" size="1" style="width:125px" onchange="PrimeFaces.ab({s:this,e:&quot;valueChange&quot;,f:&quot;form&quot;,p:&quot;form:tabVw:homevillage&quot;,u:&quot;form:tabVw:bsnsvillage form:tabVw:bsnsvillage&quot;});">	<option value="" selected="selected">Select</option>
+</select>]]></update><update id="j_id1:javax.faces.ViewState:0"><![CDATA[-9041723776147138256:1682348318830042640]]></update></changes></partial-response>
