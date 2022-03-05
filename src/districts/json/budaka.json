@@ -6,25 +6,148 @@
       "id": 15,
       "name": "Budaka",
       "sub_counties": [
-        { "id": 69, "name": "Budaka", "parishes": [] },
-        { "id": 75, "name": "Budaka town council", "parishes": [] },
-        { "id": 1026, "name": "Kachomo", "parishes": [] },
-        { "id": 71, "name": "Kaderuna", "parishes": [] },
-        { "id": 1027, "name": "Kakule", "parishes": [] },
-        { "id": 73, "name": "Lyama", "parishes": [] },
-        { "id": 74, "name": "Naboa", "parishes": [] },
-        { "id": 1028, "name": "Nansanga", "parishes": [] }
+        {
+          "id": 69,
+          "name": "Budaka",
+          "parishes": [
+            { "id": 1867, "name": "Chali", "villages": [] },
+            { "id": 2024, "name": "Gadumire", "villages": [] },
+            { "id": 5555, "name": "Nampangala", "villages": [] },
+            { "id": 7089, "name": "Sapiri", "villages": [] }
+          ]
+        },
+        {
+          "id": 75,
+          "name": "Budaka town council",
+          "parishes": [
+            { "id": 848, "name": "Budaka ward", "villages": [] },
+            { "id": 1776, "name": "Bwase ward", "villages": [] },
+            { "id": 4753, "name": "Macholi ward", "villages": [] },
+            { "id": 5530, "name": "Namengo ward", "villages": [] },
+            { "id": 5333, "name": "Nabweyo ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1026,
+          "name": "Kachomo",
+          "parishes": [
+            { "id": 2430, "name": "Kachomo", "villages": [] },
+            { "id": 2446, "name": "Kadenge", "villages": [] },
+            { "id": 4070, "name": "Kodiri", "villages": [] },
+            { "id": 4131, "name": "Kotinyanga", "villages": [] }
+          ]
+        },
+        {
+          "id": 71,
+          "name": "Kaderuna",
+          "parishes": [
+            { "id": 2887, "name": "Kaperi", "villages": [] },
+            { "id": 3334, "name": "Kebula", "villages": [] },
+            { "id": 2385, "name": "Kabuna", "villages": [] },
+            { "id": 2450, "name": "Kaderuna", "villages": [] },
+            { "id": 3775, "name": "Kiryolo", "villages": [] }
+          ]
+        },
+        {
+          "id": 1027,
+          "name": "Kakule",
+          "parishes": [
+            { "id": 2888, "name": "Kaperi", "villages": [] },
+            { "id": 3129, "name": "Kasuleta", "villages": [] },
+            { "id": 2625, "name": "Kakule", "villages": [] },
+            { "id": 4450, "name": "Lerya", "villages": [] },
+            { "id": 5598, "name": "Namusita", "villages": [] }
+          ]
+        },
+        {
+          "id": 73,
+          "name": "Lyama",
+          "parishes": [
+            { "id": 4726, "name": "Lyama", "villages": [] },
+            { "id": 5457, "name": "Nalugondo", "villages": [] },
+            { "id": 7200, "name": "Suni", "villages": [] },
+            { "id": 7213, "name": "Tademeri", "villages": [] }
+          ]
+        },
+        {
+          "id": 74,
+          "name": "Naboa",
+          "parishes": [
+            { "id": 1426, "name": "Bunyekero", "villages": [] },
+            { "id": 4636, "name": "Lupada", "villages": [] },
+            { "id": 5625, "name": "Nangeye", "villages": [] },
+            { "id": 5304, "name": "Naboa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1028,
+          "name": "Nansanga",
+          "parishes": [
+            { "id": 2161, "name": "Idudi a", "villages": [] },
+            { "id": 2162, "name": "Idudi b", "villages": [] },
+            { "id": 5640, "name": "Nansanga a", "villages": [] },
+            { "id": 5641, "name": "Nansanga b", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 186,
       "name": "Iki-iki",
       "sub_counties": [
-        { "id": 70, "name": "Iki-iki", "parishes": [] },
-        { "id": 76, "name": "Kameruka", "parishes": [] },
-        { "id": 72, "name": "Kamonkoli", "parishes": [] },
-        { "id": 1161, "name": "Katira", "parishes": [] },
-        { "id": 1162, "name": "Mugiti", "parishes": [] }
+        {
+          "id": 70,
+          "name": "Iki-iki",
+          "parishes": [
+            { "id": 2186, "name": "Iki-iki", "villages": [] },
+            { "id": 2447, "name": "Kadenghe", "villages": [] },
+            { "id": 2553, "name": "Kaitangole", "villages": [] },
+            { "id": 2607, "name": "Kakoli", "villages": [] },
+            { "id": 6759, "name": "Petete", "villages": [] }
+          ]
+        },
+        {
+          "id": 76,
+          "name": "Kameruka",
+          "parishes": [
+            { "id": 1437, "name": "Bupuchai", "villages": [] },
+            { "id": 2737, "name": "Kameruka", "villages": [] },
+            { "id": 4451, "name": "Lerya", "villages": [] },
+            { "id": 5647, "name": "Nanzala", "villages": [] },
+            { "id": 5310, "name": "Nabugalo", "villages": [] }
+          ]
+        },
+        {
+          "id": 72,
+          "name": "Kamonkoli",
+          "parishes": [
+            { "id": 2269, "name": "Jami", "villages": [] },
+            { "id": 1432, "name": "Bunyolo", "villages": [] },
+            { "id": 2453, "name": "Kadimukoli", "villages": [] },
+            { "id": 7101, "name": "Sekulo", "villages": [] }
+          ]
+        },
+        {
+          "id": 1161,
+          "name": "Katira",
+          "parishes": [
+            { "id": 3211, "name": "Katira", "villages": [] },
+            { "id": 3263, "name": "Kavule", "villages": [] },
+            { "id": 3349, "name": "Kerekerene", "villages": [] },
+            { "id": 2444, "name": "Kadatumi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1162,
+          "name": "Mugiti",
+          "parishes": [
+            { "id": 1016, "name": "Bukaligwoko", "villages": [] },
+            { "id": 1355, "name": "Bunamwera", "villages": [] },
+            { "id": 5661, "name": "Nasenyi", "villages": [] },
+            { "id": 5116, "name": "Mugiti", "villages": [] },
+            { "id": 6154, "name": "Nyanza", "villages": [] }
+          ]
+        }
       ]
     }
   ]

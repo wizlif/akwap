@@ -6,31 +6,229 @@
       "id": 152,
       "name": "Bulambuli",
       "sub_counties": [
-        { "id": 911, "name": "Bukhalu", "parishes": [] },
-        { "id": 1398, "name": "Bulambuli town council", "parishes": [] },
-        { "id": 907, "name": "Bunambutye", "parishes": [] },
-        { "id": 1056, "name": "Bwikhonge", "parishes": [] },
-        { "id": 909, "name": "Muyembe", "parishes": [] },
-        { "id": 1051, "name": "Nabbongo", "parishes": [] }
+        {
+          "id": 911,
+          "name": "Bukhalu",
+          "parishes": [
+            { "id": 1676, "name": "Buwanyanga", "villages": [] },
+            { "id": 1720, "name": "Buyaga central", "villages": [] },
+            { "id": 1721, "name": "Buyaga town board", "villages": [] },
+            { "id": 1051, "name": "Bukhalu", "villages": [] },
+            { "id": 1187, "name": "Bulumera", "villages": [] },
+            { "id": 1293, "name": "Bumusamali", "villages": [] },
+            { "id": 1330, "name": "Bunalwere", "villages": [] },
+            { "id": 1335, "name": "Bunamaliro", "villages": [] },
+            { "id": 1342, "name": "Bunambutye", "villages": [] },
+            { "id": 1346, "name": "Bunamujje", "villages": [] },
+            { "id": 1412, "name": "Bungwanyi", "villages": [] },
+            { "id": 1480, "name": "Busabulo", "villages": [] },
+            { "id": 1520, "name": "Bushiende", "villages": [] },
+            { "id": 1550, "name": "Busiu", "villages": [] },
+            { "id": 7134, "name": "Simu", "villages": [] }
+          ]
+        },
+        {
+          "id": 1398,
+          "name": "Bulambuli town council",
+          "parishes": [{ "id": 1632, "name": "Butta ward", "villages": [] }]
+        },
+        {
+          "id": 907,
+          "name": "Bunambutye",
+          "parishes": [
+            { "id": 1685, "name": "Buwebele", "villages": [] },
+            { "id": 1178, "name": "Buluguya", "villages": [] },
+            { "id": 1233, "name": "Bumasari", "villages": [] },
+            { "id": 1361, "name": "Bunanganda", "villages": [] },
+            { "id": 1517, "name": "Bushangi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1056,
+          "name": "Bwikhonge",
+          "parishes": [
+            { "id": 1645, "name": "Buwabwala", "villages": [] },
+            { "id": 1688, "name": "Buwekanda", "villages": [] },
+            { "id": 1803, "name": "Bwikhonge", "villages": [] },
+            { "id": 1186, "name": "Bulumela", "villages": [] },
+            { "id": 1331, "name": "Bunalwere", "villages": [] }
+          ]
+        },
+        {
+          "id": 909,
+          "name": "Muyembe",
+          "parishes": [
+            { "id": 1651, "name": "Buwagogo", "villages": [] },
+            { "id": 1724, "name": "Buyaka", "villages": [] },
+            { "id": 1137, "name": "Bulako", "villages": [] },
+            { "id": 1272, "name": "Bumugoya", "villages": [] },
+            { "id": 1411, "name": "Bungwanyi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1051,
+          "name": "Nabbongo",
+          "parishes": [
+            { "id": 874, "name": "Bufukhula", "villages": [] },
+            { "id": 1655, "name": "Buwakooli", "villages": [] },
+            { "id": 1241, "name": "Bumasokho", "villages": [] },
+            { "id": 1360, "name": "Bunangaka", "villages": [] },
+            { "id": 5278, "name": "Nabbongo", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 398,
       "name": "Elgon",
       "sub_counties": [
-        { "id": 908, "name": "Buginyanya", "parishes": [] },
-        { "id": 906, "name": "Bulago", "parishes": [] },
-        { "id": 912, "name": "Bulegeni", "parishes": [] },
-        { "id": 1054, "name": "Bulegeni town council", "parishes": [] },
-        { "id": 913, "name": "Buluganya", "parishes": [] },
-        { "id": 1050, "name": "Bumasobo", "parishes": [] },
-        { "id": 1466, "name": "Bumugibole", "parishes": [] },
-        { "id": 1465, "name": "Kamu", "parishes": [] },
-        { "id": 1055, "name": "Lusha", "parishes": [] },
-        { "id": 914, "name": "Masira", "parishes": [] },
-        { "id": 1053, "name": "Namisuni", "parishes": [] },
-        { "id": 1052, "name": "Simu", "parishes": [] },
-        { "id": 910, "name": "Sisiyi", "parishes": [] }
+        {
+          "id": 908,
+          "name": "Buginyanya",
+          "parishes": [
+            { "id": 2065, "name": "Giduno", "villages": [] },
+            { "id": 2090, "name": "Goozi", "villages": [] },
+            { "id": 1375, "name": "Bunatajje", "villages": [] },
+            { "id": 3758, "name": "Kirwali", "villages": [] },
+            { "id": 7144, "name": "Sisiyi", "villages": [] },
+            { "id": 7211, "name": "Tabali", "villages": [] }
+          ]
+        },
+        {
+          "id": 906,
+          "name": "Bulago",
+          "parishes": [
+            { "id": 1950, "name": "Dooba", "villages": [] },
+            { "id": 904, "name": "Bugatisa", "villages": [] },
+            { "id": 1374, "name": "Bunasufwa", "villages": [] },
+            { "id": 1552, "name": "Busiya", "villages": [] },
+            { "id": 7308, "name": "Tunyi", "villages": [] }
+          ]
+        },
+        {
+          "id": 912,
+          "name": "Bulegeni",
+          "parishes": [
+            { "id": 4947, "name": "Mbigi", "villages": [] },
+            { "id": 5234, "name": "Muvule", "villages": [] },
+            { "id": 7082, "name": "Samazi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1054,
+          "name": "Bulegeni town council",
+          "parishes": [
+            { "id": 1151, "name": "Bulegeni ward", "villages": [] },
+            { "id": 3268, "name": "Kavule ward", "villages": [] },
+            { "id": 4770, "name": "Magala ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 913,
+          "name": "Buluganya",
+          "parishes": [
+            { "id": 1176, "name": "Buluganya", "villages": [] },
+            { "id": 4749, "name": "Mabugu", "villages": [] },
+            { "id": 5581, "name": "Namunane", "villages": [] },
+            { "id": 5669, "name": "Nataba", "villages": [] },
+            { "id": 7155, "name": "Sotti", "villages": [] }
+          ]
+        },
+        {
+          "id": 1050,
+          "name": "Bumasobo",
+          "parishes": [
+            { "id": 1700, "name": "Buwokadala", "villages": [] },
+            { "id": 918, "name": "Bugimwera", "villages": [] },
+            { "id": 1239, "name": "Bumasobo", "villages": [] },
+            { "id": 1526, "name": "Bushunu", "villages": [] },
+            { "id": 5714, "name": "Nazwazwa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1466,
+          "name": "Bumugibole",
+          "parishes": [
+            { "id": 2029, "name": "Gamangweni", "villages": [] },
+            { "id": 1236, "name": "Bumasifwa", "villages": [] },
+            { "id": 1270, "name": "Bumugibole", "villages": [] },
+            { "id": 4490, "name": "Logoli", "villages": [] },
+            { "id": 4925, "name": "Mayiyi", "villages": [] },
+            { "id": 7194, "name": "Suguta", "villages": [] }
+          ]
+        },
+        {
+          "id": 1465,
+          "name": "Kamu",
+          "parishes": [
+            { "id": 2756, "name": "Kamu", "villages": [] },
+            { "id": 3808, "name": "Kisenyi", "villages": [] },
+            { "id": 4863, "name": "Masaba", "villages": [] },
+            { "id": 4882, "name": "Masola", "villages": [] },
+            { "id": 7147, "name": "Somi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1055,
+          "name": "Lusha",
+          "parishes": [
+            { "id": 2086, "name": "Gombe", "villages": [] },
+            { "id": 2271, "name": "Jewa", "villages": [] },
+            { "id": 1308, "name": "Bumwambu", "villages": [] },
+            { "id": 1313, "name": "Bunabude", "villages": [] },
+            { "id": 3665, "name": "Kinganda", "villages": [] }
+          ]
+        },
+        {
+          "id": 914,
+          "name": "Masira",
+          "parishes": [
+            { "id": 878, "name": "Bufumbo", "villages": [] },
+            { "id": 1751, "name": "Buzemunwa", "villages": [] },
+            { "id": 1959, "name": "Dunga", "villages": [] },
+            { "id": 2023, "name": "Gabugoto", "villages": [] },
+            { "id": 2039, "name": "Ganzo", "villages": [] },
+            { "id": 4843, "name": "Malungi", "villages": [] },
+            { "id": 3603, "name": "Kikobero", "villages": [] },
+            { "id": 3684, "name": "Kinyofu", "villages": [] },
+            { "id": 4948, "name": "Mbigi i", "villages": [] }
+          ]
+        },
+        {
+          "id": 1053,
+          "name": "Namisuni",
+          "parishes": [
+            { "id": 2030, "name": "Gamatimbei", "villages": [] },
+            { "id": 4645, "name": "Lusaso", "villages": [] },
+            { "id": 3806, "name": "Kisekye", "villages": [] },
+            { "id": 5524, "name": "Nambekye", "villages": [] },
+            { "id": 5533, "name": "Namezi", "villages": [] },
+            { "id": 5547, "name": "Namisuni", "villages": [] },
+            { "id": 5563, "name": "Namudongo", "villages": [] }
+          ]
+        },
+        {
+          "id": 1052,
+          "name": "Simu",
+          "parishes": [
+            { "id": 1070, "name": "Bukibologoto", "villages": [] },
+            { "id": 3451, "name": "Kidega", "villages": [] },
+            { "id": 3636, "name": "Kikuyu", "villages": [] },
+            { "id": 7135, "name": "Simu", "villages": [] }
+          ]
+        },
+        {
+          "id": 910,
+          "name": "Sisiyi",
+          "parishes": [
+            { "id": 2063, "name": "Gibuzale", "villages": [] },
+            { "id": 1273, "name": "Bumugusha", "villages": [] },
+            { "id": 3369, "name": "Kibanda", "villages": [] },
+            { "id": 4672, "name": "Luzzi", "villages": [] },
+            { "id": 4748, "name": "Mabono", "villages": [] },
+            { "id": 3854, "name": "Kisubi", "villages": [] }
+          ]
+        }
       ]
     }
   ]

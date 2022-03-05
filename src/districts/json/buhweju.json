@@ -6,14 +6,90 @@
       "id": 26,
       "name": "Buhweju",
       "sub_counties": [
-        { "id": 135, "name": "Bihanga", "parishes": [] },
-        { "id": 1040, "name": "Bitsya", "parishes": [] },
-        { "id": 136, "name": "Burere", "parishes": [] },
-        { "id": 1039, "name": "Engaju", "parishes": [] },
-        { "id": 137, "name": "Karungu", "parishes": [] },
-        { "id": 1037, "name": "Nsiika town council", "parishes": [] },
-        { "id": 1038, "name": "Nyakishana", "parishes": [] },
-        { "id": 138, "name": "Rwengwe", "parishes": [] }
+        {
+          "id": 135,
+          "name": "Bihanga",
+          "parishes": [
+            { "id": 2971, "name": "Karembe", "villages": [] },
+            { "id": 6898, "name": "Rukiri", "villages": [] },
+            { "id": 6061, "name": "Nyakaziba", "villages": [] }
+          ]
+        },
+        {
+          "id": 1040,
+          "name": "Bitsya",
+          "parishes": [
+            { "id": 779, "name": "Bitsya", "villages": [] },
+            { "id": 2817, "name": "Kankara", "villages": [] },
+            { "id": 3901, "name": "Kitega", "villages": [] },
+            { "id": 5204, "name": "Mushasha", "villages": [] }
+          ]
+        },
+        {
+          "id": 136,
+          "name": "Burere",
+          "parishes": [
+            { "id": 6022, "name": "Nyakahita", "villages": [] },
+            { "id": 6037, "name": "Nyakashaka", "villages": [] },
+            { "id": 6847, "name": "Rubengye", "villages": [] },
+            { "id": 6961, "name": "Rwajere", "villages": [] },
+            { "id": 6079, "name": "Nyakitoko", "villages": [] }
+          ]
+        },
+        {
+          "id": 1039,
+          "name": "Engaju",
+          "parishes": [
+            { "id": 1992, "name": "Engaaju", "villages": [] },
+            { "id": 3223, "name": "Katongo", "villages": [] },
+            { "id": 2566, "name": "Kajumbura", "villages": [] },
+            { "id": 4206, "name": "Kyahenda", "villages": [] },
+            { "id": 4018, "name": "Kiyanja", "villages": [] }
+          ]
+        },
+        {
+          "id": 137,
+          "name": "Karungu",
+          "parishes": [
+            { "id": 3166, "name": "Katara", "villages": [] },
+            { "id": 2990, "name": "Karungu", "villages": [] },
+            { "id": 3059, "name": "Kasharara", "villages": [] },
+            { "id": 6872, "name": "Rugongo", "villages": [] }
+          ]
+        },
+        {
+          "id": 1037,
+          "name": "Nsiika town council",
+          "parishes": [
+            { "id": 3445, "name": "Kicuzi ward", "villages": [] },
+            { "id": 4208, "name": "Kyajura ward", "villages": [] },
+            { "id": 5912, "name": "Nsiika ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1038,
+          "name": "Nyakishana",
+          "parishes": [
+            { "id": 3207, "name": "Katinda", "villages": [] },
+            { "id": 2337, "name": "Kabegaramire", "villages": [] },
+            { "id": 3699, "name": "Kiramira", "villages": [] },
+            { "id": 6899, "name": "Rukondo", "villages": [] },
+            { "id": 6928, "name": "Rushayo", "villages": [] },
+            { "id": 6995, "name": "Rwanyamabare", "villages": [] }
+          ]
+        },
+        {
+          "id": 138,
+          "name": "Rwengwe",
+          "parishes": [
+            { "id": 1810, "name": "Bwoga", "villages": [] },
+            { "id": 3386, "name": "Kibimba", "villages": [] },
+            { "id": 3071, "name": "Kashenyi", "villages": [] },
+            { "id": 4368, "name": "Kyeyare", "villages": [] },
+            { "id": 7026, "name": "Rwengwe", "villages": [] },
+            { "id": 6073, "name": "Nyakishojwa", "villages": [] }
+          ]
+        }
       ]
     }
   ]

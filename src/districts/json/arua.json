@@ -6,70 +6,375 @@
       "id": 14,
       "name": "Arua municipality",
       "sub_counties": [
-        { "id": 67, "name": "Arua hill", "parishes": [] },
-        { "id": 68, "name": "Oli river", "parishes": [] }
+        {
+          "id": 67,
+          "name": "Arua hill",
+          "parishes": [
+            { "id": 607, "name": "Awindiri", "villages": [] },
+            { "id": 706, "name": "Basaar", "villages": [] },
+            { "id": 5250, "name": "Mvara", "villages": [] }
+          ]
+        },
+        {
+          "id": 68,
+          "name": "Oli river",
+          "parishes": [
+            { "id": 3346, "name": "Kenya", "villages": [] },
+            { "id": 7217, "name": "Tanganyika", "villages": [] },
+            { "id": 6705, "name": "Pangisa", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 11,
       "name": "Ayivu",
       "sub_counties": [
-        { "id": 51, "name": "Adumi", "parishes": [] },
-        { "id": 52, "name": "Aroi", "parishes": [] },
-        { "id": 992, "name": "Ayivuni", "parishes": [] },
-        { "id": 56, "name": "Dadamu", "parishes": [] },
-        { "id": 55, "name": "Manibe", "parishes": [] },
-        { "id": 53, "name": "Oluko", "parishes": [] },
-        { "id": 54, "name": "Pajulu", "parishes": [] }
+        {
+          "id": 51,
+          "name": "Adumi",
+          "parishes": [
+            { "id": 458, "name": "Anyara", "villages": [] },
+            { "id": 3196, "name": "Kati", "villages": [] },
+            { "id": 5022, "name": "Mite", "villages": [] },
+            { "id": 6197, "name": "Nyiovura", "villages": [] },
+            { "id": 6422, "name": "Ombachi", "villages": [] }
+          ]
+        },
+        {
+          "id": 52,
+          "name": "Aroi",
+          "parishes": [
+            { "id": 305, "name": "Aliba", "villages": [] },
+            { "id": 319, "name": "Alivu", "villages": [] },
+            { "id": 1440, "name": "Bura", "villages": [] },
+            { "id": 2768, "name": "Kamule", "villages": [] },
+            { "id": 4979, "name": "Micu", "villages": [] },
+            { "id": 6831, "name": "Robu", "villages": [] }
+          ]
+        },
+        {
+          "id": 992,
+          "name": "Ayivuni",
+          "parishes": [
+            { "id": 469, "name": "Anzu", "villages": [] },
+            { "id": 4139, "name": "Kubo", "villages": [] },
+            { "id": 4938, "name": "Mbaraka", "villages": [] },
+            { "id": 6382, "name": "Olevu", "villages": [] }
+          ]
+        },
+        {
+          "id": 56,
+          "name": "Dadamu",
+          "parishes": [
+            { "id": 532, "name": "Arivu", "villages": [] },
+            { "id": 533, "name": "Ariwara", "villages": [] },
+            { "id": 4654, "name": "Luvu", "villages": [] },
+            { "id": 7216, "name": "Tanganyika", "villages": [] },
+            { "id": 7446, "name": "Yapi", "villages": [] },
+            { "id": 6263, "name": "Odravu", "villages": [] },
+            { "id": 6268, "name": "Oduluba", "villages": [] }
+          ]
+        },
+        {
+          "id": 55,
+          "name": "Manibe",
+          "parishes": [
+            { "id": 1984, "name": "Eleku", "villages": [] },
+            { "id": 2008, "name": "Ewadri", "villages": [] },
+            { "id": 4588, "name": "Lufe", "villages": [] },
+            { "id": 6832, "name": "Robu", "villages": [] },
+            { "id": 6262, "name": "Odravu", "villages": [] },
+            { "id": 6423, "name": "Ombachi", "villages": [] },
+            { "id": 6433, "name": "Ombokoro", "villages": [] },
+            { "id": 6524, "name": "Oreku", "villages": [] }
+          ]
+        },
+        {
+          "id": 53,
+          "name": "Oluko",
+          "parishes": [
+            { "id": 357, "name": "Ambeko", "villages": [] },
+            { "id": 448, "name": "Anipi", "villages": [] },
+            { "id": 1433, "name": "Bunyu", "villages": [] },
+            { "id": 7309, "name": "Turu", "villages": [] },
+            { "id": 7376, "name": "Wandi", "villages": [] },
+            { "id": 7443, "name": "Yabiavoko", "villages": [] },
+            { "id": 6195, "name": "Nyio", "villages": [] },
+            { "id": 6432, "name": "Ombokoro", "villages": [] },
+            { "id": 6493, "name": "Onzivu", "villages": [] }
+          ]
+        },
+        {
+          "id": 54,
+          "name": "Pajulu",
+          "parishes": [
+            { "id": 105, "name": "Adalafu", "villages": [] },
+            { "id": 320, "name": "Alivu", "villages": [] },
+            { "id": 1954, "name": "Driwala", "villages": [] },
+            { "id": 2006, "name": "Etori", "villages": [] },
+            { "id": 4103, "name": "Komite", "villages": [] },
+            { "id": 6773, "name": "Pokea", "villages": [] },
+            { "id": 6155, "name": "Nyaracu", "villages": [] },
+            { "id": 6536, "name": "Orugbo", "villages": [] },
+            { "id": 7458, "name": "Yivu", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 449,
       "name": "Lower madi",
       "sub_counties": [
-        { "id": 1248, "name": "Ewanga", "parishes": [] },
-        { "id": 58, "name": "Ogoko", "parishes": [] },
-        { "id": 1247, "name": "Pawor", "parishes": [] },
-        { "id": 60, "name": "Rhino camp", "parishes": [] },
-        { "id": 61, "name": "Rigbo", "parishes": [] }
+        {
+          "id": 1248,
+          "name": "Ewanga",
+          "parishes": [
+            { "id": 1958, "name": "Dumunga", "villages": [] },
+            { "id": 2011, "name": "Ewanguru", "villages": [] },
+            { "id": 3700, "name": "Kiranga", "villages": [] },
+            { "id": 6839, "name": "Roga", "villages": [] },
+            { "id": 7349, "name": "Waka-dinya", "villages": [] }
+          ]
+        },
+        {
+          "id": 58,
+          "name": "Ogoko",
+          "parishes": [
+            { "id": 631, "name": "Ayavu", "villages": [] },
+            { "id": 1995, "name": "Enyio", "villages": [] },
+            { "id": 7444, "name": "Yachi", "villages": [] },
+            { "id": 6369, "name": "Olali", "villages": [] },
+            { "id": 6699, "name": "Pamvara", "villages": [] }
+          ]
+        },
+        {
+          "id": 1247,
+          "name": "Pawor",
+          "parishes": [
+            { "id": 5730, "name": "Ndavu", "villages": [] },
+            { "id": 6700, "name": "Panduku", "villages": [] },
+            { "id": 6717, "name": "Parabok", "villages": [] }
+          ]
+        },
+        {
+          "id": 60,
+          "name": "Rhino camp",
+          "parishes": [
+            { "id": 449, "name": "Anipi", "villages": [] },
+            { "id": 618, "name": "Awuvu", "villages": [] },
+            { "id": 672, "name": "Bandili", "villages": [] },
+            { "id": 1997, "name": "Eramva", "villages": [] },
+            { "id": 2053, "name": "Gbulukuatuni", "villages": [] },
+            { "id": 4847, "name": "Manago", "villages": [] }
+          ]
+        },
+        {
+          "id": 61,
+          "name": "Rigbo",
+          "parishes": [
+            { "id": 306, "name": "Aliba", "villages": [] },
+            { "id": 4567, "name": "Luba", "villages": [] },
+            { "id": 4164, "name": "Kwili", "villages": [] },
+            { "id": 6236, "name": "Ocea", "villages": [] },
+            { "id": 6257, "name": "Odoi", "villages": [] },
+            { "id": 6266, "name": "Odubu", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 492,
       "name": "Terego east",
       "sub_counties": [
-        { "id": 578, "name": "Odupi", "parishes": [] },
-        { "id": 577, "name": "Omugo", "parishes": [] },
-        { "id": 579, "name": "Uriama", "parishes": [] }
+        {
+          "id": 578,
+          "name": "Odupi",
+          "parishes": [
+            { "id": 646, "name": "Azaapi", "villages": [] },
+            { "id": 2196, "name": "Imvepi", "villages": [] },
+            { "id": 4594, "name": "Lugbari", "villages": [] },
+            { "id": 6320, "name": "Okavu", "villages": [] },
+            { "id": 6435, "name": "Ombokoro", "villages": [] },
+            { "id": 6534, "name": "Orivu", "villages": [] },
+            { "id": 6578, "name": "Otumbari", "villages": [] }
+          ]
+        },
+        {
+          "id": 577,
+          "name": "Omugo",
+          "parishes": [
+            { "id": 427, "name": "Angazi", "villages": [] },
+            { "id": 467, "name": "Anyufira", "villages": [] },
+            { "id": 1957, "name": "Duku", "villages": [] },
+            { "id": 1441, "name": "Bura", "villages": [] },
+            { "id": 5717, "name": "Ndaapi", "villages": [] },
+            { "id": 6216, "name": "Obi", "villages": [] },
+            { "id": 6589, "name": "Owayi", "villages": [] },
+            { "id": 7456, "name": "Yiddu", "villages": [] }
+          ]
+        },
+        {
+          "id": 579,
+          "name": "Uriama",
+          "parishes": [
+            { "id": 238, "name": "Akinio", "villages": [] },
+            { "id": 1981, "name": "Ejoni", "villages": [] },
+            { "id": 3205, "name": "Katiku", "villages": [] },
+            { "id": 4855, "name": "Maraju", "villages": [] },
+            { "id": 6579, "name": "Otumbari", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 493,
       "name": "Terego west",
       "sub_counties": [
-        { "id": 574, "name": "Aii-vu/ajivu", "parishes": [] },
-        { "id": 575, "name": "Beleafe", "parishes": [] },
-        { "id": 576, "name": "Katrini", "parishes": [] }
+        {
+          "id": 574,
+          "name": "Aii-vu/ajivu",
+          "parishes": [
+            { "id": 302, "name": "Alia", "villages": [] },
+            { "id": 531, "name": "Aripia", "villages": [] },
+            { "id": 643, "name": "Ayuri", "villages": [] },
+            { "id": 1998, "name": "Erea", "villages": [] },
+            { "id": 2156, "name": "Idayi", "villages": [] },
+            { "id": 6474, "name": "Onai", "villages": [] },
+            { "id": 6494, "name": "Onzoro", "villages": [] },
+            { "id": 6576, "name": "Otrevu", "villages": [] },
+            { "id": 6720, "name": "Paranga", "villages": [] }
+          ]
+        },
+        {
+          "id": 575,
+          "name": "Beleafe",
+          "parishes": [
+            { "id": 36, "name": "Abindi", "villages": [] },
+            { "id": 126, "name": "Adripi", "villages": [] },
+            { "id": 200, "name": "Ajiraku", "villages": [] },
+            { "id": 5804, "name": "Nicu", "villages": [] }
+          ]
+        },
+        {
+          "id": 576,
+          "name": "Katrini",
+          "parishes": [
+            { "id": 416, "name": "Anavu", "villages": [] },
+            { "id": 6246, "name": "Ocopi", "villages": [] },
+            { "id": 6321, "name": "Okavu", "villages": [] },
+            { "id": 6374, "name": "Olea", "villages": [] },
+            { "id": 6393, "name": "Olua", "villages": [] },
+            { "id": 6495, "name": "Onzoro", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 497,
       "name": "Upper madi",
       "sub_counties": [
-        { "id": 1249, "name": "Anyiribu", "parishes": [] },
-        { "id": 57, "name": "Offaka", "parishes": [] },
-        { "id": 59, "name": "Okollo", "parishes": [] },
-        { "id": 62, "name": "Uleppi", "parishes": [] }
+        {
+          "id": 1249,
+          "name": "Anyiribu",
+          "parishes": [
+            { "id": 794, "name": "Bondo", "villages": [] },
+            { "id": 644, "name": "Ayuu", "villages": [] },
+            { "id": 6442, "name": "Omii", "villages": [] },
+            { "id": 7457, "name": "Yilli", "villages": [] }
+          ]
+        },
+        {
+          "id": 57,
+          "name": "Offaka",
+          "parishes": [
+            { "id": 125, "name": "Adraa", "villages": [] },
+            { "id": 1987, "name": "Elibu", "villages": [] },
+            { "id": 6237, "name": "Ocebu", "villages": [] },
+            { "id": 6528, "name": "Oribu", "villages": [] }
+          ]
+        },
+        {
+          "id": 59,
+          "name": "Okollo",
+          "parishes": [
+            { "id": 198, "name": "Ajibu", "villages": [] },
+            { "id": 651, "name": "Baito", "villages": [] },
+            { "id": 6339, "name": "Okollo", "villages": [] },
+            { "id": 6490, "name": "Onyomu", "villages": [] }
+          ]
+        },
+        {
+          "id": 62,
+          "name": "Uleppi",
+          "parishes": [
+            { "id": 513, "name": "Arara", "villages": [] },
+            { "id": 3214, "name": "Katiyi", "villages": [] },
+            { "id": 4436, "name": "Lawura", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 13,
       "name": "Vurra",
       "sub_counties": [
-        { "id": 63, "name": "Ajia", "parishes": [] },
-        { "id": 64, "name": "Arivu", "parishes": [] },
-        { "id": 65, "name": "Logiri", "parishes": [] },
-        { "id": 66, "name": "Vurra", "parishes": [] }
+        {
+          "id": 63,
+          "name": "Ajia",
+          "parishes": [
+            { "id": 196, "name": "Ajia", "villages": [] },
+            { "id": 321, "name": "Alivu", "villages": [] },
+            { "id": 619, "name": "Ayaa", "villages": [] },
+            { "id": 620, "name": "Ayaa-yia", "villages": [] },
+            { "id": 2007, "name": "Ewaa", "villages": [] },
+            { "id": 6198, "name": "Nyirivu", "villages": [] },
+            { "id": 6241, "name": "Ochoko", "villages": [] },
+            { "id": 6383, "name": "Olevu", "villages": [] },
+            { "id": 6434, "name": "Ombokoro", "villages": [] }
+          ]
+        },
+        {
+          "id": 64,
+          "name": "Arivu",
+          "parishes": [
+            { "id": 604, "name": "Awika", "villages": [] },
+            { "id": 1979, "name": "Eceko", "villages": [] },
+            { "id": 7319, "name": "Ulupi", "villages": [] },
+            { "id": 6427, "name": "Ombavu", "villages": [] },
+            { "id": 6454, "name": "Omoo", "villages": [] },
+            { "id": 6650, "name": "Pajuru", "villages": [] }
+          ]
+        },
+        {
+          "id": 65,
+          "name": "Logiri",
+          "parishes": [
+            { "id": 460, "name": "Anyavu", "villages": [] },
+            { "id": 1906, "name": "Chiaba", "villages": [] },
+            { "id": 2273, "name": "Jiki", "villages": [] },
+            { "id": 4437, "name": "Lazebu", "villages": [] },
+            { "id": 6319, "name": "Okavu", "villages": [] },
+            { "id": 6384, "name": "Oliba", "villages": [] },
+            { "id": 6599, "name": "Ozoo", "villages": [] }
+          ]
+        },
+        {
+          "id": 66,
+          "name": "Vurra",
+          "parishes": [
+            { "id": 202, "name": "Ajono", "villages": [] },
+            { "id": 470, "name": "Anzuu", "villages": [] },
+            { "id": 630, "name": "Ayavu", "villages": [] },
+            { "id": 2001, "name": "Eruba", "villages": [] },
+            { "id": 2013, "name": "Ezuku", "villages": [] },
+            { "id": 4153, "name": "Kuluva", "villages": [] },
+            { "id": 6829, "name": "Ringili", "villages": [] },
+            { "id": 7262, "name": "Tilevu", "villages": [] },
+            { "id": 6196, "name": "Nyio", "villages": [] },
+            { "id": 6508, "name": "Opia", "villages": [] }
+          ]
+        }
       ]
     }
   ]

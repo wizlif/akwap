@@ -6,13 +6,91 @@
       "id": 451,
       "name": "Lutseshe",
       "sub_counties": [
-        { "id": 84, "name": "Bubiita", "parishes": [] },
-        { "id": 1252, "name": "Bukalasi", "parishes": [] },
-        { "id": 88, "name": "Bulucheke", "parishes": [] },
-        { "id": 89, "name": "Bumayoka", "parishes": [] },
-        { "id": 1256, "name": "Bushiyi", "parishes": [] },
-        { "id": 1255, "name": "Buwali", "parishes": [] },
-        { "id": 1257, "name": "Nalwanza", "parishes": [] }
+        {
+          "id": 84,
+          "name": "Bubiita",
+          "parishes": [
+            { "id": 4729, "name": "Maaba", "villages": [] },
+            { "id": 7119, "name": "Shikhulusi", "villages": [] },
+            { "id": 7121, "name": "Shishendu", "villages": [] },
+            { "id": 7122, "name": "Shiteka", "villages": [] }
+          ]
+        },
+        {
+          "id": 1252,
+          "name": "Bukalasi",
+          "parishes": [
+            { "id": 1013, "name": "Bukalasi", "villages": [] },
+            { "id": 1073, "name": "Bukibumbi", "villages": [] },
+            { "id": 3133, "name": "Kasuni", "villages": [] },
+            { "id": 4796, "name": "Maika", "villages": [] },
+            { "id": 5503, "name": "Namasheti", "villages": [] },
+            { "id": 5532, "name": "Nametsi", "villages": [] },
+            { "id": 5313, "name": "Nabulalo", "villages": [] },
+            { "id": 7117, "name": "Shibanga", "villages": [] },
+            { "id": 7197, "name": "Summee", "villages": [] }
+          ]
+        },
+        {
+          "id": 88,
+          "name": "Bulucheke",
+          "parishes": [
+            { "id": 1215, "name": "Bumaemba", "villages": [] },
+            { "id": 1234, "name": "Bumasata", "villages": [] },
+            { "id": 1306, "name": "Bumwalukani", "villages": [] },
+            { "id": 1365, "name": "Bunantsushi", "villages": [] },
+            { "id": 7077, "name": "Sakusaku", "villages": [] }
+          ]
+        },
+        {
+          "id": 89,
+          "name": "Bumayoka",
+          "parishes": [
+            { "id": 830, "name": "Bubukasha", "villages": [] },
+            { "id": 876, "name": "Bufuma", "villages": [] },
+            { "id": 1251, "name": "Bumayoka", "villages": [] },
+            { "id": 1358, "name": "Bunandutu", "villages": [] },
+            { "id": 4747, "name": "Mabono", "villages": [] },
+            { "id": 5488, "name": "Namakukye", "villages": [] },
+            { "id": 5567, "name": "Namukhuyu", "villages": [] },
+            { "id": 7318, "name": "Ulukusi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1256,
+          "name": "Bushiyi",
+          "parishes": [
+            { "id": 1395, "name": "Buneboshe", "villages": [] },
+            { "id": 1444, "name": "Burafula", "villages": [] },
+            { "id": 1525, "name": "Bushiyi", "villages": [] },
+            { "id": 1547, "name": "Busiriwa", "villages": [] },
+            { "id": 5542, "name": "Namirumba", "villages": [] },
+            { "id": 4904, "name": "Matuwa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1255,
+          "name": "Buwali",
+          "parishes": [
+            { "id": 1658, "name": "Buwali", "villages": [] },
+            { "id": 1678, "name": "Buwashi", "villages": [] },
+            { "id": 923, "name": "Bugobero", "villages": [] },
+            { "id": 1352, "name": "Bunamwamba", "villages": [] },
+            { "id": 3961, "name": "Kitsawa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1257,
+          "name": "Nalwanza",
+          "parishes": [
+            { "id": 1649, "name": "Buwagiyu", "villages": [] },
+            { "id": 1225, "name": "Bumakhwa", "villages": [] },
+            { "id": 1226, "name": "Bumakita", "villages": [] },
+            { "id": 1296, "name": "Bumusi", "villages": [] },
+            { "id": 1298, "name": "Bumusi upper", "villages": [] },
+            { "id": 1363, "name": "Bunango", "villages": [] }
+          ]
+        }
       ]
     },
     {
@@ -20,20 +98,114 @@
       "name": "Manjiya",
       "sub_counties": [
         { "id": 561, "name": "Bubiita - manjiya district", "parishes": [] },
-        { "id": 85, "name": "Bududa", "parishes": [] },
-        { "id": 1250, "name": "Bududa town council", "parishes": [] },
-        { "id": 86, "name": "Bukibokolo", "parishes": [] },
+        {
+          "id": 85,
+          "name": "Bududa",
+          "parishes": [
+            { "id": 1052, "name": "Bukhatondi", "villages": [] },
+            { "id": 1068, "name": "Bukibino", "villages": [] },
+            { "id": 1085, "name": "Bukimuma", "villages": [] },
+            { "id": 1396, "name": "Buneembe", "villages": [] },
+            { "id": 1483, "name": "Busai", "villages": [] },
+            { "id": 1522, "name": "Bushinyekwa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1250,
+          "name": "Bududa town council",
+          "parishes": [
+            { "id": 1664, "name": "Buwanabisi ward", "villages": [] },
+            { "id": 1169, "name": "Buloli north ward", "villages": [] },
+            { "id": 1170, "name": "Buloli south ward", "villages": [] },
+            { "id": 1351, "name": "Bunamutunyi ward", "villages": [] },
+            { "id": 5664, "name": "Nashula ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 86,
+          "name": "Bukibokolo",
+          "parishes": [
+            { "id": 1653, "name": "Buwakhata", "villages": [] },
+            { "id": 997, "name": "Buirimbi", "villages": [] },
+            { "id": 1026, "name": "Bukari", "villages": [] },
+            { "id": 1188, "name": "Bulumino", "villages": [] },
+            { "id": 1348, "name": "Bunamukye", "villages": [] }
+          ]
+        },
         { "id": 566, "name": "Bukibokolo - manjiya district", "parishes": [] },
-        { "id": 87, "name": "Bukigai", "parishes": [] },
+        {
+          "id": 87,
+          "name": "Bukigai",
+          "parishes": [
+            { "id": 1616, "name": "Butiliku", "villages": [] },
+            { "id": 1654, "name": "Buwakhata", "villages": [] },
+            { "id": 1227, "name": "Bumakuma", "villages": [] },
+            { "id": 1230, "name": "Bumangoye", "villages": [] },
+            { "id": 1261, "name": "Bumirume", "villages": [] },
+            { "id": 1329, "name": "Bunakuti", "villages": [] },
+            { "id": 1345, "name": "Bunamubi", "villages": [] },
+            { "id": 1369, "name": "Bunaporo", "villages": [] },
+            { "id": 4946, "name": "Mbelema", "villages": [] }
+          ]
+        },
         { "id": 562, "name": "Bukigai - manjiya district", "parishes": [] },
         { "id": 563, "name": "Bulucheke - manjiya district", "parishes": [] },
-        { "id": 1254, "name": "Bumasheti", "parishes": [] },
+        {
+          "id": 1254,
+          "name": "Bumasheti",
+          "parishes": [
+            { "id": 1062, "name": "Bukhura", "villages": [] },
+            { "id": 1069, "name": "Bukibokolo", "villages": [] },
+            { "id": 1343, "name": "Bunamee", "villages": [] },
+            { "id": 1489, "name": "Busamali", "villages": [] }
+          ]
+        },
         { "id": 565, "name": "Bumayoka - manjiya district", "parishes": [] },
-        { "id": 90, "name": "Bushika", "parishes": [] },
+        {
+          "id": 90,
+          "name": "Bushika",
+          "parishes": [
+            { "id": 833, "name": "Bubungi", "villages": [] },
+            { "id": 884, "name": "Bufutsa", "villages": [] },
+            { "id": 1053, "name": "Bukhaukha", "villages": [] },
+            { "id": 1295, "name": "Bumushiso", "villages": [] },
+            { "id": 1315, "name": "Bunabutiti", "villages": [] },
+            { "id": 1336, "name": "Bunamanda", "villages": [] },
+            { "id": 5489, "name": "Namakuto", "villages": [] }
+          ]
+        },
         { "id": 564, "name": "Bushika - manjiya district", "parishes": [] },
-        { "id": 1258, "name": "Bushiribo", "parishes": [] },
-        { "id": 1251, "name": "Nabweya", "parishes": [] },
-        { "id": 1253, "name": "Nakatsi", "parishes": [] }
+        {
+          "id": 1258,
+          "name": "Bushiribo",
+          "parishes": [
+            { "id": 871, "name": "Bufukhula", "villages": [] },
+            { "id": 1376, "name": "Bunatsami", "villages": [] },
+            { "id": 1523, "name": "Bushiribo", "villages": [] },
+            { "id": 1578, "name": "Buswalikha", "villages": [] }
+          ]
+        },
+        {
+          "id": 1251,
+          "name": "Nabweya",
+          "parishes": [
+            { "id": 1167, "name": "Bulobi", "villages": [] },
+            { "id": 1326, "name": "Bunakhayoti", "villages": [] },
+            { "id": 1357, "name": "Bunandutu", "villages": [] },
+            { "id": 1378, "name": "Bunatsumya", "villages": [] },
+            { "id": 1423, "name": "Bunyanga", "villages": [] }
+          ]
+        },
+        {
+          "id": 1253,
+          "name": "Nakatsi",
+          "parishes": [
+            { "id": 1279, "name": "Bumukonya", "villages": [] },
+            { "id": 1294, "name": "Bumusenye", "villages": [] },
+            { "id": 1338, "name": "Bunambatsu", "villages": [] },
+            { "id": 1527, "name": "Bushunya", "villages": [] }
+          ]
+        }
       ]
     }
   ]

@@ -6,33 +6,232 @@
       "id": 23,
       "name": "Bughendera",
       "sub_counties": [
-        { "id": 1036, "name": "Bukonzo", "parishes": [] },
-        { "id": 1414, "name": "Bunyamwera", "parishes": [] },
-        { "id": 1413, "name": "Burondo", "parishes": [] },
-        { "id": 125, "name": "Harugali", "parishes": [] },
-        { "id": 1412, "name": "Kagugu", "parishes": [] },
-        { "id": 126, "name": "Kasitu", "parishes": [] },
-        { "id": 127, "name": "Ndugutu", "parishes": [] },
-        { "id": 1034, "name": "Ngamba", "parishes": [] },
-        { "id": 1411, "name": "Ntandi town council", "parishes": [] },
-        { "id": 1035, "name": "Ntotoro", "parishes": [] },
-        { "id": 1033, "name": "Sindila", "parishes": [] }
+        {
+          "id": 1036,
+          "name": "Bukonzo",
+          "parishes": [
+            { "id": 2205, "name": "Irambura", "villages": [] },
+            { "id": 993, "name": "Buhundu", "villages": [] },
+            { "id": 1022, "name": "Bukangama", "villages": [] },
+            { "id": 1405, "name": "Bunghuha", "villages": [] },
+            { "id": 1490, "name": "Busamba", "villages": [] }
+          ]
+        },
+        {
+          "id": 1414,
+          "name": "Bunyamwera",
+          "parishes": [
+            { "id": 1421, "name": "Bunyamwera i", "villages": [] },
+            { "id": 2401, "name": "Kabwe i", "villages": [] },
+            { "id": 2402, "name": "Kabwe ii", "villages": [] },
+            { "id": 4742, "name": "Mabere i", "villages": [] },
+            { "id": 5855, "name": "Nkuranga", "villages": [] }
+          ]
+        },
+        {
+          "id": 1413,
+          "name": "Burondo",
+          "parishes": [
+            { "id": 1463, "name": "Burondo", "villages": [] },
+            { "id": 2960, "name": "Karambi", "villages": [] },
+            { "id": 4741, "name": "Mabere", "villages": [] },
+            { "id": 7102, "name": "Sempaya", "villages": [] }
+          ]
+        },
+        {
+          "id": 125,
+          "name": "Harugali",
+          "parishes": [
+            { "id": 1244, "name": "Bumate", "villages": [] },
+            { "id": 1436, "name": "Bupomboli", "villages": [] },
+            { "id": 3128, "name": "Kasulenge", "villages": [] },
+            { "id": 2690, "name": "Kaleyaleya", "villages": [] },
+            { "id": 5776, "name": "Ngite", "villages": [] }
+          ]
+        },
+        {
+          "id": 1412,
+          "name": "Kagugu",
+          "parishes": [
+            { "id": 1130, "name": "Bukwera", "villages": [] },
+            { "id": 2509, "name": "Kagugu", "villages": [] },
+            { "id": 4325, "name": "Kyebumba", "villages": [] },
+            { "id": 5948, "name": "Ntuma", "villages": [] },
+            { "id": 5208, "name": "Musili", "villages": [] }
+          ]
+        },
+        {
+          "id": 126,
+          "name": "Kasitu",
+          "parishes": [
+            { "id": 3195, "name": "Kathwakali", "villages": [] },
+            { "id": 3098, "name": "Kasitu", "villages": [] },
+            { "id": 4838, "name": "Malomba", "villages": [] },
+            { "id": 5724, "name": "Ndalibana", "villages": [] },
+            { "id": 6066, "name": "Nyakighoma", "villages": [] }
+          ]
+        },
+        {
+          "id": 127,
+          "name": "Ndugutu",
+          "parishes": [
+            { "id": 1388, "name": "Bundimbuga", "villages": [] },
+            { "id": 1584, "name": "Butama", "villages": [] },
+            { "id": 3033, "name": "Kasanzi", "villages": [] },
+            { "id": 5226, "name": "Mutunda", "villages": [] }
+          ]
+        },
+        {
+          "id": 1034,
+          "name": "Ngamba",
+          "parishes": [
+            { "id": 1624, "name": "Butolya", "villages": [] },
+            { "id": 1449, "name": "Burambagira", "villages": [] },
+            { "id": 3641, "name": "Kikyo", "villages": [] },
+            { "id": 5758, "name": "Ngamba", "villages": [] }
+          ]
+        },
+        { "id": 1411, "name": "Ntandi town council", "parishes": [{ "id": 5928, "name": "Ntandi", "villages": [] }] },
+        {
+          "id": 1035,
+          "name": "Ntotoro",
+          "parishes": [
+            { "id": 894, "name": "Bugando", "villages": [] },
+            { "id": 992, "name": "Buhundu", "villages": [] },
+            { "id": 2845, "name": "Kanyansiri", "villages": [] },
+            { "id": 3678, "name": "Kinyankende", "villages": [] },
+            { "id": 6182, "name": "Nyasoro", "villages": [] }
+          ]
+        },
+        {
+          "id": 1033,
+          "name": "Sindila",
+          "parishes": [
+            { "id": 1424, "name": "Bunyangule", "villages": [] },
+            { "id": 2623, "name": "Kakuka", "villages": [] },
+            { "id": 5854, "name": "Nkuranga", "villages": [] },
+            { "id": 6147, "name": "Nyankonda", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 22,
       "name": "Bwamba",
       "sub_counties": [
-        { "id": 121, "name": "Bubandi", "parishes": [] },
-        { "id": 122, "name": "Bubukwanga", "parishes": [] },
-        { "id": 123, "name": "Bundibugyo town council", "parishes": [] },
-        { "id": 1410, "name": "Bundingoma", "parishes": [] },
-        { "id": 124, "name": "Busaru", "parishes": [] },
-        { "id": 1126, "name": "Kirumya", "parishes": [] },
-        { "id": 1123, "name": "Kisubba", "parishes": [] },
-        { "id": 1124, "name": "Mirambi", "parishes": [] },
-        { "id": 1125, "name": "Nyahuka  town council", "parishes": [] },
-        { "id": 1409, "name": "Tokwe", "parishes": [] }
+        {
+          "id": 121,
+          "name": "Bubandi",
+          "parishes": [
+            { "id": 4412, "name": "Lamia", "villages": [] },
+            { "id": 5816, "name": "Njuule", "villages": [] },
+            { "id": 5172, "name": "Mulungitanwa", "villages": [] },
+            { "id": 7273, "name": "Tombwe", "villages": [] },
+            { "id": 6102, "name": "Nyambaro", "villages": [] }
+          ]
+        },
+        {
+          "id": 122,
+          "name": "Bubukwanga",
+          "parishes": [
+            { "id": 831, "name": "Bubukwanga", "villages": [] },
+            { "id": 2139, "name": "Humya", "villages": [] },
+            { "id": 1420, "name": "Bunyamwera", "villages": [] },
+            { "id": 4846, "name": "Mampongya", "villages": [] },
+            { "id": 7091, "name": "Sarah", "villages": [] }
+          ]
+        },
+        {
+          "id": 123,
+          "name": "Bundibugyo town council",
+          "parishes": [
+            { "id": 759, "name": "Bimara ward", "villages": [] },
+            { "id": 2129, "name": "Hamutiti ward", "villages": [] },
+            { "id": 1212, "name": "Bumadu ward", "villages": [] },
+            { "id": 1383, "name": "Bundibugyo central ward", "villages": [] },
+            { "id": 2844, "name": "Kanyansimbi ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1410,
+          "name": "Bundingoma",
+          "parishes": [
+            { "id": 1392, "name": "Bundinamandi", "villages": [] },
+            { "id": 1393, "name": "Bundingoma", "villages": [] },
+            { "id": 1572, "name": "Busunga", "villages": [] },
+            { "id": 2801, "name": "Kanankulongo", "villages": [] },
+            { "id": 5387, "name": "Nakasohe", "villages": [] }
+          ]
+        },
+        {
+          "id": 124,
+          "name": "Busaru",
+          "parishes": [
+            { "id": 934, "name": "Bugombwa", "villages": [] },
+            { "id": 1391, "name": "Bundimwendi", "villages": [] },
+            { "id": 1501, "name": "Busaru", "villages": [] },
+            { "id": 3680, "name": "Kinyante", "villages": [] },
+            { "id": 3733, "name": "Kirindi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1126,
+          "name": "Kirumya",
+          "parishes": [
+            { "id": 1384, "name": "Bundibuturo", "villages": [] },
+            { "id": 1386, "name": "Bundikeki", "villages": [] },
+            { "id": 1390, "name": "Bundimurangya", "villages": [] },
+            { "id": 3241, "name": "Katumba", "villages": [] },
+            { "id": 6146, "name": "Nyankiro", "villages": [] }
+          ]
+        },
+        {
+          "id": 1123,
+          "name": "Kisubba",
+          "parishes": [
+            { "id": 825, "name": "Bubomboli", "villages": [] },
+            { "id": 2123, "name": "Hakitara", "villages": [] },
+            { "id": 1561, "name": "Busoru", "villages": [] },
+            { "id": 2492, "name": "Kaghema", "villages": [] },
+            { "id": 3852, "name": "Kisuba", "villages": [] }
+          ]
+        },
+        {
+          "id": 1124,
+          "name": "Mirambi",
+          "parishes": [
+            { "id": 897, "name": "Buganikire", "villages": [] },
+            { "id": 4145, "name": "Kuka", "villages": [] },
+            { "id": 5809, "name": "Njanja", "villages": [] },
+            { "id": 5006, "name": "Mirambi", "villages": [] },
+            { "id": 7132, "name": "Simbya", "villages": [] }
+          ]
+        },
+        {
+          "id": 1125,
+          "name": "Nyahuka  town council",
+          "parishes": [
+            { "id": 727, "name": "Bhamba ward", "villages": [] },
+            { "id": 1385, "name": "Bundikahungu ward", "villages": [] },
+            { "id": 1387, "name": "Bundikuyali ward", "villages": [] },
+            { "id": 1389, "name": "Bundimulinga ward", "villages": [] },
+            { "id": 3095, "name": "Kasiri ward", "villages": [] },
+            { "id": 2535, "name": "Kahungu ward", "villages": [] },
+            { "id": 5998, "name": "Nyahuka ward", "villages": [] },
+            { "id": 7133, "name": "Simbya nkuru ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1409,
+          "name": "Tokwe",
+          "parishes": [
+            { "id": 2124, "name": "Hakitengya", "villages": [] },
+            { "id": 972, "name": "Buhanda", "villages": [] },
+            { "id": 1394, "name": "Bundinyama", "villages": [] },
+            { "id": 1425, "name": "Bunyaruta", "villages": [] },
+            { "id": 4892, "name": "Mataisa", "villages": [] }
+          ]
+        }
       ]
     }
   ]

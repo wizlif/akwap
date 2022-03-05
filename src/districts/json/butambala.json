@@ -6,12 +6,67 @@
       "id": 118,
       "name": "Butambala",
       "sub_counties": [
-        { "id": 697, "name": "Budde", "parishes": [] },
-        { "id": 696, "name": "Bulo", "parishes": [] },
-        { "id": 1105, "name": "Gombe town council", "parishes": [] },
-        { "id": 698, "name": "Kalamba", "parishes": [] },
-        { "id": 699, "name": "Kibibi", "parishes": [] },
-        { "id": 700, "name": "Ngando", "parishes": [] }
+        {
+          "id": 697,
+          "name": "Budde",
+          "parishes": [
+            { "id": 850, "name": "Budde", "villages": [] },
+            { "id": 2110, "name": "Gwatiro", "villages": [] },
+            { "id": 3416, "name": "Kibugga", "villages": [] },
+            { "id": 4591, "name": "Lugala", "villages": [] }
+          ]
+        },
+        {
+          "id": 696,
+          "name": "Bulo",
+          "parishes": [
+            { "id": 1597, "name": "Butawuka", "villages": [] },
+            { "id": 1150, "name": "Bule", "villages": [] },
+            { "id": 1165, "name": "Bulo", "villages": [] },
+            { "id": 4360, "name": "Kyerima", "villages": [] },
+            { "id": 5399, "name": "Nakatooke", "villages": [] }
+          ]
+        },
+        {
+          "id": 1105,
+          "name": "Gombe town council",
+          "parishes": [
+            { "id": 2088, "name": "Gombe ward", "villages": [] },
+            { "id": 3306, "name": "Kayenje ward", "villages": [] },
+            { "id": 5942, "name": "Ntolomwe ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 698,
+          "name": "Kalamba",
+          "parishes": [
+            { "id": 1797, "name": "Bweya(sseta)", "villages": [] },
+            { "id": 2327, "name": "Kabasanda", "villages": [] },
+            { "id": 3645, "name": "Kilokola", "villages": [] },
+            { "id": 3928, "name": "Kitimba", "villages": [] },
+            { "id": 5920, "name": "Nsozibiri", "villages": [] }
+          ]
+        },
+        {
+          "id": 699,
+          "name": "Kibibi",
+          "parishes": [
+            { "id": 3144, "name": "Katabira", "villages": [] },
+            { "id": 3382, "name": "Kibibi", "villages": [] },
+            { "id": 4738, "name": "Mabanda", "villages": [] },
+            { "id": 5030, "name": "Mitwetwe", "villages": [] }
+          ]
+        },
+        {
+          "id": 700,
+          "name": "Ngando",
+          "parishes": [
+            { "id": 1611, "name": "Butende", "villages": [] },
+            { "id": 1044, "name": "Bukesa", "villages": [] },
+            { "id": 3120, "name": "Kasozi", "villages": [] },
+            { "id": 4593, "name": "Lugali", "villages": [] }
+          ]
+        }
       ]
     }
   ]

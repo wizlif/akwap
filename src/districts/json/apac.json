@@ -6,32 +6,188 @@
       "id": 352,
       "name": "Apac municipality",
       "sub_counties": [
-        { "id": 1439, "name": "Agulu division", "parishes": [] },
-        { "id": 1438, "name": "Akere division", "parishes": [] },
-        { "id": 1437, "name": "Arocha division", "parishes": [] },
-        { "id": 1436, "name": "Atik division", "parishes": [] }
+        {
+          "id": 1439,
+          "name": "Agulu division",
+          "parishes": [
+            { "id": 372, "name": "Aminteng", "villages": [] },
+            { "id": 611, "name": "Awir", "villages": [] },
+            { "id": 7440, "name": "Wormwaka", "villages": [] },
+            { "id": 6466, "name": "Omukuwie", "villages": [] },
+            { "id": 6752, "name": "Pe-ibu", "villages": [] }
+          ]
+        },
+        {
+          "id": 1438,
+          "name": "Akere division",
+          "parishes": [
+            { "id": 426, "name": "Angayiki ward", "villages": [] },
+            { "id": 633, "name": "Ayera", "villages": [] },
+            { "id": 1858, "name": "Central ward", "villages": [] },
+            { "id": 1926, "name": "Dam ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1437,
+          "name": "Arocha division",
+          "parishes": [
+            { "id": 119, "name": "Adok", "villages": [] },
+            { "id": 583, "name": "Atopi ward", "villages": [] },
+            { "id": 701, "name": "Barondong ward", "villages": [] },
+            { "id": 5769, "name": "Ngec", "villages": [] },
+            { "id": 7246, "name": "Temogo ward", "villages": [] },
+            { "id": 6588, "name": "Owang", "villages": [] },
+            { "id": 6596, "name": "Oyo ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1436,
+          "name": "Atik division",
+          "parishes": [
+            { "id": 689, "name": "Barbek", "villages": [] },
+            { "id": 2180, "name": "Iindustrial ward", "villages": [] },
+            { "id": 1400, "name": "Bung ward", "villages": [] },
+            { "id": 6385, "name": "Olili", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 9,
       "name": "Kwania",
       "sub_counties": [
-        { "id": 45, "name": "Abongomola", "parishes": [] },
-        { "id": 41, "name": "Aduku", "parishes": [] },
-        { "id": 1227, "name": "Aduku town council", "parishes": [] },
-        { "id": 42, "name": "Cawente", "parishes": [] },
-        { "id": 43, "name": "Inomo", "parishes": [] },
-        { "id": 44, "name": "Nambieso", "parishes": [] }
+        {
+          "id": 45,
+          "name": "Abongomola",
+          "parishes": [
+            { "id": 12, "name": "Abany", "villages": [] },
+            { "id": 66, "name": "Abwong", "villages": [] },
+            { "id": 94, "name": "Acungi", "villages": [] },
+            { "id": 114, "name": "Aderolongo", "villages": [] },
+            { "id": 175, "name": "Agwa", "villages": [] },
+            { "id": 218, "name": "Akali", "villages": [] },
+            { "id": 386, "name": "Amorigoga", "villages": [] },
+            { "id": 7239, "name": "Teioro", "villages": [] }
+          ]
+        },
+        {
+          "id": 41,
+          "name": "Aduku",
+          "parishes": [
+            { "id": 43, "name": "Aboko", "villages": [] },
+            { "id": 135, "name": "Adyeda", "villages": [] },
+            { "id": 313, "name": "Alira", "villages": [] },
+            { "id": 492, "name": "Apire", "villages": [] },
+            { "id": 6483, "name": "Ongoceng", "villages": [] }
+          ]
+        },
+        {
+          "id": 1227,
+          "name": "Aduku town council",
+          "parishes": [
+            { "id": 2189, "name": "Ikwera ward", "villages": [] },
+            { "id": 7233, "name": "Teduka ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 42,
+          "name": "Cawente",
+          "parishes": [
+            { "id": 76, "name": "Acenlworo", "villages": [] },
+            { "id": 190, "name": "Ajar", "villages": [] },
+            { "id": 309, "name": "Alido", "villages": [] },
+            { "id": 580, "name": "Atongtidi", "villages": [] },
+            { "id": 584, "name": "Atule", "villages": [] },
+            { "id": 2253, "name": "Iwal", "villages": [] }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "Inomo",
+          "parishes": [
+            { "id": 21, "name": "Abedmot", "villages": [] },
+            { "id": 182, "name": "Agwiciri", "villages": [] },
+            { "id": 201, "name": "Ajok", "villages": [] },
+            { "id": 333, "name": "Aluka", "villages": [] },
+            { "id": 676, "name": "Banya", "villages": [] },
+            { "id": 2201, "name": "Inomo", "villages": [] }
+          ]
+        },
+        {
+          "id": 44,
+          "name": "Nambieso",
+          "parishes": [
+            { "id": 51, "name": "Abuli", "villages": [] },
+            { "id": 68, "name": "Acaba", "villages": [] },
+            { "id": 450, "name": "Anwangi", "villages": [] },
+            { "id": 472, "name": "Aornga", "villages": [] },
+            { "id": 621, "name": "Ayabi", "villages": [] },
+            { "id": 2004, "name": "Etekiber", "villages": [] },
+            { "id": 1399, "name": "Bung", "villages": [] },
+            { "id": 6802, "name": "Punuatar", "villages": [] },
+            { "id": 6299, "name": "Ogwil", "villages": [] },
+            { "id": 6591, "name": "Owiny", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 10,
       "name": "Maruzi",
       "sub_counties": [
-        { "id": 47, "name": "Akokoro", "parishes": [] },
-        { "id": 50, "name": "Apac", "parishes": [] },
-        { "id": 48, "name": "Chegere", "parishes": [] },
-        { "id": 49, "name": "Ibuje", "parishes": [] }
+        {
+          "id": 47,
+          "name": "Akokoro",
+          "parishes": [
+            { "id": 249, "name": "Akokoro", "villages": [] },
+            { "id": 288, "name": "Alaro", "villages": [] },
+            { "id": 399, "name": "Amun", "villages": [] },
+            { "id": 494, "name": "Apoi", "villages": [] },
+            { "id": 606, "name": "Awila", "villages": [] },
+            { "id": 623, "name": "Ayago", "villages": [] },
+            { "id": 632, "name": "Ayeolyec", "villages": [] },
+            { "id": 4158, "name": "Kungu", "villages": [] }
+          ]
+        },
+        {
+          "id": 50,
+          "name": "Apac",
+          "parishes": [
+            { "id": 20, "name": "Abedi", "villages": [] },
+            { "id": 229, "name": "Akere", "villages": [] },
+            { "id": 556, "name": "Atana", "villages": [] },
+            { "id": 572, "name": "Atik", "villages": [] },
+            { "id": 582, "name": "Atopi", "villages": [] }
+          ]
+        },
+        {
+          "id": 48,
+          "name": "Chegere",
+          "parishes": [
+            { "id": 111, "name": "Adem", "villages": [] },
+            { "id": 159, "name": "Agong", "villages": [] },
+            { "id": 569, "name": "Atigolwok", "villages": [] },
+            { "id": 699, "name": "Barodilo", "villages": [] },
+            { "id": 1877, "name": "Chegere", "villages": [] },
+            { "id": 2190, "name": "Ilee", "villages": [] },
+            { "id": 3457, "name": "Kidilani", "villages": [] },
+            { "id": 7231, "name": "Teboke", "villages": [] },
+            { "id": 6392, "name": "Ololango", "villages": [] },
+            { "id": 6480, "name": "Ongica", "villages": [] }
+          ]
+        },
+        {
+          "id": 49,
+          "name": "Ibuje",
+          "parishes": [
+            { "id": 144, "name": "Aganga", "villages": [] },
+            { "id": 233, "name": "Aketo", "villages": [] },
+            { "id": 342, "name": "Alworoceng", "villages": [] },
+            { "id": 366, "name": "Amii-aberidwogo", "villages": [] },
+            { "id": 367, "name": "Amii-amilo", "villages": [] },
+            { "id": 7224, "name": "Tarogali", "villages": [] }
+          ]
+        }
       ]
     }
   ]

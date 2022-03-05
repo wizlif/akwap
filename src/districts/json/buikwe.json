@@ -6,30 +6,155 @@
       "id": 366,
       "name": "Buikwe south",
       "sub_counties": [
-        { "id": 724, "name": "Buikwe", "parishes": [] },
-        { "id": 1041, "name": "Buikwe town council", "parishes": [] },
-        { "id": 731, "name": "Najja", "parishes": [] },
-        { "id": 727, "name": "Ngogwe", "parishes": [] },
-        { "id": 1446, "name": "Nkokonjeru town council", "parishes": [] },
-        { "id": 734, "name": "Ssi", "parishes": [] }
+        {
+          "id": 724,
+          "name": "Buikwe",
+          "parishes": [
+            { "id": 4841, "name": "Malongwe", "villages": [] },
+            { "id": 3893, "name": "Kitazi", "villages": [] },
+            { "id": 7188, "name": "Ssugu", "villages": [] }
+          ]
+        },
+        {
+          "id": 1041,
+          "name": "Buikwe town council",
+          "parishes": [
+            { "id": 996, "name": "Buikwe ward", "villages": [] },
+            { "id": 4717, "name": "Lweru ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 731,
+          "name": "Najja",
+          "parishes": [
+            { "id": 2096, "name": "Gulama", "villages": [] },
+            { "id": 1481, "name": "Busagazi", "villages": [] },
+            { "id": 3823, "name": "Kisiimba", "villages": [] },
+            { "id": 4022, "name": "Kiyindi", "villages": [] },
+            { "id": 5507, "name": "Namatovu", "villages": [] },
+            { "id": 4914, "name": "Mawotto", "villages": [] },
+            { "id": 7302, "name": "Tukulu", "villages": [] }
+          ]
+        },
+        {
+          "id": 727,
+          "name": "Ngogwe",
+          "parishes": [
+            { "id": 1960, "name": "Dungi", "villages": [] },
+            { "id": 4580, "name": "Lubongo", "villages": [] },
+            { "id": 3640, "name": "Kikwayi", "villages": [] },
+            { "id": 3738, "name": "Kiringo", "villages": [] },
+            { "id": 5744, "name": "Ndolwa", "villages": [] },
+            { "id": 5578, "name": "Namulesa", "villages": [] }
+          ]
+        },
+        {
+          "id": 1446,
+          "name": "Nkokonjeru town council",
+          "parishes": [
+            { "id": 1031, "name": "Bukasa ward", "villages": [] },
+            { "id": 5832, "name": "Nkokonjeru ward", "villages": [] },
+            { "id": 5160, "name": "Mulajje ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 734,
+          "name": "Ssi",
+          "parishes": [
+            { "id": 721, "name": "Bbinga", "villages": [] },
+            { "id": 4590, "name": "Lugala", "villages": [] },
+            { "id": 4598, "name": "Lugoba", "villages": [] },
+            { "id": 3656, "name": "Kimera", "villages": [] },
+            { "id": 4051, "name": "Koba", "villages": [] },
+            { "id": 5572, "name": "Namukuma", "villages": [] },
+            { "id": 5232, "name": "Muvo", "villages": [] },
+            { "id": 7473, "name": "Zitwe", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 450,
       "name": "Lugazi municipality",
       "sub_counties": [
-        { "id": 1489, "name": "Central division", "parishes": [] },
-        { "id": 1488, "name": "Kawolo division", "parishes": [] },
-        { "id": 1487, "name": "Najjembe division", "parishes": [] }
+        {
+          "id": 1489,
+          "name": "Central division",
+          "parishes": [
+            { "id": 3285, "name": "Kawotto ward", "villages": [] },
+            { "id": 2373, "name": "Kabowa ward", "villages": [] },
+            { "id": 3596, "name": "Kikawula ward", "villages": [] },
+            { "id": 5410, "name": "Nakazadde ward", "villages": [] },
+            { "id": 5531, "name": "Namengo ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1488,
+          "name": "Kawolo division",
+          "parishes": [
+            { "id": 729, "name": "Bibbo", "villages": [] },
+            { "id": 1619, "name": "Butinindi", "villages": [] },
+            { "id": 1210, "name": "Bulyanteete", "villages": [] },
+            { "id": 1474, "name": "Busaabaga", "villages": [] },
+            { "id": 4659, "name": "Luwayo", "villages": [] },
+            { "id": 3500, "name": "Kigenda", "villages": [] },
+            { "id": 3920, "name": "Kiteza", "villages": [] },
+            { "id": 7071, "name": "Sagazi", "villages": [] }
+          ]
+        },
+        {
+          "id": 1487,
+          "name": "Najjembe division",
+          "parishes": [
+            { "id": 1643, "name": "Buvunya", "villages": [] },
+            { "id": 1706, "name": "Buwoola", "villages": [] },
+            { "id": 2320, "name": "Kabanga", "villages": [] },
+            { "id": 3672, "name": "Kinoni", "villages": [] },
+            { "id": 3926, "name": "Kitigoma", "villages": [] },
+            { "id": 4044, "name": "Kizigo", "villages": [] },
+            { "id": 5887, "name": "Nsakya", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 475,
       "name": "Njeru municipality",
       "sub_counties": [
-        { "id": 1506, "name": "Njeru division", "parishes": [] },
-        { "id": 1505, "name": "Nyenga division", "parishes": [] },
-        { "id": 1504, "name": "Wakisi division", "parishes": [] }
+        {
+          "id": 1506,
+          "name": "Njeru division",
+          "parishes": [
+            { "id": 5812, "name": "Njeru east ward", "villages": [] },
+            { "id": 5813, "name": "Njeru north ward", "villages": [] },
+            { "id": 5814, "name": "Njeru south ward", "villages": [] },
+            { "id": 5815, "name": "Njeru west ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 1505,
+          "name": "Nyenga division",
+          "parishes": [
+            { "id": 1756, "name": "Buziika (b)", "villages": [] },
+            { "id": 2364, "name": "Kabizzi", "villages": [] },
+            { "id": 5474, "name": "Namabu", "villages": [] },
+            { "id": 7190, "name": "Ssunga", "villages": [] },
+            { "id": 7275, "name": "Tongolo", "villages": [] },
+            { "id": 6187, "name": "Nyenga", "villages": [] }
+          ]
+        },
+        {
+          "id": 1504,
+          "name": "Wakisi division",
+          "parishes": [
+            { "id": 2663, "name": "Kalagala", "villages": [] },
+            { "id": 4836, "name": "Malindi", "villages": [] },
+            { "id": 4050, "name": "Kkonko", "villages": [] },
+            { "id": 5536, "name": "Naminya", "villages": [] },
+            { "id": 5368, "name": "Nakalanga", "villages": [] },
+            { "id": 7352, "name": "Wakisi", "villages": [] }
+          ]
+        }
       ]
     }
   ]

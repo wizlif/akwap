@@ -6,20 +6,64 @@
       "id": 36,
       "name": "Bugahya",
       "sub_counties": [
-        { "id": 200, "name": "Buhanika", "parishes": [] },
-        { "id": 201, "name": "Buseruka", "parishes": [] },
-        { "id": 204, "name": "Kitoba", "parishes": [] },
-        { "id": 205, "name": "Kyabigambire", "parishes": [] }
+        { "id": 200, "name": "Buhanika", "parishes": [
+          <option value="1604">Butema</option>
+          <option value="3186">Katereiga</option>
+          <option value="4377">Kyohairwe</option>
+          <option value="3599">Kikerege</option>
+          <option value="3950">Kitonya</option>
+          <option value="3957">Kitorogya</option>
+        ] },
+        { "id": 201, "name": "Buseruka", "parishes": [
+          <option value="2293">Kabaale</option>
+          <option value="6004">Nyakabingo</option>
+          <option value="7277">Tonya</option>
+        ] },
+        { "id": 204, "name": "Kitoba", "parishes": [
+          <option value="768">Birungu</option>
+	<option value="847">Budaka</option>
+	<option value="1208">Bulyango</option>
+	<option value="3372">Kibanjwa</option>
+	<option value="3696">Kiragura</option>
+	<option value="3769">Kiryangobe</option>
+        ] },
+        { "id": 205, "name": "Kyabigambire", "parishes": [
+          <option value="1162">Bulindi</option>
+          <option value="1454">Buraru</option>
+          <option value="3417">Kibugubya</option>
+          <option value="3781">Kisabagwa</option>
+        ] }
       ]
     },
     {
       "id": 37,
       "name": "Buhaguzi",
       "sub_counties": [
-        { "id": 206, "name": "Bugambe", "parishes": [] },
-        { "id": 207, "name": "Buhimba", "parishes": [] },
-        { "id": 208, "name": "Kabwoya", "parishes": [] },
-        { "id": 209, "name": "Kiziranfumbi", "parishes": [] },
+        { "id": 206, "name": "Bugambe", "parishes": [
+          <option value="890">Bugambe</option>
+	<option value="3162">Katanga</option>
+	<option value="6875">Ruguse</option>
+	<option value="6163">Nyarugabu</option>
+        ] },
+        { "id": 207, "name": "Buhimba", "parishes": [
+          <option value="4187">Kyabatalya</option>
+          <option value="3668">Kinogozi</option>
+          <option value="5197">Musaijamukuru east</option>
+          <option value="5198">Musaijamukuru west</option>
+          <option value="6888">Ruhunga</option>
+        ] },
+        { "id": 208, "name": "Kabwoya", "parishes": [
+          <option value="824">Bubogo</option>
+          <option value="2174">Igwanjura</option>
+          <option value="3038">Kaseeta</option>
+          <option value="3653">Kimbugu</option>
+          <option value="5839">Nkondo</option>
+        ] },
+        { "id": 209, "name": "Kiziranfumbi", "parishes": [
+          <option value="1160">Bulimya</option>
+          <option value="3460">Kidoma</option>
+          <option value="5181">Munteme</option>
+        ] },
         { "id": 210, "name": "Kyangwali", "parishes": [] }
       ]
     },

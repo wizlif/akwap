@@ -6,17 +6,74 @@
       "id": 433,
       "name": "Kilak north",
       "sub_counties": [
-        { "id": 28, "name": "Atiak", "parishes": [] },
-        { "id": 29, "name": "Pabbo", "parishes": [] }
+        {
+          "id": 28,
+          "name": "Atiak",
+          "parishes": [
+            { "id": 730, "name": "Bibia", "villages": [] },
+            { "id": 2651, "name": "Kal(atiak)", "villages": [] },
+            { "id": 6805, "name": "Pupwonya", "villages": [] },
+            { "id": 6325, "name": "Okidi", "villages": [] },
+            { "id": 6615, "name": "Pacilo", "villages": [] },
+            { "id": 6677, "name": "Palukere", "villages": [] },
+            { "id": 6729, "name": "Parwaca", "villages": [] },
+            { "id": 6744, "name": "Pawel", "villages": [] }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Pabbo",
+          "parishes": [
+            { "id": 2044, "name": "Gaya", "villages": [] },
+            { "id": 2642, "name": "Kal", "villages": [] },
+            { "id": 4386, "name": "Labala", "villages": [] },
+            { "id": 6772, "name": "Pogo", "villages": [] },
+            { "id": 6682, "name": "Palwong", "villages": [] },
+            { "id": 6727, "name": "Parubanga", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 434,
       "name": "Kilak south",
       "sub_counties": [
-        { "id": 27, "name": "Amuru", "parishes": [] },
-        { "id": 31, "name": "Amuru town council", "parishes": [] },
-        { "id": 30, "name": "Lamogi", "parishes": [] }
+        {
+          "id": 27,
+          "name": "Amuru",
+          "parishes": [
+            { "id": 97, "name": "Acwera", "villages": [] },
+            { "id": 7281, "name": "Toro", "villages": [] },
+            { "id": 6349, "name": "Okunged", "villages": [] },
+            { "id": 6624, "name": "Pagak", "villages": [] },
+            { "id": 6641, "name": "Pailyec", "villages": [] },
+            { "id": 6697, "name": "Pamuca", "villages": [] }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Amuru town council",
+          "parishes": [
+            { "id": 390, "name": "Amoyokoma ward", "villages": [] },
+            { "id": 4608, "name": "Lujoro ward", "villages": [] },
+            { "id": 6771, "name": "Pogi ward", "villages": [] },
+            { "id": 6583, "name": "Otwee ward", "villages": [] }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Lamogi",
+          "parishes": [
+            { "id": 178, "name": "Agwaryugi", "villages": [] },
+            { "id": 1915, "name": "Coke", "villages": [] },
+            { "id": 2068, "name": "Giragira", "villages": [] },
+            { "id": 2104, "name": "Guruguru", "villages": [] },
+            { "id": 4398, "name": "Lacor", "villages": [] },
+            { "id": 6213, "name": "Obbo", "villages": [] },
+            { "id": 6631, "name": "Pagoro", "villages": [] },
+            { "id": 6671, "name": "Palema", "villages": [] }
+          ]
+        }
       ]
     }
   ]

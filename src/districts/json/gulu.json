@@ -6,22 +6,113 @@
       "id": 33,
       "name": "Aswa",
       "sub_counties": [
-        { "id": 184, "name": "Awach", "parishes": [] },
-        { "id": 185, "name": "Bungatira", "parishes": [] },
-        { "id": 186, "name": "Paicho", "parishes": [] },
-        { "id": 187, "name": "Palaro", "parishes": [] },
-        { "id": 188, "name": "Patiko", "parishes": [] },
-        { "id": 991, "name": "Unyama", "parishes": [] }
+        {
+          "id": 184,
+          "name": "Awach",
+          "parishes": [
+            { "id": 2111, "name": "Gwengdiya", "villages": [] },
+            { "id": 6795, "name": "Pukony", "villages": [] },
+            { "id": 6622, "name": "Paduny", "villages": [] },
+            { "id": 6634, "name": "Paibona", "villages": [] }
+          ]
+        },
+        {
+          "id": 185,
+          "name": "Bungatira",
+          "parishes": [
+            { "id": 161, "name": "Agonga", "villages": [] },
+            { "id": 567, "name": "Atiabar", "villages": [] },
+            { "id": 4410, "name": "Laliya", "villages": [] },
+            { "id": 4430, "name": "Laroo", "villages": [] },
+            { "id": 6800, "name": "Punena", "villages": [] },
+            { "id": 6302, "name": "Oitino", "villages": [] },
+            { "id": 6608, "name": "Pabwo", "villages": [] }
+          ]
+        },
+        {
+          "id": 186,
+          "name": "Paicho",
+          "parishes": [
+            { "id": 2653, "name": "Kal-alii", "villages": [] },
+            { "id": 2712, "name": "Kalumu", "villages": [] },
+            { "id": 6437, "name": "Omel", "villages": [] },
+            { "id": 6630, "name": "Pagik", "villages": [] }
+          ]
+        },
+        {
+          "id": 187,
+          "name": "Palaro",
+          "parishes": [
+            { "id": 4396, "name": "Labworumor", "villages": [] },
+            { "id": 4964, "name": "Mede", "villages": [] },
+            { "id": 6586, "name": "Owalo", "villages": [] }
+          ]
+        },
+        {
+          "id": 188,
+          "name": "Patiko",
+          "parishes": [
+            { "id": 2643, "name": "Kal", "villages": [] },
+            { "id": 6793, "name": "Pugwenyi", "villages": [] },
+            { "id": 6745, "name": "Pawel", "villages": [] }
+          ]
+        },
+        {
+          "id": 991,
+          "name": "Unyama",
+          "parishes": [
+            { "id": 425, "name": "Angaya", "villages": [] },
+            { "id": 7321, "name": "Unyama", "villages": [] },
+            { "id": 6255, "name": "Oding", "villages": [] },
+            { "id": 6662, "name": "Pakwelo", "villages": [] }
+          ]
+        }
       ]
     },
     {
       "id": 35,
       "name": "Gulu municipality",
       "sub_counties": [
-        { "id": 196, "name": "Bar-dege", "parishes": [] },
-        { "id": 197, "name": "Laroo", "parishes": [] },
-        { "id": 198, "name": "Layibi", "parishes": [] },
-        { "id": 195, "name": "Pece", "parishes": [] }
+        {
+          "id": 196,
+          "name": "Bar-dege",
+          "parishes": [
+            { "id": 681, "name": "Bar-dege", "villages": [] },
+            { "id": 2015, "name": "For god", "villages": [] },
+            { "id": 2833, "name": "Kanyagoga", "villages": [] },
+            { "id": 3122, "name": "Kasubi", "villages": [] }
+          ]
+        },
+        {
+          "id": 197,
+          "name": "Laroo",
+          "parishes": [
+            { "id": 179, "name": "Agwee", "villages": [] },
+            { "id": 2210, "name": "Iriaga", "villages": [] },
+            { "id": 6809, "name": "Queens avenue", "villages": [] },
+            { "id": 6753, "name": "Pece prisons", "villages": [] }
+          ]
+        },
+        {
+          "id": 198,
+          "name": "Layibi",
+          "parishes": [
+            { "id": 4455, "name": "Library", "villages": [] },
+            { "id": 3743, "name": "Kirombe", "villages": [] },
+            { "id": 7232, "name": "Techo", "villages": [] },
+            { "id": 6738, "name": "Patuda", "villages": [] }
+          ]
+        },
+        {
+          "id": 195,
+          "name": "Pece",
+          "parishes": [
+            { "id": 4393, "name": "Labourline", "villages": [] },
+            { "id": 7238, "name": "Tegwana", "villages": [] },
+            { "id": 7326, "name": "Vanguard", "villages": [] },
+            { "id": 6746, "name": "Pawel", "villages": [] }
+          ]
+        }
       ]
     }
   ]
