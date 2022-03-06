@@ -1,6 +1,6 @@
 import { BaseDistrict } from '../types';
 
-export default <BaseDistrict[]>[
+export default [
   { id: 98, name: 'ABIM' },
   { id: 68, name: 'ADJUMANI' },
   { id: 23, name: 'AGAGO' },
@@ -136,4 +136,4 @@ export default <BaseDistrict[]>[
   { id: 80, name: 'WAKISO' },
   { id: 81, name: 'YUMBE' },
   { id: 115, name: 'ZOMBO' },
-];
+] as BaseDistrict[];

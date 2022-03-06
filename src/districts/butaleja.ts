@@ -1,6 +1,6 @@
 import { District } from '../types';
 
-export default <District>{
+export default {
   id: 88,
   name: 'BUTALEJA',
   counties: [
@@ -1019,4 +1019,4 @@ export default <District>{
       ],
     },
   ],
-};
+} as District;

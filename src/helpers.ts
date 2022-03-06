@@ -1,14 +1,20 @@
 import stringSimilarity = require('string-similarity');
 import { _districtsHashMap } from '.';
 import { District, BaseCounty, Base, BaseSubCounty, BaseParish, BaseVillage } from './types';
+import { toCamelCase } from './utils/utils';
 
 export function getDistrict(district: string): District {
-  const ds = _districtsHashMap[district.replace('-', '_').toLowerCase()];
+  district = district.toLowerCase();
+  if (district.includes('-')) {
+    district = toCamelCase(district);
+  }
+
+  const ds = _districtsHashMap[district];
 
   if (ds) {
     return ds;
   } else {
-    throw 'No such district';
+    throw new Error('No such district');
   }
 }
 
@@ -24,14 +30,13 @@ export function getCounty(county: string, accuracy: number = 0.5): BaseCounty[] 
         const score = stringSimilarity.compareTwoStrings(ds.name.toLowerCase(), county.toLowerCase());
         return score > accuracy;
       })
-      .map(
-        (ds) =>
-          <BaseCounty>{
-            id: ds.id,
-            name: ds.name,
-            district: _district,
-          },
-      );
+      .map((ds) => {
+        return {
+          id: ds.id,
+          name: ds.name,
+          district: _district,
+        } as BaseCounty;
+      });
   });
 
   return counties.reduce((accumulator, value) => accumulator.concat(value), []);
@@ -56,15 +61,14 @@ export function getSubCounty(subcounty: string, accuracy: number = 0.5): BaseSub
             const score = stringSimilarity.compareTwoStrings(es.name.toLowerCase(), subcounty.toLowerCase());
             return score > accuracy;
           })
-          .map(
-            (es) =>
-              <BaseSubCounty>{
-                id: es.id,
-                name: es.name,
-                district: _district,
-                county: _county,
-              },
-          );
+          .map((es) => {
+            return {
+              id: es.id,
+              name: es.name,
+              district: _district,
+              county: _county,
+            } as BaseSubCounty;
+          });
       })
       .reduce((accumulator, value) => accumulator.concat(value), []);
   });
@@ -98,16 +102,15 @@ export function getParish(parish: string, accuracy: number = 0.5): BaseParish[] 
                 const score = stringSimilarity.compareTwoStrings(es.name.toLowerCase(), parish.toLowerCase());
                 return score > accuracy;
               })
-              .map(
-                (es) =>
-                  <BaseParish>{
-                    id: es.id,
-                    name: es.name,
-                    district: _district,
-                    county: _county,
-                    sub_county: _subcounty,
-                  },
-              );
+              .map((es) => {
+                return {
+                  id: es.id,
+                  name: es.name,
+                  district: _district,
+                  county: _county,
+                  sub_county: _subcounty,
+                } as BaseParish;
+              });
           })
           .reduce((accumulator, value) => accumulator.concat(value), []);
       })
@@ -150,17 +153,16 @@ export function getVillage(village: string, accuracy: number = 0.5): BaseVillage
                     const score = stringSimilarity.compareTwoStrings(es.name.toLowerCase(), village.toLowerCase());
                     return score > accuracy;
                   })
-                  .map(
-                    (es) =>
-                      <BaseVillage>{
-                        id: es.id,
-                        name: es.name,
-                        district: _district,
-                        county: _county,
-                        sub_county: _subcounty,
-                        parish: _parish,
-                      },
-                  );
+                  .map((es) => {
+                    return {
+                      id: es.id,
+                      name: es.name,
+                      district: _district,
+                      county: _county,
+                      sub_county: _subcounty,
+                      parish: _parish,
+                    } as BaseVillage;
+                  });
               })
               .reduce((accumulator, value) => accumulator.concat(value), []);
           })
