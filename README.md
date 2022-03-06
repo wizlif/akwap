@@ -47,7 +47,7 @@ This package also contains helper methods to search for content. The search uses
 ## Get district
 
 ```js
-import { getDistrict } from 'akwap/helper';
+import { getDistrict } from 'akwap';
 
 const district = getDistrict('ABIM');
 
@@ -61,7 +61,7 @@ console.log(district);
 ## Get county
 
 ```js
-import { getCounty } from 'akwap/helper';
+import { getCounty } from 'akwap';
 
 const counties = getCounty('ADJUMANI');
 
@@ -83,7 +83,7 @@ console.log(counties);
 ## Get Subcounty
 
 ```js
-import { getSubCounty } from 'akwap/helper';
+import { getSubCounty } from 'akwap';
 
 const subCounties = getSubCounty('ARINYAPI');
 
@@ -107,7 +107,7 @@ console.log(subCounties);
 ## Get parish
 
 ```js
-import { getParish } from 'akwap/helper';
+import { getParish } from 'akwap';
 
 const parishes = getParish('KAMULI', 0.8);
 
@@ -134,7 +134,7 @@ console.log(parishes);
 ## Get village
 
 ```js
-import { getVillage } from 'akwap/helper';
+import { getVillage } from 'akwap';
 
 const villages = getVillage('KAMULI', 0.8);
 

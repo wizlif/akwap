@@ -12,7 +12,6 @@
     "prepare": "yarn run build",
     "prepublishOnly": "yarn run test && yarn run lint",
     "preversion": "yarn run lint",
-    "publish": "yarn run build && npm publish",
     "version": "yarn run format && git add -A src",
     "postversion": "git push && git push --tags"
   },
