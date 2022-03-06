@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A Ugandan Geolocation flow.",
   "main": "lib/index.js",
-  "types": "lib/types.d.ts",
+  "typings": "lib/types.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
