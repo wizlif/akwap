@@ -68,3 +68,116 @@ export type Village = {
    */
   id: number;
 };
+
+/**
+ * Base Types without extra data
+ */
+export type BaseDistrict = {
+  /**
+   * District name
+   */
+  name: string;
+  /**
+   * District id
+   */
+  id: number;
+};
+
+export type BaseCounty = {
+  /**
+   * County name
+   */
+  name: string;
+  /**
+   * County id
+   */
+  id: number;
+
+  /**
+   * County district
+   */
+  district: BaseDistrict;
+};
+
+export type Base = {
+  name: string;
+  id: number;
+};
+
+export type BaseSubCounty = {
+  /**
+   * SubCounty name
+   */
+  name: string;
+  /**
+   * SubCounty id
+   */
+  id: number;
+
+  /**
+   * SubCounty county
+   */
+  county: Base;
+
+  /**
+   * SubCounty district
+   */
+  district: Base;
+};
+
+export type BaseParish = {
+  /**
+   * Parish name
+   */
+  name: string;
+  /**
+   * Parish id
+   */
+  id: number;
+
+  /**
+   * Parish sub county
+   */
+  sub_county: Base;
+
+  /**
+   * Parish county
+   */
+  county: Base;
+
+  /**
+   * Parish district
+   */
+  district: Base;
+};
+
+export type BaseVillage = {
+  /**
+   * Parish name
+   */
+  name: string;
+  /**
+   * Parish id
+   */
+  id: number;
+
+  /**
+   * Parish sub county
+   */
+  parish: Base;
+
+  /**
+   * Parish sub county
+   */
+  sub_county: Base;
+
+  /**
+   * Parish county
+   */
+  county: Base;
+
+  /**
+   * Parish district
+   */
+  district: Base;
+};

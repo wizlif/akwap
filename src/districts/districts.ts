@@ -1,4 +1,6 @@
-export default <{ /*District ID */ id: number; /* District Name */ name: string }[]>[
+import { BaseDistrict } from '../types';
+
+export default <BaseDistrict[]>[
   { id: 98, name: 'ABIM' },
   { id: 68, name: 'ADJUMANI' },
   { id: 23, name: 'AGAGO' },
