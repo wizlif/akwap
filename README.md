@@ -42,7 +42,7 @@ console.log(abim);
 // }
 ```
 
-This package also contains a helper methods to search for content. The search uses fuzzy search to get back results. Pass an `accuracy` value to change the accuracy of the fuzzy search, default is `.5` and maximum is `1`
+This package also contains helper methods to search for content. The search uses fuzzy search to get back results. Pass an `accuracy` value to change the accuracy of the fuzzy search, default is `.5` and maximum is `1`
 
 ## Get district
 
@@ -104,28 +104,6 @@ console.log(subCounties);
 // ]
 ```
 
-## Get county
-
-```js
-import { getCounty } from 'akwap/helper';
-
-const counties = getCounty('ADJUMANI');
-
-console.log(counties);
-// [
-//   {
-//     id: 166,
-//     name: 'ADJUMANI EAST COUNTY',
-//     district: { id: 68, name: 'ADJUMANI' }
-//   },
-//   {
-//     id: 165,
-//     name: 'ADJUMANI WEST COUNTY',
-//     district: { id: 68, name: 'ADJUMANI' }
-//   }
-// ]
-```
-
 ## Get parish
 
 ```js
@@ -151,28 +129,6 @@ console.log(parishes);
 //       },
 //      ...
 //     ]
-```
-
-## Get county
-
-```js
-import { getCounty } from 'akwap/helper';
-
-const counties = getCounty('ADJUMANI');
-
-console.log(counties);
-// [
-//   {
-//     id: 166,
-//     name: 'ADJUMANI EAST COUNTY',
-//     district: { id: 68, name: 'ADJUMANI' }
-//   },
-//   {
-//     id: 165,
-//     name: 'ADJUMANI WEST COUNTY',
-//     district: { id: 68, name: 'ADJUMANI' }
-//   }
-// ]
 ```
 
 ## Get village
