@@ -1,9 +1,9 @@
 {
   "name": "akwap",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A Ugandan Geolocation flow.",
   "main": "lib/index.js",
-  "typings": "lib/types.d.ts",
+  "types": "lib/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "tsc",
@@ -12,6 +12,7 @@
     "prepare": "yarn run build",
     "prepublishOnly": "yarn run test && yarn run lint",
     "preversion": "yarn run lint",
+    "publish": "yarn run build && npm publish",
     "version": "yarn run format && git add -A src",
     "postversion": "git push && git push --tags"
   },

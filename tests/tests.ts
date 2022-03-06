@@ -1,4 +1,4 @@
-import { getCounty, getDistrict, getParish, getSubCounty, getVillage } from '../helpers';
+import { getCounty, getDistrict, getParish, getSubCounty, getVillage } from '../src/index';
 const stringSimilarity = require('string-similarity');
 
 it('loads selected district', () => {

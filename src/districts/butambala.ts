@@ -1,4 +1,4 @@
-import { District } from '../types';
+import { District } from '../index';
 
 export default {
   id: 127,

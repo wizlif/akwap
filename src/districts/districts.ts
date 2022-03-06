@@ -1,4 +1,4 @@
-import { BaseDistrict } from '../types';
+import { BaseDistrict } from '../index';
 
 export default [
   { id: 98, name: 'ABIM' },
