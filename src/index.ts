@@ -691,8 +691,8 @@ export function getParish(parish: string, accuracy: number = 0.5): BaseParish[] 
         return cs.sub_counties
           .map((gs) => {
             const _subcounty: Base = {
-              id: cs.id,
-              name: cs.name,
+              id: gs.id,
+              name: gs.name,
             };
 
             return gs.parishes
@@ -735,8 +735,8 @@ export function getVillage(village: string, accuracy: number = 0.5): BaseVillage
         return cs.sub_counties
           .map((gs) => {
             const _subcounty: Base = {
-              id: cs.id,
-              name: cs.name,
+              id: gs.id,
+              name: gs.name,
             };
 
             return gs.parishes

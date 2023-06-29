@@ -1,0 +1,560 @@
+{
+  "name": "Abim",
+  "id": 1,
+  "counties": [
+    {
+      "name": "Labwor",
+      "id": 1,
+      "sub_counties": [
+        {
+          "name": "Abim",
+          "id": 1,
+          "parishes": [
+            {
+              "name": "Aninata",
+              "id": 447,
+              "villages": [
+                { "name": "Ajukuna", "id": 2123 },
+                { "name": "Aninata central", "id": 4244 },
+                { "name": "Aninata east", "id": 4245 },
+                { "name": "Aninata north", "id": 4246 },
+                { "name": "Aninata south", "id": 4247 }
+              ]
+            },
+            {
+              "name": "Arembwola",
+              "id": 516,
+              "villages": [
+                { "name": "Amita prison", "id": 3687 },
+                { "name": "Amonicek", "id": 3741 },
+                { "name": "Aluga", "id": 3309 },
+                { "name": "Arembwola central", "id": 4843 },
+                { "name": "Arembwola east", "id": 4844 },
+                { "name": "Arembwola north", "id": 4845 },
+                { "name": "Arembwola south", "id": 4846 },
+                { "name": "Oyompolo", "id": 51241 }
+              ]
+            },
+            {
+              "name": "Atunga",
+              "id": 585,
+              "villages": [
+                { "name": "Apelkere", "id": 4566 },
+                { "name": "Atugo", "id": 5473 },
+                { "name": "Kopo", "id": 31138 },
+                { "name": "Oryeotyene east", "id": 50770 },
+                { "name": "Oryeotyene north", "id": 50771 },
+                { "name": "Oryeotyene south", "id": 50772 },
+                { "name": "Otalabar central", "id": 50858 },
+                { "name": "Otalabar east", "id": 50859 },
+                { "name": "Otalabar newline", "id": 50860 },
+                { "name": "Otalabar trading centre", "id": 50861 },
+                { "name": "Otalabar west", "id": 50862 }
+              ]
+            },
+            {
+              "name": "Kanu",
+              "id": 2828,
+              "villages": [
+                { "name": "Angica", "id": 4107 },
+                { "name": "Apelkori", "id": 4567 },
+                { "name": "Aroo", "id": 5023 },
+                { "name": "Aroo west", "id": 5025 },
+                { "name": "Geregere east", "id": 16546 },
+                { "name": "Geregere north", "id": 16548 },
+                { "name": "Geregere south", "id": 16551 },
+                { "name": "Obworo", "id": 48040 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Abim town council",
+          "id": 1242,
+          "parishes": [
+            {
+              "name": "Kalakala ward",
+              "id": 2668,
+              "villages": [
+                { "name": "Akado central", "id": 2181 },
+                { "name": "Akado east", "id": 2183 },
+                { "name": "Akado south", "id": 2185 },
+                { "name": "Akado west", "id": 2188 },
+                { "name": "Aywee east", "id": 6114 },
+                { "name": "Aywee model village", "id": 6117 },
+                { "name": "Aywee south", "id": 6119 },
+                { "name": "Aywee west", "id": 6121 },
+                { "name": "Riamiriam", "id": 52344 }
+              ]
+            },
+            {
+              "name": "Kiru ward",
+              "id": 3750,
+              "villages": [
+                { "name": "Alula", "id": 3335 },
+                { "name": "Mission", "id": 38621 },
+                { "name": "Oyaro north", "id": 51180 },
+                { "name": "Nyikinyiki", "id": 47598 },
+                { "name": "Obangangeo east", "id": 47753 },
+                { "name": "Obangangeo north", "id": 47754 },
+                { "name": "Obangangeo south", "id": 47755 },
+                { "name": "Obangangeo west", "id": 47756 }
+              ]
+            },
+            {
+              "name": "Wiawer ward",
+              "id": 7433,
+              "villages": [
+                { "name": "Abim central", "id": 255 },
+                { "name": "Abim east", "id": 256 },
+                { "name": "Abim hospital", "id": 257 },
+                { "name": "Abim north", "id": 259 },
+                { "name": "Abim west", "id": 260 },
+                { "name": "Angwee north", "id": 4230 },
+                { "name": "Angwee south", "id": 4231 },
+                { "name": "Aywee north", "id": 6118 },
+                { "name": "Ating north", "id": 5388 },
+                { "name": "Ating south", "id": 5389 },
+                { "name": "Atwilo", "id": 5515 },
+                { "name": "Dagaronya", "id": 15448 },
+                { "name": "Entebbe", "id": 16085 },
+                { "name": "Oringowelo", "id": 50614 },
+                { "name": "Wicere", "id": 57695 },
+                { "name": "Yenglemi east", "id": 57927 },
+                { "name": "Yenglemi north", "id": 57928 },
+                { "name": "Yenglemi west", "id": 57929 }
+              ]
+            },
+            {
+              "name": "Oyaro ward",
+              "id": 6593,
+              "villages": [
+                { "name": "Abongedero", "id": 372 },
+                { "name": "Abuk", "id": 472 },
+                { "name": "Acharaethe", "id": 789 },
+                { "name": "Acharaethe east", "id": 790 },
+                { "name": "Aroo", "id": 5024 },
+                { "name": "Oyaro central", "id": 51178 },
+                { "name": "Oyaro east", "id": 51179 },
+                { "name": "Oyaro south", "id": 51181 },
+                { "name": "Oyaro triangle", "id": 51183 },
+                { "name": "Oyaro west", "id": 51184 },
+                { "name": "Orum", "id": 50695 },
+                { "name": "Oliabong", "id": 49393 },
+                { "name": "Omoru", "id": 49864 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Alerek",
+          "id": 2,
+          "parishes": [
+            {
+              "name": "Loyoroit",
+              "id": 4566,
+              "villages": [
+                { "name": "Alimocan", "id": 3122 },
+                { "name": "Olem central", "id": 49338 },
+                { "name": "Olem east", "id": 49339 },
+                { "name": "Olem north", "id": 49340 },
+                { "name": "Olem west", "id": 49341 }
+              ]
+            },
+            {
+              "name": "Kulodwong",
+              "id": 4148,
+              "villages": [
+                { "name": "Acanpenino", "id": 716 },
+                { "name": "Aringobom east", "id": 4964 },
+                { "name": "Aringobom west", "id": 4965 },
+                { "name": "Kecokela", "id": 25436 },
+                { "name": "Kotido", "id": 31205 },
+                { "name": "Kulodwong", "id": 31314 },
+                { "name": "Kathimongor", "id": 24436 },
+                { "name": "Kakutha", "id": 20683 },
+                { "name": "Ribocing", "id": 52347 },
+                { "name": "Tyenopobo east", "id": 56924 },
+                { "name": "Tyenopobo north", "id": 56925 },
+                { "name": "Tyenopobo south", "id": 56926 },
+                { "name": "Tyenopobo west", "id": 56927 }
+              ]
+            },
+            {
+              "name": "Wilela",
+              "id": 7436,
+              "villages": [
+                { "name": "Kingo", "id": 28045 },
+                { "name": "Kanyalaka north", "id": 22115 },
+                { "name": "Kanyalaka south", "id": 22116 },
+                { "name": "Wilela central i", "id": 57772 },
+                { "name": "Wilela central ii", "id": 57773 },
+                { "name": "Wilela north", "id": 57774 },
+                { "name": "Wilela south", "id": 57775 },
+                { "name": "Nyikinyiki", "id": 47600 },
+                { "name": "Ywee-wii", "id": 58011 },
+                { "name": "Odokomit", "id": 48311 }
+              ]
+            },
+            {
+              "name": "Otumpili",
+              "id": 6580,
+              "villages": [
+                { "name": "Arengepua", "id": 4860 },
+                { "name": "Kawang", "id": 24977 },
+                { "name": "Loyoroit central", "id": 34923 },
+                { "name": "Otumpili central", "id": 50995 },
+                { "name": "Otumpili north", "id": 51000 },
+                { "name": "Otumpili south", "id": 51003 },
+                { "name": "Otumpili south west", "id": 51004 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Awach",
+          "id": 1539,
+          "parishes": [
+            {
+              "name": "Awach",
+              "id": 597,
+              "villages": [
+                { "name": "Adag kolo", "id": 1014 },
+                { "name": "Adagkolo north", "id": 1067 },
+                { "name": "Pem kworo", "id": 51906 },
+                { "name": "Onango motho", "id": 50099 },
+                { "name": "Obangangeo", "id": 47748 },
+                { "name": "Obokoloth", "id": 47894 },
+                { "name": "Obokoloth central", "id": 47895 },
+                { "name": "Obokoloth east", "id": 47896 }
+              ]
+            },
+            {
+              "name": "Barlyech",
+              "id": 697,
+              "villages": [
+                { "name": "Adiocai", "id": 1198 },
+                { "name": "Aroo", "id": 5021 },
+                { "name": "Barlyech", "id": 6625 },
+                { "name": "Barlyech central", "id": 6626 },
+                { "name": "Barlyech west", "id": 6627 },
+                { "name": "Pamo", "id": 51617 },
+                { "name": "Opokolobo", "id": 50443 },
+                { "name": "Othen", "id": 50897 }
+              ]
+            },
+            {
+              "name": "Gotapwou",
+              "id": 2092,
+              "villages": [
+                { "name": "Atheder central", "id": 5341 },
+                { "name": "Atheder east", "id": 5342 },
+                { "name": "Atheder north", "id": 5343 },
+                { "name": "Atheder south", "id": 5346 },
+                { "name": "Atheder west", "id": 5349 },
+                { "name": "Gotapwou", "id": 16873 },
+                { "name": "Gotapwou central", "id": 16874 },
+                { "name": "Mamkai", "id": 37210 },
+                { "name": "Natete", "id": 43945 },
+                { "name": "Omoo central", "id": 49843 },
+                { "name": "Omoo east", "id": 49844 },
+                { "name": "Omoo south", "id": 49847 },
+                { "name": "Omoo west", "id": 49848 }
+              ]
+            },
+            {
+              "name": "Oporoth",
+              "id": 6514,
+              "villages": [
+                { "name": "Acarawang - south", "id": 727 },
+                { "name": "Acarawang central", "id": 728 },
+                { "name": "Acarawang east", "id": 729 },
+                { "name": "Acarawang west", "id": 730 },
+                { "name": "Agweng", "id": 1846 },
+                { "name": "Amonicek", "id": 3742 },
+                { "name": "Anyalima", "id": 4317 },
+                { "name": "Anyalima west", "id": 4318 },
+                { "name": "Bar otuke", "id": 6442 },
+                { "name": "Bar-otuke central", "id": 6503 },
+                { "name": "Bar-otuke west", "id": 6504 },
+                { "name": "Bardago", "id": 6561 },
+                { "name": "Kololo east", "id": 30963 },
+                { "name": "Kololo new line", "id": 30966 },
+                { "name": "Pamo", "id": 51618 },
+                { "name": "Wipolo", "id": 57811 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lotukei",
+          "id": 4,
+          "parishes": [
+            {
+              "name": "Achangali",
+              "id": 79,
+              "villages": [
+                { "name": "Gulopono central", "id": 16932 },
+                { "name": "Gulopono east", "id": 16933 },
+                { "name": "Gulopono north", "id": 16934 },
+                { "name": "Gulopono north east", "id": 16935 },
+                { "name": "Gulopono south", "id": 16936 },
+                { "name": "Gulopono south east", "id": 16937 },
+                { "name": "Butiwiny", "id": 13250 },
+                { "name": "Lotukei seeds", "id": 34866 },
+                { "name": "Oringo adinga", "id": 50599 },
+                { "name": "Tyen olam", "id": 56916 }
+              ]
+            },
+            {
+              "name": "Aridai",
+              "id": 520,
+              "villages": [
+                { "name": "Amorutu-ican", "id": 3794 },
+                { "name": "Aojapiro", "id": 4444 },
+                { "name": "Aridai north", "id": 4896 },
+                { "name": "Aridai south", "id": 4897 },
+                { "name": "Barkolam", "id": 6607 },
+                { "name": "Moru hill", "id": 38886 },
+                { "name": "Lotuke central", "id": 34860 },
+                { "name": "Lotuke east", "id": 34861 },
+                { "name": "Lotuke north", "id": 34862 },
+                { "name": "Lotuke south", "id": 34863 },
+                { "name": "Lotuke west", "id": 34864 },
+                { "name": "Lotukei mixed", "id": 34865 },
+                { "name": "Lotukei trading centre", "id": 34867 },
+                { "name": "Yarayara", "id": 57911 }
+              ]
+            },
+            {
+              "name": "Gangming",
+              "id": 2037,
+              "villages": [
+                { "name": "Gangming central", "id": 16364 },
+                { "name": "Gangming east", "id": 16365 },
+                { "name": "Gangming new line", "id": 16366 },
+                { "name": "Gangming north", "id": 16367 },
+                { "name": "Gangming south", "id": 16368 },
+                { "name": "Gangming south east", "id": 16369 },
+                { "name": "Gangming south west", "id": 16370 },
+                { "name": "Gangming west", "id": 16371 },
+                { "name": "Loka ward", "id": 34406 },
+                { "name": "Wathakau", "id": 57613 }
+              ]
+            },
+            {
+              "name": "Orwamuge",
+              "id": 6541,
+              "villages": [
+                { "name": "Bartanga central", "id": 6726 },
+                { "name": "Bartanga east", "id": 6727 },
+                { "name": "Bartanga north", "id": 6728 },
+                { "name": "Bartanga south", "id": 6729 },
+                { "name": "Loketo east", "id": 34447 },
+                { "name": "Loketo trading centre", "id": 34448 },
+                { "name": "Nadiketh", "id": 41158 },
+                { "name": "Nyikinyiki", "id": 47599 },
+                { "name": "Tyen opok east", "id": 56917 },
+                { "name": "Tyen opok north", "id": 56918 },
+                { "name": "Tyen opok south", "id": 56919 },
+                { "name": "Tyen opok trading centre", "id": 56920 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Magamaga",
+          "id": 1400,
+          "parishes": [
+            { "name": "Gulotworo", "id": 2099, "villages": [{ "name": "Gulotworo", "id": 16938 }] },
+            {
+              "name": "Koya",
+              "id": 4137,
+              "villages": [
+                { "name": "Abil nino north", "id": 224 },
+                { "name": "Abil nino south", "id": 225 },
+                { "name": "Arwakara", "id": 5091 },
+                { "name": "Atheder north", "id": 5344 },
+                { "name": "Atheder south", "id": 5347 },
+                { "name": "Bedata east", "id": 6850 },
+                { "name": "Bedata south", "id": 6851 },
+                { "name": "Bedata west", "id": 6852 },
+                { "name": "Dic pe east", "id": 15583 },
+                { "name": "Dic pe west", "id": 15584 },
+                { "name": "Olilim", "id": 49426 }
+              ]
+            },
+            { "name": "Monyang", "id": 5041, "villages": [{ "name": "Monyang", "id": 38808 }] }
+          ]
+        },
+        {
+          "name": "Morulem",
+          "id": 5,
+          "parishes": [
+            {
+              "name": "Adea",
+              "id": 106,
+              "villages": [
+                { "name": "Abwoloit", "id": 581 },
+                { "name": "Adea central", "id": 1123 },
+                { "name": "Adea trading centre", "id": 1124 },
+                { "name": "Adea west", "id": 1125 },
+                { "name": "Alir", "id": 3161 },
+                { "name": "Ayeye", "id": 5963 }
+              ]
+            },
+            {
+              "name": "Akwangagwel",
+              "id": 273,
+              "villages": [
+                { "name": "Akwangagwel central", "id": 2689 },
+                { "name": "Akwangagwel north", "id": 2690 },
+                { "name": "Akwangagwel south", "id": 2691 },
+                { "name": "Ajwachi new line", "id": 2149 }
+              ]
+            },
+            {
+              "name": "Angolebwal",
+              "id": 439,
+              "villages": [
+                { "name": "Agweng east", "id": 1855 },
+                { "name": "Agweng west", "id": 1859 },
+                { "name": "Aywee", "id": 6107 },
+                { "name": "Opeidukanith", "id": 50378 },
+                { "name": "Oringowello", "id": 50613 },
+                { "name": "Obangangeo", "id": 47747 },
+                { "name": "Umlonge", "id": 56973 },
+                { "name": "Umlonge east", "id": 56974 },
+                { "name": "Umlonge west", "id": 56975 },
+                { "name": "Omoru east", "id": 49865 },
+                { "name": "Omoru west", "id": 49866 }
+              ]
+            },
+            {
+              "name": "Aremo",
+              "id": 517,
+              "villages": [
+                { "name": "Agile", "id": 1558 },
+                { "name": "Aremo central", "id": 4849 },
+                { "name": "Aremo east", "id": 4850 },
+                { "name": "Aremo lobolwala", "id": 4851 },
+                { "name": "Aremo new line", "id": 4852 },
+                { "name": "Golgota", "id": 16752 },
+                { "name": "Chwailai", "id": 15299 },
+                { "name": "Mission", "id": 38616 },
+                { "name": "Wipolo", "id": 57808 },
+                { "name": "St. joseph", "id": 55810 }
+              ]
+            },
+            {
+              "name": "Katabok east",
+              "id": 3147,
+              "villages": [
+                { "name": "Arengepua north", "id": 4861 },
+                { "name": "Arengepua south", "id": 4862 },
+                { "name": "Gulonger east", "id": 16930 },
+                { "name": "Gulonger west", "id": 16931 },
+                { "name": "Katabok central", "id": 24086 },
+                { "name": "Katabok east", "id": 24087 },
+                { "name": "Katabok trading centre", "id": 24088 },
+                { "name": "Katabok west", "id": 24089 },
+                { "name": "Lobo-oyea", "id": 34242 }
+              ]
+            },
+            {
+              "name": "Katabok west",
+              "id": 3148,
+              "villages": [
+                { "name": "Rachkoko central", "id": 52220 },
+                { "name": "Rachkoko north", "id": 52221 },
+                { "name": "Rachkoko south", "id": 52222 },
+                { "name": "Rachkoko south east", "id": 52223 },
+                { "name": "Rachkoko south west", "id": 52224 },
+                { "name": "Odolo east", "id": 48320 },
+                { "name": "Odolo west", "id": 48321 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nyakwae",
+          "id": 3,
+          "parishes": [
+            {
+              "name": "Kobulin",
+              "id": 4058,
+              "villages": [
+                { "name": "Abokath", "id": 315 },
+                { "name": "Aoyathogo", "id": 4466 },
+                { "name": "Barjobi", "id": 6605 },
+                { "name": "Ibongusua", "id": 17301 },
+                { "name": "Jerusalem", "id": 18046 },
+                { "name": "Kakorinyang", "id": 20589 },
+                { "name": "Kanaan", "id": 21753 }
+              ]
+            },
+            {
+              "name": "Pupukamuya",
+              "id": 6804,
+              "villages": [
+                { "name": "Aywee", "id": 6110 },
+                { "name": "Atheder north", "id": 5345 },
+                { "name": "Atheder south", "id": 5348 },
+                { "name": "Teramoth", "id": 56445 }
+              ]
+            },
+            {
+              "name": "Rogom",
+              "id": 6842,
+              "villages": [
+                { "name": "Abur", "id": 520 },
+                { "name": "Aguleruka", "id": 1722 },
+                { "name": "Akumamer", "id": 2601 },
+                { "name": "Angada", "id": 4022 },
+                { "name": "Atheder", "id": 5340 },
+                { "name": "Kathebakume", "id": 24429 },
+                { "name": "Kapunabong", "id": 22796 },
+                { "name": "Rogom central", "id": 52405 },
+                { "name": "Othuthua", "id": 50899 },
+                { "name": "Tyen kworo", "id": 56915 },
+                { "name": "Olulung", "id": 49531 }
+              ]
+            },
+            {
+              "name": "Opopongo",
+              "id": 6512,
+              "villages": [
+                { "name": "Agule angolol", "id": 1716 },
+                { "name": "Akonguchwa west", "id": 2514 },
+                { "name": "Akongucwa", "id": 2515 },
+                { "name": "Ariamatholim", "id": 4881 },
+                { "name": "Cung apenyi", "id": 15409 },
+                { "name": "Dii cwinyi", "id": 15593 },
+                { "name": "Kaethereng", "id": 19518 },
+                { "name": "Katala", "id": 24137 },
+                { "name": "Opedur east", "id": 50374 },
+                { "name": "Opedur west", "id": 50375 },
+                { "name": "Thulumuk", "id": 56514 },
+                { "name": "Obar yath", "id": 47774 },
+                { "name": "Odokomit", "id": 48308 },
+                { "name": "Okwangaluk", "id": 49176 }
+              ]
+            },
+            {
+              "name": "Oretha",
+              "id": 6527,
+              "villages": [
+                { "name": "Agule", "id": 1710 },
+                { "name": "Bulla", "id": 10217 },
+                { "name": "Geregere north", "id": 16549 },
+                { "name": "Geregere south", "id": 16552 },
+                { "name": "Nyikinyiki north", "id": 47601 },
+                { "name": "Nyikinyiki south", "id": 47602 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
