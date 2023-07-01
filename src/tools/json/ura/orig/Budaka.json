@@ -1,0 +1,709 @@
+{
+  "name": "Budaka",
+  "id": 8,
+  "counties": [
+    {
+      "name": "Budaka",
+      "id": 15,
+      "sub_counties": [
+        {
+          "name": "Budaka",
+          "id": 69,
+          "parishes": [
+            {
+              "name": "Chali",
+              "id": 1867,
+              "villages": [
+                { "name": "Bolosyo", "id": 7380 },
+                { "name": "Izibangabo", "id": 17970 },
+                { "name": "Chali", "id": 14919 },
+                { "name": "Nabiketo", "id": 40734 }
+              ]
+            },
+            {
+              "name": "Gadumire",
+              "id": 2024,
+              "villages": [
+                { "name": "Gadumire", "id": 16269 },
+                { "name": "Nsawe", "id": 45116 },
+                { "name": "Namwenda", "id": 43315 },
+                { "name": "Nakawolo", "id": 41651 }
+              ]
+            },
+            {
+              "name": "Nampangala",
+              "id": 5555,
+              "villages": [
+                { "name": "Bulumbi", "id": 10362 },
+                { "name": "Nawango", "id": 44069 },
+                { "name": "Nampangala", "id": 42987 },
+                { "name": "Nanyulu", "id": 43633 }
+              ]
+            },
+            {
+              "name": "Sapiri",
+              "id": 7089,
+              "villages": [
+                { "name": "Namukumeri", "id": 43086 },
+                { "name": "Nansekese", "id": 43561 },
+                { "name": "Nansemenye", "id": 43563 },
+                { "name": "Sapiri", "id": 54933 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Budaka town council",
+          "id": 75,
+          "parishes": [
+            {
+              "name": "Budaka ward",
+              "id": 848,
+              "villages": [
+                { "name": "Buwemba", "id": 13794 },
+                { "name": "Kolododo", "id": 30935 },
+                { "name": "Kibali i", "id": 25754 },
+                { "name": "Naigumia", "id": 41277 }
+              ]
+            },
+            {
+              "name": "Bwase ward",
+              "id": 1776,
+              "villages": [
+                { "name": "Budaka township", "id": 7818 },
+                { "name": "Bwase", "id": 14389 },
+                { "name": "Kibali ii", "id": 25755 },
+                { "name": "Naigobya", "id": 41270 },
+                { "name": "Nankone", "id": 43530 }
+              ]
+            },
+            {
+              "name": "Macholi ward",
+              "id": 4753,
+              "villages": [
+                { "name": "Bujjasi", "id": 8890 },
+                { "name": "Bukabindi", "id": 8972 },
+                { "name": "Nakajete", "id": 41390 },
+                { "name": "Nakibulu", "id": 41731 }
+              ]
+            },
+            {
+              "name": "Namengo ward",
+              "id": 5530,
+              "villages": [
+                { "name": "Nawoja", "id": 44135 },
+                { "name": "Namengo", "id": 42830 },
+                { "name": "Namengo sapiri", "id": 42833 },
+                { "name": "Nanyago", "id": 43614 }
+              ]
+            },
+            {
+              "name": "Nabweyo ward",
+              "id": 5333,
+              "villages": [
+                { "name": "Nabweyo", "id": 41094 },
+                { "name": "Nalado", "id": 42050 },
+                { "name": "Nalwaya", "id": 42216 },
+                { "name": "Nasawo", "id": 43801 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kachomo",
+          "id": 1026,
+          "parishes": [
+            {
+              "name": "Kachomo",
+              "id": 2430,
+              "villages": [
+                { "name": "Bukomba", "id": 9593 },
+                { "name": "Bulalaka i", "id": 9941 },
+                { "name": "Burweta", "id": 12087 },
+                { "name": "Kachomo i", "id": 19367 },
+                { "name": "Kachomo ii", "id": 19368 },
+                { "name": "Nakatende", "id": 41583 }
+              ]
+            },
+            {
+              "name": "Kadenge",
+              "id": 2446,
+              "villages": [
+                { "name": "Bubera", "id": 7599 },
+                { "name": "Bulalaka ii", "id": 9942 },
+                { "name": "Bunyekero", "id": 11846 },
+                { "name": "Kadenche ii", "id": 19452 },
+                { "name": "Kadenge i", "id": 19454 }
+              ]
+            },
+            {
+              "name": "Kodiri",
+              "id": 4070,
+              "villages": [
+                { "name": "Bukomolo", "id": 9611 },
+                { "name": "Bukomolo ii", "id": 9621 },
+                { "name": "Bulalaka", "id": 9935 },
+                { "name": "Bunamwera i", "id": 11373 },
+                { "name": "Buseta i", "id": 12367 },
+                { "name": "Buseta ii", "id": 12369 },
+                { "name": "Bunyole", "id": 11875 }
+              ]
+            },
+            {
+              "name": "Kotinyanga",
+              "id": 4131,
+              "villages": [
+                { "name": "Bugolo i", "id": 8430 },
+                { "name": "Bugolo ii", "id": 8431 },
+                { "name": "Bugolya", "id": 8440 },
+                { "name": "Bukomba", "id": 9597 },
+                { "name": "Bunamwera ii", "id": 11374 },
+                { "name": "Burweta", "id": 12088 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kaderuna",
+          "id": 71,
+          "parishes": [
+            {
+              "name": "Kaperi",
+              "id": 2887,
+              "villages": [
+                { "name": "Buloki ii", "id": 10244 },
+                { "name": "Kaperi", "id": 22507 },
+                { "name": "Kabweri", "id": 19275 }
+              ]
+            },
+            {
+              "name": "Kebula",
+              "id": 3334,
+              "villages": [
+                { "name": "Bunyolo", "id": 11881 },
+                { "name": "Bwage", "id": 14315 },
+                { "name": "Kebula", "id": 25430 },
+                { "name": "Nansansa", "id": 43559 }
+              ]
+            },
+            {
+              "name": "Kabuna",
+              "id": 2385,
+              "villages": [
+                { "name": "Bulefe", "id": 10052 },
+                { "name": "Kotiya", "id": 31213 },
+                { "name": "Kabuna i", "id": 19110 },
+                { "name": "Kabuna ii", "id": 19111 }
+              ]
+            },
+            {
+              "name": "Kaderuna",
+              "id": 2450,
+              "villages": [
+                { "name": "Kaderuna i", "id": 19460 },
+                { "name": "Kaderuna ii", "id": 19461 },
+                { "name": "Nakabale i", "id": 41346 },
+                { "name": "Nakabale ii", "id": 41347 }
+              ]
+            },
+            {
+              "name": "Kiryolo",
+              "id": 3775,
+              "villages": [
+                { "name": "Kiryolo i", "id": 28832 },
+                { "name": "Kiryolo ii", "id": 28834 },
+                { "name": "Mijoyi", "id": 38366 },
+                { "name": "Moru", "id": 38857 },
+                { "name": "Nalera", "id": 42063 },
+                { "name": "Naungoli", "id": 43994 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kakule",
+          "id": 1027,
+          "parishes": [
+            {
+              "name": "Kaperi",
+              "id": 2888,
+              "villages": [
+                { "name": "Bunamwera", "id": 11369 },
+                { "name": "Kopiya", "id": 31137 },
+                { "name": "Kaperi", "id": 22508 },
+                { "name": "Lerya", "id": 34088 }
+              ]
+            },
+            {
+              "name": "Kasuleta",
+              "id": 3129,
+              "villages": [
+                { "name": "Kikalu", "id": 27409 },
+                { "name": "Kasuleta", "id": 23993 },
+                { "name": "Namatale", "id": 42602 },
+                { "name": "Nakatende", "id": 41584 }
+              ]
+            },
+            {
+              "name": "Kakule",
+              "id": 2625,
+              "villages": [
+                { "name": "Buloki", "id": 10240 },
+                { "name": "Kakule i", "id": 20629 },
+                { "name": "Kakule ii", "id": 20630 },
+                { "name": "Nakisule", "id": 41851 }
+              ]
+            },
+            {
+              "name": "Lerya",
+              "id": 4450,
+              "villages": [
+                { "name": "Buseta", "id": 12363 },
+                { "name": "Lerya", "id": 34089 },
+                { "name": "Podi", "id": 51985 }
+              ]
+            },
+            {
+              "name": "Namusita",
+              "id": 5598,
+              "villages": [
+                { "name": "Bugolya", "id": 8442 },
+                { "name": "Likipi", "id": 34136 },
+                { "name": "Nagururu", "id": 41238 },
+                { "name": "Namusita", "id": 43232 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lyama",
+          "id": 73,
+          "parishes": [
+            {
+              "name": "Lyama",
+              "id": 4726,
+              "villages": [
+                { "name": "Igania", "id": 17380 },
+                { "name": "Buwembe", "id": 13797 },
+                { "name": "Kitaba", "id": 29510 },
+                { "name": "Lyama", "id": 36268 },
+                { "name": "Lukonge a", "id": 35320 },
+                { "name": "Lukonge b", "id": 35321 },
+                { "name": "Nakisenye", "id": 41836 }
+              ]
+            },
+            {
+              "name": "Nalugondo",
+              "id": 5457,
+              "villages": [
+                { "name": "Bugadde", "id": 8086 },
+                { "name": "Bulangira", "id": 10008 },
+                { "name": "Irabi", "id": 17673 },
+                { "name": "Butove", "id": 13307 },
+                { "name": "Nalugondo", "id": 42124 },
+                { "name": "Naluli", "id": 42153 },
+                { "name": "Namagongolo", "id": 42335 },
+                { "name": "Nantama", "id": 43592 }
+              ]
+            },
+            {
+              "name": "Suni",
+              "id": 7200,
+              "villages": [
+                { "name": "Bugema", "id": 8286 },
+                { "name": "Bukolya", "id": 9586 },
+                { "name": "Buyemba a", "id": 14073 },
+                { "name": "Buyemba b", "id": 14075 },
+                { "name": "Bwikomba", "id": 14580 },
+                { "name": "Nalubembe", "id": 42101 },
+                { "name": "Suni a", "id": 55932 },
+                { "name": "Suni b", "id": 55933 }
+              ]
+            },
+            {
+              "name": "Tademeri",
+              "id": 7213,
+              "villages": [
+                { "name": "Bunyekero", "id": 11848 },
+                { "name": "Kazinga", "id": 25372 },
+                { "name": "Kasuleta", "id": 23999 },
+                { "name": "Namukalo", "id": 43060 },
+                { "name": "Nansega", "id": 43560 },
+                { "name": "Tadameri", "id": 56019 },
+                { "name": "Wairagala", "id": 57260 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Naboa",
+          "id": 74,
+          "parishes": [
+            {
+              "name": "Bunyekero",
+              "id": 1426,
+              "villages": [
+                { "name": "Bulabya", "id": 9894 },
+                { "name": "Bunyekero", "id": 11842 },
+                { "name": "Kakoli ii", "id": 20483 },
+                { "name": "Nakatende i", "id": 41586 },
+                { "name": "Nakatende ii", "id": 41587 }
+              ]
+            },
+            {
+              "name": "Lupada",
+              "id": 4636,
+              "villages": [
+                { "name": "Lupada i", "id": 35534 },
+                { "name": "Lupada ii", "id": 35535 },
+                { "name": "Nambago", "id": 42723 },
+                { "name": "Namuseru i", "id": 43221 },
+                { "name": "Namuseru ii", "id": 43222 }
+              ]
+            },
+            {
+              "name": "Nangeye",
+              "id": 5625,
+              "villages": [
+                { "name": "Bwikomba", "id": 14579 },
+                { "name": "Kakoli i", "id": 20482 },
+                { "name": "Namwamba", "id": 43298 },
+                { "name": "Nangeye i", "id": 43420 },
+                { "name": "Nangeye ii", "id": 43421 }
+              ]
+            },
+            {
+              "name": "Naboa",
+              "id": 5304,
+              "villages": [
+                { "name": "Bugema", "id": 8284 },
+                { "name": "Busikwe", "id": 12530 },
+                { "name": "Naboa", "id": 40878 },
+                { "name": "Namaja i", "id": 42357 },
+                { "name": "Namajja ii", "id": 42362 },
+                { "name": "Nakatende", "id": 41585 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nansanga",
+          "id": 1028,
+          "parishes": [
+            {
+              "name": "Idudi a",
+              "id": 2161,
+              "villages": [
+                { "name": "Idudi a", "id": 17349 },
+                { "name": "Idudi b", "id": 17351 },
+                { "name": "Nataalo a", "id": 43913 },
+                { "name": "Nataalo b", "id": 43914 }
+              ]
+            },
+            {
+              "name": "Idudi b",
+              "id": 2162,
+              "villages": [
+                { "name": "Buwunga", "id": 13954 },
+                { "name": "Kanyonya", "id": 22364 },
+                { "name": "Nakadeku", "id": 41377 },
+                { "name": "Lukwansa", "id": 35383 }
+              ]
+            },
+            {
+              "name": "Nansanga a",
+              "id": 5640,
+              "villages": [
+                { "name": "Busikwe a", "id": 12533 },
+                { "name": "Busikwe b", "id": 12536 },
+                { "name": "Nansanga a", "id": 43557 },
+                { "name": "Nansanga b", "id": 43558 }
+              ]
+            },
+            {
+              "name": "Nansanga b",
+              "id": 5641,
+              "villages": [
+                { "name": "Budoba a", "id": 7932 },
+                { "name": "Budoba b", "id": 7933 },
+                { "name": "Bulumba a", "id": 10359 },
+                { "name": "Bulumba b", "id": 10360 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Iki-iki",
+      "id": 186,
+      "sub_counties": [
+        {
+          "name": "Iki-iki",
+          "id": 70,
+          "parishes": [
+            {
+              "name": "Iki-iki",
+              "id": 2186,
+              "villages": [
+                { "name": "Buloki", "id": 10236 },
+                { "name": "Iki-iki", "id": 17529 },
+                { "name": "Iki-iki township", "id": 17531 },
+                { "name": "Kiruruma", "id": 28704 },
+                { "name": "Nalubembe", "id": 42100 }
+              ]
+            },
+            {
+              "name": "Kadenghe",
+              "id": 2447,
+              "villages": [
+                { "name": "Bugolya", "id": 8438 },
+                { "name": "Bukomolo", "id": 9607 },
+                { "name": "Kawulumu", "id": 25082 },
+                { "name": "Kakwanga", "id": 20707 }
+              ]
+            },
+            {
+              "name": "Kaitangole",
+              "id": 2553,
+              "villages": [
+                { "name": "Bulumba", "id": 10356 },
+                { "name": "Bulyampiti", "id": 10481 },
+                { "name": "Kaitangole", "id": 20128 },
+                { "name": "Kadatumi", "id": 19445 }
+              ]
+            },
+            {
+              "name": "Kakoli",
+              "id": 2607,
+              "villages": [
+                { "name": "Budope", "id": 7956 },
+                { "name": "Kaajo", "id": 18326 },
+                { "name": "Kakoli", "id": 20481 },
+                { "name": "Kabyonga", "id": 19298 }
+              ]
+            },
+            {
+              "name": "Petete",
+              "id": 6759,
+              "villages": [
+                { "name": "Bunaminto", "id": 11281 },
+                { "name": "Kadenge", "id": 19453 },
+                { "name": "Kasuleta", "id": 23998 },
+                { "name": "Petete", "id": 51924 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kameruka",
+          "id": 76,
+          "parishes": [
+            {
+              "name": "Bupuchai",
+              "id": 1437,
+              "villages": [
+                { "name": "Bukomolo", "id": 9605 },
+                { "name": "Bulalaka", "id": 9929 },
+                { "name": "Bunyekero", "id": 11843 },
+                { "name": "Natoto", "id": 43973 }
+              ]
+            },
+            {
+              "name": "Kameruka",
+              "id": 2737,
+              "villages": [
+                { "name": "Bukatikoko", "id": 9188 },
+                { "name": "Bukomolo", "id": 9609 },
+                { "name": "Kainja", "id": 20091 },
+                { "name": "Kameruka", "id": 21355 }
+              ]
+            },
+            {
+              "name": "Lerya",
+              "id": 4451,
+              "villages": [
+                { "name": "Budukulo", "id": 7968 },
+                { "name": "Buchera", "id": 7783 },
+                { "name": "Bunamwera", "id": 11370 },
+                { "name": "Lerya", "id": 34090 }
+              ]
+            },
+            {
+              "name": "Nanzala",
+              "id": 5647,
+              "villages": [
+                { "name": "Buganza", "id": 8196 },
+                { "name": "Bukaligwoko", "id": 9054 },
+                { "name": "Bulomi", "id": 10256 },
+                { "name": "Bulalaka", "id": 9937 }
+              ]
+            },
+            {
+              "name": "Nabugalo",
+              "id": 5310,
+              "villages": [
+                { "name": "Bugolya", "id": 8441 },
+                { "name": "Bukatikoko", "id": 9189 },
+                { "name": "Dalatawu", "id": 15467 },
+                { "name": "Nabugalo", "id": 40905 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kamonkoli",
+          "id": 72,
+          "parishes": [
+            {
+              "name": "Jami",
+              "id": 2269,
+              "villages": [
+                { "name": "Bukaduka", "id": 8986 },
+                { "name": "Jami a", "id": 18018 },
+                { "name": "Jami b", "id": 18019 },
+                { "name": "Kilalaka", "id": 27821 }
+              ]
+            },
+            {
+              "name": "Bunyolo",
+              "id": 1432,
+              "villages": [
+                { "name": "Bukooli", "id": 9666 },
+                { "name": "Bumbirwe", "id": 10745 },
+                { "name": "Bunyolo a", "id": 11882 },
+                { "name": "Bunyolo b", "id": 11883 }
+              ]
+            },
+            {
+              "name": "Kadimukoli",
+              "id": 2453,
+              "villages": [
+                { "name": "Bubulanga", "id": 7702 },
+                { "name": "Buloki", "id": 10238 },
+                { "name": "Kiraraka", "id": 28379 },
+                { "name": "Nyanza", "id": 47258 },
+                { "name": "Kamonkoli", "id": 21419 },
+                { "name": "Kadimukoli", "id": 19471 },
+                { "name": "Nakyewo", "id": 42047 },
+                { "name": "Namiyago", "id": 42944 }
+              ]
+            },
+            {
+              "name": "Sekulo",
+              "id": 7101,
+              "villages": [
+                { "name": "Kositi", "id": 31187 },
+                { "name": "Kapulukuchu", "id": 22795 },
+                { "name": "Sekulo a", "id": 55025 },
+                { "name": "Sekulo b", "id": 55026 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Katira",
+          "id": 1161,
+          "parishes": [
+            {
+              "name": "Katira",
+              "id": 3211,
+              "villages": [
+                { "name": "Buganza", "id": 8187 },
+                { "name": "Busikwe", "id": 12528 },
+                { "name": "Buwumo", "id": 13947 },
+                { "name": "Katira", "id": 24511 }
+              ]
+            },
+            {
+              "name": "Kavule",
+              "id": 3263,
+              "villages": [
+                { "name": "Kavule t.c", "id": 24938 },
+                { "name": "Kavule", "id": 24912 },
+                { "name": "Nyanza", "id": 47260 },
+                { "name": "Kamasaba", "id": 21269 }
+              ]
+            },
+            {
+              "name": "Kerekerene",
+              "id": 3349,
+              "villages": [
+                { "name": "Buloki", "id": 10241 },
+                { "name": "Bukinomo", "id": 9483 },
+                { "name": "Kerekerene", "id": 25605 },
+                { "name": "Bwikomba", "id": 14577 }
+              ]
+            },
+            {
+              "name": "Kadatumi",
+              "id": 2444,
+              "villages": [
+                { "name": "Bukaligwoko", "id": 9053 },
+                { "name": "Bukomolo", "id": 9606 },
+                { "name": "Bulalaka", "id": 9931 },
+                { "name": "Nansenye", "id": 43564 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mugiti",
+          "id": 1162,
+          "parishes": [
+            {
+              "name": "Bukaligwoko",
+              "id": 1016,
+              "villages": [
+                { "name": "Bukaligwoko", "id": 9052 },
+                { "name": "Bukatikoko", "id": 9183 },
+                { "name": "Bulokyo", "id": 10245 },
+                { "name": "Butagwaiko", "id": 12918 }
+              ]
+            },
+            {
+              "name": "Bunamwera",
+              "id": 1355,
+              "villages": [
+                { "name": "Buganza", "id": 8183 },
+                { "name": "Bukomolo", "id": 9604 },
+                { "name": "Bunamwera", "id": 11367 },
+                { "name": "Bupalama", "id": 11911 }
+              ]
+            },
+            {
+              "name": "Nasenyi",
+              "id": 5661,
+              "villages": [
+                { "name": "Bwibere a", "id": 14546 },
+                { "name": "Bwibere b", "id": 14547 },
+                { "name": "Namakisyo ii", "id": 42392 },
+                { "name": "Nasenyi", "id": 43809 }
+              ]
+            },
+            {
+              "name": "Mugiti",
+              "id": 5116,
+              "villages": [
+                { "name": "Buloki", "id": 10242 },
+                { "name": "Bumesula", "id": 10771 },
+                { "name": "Bwikomba i", "id": 14581 },
+                { "name": "Namakisyo", "id": 42391 }
+              ]
+            },
+            {
+              "name": "Nyanza",
+              "id": 6154,
+              "villages": [
+                { "name": "Bwikomba ii", "id": 14582 },
+                { "name": "Nyanza north", "id": 47264 },
+                { "name": "Nyanza south", "id": 47266 },
+                { "name": "Namamba", "id": 42486 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

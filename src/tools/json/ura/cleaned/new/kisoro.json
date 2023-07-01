@@ -1,0 +1,759 @@
+{
+  "name": "KISORO",
+  "id": 41,
+  "counties": [
+    {
+      "name": "BUFUMBIRA EAST",
+      "id": 360,
+      "sub_counties": [
+        {
+          "name": "BUKIMBIRI",
+          "id": 449,
+          "parishes": [
+            {
+              "name": "IREMERA",
+              "id": 2209,
+              "villages": [
+                { "name": "BUGOMORA", "id": 8475 },
+                { "name": "BUTENGO", "id": 13159 },
+                { "name": "KABITOJO", "id": 18929 },
+                { "name": "KIGYEYO", "id": 26985 },
+                { "name": "KIJUGUTA", "id": 27315 },
+                { "name": "KISUNYU", "id": 29452 },
+                { "name": "NYAMIYAGA", "id": 46960 },
+                { "name": "KASHENYI", "id": 23641 },
+                { "name": "RWAMASHENYI", "id": 53717 },
+                { "name": "RUGONGWE", "id": 52757 },
+                { "name": "NYAMASINDA", "id": 46742 },
+                { "name": "RUSHEKYE", "id": 53194 }
+              ]
+            },
+            {
+              "name": "KAGUNGA",
+              "id": 2517,
+              "villages": [
+                { "name": "BAMBA", "id": 6262 },
+                { "name": "BIRARA", "id": 7158 },
+                { "name": "KISAGARA", "id": 28895 },
+                { "name": "CYOGO", "id": 15425 },
+                { "name": "KATERITERI", "id": 24406 },
+                { "name": "NYAKAREMBE", "id": 46218 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KANABA",
+          "id": 458,
+          "parishes": [
+            {
+              "name": "KAGEZI",
+              "id": 2490,
+              "villages": [
+                { "name": "GISASA", "id": 16685 },
+                { "name": "GITEBE", "id": 16694 },
+                { "name": "BUSHOGA", "id": 12442 },
+                { "name": "BUTOKE", "id": 13272 },
+                { "name": "KOGA", "id": 30836 },
+                { "name": "RWUYA", "id": 54711 },
+                { "name": "KAGERA", "id": 19696 },
+                { "name": "MUKAKA", "id": 39513 },
+                { "name": "RUBURI", "id": 52568 },
+                { "name": "RUGARAMA", "id": 52641 }
+              ]
+            },
+            {
+              "name": "MUHINDURA",
+              "id": 5133,
+              "villages": [
+                { "name": "GISASA", "id": 16686 },
+                { "name": "GISENYI", "id": 16688 },
+                { "name": "CHUNGO", "id": 15279 },
+                { "name": "KIBANDE", "id": 25781 },
+                { "name": "GATARE", "id": 16417 },
+                { "name": "KIGEZI", "id": 26753 },
+                { "name": "KAGOROGORO", "id": 19832 },
+                { "name": "KAMUGOYI", "id": 21510 },
+                { "name": "KAGANO", "id": 19643 },
+                { "name": "MULINDI", "id": 39763 },
+                { "name": "NYAGATEMBE", "id": 45802 },
+                { "name": "RUKORO", "id": 52979 },
+                { "name": "SHAYU", "id": 55174 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MURORA",
+          "id": 457,
+          "parishes": [
+            {
+              "name": "CHAHAFI",
+              "id": 1864,
+              "villages": [
+                { "name": "GICUZI", "id": 16629 },
+                { "name": "GIHUYAGA", "id": 16638 },
+                { "name": "GISHA", "id": 16689 },
+                { "name": "KABAMI", "id": 18577 },
+                { "name": "KABINGO", "id": 18833 },
+                { "name": "GASHORO", "id": 16411 },
+                { "name": "GATETE", "id": 16419 },
+                { "name": "KARAMBI", "id": 22869 },
+                { "name": "KARUZOGERO", "id": 23164 },
+                { "name": "KABYAZA", "id": 19295 },
+                { "name": "MUHIGA", "id": 39451 },
+                { "name": "MUPAKA", "id": 39925 },
+                { "name": "NYABUNE", "id": 45708 },
+                { "name": "RWABARA", "id": 53472 },
+                { "name": "RUBANGE", "id": 52479 },
+                { "name": "NYABITARE", "id": 45603 }
+              ]
+            },
+            {
+              "name": "CHIBUMBA",
+              "id": 1907,
+              "villages": [
+                { "name": "BIIZI", "id": 7038 },
+                { "name": "BUKERAHE", "id": 9258 },
+                { "name": "BUYORA", "id": 14196 },
+                { "name": "CHIBUMBA", "id": 15252 },
+                { "name": "MPUNDU", "id": 39178 },
+                { "name": "MAREGAMO", "id": 37358 },
+                { "name": "RUGESHI", "id": 52731 },
+                { "name": "NYAMATEMBE", "id": 46748 },
+                { "name": "RUKOPFE", "id": 52971 },
+                { "name": "NYABIYONGA", "id": 45616 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKABANDE",
+          "id": 454,
+          "parishes": [
+            {
+              "name": "GASIZA",
+              "id": 2042,
+              "villages": [
+                { "name": "BIHURU", "id": 7031 },
+                { "name": "BUGARA", "id": 8199 },
+                { "name": "BUSOZI", "id": 12741 },
+                { "name": "CHUCHO", "id": 15273 },
+                { "name": "KIBAYA", "id": 25858 },
+                { "name": "GAKORO", "id": 16289 },
+                { "name": "KARURUMA", "id": 23144 },
+                { "name": "KABUMBA", "id": 19100 },
+                { "name": "MUGOMBERO", "id": 39367 },
+                { "name": "MBURARA", "id": 38183 },
+                { "name": "MUTOLERE HOSPITAL", "id": 40290 },
+                { "name": "MUTOLERE PARISH", "id": 40291 },
+                { "name": "RUBURANKONO", "id": 52565 },
+                { "name": "RAMBURA", "id": 52258 },
+                { "name": "SHOZI", "id": 55306 }
+              ]
+            },
+            {
+              "name": "GISORORA",
+              "id": 2069,
+              "villages": [
+                { "name": "BUGARA", "id": 8200 },
+                { "name": "BUBAGA", "id": 7501 },
+                { "name": "GAHINGA", "id": 16277 },
+                { "name": "KIBURARA", "id": 26190 },
+                { "name": "GATARE", "id": 16416 },
+                { "name": "KIGEZI", "id": 26752 },
+                { "name": "KIGOMA", "id": 26812 },
+                { "name": "KANYABUKUNGU", "id": 22096 },
+                { "name": "MBURABUTURO", "id": 38174 },
+                { "name": "NYAKABANDE", "id": 45858 },
+                { "name": "NTURO", "id": 45464 },
+                { "name": "SHOZI", "id": 55307 }
+              ]
+            },
+            {
+              "name": "RWINGWE",
+              "id": 7057,
+              "villages": [
+                { "name": "BULUNGA", "id": 10391 },
+                { "name": "GIKORO", "id": 16644 },
+                { "name": "BUTUGA", "id": 13366 },
+                { "name": "KIRARO", "id": 28381 },
+                { "name": "CYIBUMBA", "id": 15423 },
+                { "name": "GAKORO", "id": 16290 },
+                { "name": "GASARO", "id": 16404 },
+                { "name": "KAMATINZA", "id": 21287 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYUNDO",
+          "id": 456,
+          "parishes": [
+            {
+              "name": "BUBUYE",
+              "id": 837,
+              "villages": [
+                { "name": "BUBUYE", "id": 7742 },
+                { "name": "GISEKE", "id": 16687 },
+                { "name": "MULEHE", "id": 39730 },
+                { "name": "RUBONA", "id": 52528 },
+                { "name": "NYARUBUYE", "id": 47354 }
+              ]
+            },
+            {
+              "name": "NYUNDO",
+              "id": 6207,
+              "villages": [
+                { "name": "IKAMIRO", "id": 17523 },
+                { "name": "BUZANIRO", "id": 14241 },
+                { "name": "KIRIBA", "id": 28495 },
+                { "name": "RWEBIKONKO", "id": 53957 },
+                { "name": "MUKOZI", "id": 39636 },
+                { "name": "MUKUNGU", "id": 39657 },
+                { "name": "MATYAZO", "id": 37814 },
+                { "name": "MUSEZERO", "id": 40080 },
+                { "name": "MUTANDA", "id": 40220 },
+                { "name": "RUGARYI", "id": 52710 },
+                { "name": "RUSAVE", "id": 53112 },
+                { "name": "RULEMBO", "id": 53009 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUFUMBIRA NORTH",
+      "id": 361,
+      "sub_counties": [
+        {
+          "name": "BUSANZA",
+          "id": 450,
+          "parishes": [
+            {
+              "name": "GITOVU",
+              "id": 2072,
+              "villages": [
+                { "name": "BUGARA", "id": 8201 },
+                { "name": "GITOVU", "id": 16696 },
+                { "name": "BUNYANYA", "id": 11832 },
+                { "name": "BUSIGI", "id": 12504 },
+                { "name": "BUTUNGA", "id": 13393 },
+                { "name": "KABAYA", "id": 18727 },
+                { "name": "KINANIRA", "id": 28009 },
+                { "name": "GAKYENKYE", "id": 16293 },
+                { "name": "GATERA", "id": 16418 },
+                { "name": "RURANGARA", "id": 53086 },
+                { "name": "NYARURAMBI", "id": 47433 }
+              ]
+            },
+            {
+              "name": "BUHOZI",
+              "id": 984,
+              "villages": [
+                { "name": "BUGANA", "id": 8149 },
+                { "name": "BUHOZI", "id": 8791 },
+                { "name": "BUSANANI", "id": 12212 },
+                { "name": "GIHIMBI", "id": 16637 },
+                { "name": "GIKORO", "id": 16642 },
+                { "name": "IKARAMBO", "id": 17527 },
+                { "name": "BUTOBO", "id": 13253 },
+                { "name": "GAHIZA", "id": 16280 },
+                { "name": "KABURASAZI", "id": 19160 },
+                { "name": "KAGEZI", "id": 19711 },
+                { "name": "MUREHE", "id": 39973 },
+                { "name": "MUYOVE", "id": 40429 },
+                { "name": "NYAGATANDA", "id": 45801 },
+                { "name": "NYAMABUYE", "id": 46691 },
+                { "name": "RUSEKE", "id": 53114 }
+              ]
+            },
+            {
+              "name": "BUHUMBU",
+              "id": 987,
+              "villages": [
+                { "name": "BUCURABWENGE", "id": 7807 },
+                { "name": "BUCUZI", "id": 7808 },
+                { "name": "BURAZA", "id": 11995 },
+                { "name": "KABAYA", "id": 18723 },
+                { "name": "KILIBA", "id": 27836 },
+                { "name": "KIBALE", "id": 25742 },
+                { "name": "KAMUKUMU", "id": 21559 },
+                { "name": "RWANZU", "id": 53913 },
+                { "name": "RUVUMU", "id": 53417 },
+                { "name": "RUBONA", "id": 52529 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIRUNDO",
+          "id": 460,
+          "parishes": [
+            {
+              "name": "RUBUGURI",
+              "id": 6856,
+              "villages": [
+                { "name": "HIGABIRO", "id": 17180 },
+                { "name": "IGABIRO", "id": 17366 },
+                { "name": "KANYAMAHANE", "id": 22122 },
+                { "name": "KASHAKA", "id": 23538 },
+                { "name": "KASHIJA", "id": 23686 },
+                { "name": "KAFUGA", "id": 19527 },
+                { "name": "RUGANDU", "id": 52628 },
+                { "name": "RUSHABARARA", "id": 53128 },
+                { "name": "RUSHAGA", "id": 53129 },
+                { "name": "NOMBE", "id": 45014 },
+                { "name": "RUTOOMA", "id": 53362 },
+                { "name": "NYABAREMURA", "id": 45526 },
+                { "name": "NYABICENCE", "id": 45537 }
+              ]
+            },
+            {
+              "name": "RUTAKA",
+              "id": 6937,
+              "villages": [
+                { "name": "BUGINA", "id": 8346 },
+                { "name": "BUCEECE", "id": 7774 },
+                { "name": "IGARI", "id": 17382 },
+                { "name": "IREMERA", "id": 17703 },
+                { "name": "KIRUNDO", "id": 28685 },
+                { "name": "KIRWA", "id": 28727 },
+                { "name": "KISHARU", "id": 29152 },
+                { "name": "GACACA", "id": 16266 },
+                { "name": "KIBUGU", "id": 26149 },
+                { "name": "KIGOMBE", "id": 26829 },
+                { "name": "KALEHE", "id": 20916 },
+                { "name": "MURAMBI", "id": 39946 },
+                { "name": "RUGAMBWA", "id": 52606 },
+                { "name": "RUGANDU", "id": 52629 },
+                { "name": "RUGENDABARE", "id": 52730 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYABWISHENYA",
+          "id": 453,
+          "parishes": [
+            {
+              "name": "NTEKO",
+              "id": 5935,
+              "villages": [
+                { "name": "BIKOKORA", "id": 7067 },
+                { "name": "KABAYA", "id": 18732 },
+                { "name": "KIKOBERO", "id": 27486 },
+                { "name": "KIKOMO", "id": 27548 },
+                { "name": "KAHURIRE", "id": 20030 },
+                { "name": "NYAMIKUMBI", "id": 46845 },
+                { "name": "MUGOMBWA", "id": 39368 },
+                { "name": "MUROLE", "id": 39991 },
+                { "name": "NTEKO", "id": 45332 },
+                { "name": "SUMA", "id": 55905 }
+              ]
+            },
+            {
+              "name": "NYARUTEMBE",
+              "id": 6178,
+              "villages": [
+                { "name": "BITARE", "id": 7251 },
+                { "name": "BUSANANI", "id": 12213 },
+                { "name": "KIBYIYONI", "id": 26258 },
+                { "name": "KIGEZI", "id": 26754 },
+                { "name": "MUKO", "id": 39584 },
+                { "name": "NYARUTEMBE", "id": 47463 },
+                { "name": "SHUNGA", "id": 55311 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYARUBUYE",
+          "id": 459,
+          "parishes": [
+            {
+              "name": "BUSENGO",
+              "id": 1510,
+              "villages": [
+                { "name": "BUSHEKWE", "id": 12396 },
+                { "name": "BUSENYANGABO", "id": 12338 },
+                { "name": "BUSHUNGA B", "id": 12452 },
+                { "name": "KABAYA", "id": 18724 },
+                { "name": "KIRAMBO", "id": 28333 },
+                { "name": "GATOBO", "id": 16422 },
+                { "name": "KANYANCUCU", "id": 22182 },
+                { "name": "KAGEYO", "id": 19710 }
+              ]
+            },
+            {
+              "name": "KARAMBI",
+              "id": 2964,
+              "villages": [
+                { "name": "BUKEBEKA", "id": 9224 },
+                { "name": "BUSHUNGA A", "id": 12451 },
+                { "name": "KABAGARA", "id": 18464 },
+                { "name": "KABANDE", "id": 18589 },
+                { "name": "KIRWA", "id": 28721 },
+                { "name": "KINYABABA", "id": 28134 },
+                { "name": "GAPFURIZO", "id": 16389 },
+                { "name": "GATETE", "id": 16420 },
+                { "name": "KANYANDO", "id": 22185 },
+                { "name": "NYARUBANDE", "id": 47317 },
+                { "name": "MWARO", "id": 40499 },
+                { "name": "RUKO", "id": 52943 },
+                { "name": "NYAKAGEZI", "id": 46014 },
+                { "name": "RUTUNDURE", "id": 53400 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUFUMBIRA SOUTH",
+      "id": 362,
+      "sub_counties": [
+        {
+          "name": "CHAHI",
+          "id": 451,
+          "parishes": [
+            {
+              "name": "NYAKABINGO",
+              "id": 6005,
+              "villages": [
+                { "name": "BIHANGA", "id": 6998 },
+                { "name": "BUGAHE", "id": 8115 },
+                { "name": "BUHAYO", "id": 8717 },
+                { "name": "BUKINGO", "id": 9480 },
+                { "name": "KABARA", "id": 18625 },
+                { "name": "KIBAYA", "id": 25863 },
+                { "name": "GAHINGA", "id": 16278 },
+                { "name": "GAHUNGA", "id": 16282 },
+                { "name": "RWANKONI", "id": 53867 },
+                { "name": "MUGANZA", "id": 39309 },
+                { "name": "MASAKA", "id": 37485 },
+                { "name": "RUKORO", "id": 52980 }
+              ]
+            },
+            {
+              "name": "MUGANZA",
+              "id": 5109,
+              "villages": [
+                { "name": "BUHINGA", "id": 8761 },
+                { "name": "BUSAMBA", "id": 12178 },
+                { "name": "BUSARO", "id": 12270 },
+                { "name": "KABUGA", "id": 19010 }
+              ]
+            },
+            {
+              "name": "RUTARE",
+              "id": 6939,
+              "villages": [
+                { "name": "BIREMBO", "id": 7166 },
+                { "name": "KABIRA", "id": 18883 },
+                { "name": "KIRIMIRO", "id": 28543 },
+                { "name": "KINYABABA", "id": 28135 },
+                { "name": "GAHURO", "id": 16283 },
+                { "name": "KANYAMICUCU", "id": 22140 },
+                { "name": "NYAMIGENDA", "id": 46806 },
+                { "name": "RUTARE", "id": 53275 },
+                { "name": "RUBAGABAGA", "id": 52464 },
+                { "name": "NYARURAMA", "id": 47432 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MURAMBA",
+          "id": 1030,
+          "parishes": [
+            {
+              "name": "GISOZI",
+              "id": 2070,
+              "villages": [
+                { "name": "BUKAZI", "id": 9222 },
+                { "name": "GISHONDORI", "id": 16692 },
+                { "name": "KIBANDE", "id": 25779 },
+                { "name": "CHANA", "id": 14924 },
+                { "name": "KAGANDU", "id": 19628 },
+                { "name": "KANOMBE", "id": 21997 },
+                { "name": "MUGWATA", "id": 39425 },
+                { "name": "MATARAMA", "id": 37704 },
+                { "name": "NYAGAKENKE", "id": 45798 }
+              ]
+            },
+            {
+              "name": "BUNAGANA",
+              "id": 1323,
+              "villages": [
+                { "name": "BUBAGANA T. CENTRE", "id": 7503 },
+                { "name": "BUSANZA", "id": 12263 },
+                { "name": "GITOWA", "id": 16697 },
+                { "name": "KIBAYA", "id": 25855 },
+                { "name": "GAKORO", "id": 16288 },
+                { "name": "GATSIBO", "id": 16426 },
+                { "name": "GATWE", "id": 16427 },
+                { "name": "KANYAMPIRIKO", "id": 22153 },
+                { "name": "KARA", "id": 22826 },
+                { "name": "MAKURIZO", "id": 37039 },
+                { "name": "NDAYINGOMA", "id": 44251 },
+                { "name": "NYARUTOVU", "id": 47474 }
+              ]
+            },
+            {
+              "name": "MURAMBA",
+              "id": 5190,
+              "villages": [
+                { "name": "BUKARA", "id": 9137 },
+                { "name": "BURERE", "id": 12020 },
+                { "name": "BURUNGU", "id": 12080 },
+                { "name": "GAKO", "id": 16287 },
+                { "name": "KIDAKAMA", "id": 26345 },
+                { "name": "KANYENKA", "id": 22280 },
+                { "name": "MURINZI", "id": 39984 },
+                { "name": "MAZIBA", "id": 38010 },
+                { "name": "RUHANDANZOVU", "id": 52808 },
+                { "name": "RUHANGO", "id": 52815 },
+                { "name": "NANGO", "id": 43427 }
+              ]
+            },
+            {
+              "name": "SOOKO",
+              "id": 7149,
+              "villages": [
+                { "name": "BIZITIRO", "id": 7321 },
+                { "name": "GAKORO", "id": 16291 },
+                { "name": "GAKWARE", "id": 16292 },
+                { "name": "GASARARA", "id": 16403 },
+                { "name": "GASURI", "id": 16415 },
+                { "name": "KIGARAMA", "id": 26693 },
+                { "name": "MUGWATA", "id": 39426 },
+                { "name": "MATABA", "id": 37672 },
+                { "name": "MURORA", "id": 39995 },
+                { "name": "MIGESHI", "id": 38327 },
+                { "name": "RUSENYI", "id": 53121 },
+                { "name": "NTARAMA", "id": 45314 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKINAMA",
+          "id": 461,
+          "parishes": [
+            {
+              "name": "CHIHE",
+              "id": 1909,
+              "villages": [
+                { "name": "GIFUNZO", "id": 16636 },
+                { "name": "GIKORO", "id": 16643 },
+                { "name": "BURERE", "id": 12019 },
+                { "name": "BUSINGA", "id": 12580 },
+                { "name": "BUTURANYA", "id": 13397 },
+                { "name": "KINONI", "id": 28086 },
+                { "name": "GATOVU", "id": 16423 },
+                { "name": "KANYAMEGERI", "id": 22139 },
+                { "name": "KANGOMA", "id": 21904 },
+                { "name": "KANNYOGO", "id": 21991 },
+                { "name": "MUCYAMO", "id": 39249 },
+                { "name": "MUKINGO", "id": 39567 }
+              ]
+            },
+            {
+              "name": "MBUGA",
+              "id": 4957,
+              "villages": [
+                { "name": "BUGWENE", "id": 8642 },
+                { "name": "BUHAYO", "id": 8716 },
+                { "name": "BUZIGAMBOGO", "id": 14262 },
+                { "name": "GASE", "id": 16407 },
+                { "name": "TABA", "id": 55999 }
+              ]
+            },
+            {
+              "name": "RWARAMBA",
+              "id": 6999,
+              "villages": [
+                { "name": "BIHANGA", "id": 7001 },
+                { "name": "BUKERE", "id": 9261 },
+                { "name": "BULIHIRA", "id": 10144 },
+                { "name": "BUSERA", "id": 12342 },
+                { "name": "BUPFUMPFU", "id": 11919 },
+                { "name": "KABANDE", "id": 18590 },
+                { "name": "GAHEMBE", "id": 16276 },
+                { "name": "GASAVE", "id": 16405 },
+                { "name": "GATETE", "id": 16421 },
+                { "name": "GATYAZO", "id": 16431 },
+                { "name": "KIGATA", "id": 26713 },
+                { "name": "MURAMBI", "id": 39948 },
+                { "name": "MIGESHI", "id": 38326 },
+                { "name": "NDAKIRIYE", "id": 44216 },
+                { "name": "NYAGICEBE", "id": 45804 },
+                { "name": "NYAKINAMA", "id": 46542 },
+                { "name": "RUKORO", "id": 52981 },
+                { "name": "NTURO", "id": 45465 },
+                { "name": "NYABITARE", "id": 45604 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYARUSIZA",
+          "id": 455,
+          "parishes": [
+            {
+              "name": "GASOVU",
+              "id": 2043,
+              "villages": [
+                { "name": "BUNAMA", "id": 11193 },
+                { "name": "GISHITA", "id": 16691 },
+                { "name": "BUSHOKA", "id": 12446 },
+                { "name": "KABONERO", "id": 18955 },
+                { "name": "KABALE", "id": 18524 },
+                { "name": "KABAYA", "id": 18725 },
+                { "name": "BUZEYI", "id": 14252 },
+                { "name": "KAZIBA", "id": 25326 },
+                { "name": "CHONDO", "id": 15266 },
+                { "name": "GASOVU", "id": 16413 },
+                { "name": "KARAMBI", "id": 22870 },
+                { "name": "MUGWATA", "id": 39424 },
+                { "name": "MATYAZO", "id": 37813 },
+                { "name": "MUSASA", "id": 40068 },
+                { "name": "NDAGO", "id": 44204 },
+                { "name": "NYAGIHENGE", "id": 45805 },
+                { "name": "NYAGISENYI", "id": 45806 }
+              ]
+            },
+            {
+              "name": "GITENDERI",
+              "id": 2071,
+              "villages": [
+                { "name": "BITONGO", "id": 7267 },
+                { "name": "BUTAHA", "id": 12919 },
+                { "name": "KABANDE", "id": 18588 },
+                { "name": "KABAYA", "id": 18726 },
+                { "name": "MWANJARI", "id": 40497 },
+                { "name": "MUBANDE", "id": 39213 },
+                { "name": "MUBUGA", "id": 39231 },
+                { "name": "MATABA", "id": 37670 },
+                { "name": "RUCHANTEGE", "id": 52576 },
+                { "name": "NDEGO", "id": 44274 },
+                { "name": "RUKERI", "id": 52905 },
+                { "name": "NZOGERA", "id": 47697 }
+              ]
+            },
+            {
+              "name": "MABUNGO",
+              "id": 4750,
+              "villages": [
+                { "name": "BIGINA", "id": 6981 },
+                { "name": "BIKORO", "id": 7082 },
+                { "name": "BUHANGURA", "id": 8689 },
+                { "name": "BUHIMA", "id": 8748 },
+                { "name": "BURAKEYE", "id": 11949 },
+                { "name": "GASENYI", "id": 16409 },
+                { "name": "SAGITWE", "id": 54843 },
+                { "name": "NYAMUSHUNGWA", "id": 47070 },
+                { "name": "NSHORA", "id": 45147 },
+                { "name": "RUSISIRO", "id": 53244 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KISORO MUNICIPALITY",
+      "id": 438,
+      "sub_counties": [
+        {
+          "name": "CENTRAL DIVISION",
+          "id": 1518,
+          "parishes": [
+            {
+              "name": "CENTRAL",
+              "id": 1920,
+              "villages": [
+                { "name": "KISORO HILL", "id": 29372 },
+                { "name": "KARUMENA", "id": 23126 },
+                { "name": "MAIN", "id": 36800 }
+              ]
+            },
+            {
+              "name": "NYAMAGANA",
+              "id": 6209,
+              "villages": [
+                { "name": "CHINTALE", "id": 15258 },
+                { "name": "NYAMIRIMA", "id": 46884 },
+                { "name": "NYARUYAGA", "id": 47485 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NORTHERN DIVISION",
+          "id": 1519,
+          "parishes": [
+            {
+              "name": "KAMONYI",
+              "id": 4384,
+              "villages": [
+                { "name": "KIBAYA", "id": 25860 },
+                { "name": "GASE", "id": 16406 },
+                { "name": "KAMONYI A", "id": 21424 },
+                { "name": "KAMONYI B", "id": 21425 },
+                { "name": "ZINDIRO", "id": 58088 }
+              ]
+            },
+            {
+              "name": "NYAGASHINGE",
+              "id": 6208,
+              "villages": [
+                { "name": "GISHEGAERA", "id": 16690 },
+                { "name": "CHAHI", "id": 14915 },
+                { "name": "NYAGASHINGE", "id": 45800 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOUTHERN DIVISION",
+          "id": 1520,
+          "parishes": [
+            {
+              "name": "BUSAMBA",
+              "id": 1818,
+              "villages": [
+                { "name": "KIBANDE", "id": 25778 },
+                { "name": "GASHEGESHI", "id": 16410 },
+                { "name": "MIKINGO", "id": 38382 },
+                { "name": "NYARUHENGYERI", "id": 47404 }
+              ]
+            },
+            {
+              "name": "GASIZA",
+              "id": 2116,
+              "villages": [
+                { "name": "BIKORO A", "id": 7083 },
+                { "name": "BIKORO B", "id": 7084 },
+                { "name": "GASARARA", "id": 16402 },
+                { "name": "GATOVU", "id": 16424 }
+              ]
+            },
+            {
+              "name": "HOSPITAL",
+              "id": 2140,
+              "villages": [
+                { "name": "BIGINA", "id": 6980 },
+                { "name": "KABAYA", "id": 18728 },
+                { "name": "GATOVU", "id": 16425 },
+                { "name": "KASEMISEGO", "id": 23478 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "name": "KUMI",
+  "counties": [
+    {
+      "name": "KANYUM COUNTY",
+      "sub_counties": [
+        {
+          "name": "KADAMI",
+          "parishes": [
+            { "name": "AGARIA", "villages": ["AGARIA ISLAND", "KELIM"] },
+            { "name": "AKADOT", "villages": ["AIPANY", "AKADOT", "AMOSINGO"] },
+            { "name": "ALUKAT", "villages": ["ALUKAT", "NYAGUO"] },
+            { "name": "AOJAMOROK", "villages": ["AOJAMOROK", "OKOKOR"] },
+            { "name": "GORIA", "villages": ["GORIA", "OMIRIAMIRIA"] },
+            { "name": "KABUKOL", "villages": ["ACEEDE", "KABUKOL"] },
+            { "name": "KACHABOI", "villages": ["AMELEK", "KACHABOI"] },
+            { "name": "KADAMI", "villages": ["GAGAMA", "KADAMI"] },
+            { "name": "KADERIN", "villages": ["KADERIN", "OPUT"] },
+            { "name": "KOMOLO", "villages": ["AJESA", "KOMOLO"] },
+            { "name": "NYAGUO", "villages": ["NYAGUO", "OMAKEMYIN"] },
+            { "name": "ODOTOI", "villages": ["NTINDA", "ODOTOI A", "ODOTOI B"] }
+          ]
+        },
+        {
+          "name": "KAKURES",
+          "parishes": [
+            { "name": "AACHA", "villages": ["AACHA", "OMIITO"] },
+            { "name": "AARAMOR", "villages": ["AARAMOR", "OKUNGURO"] },
+            { "name": "ADODOI", "villages": ["ADODOI", "KANYANGA"] },
+            { "name": "KAKURES", "villages": ["KAKURES", "RARAK"] },
+            { "name": "KALEMEN", "villages": ["KALEMEN", "MANGA"] },
+            { "name": "KAMUNO", "villages": ["KAMUNO", "OLELIA"] },
+            { "name": "KANYAMUTAMU", "villages": ["APUTON", "KANYAMUTAMU"] },
+            { "name": "KITUBA", "villages": ["KITUBA", "ODUSURA"] },
+            { "name": "KODOKOTO", "villages": ["KODOKOTO", "ODUKURO"] },
+            { "name": "MADANG", "villages": ["KAJAMALA", "MADANG"] },
+            { "name": "ODEREKAI", "villages": ["KABWONGO", "ODEREKAI"] },
+            { "name": "ODOKOTO", "villages": ["OBATAT", "ODOKET"] },
+            { "name": "OKARUKA", "villages": ["OKARUKA", "OTIISA-RARAK"] },
+            { "name": "OKONAI", "villages": ["MIROI", "OKONAI"] },
+            { "name": "OKUKUNYAI", "villages": ["OBOTIA", "OKUKUNYAI"] },
+            { "name": "OLUWA", "villages": ["AGULE", "OLUWA"] },
+            { "name": "ONYAKELO", "villages": ["KAWOLO", "ONYAKELO"] },
+            { "name": "OURIESIK", "villages": ["ABILIBIL", "OURIESIK"] }
+          ]
+        },
+        {
+          "name": "KAMACA",
+          "parishes": [
+            { "name": "ALEMEN", "villages": ["ALEMEN", "OBOTIA"] },
+            { "name": "KAMACHA", "villages": ["ADODOI", "KAMACHA"] },
+            { "name": "KAMUNYUMBI", "villages": ["KAMUNYUMBI", "KOCEKA"] },
+            { "name": "KATILEKORI", "villages": ["ATEK", "KATILEKORI"] },
+            { "name": "OJIE", "villages": ["OJIE", "OUSIO"] },
+            { "name": "OKEMER", "villages": ["KAMACARINYANG", "OKEMER"] },
+            { "name": "OLUMOT", "villages": ["OLUMOT", "OTOLUT"] },
+            { "name": "OTIISA", "villages": ["KWAAPA", "OTIISA"] }
+          ]
+        },
+        {
+          "name": "KANYUM",
+          "parishes": [
+            { "name": "AJUKET", "villages": ["AJUKET", "KODOCHA"] },
+            { "name": "AKISIM", "villages": ["AKISIM", "APEDURU"] },
+            { "name": "ARIET", "villages": ["ARIET", "OMEERIKORO"] },
+            { "name": "ASALO", "villages": ["ASALO", "NABIOTO"] },
+            { "name": "KABWELE", "villages": ["IGOLA", "KABWELE"] },
+            { "name": "KACHA", "villages": ["KABWONGO", "KACHA"] },
+            { "name": "KAJAMAKA", "villages": ["APUTON", "KAJAMAKA", "OPETOI"] },
+            { "name": "KANYUM", "villages": ["KANYUM", "OPUT"] },
+            { "name": "KOGIL", "villages": ["KOGIL", "OBOKORA"] },
+            { "name": "ODOTUNO", "villages": ["ODOTUNO", "OTUKOLIA"] },
+            { "name": "OKEITO", "villages": ["OKEITO", "ONGARIO"] },
+            { "name": "OLIMAI", "villages": ["OBOROBORIA", "OLIMAI"] },
+            { "name": "OMURANG", "villages": ["KAJAMAKA", "MIROI", "OMURANG"] }
+          ]
+        },
+        {
+          "name": "MUKONGORO",
+          "parishes": [
+            { "name": "ACHUNAT", "villages": ["ACHUNAT", "ODIDING"] },
+            { "name": "KABURA", "villages": ["ASIKINY", "KABURA"] },
+            { "name": "KADERIN", "villages": ["AKURAC", "OKUDUMO"] },
+            { "name": "KAJAMAKA", "villages": ["KAJAMAKA", "OMUSIO"] },
+            { "name": "KAPUWAI", "villages": ["KAPUWAI", "OMOMEI"] },
+            { "name": "MUKONGORO", "villages": ["ACAPA", "MUKONGORO"] },
+            { "name": "OGOSOI", "villages": ["OGOSOI", "OMONGIRO"] },
+            { "name": "OIDON", "villages": ["BANDA", "OIDON"] },
+            { "name": "OJINGA", "villages": ["OJINGA", "OLOBAI"] },
+            { "name": "OKUDU", "villages": ["OGOJOI", "OKUDU"] },
+            { "name": "OLADOT", "villages": ["OGERA", "OLADOT"] },
+            { "name": "OLEICO", "villages": ["MAAGA", "OLEICHO"] },
+            { "name": "OMEREIN", "villages": ["ODEIDEI", "OMEREIN"] },
+            { "name": "OSOPOTOIT", "villages": ["OKWENYAINYAM", "OSOPOTOIT"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KUMI COUNTY",
+      "sub_counties": [
+        {
+          "name": "ATUTUR",
+          "parishes": [
+            { "name": "AKALABAI", "villages": ["AKALABAI", "APUDA"] },
+            { "name": "AKIBUI", "villages": ["AKIBUI", "OGOLOI"] },
+            { "name": "APAPAI", "villages": ["APAPAI", "OSWAPAI"] },
+            { "name": "ARIET", "villages": ["ARIET", "OCHAGORO"] },
+            { "name": "ATUTUR", "villages": ["ATUTUR", "ORAPADA"] },
+            { "name": "KAPOKIN", "villages": ["KALUNGAR", "KAPOKIN"] }
+          ]
+        },
+        {
+          "name": "KANAPA",
+          "parishes": [
+            { "name": "KACHEREDE", "villages": ["KACHEREDE", "KOBWALE"] },
+            { "name": "KANAPA", "villages": ["KANAPA", "ODUORO"] },
+            { "name": "KANGOLE", "villages": ["ATUTA", "KANGOLE"] },
+            { "name": "KOCHOPO", "villages": ["KOCHOPO", "OPUCAKAN"] },
+            { "name": "KODUKULU", "villages": ["KODUKUL", "OTAPAKEL"] },
+            { "name": "KONGURA", "villages": ["JAJA", "KONGURA"] },
+            { "name": "OBOTIA", "villages": ["AKIMENG", "AUKOT", "OBOTIA", "ODAPAUJO"] },
+            { "name": "TOTOLIM", "villages": ["AKAREBU", "AMAGORO", "AWADAT", "RWATAM", "TOTOLIM"] }
+          ]
+        },
+        {
+          "name": "KUMI",
+          "parishes": [
+            { "name": "AGOLITOM", "villages": ["AGOLITOM", "OKICIRA"] },
+            { "name": "AGULE", "villages": ["AGULE", "OKOMION"] },
+            { "name": "ASINGE", "villages": ["ASINGE", "NGABET"] },
+            { "name": "KUMI", "villages": ["KUMI", "OTAABA"] },
+            { "name": "OLUPE", "villages": ["OLUPE", "OSION"] },
+            { "name": "OMATENGA", "villages": ["AJESA", "OMATENGA"] },
+            { "name": "OOGORIA", "villages": ["MORU", "OOGORIA"] }
+          ]
+        },
+        {
+          "name": "NYERO",
+          "parishes": [
+            { "name": "AGUURUT", "villages": ["AGUURUT"] },
+            { "name": "ARIET", "villages": ["ARIET"] },
+            { "name": "KALAPATA", "villages": ["KALAPATA", "OCUTAI"] },
+            { "name": "KODIKE", "villages": ["KEES", "KODIKE"] },
+            { "name": "MORUIKARA", "villages": ["MORUIKARA", "OMUSIO"] },
+            { "name": "MORUITA", "villages": ["MORUITA"] },
+            { "name": "NYERO", "villages": ["NYERO", "OBOSOI"] },
+            { "name": "OLILIM", "villages": ["APEDURU", "OLILIM"] },
+            { "name": "OMATAKIRIA", "villages": ["ABONGIN", "OMATAKIRIA"] }
+          ]
+        },
+        {
+          "name": "OGOOMA",
+          "parishes": [
+            { "name": "ALIGOI", "villages": ["ALIGOI", "RAKAK"] },
+            { "name": "ATEKWA", "villages": ["ATEKWA", "IGOLA"] },
+            { "name": "KAMENYA", "villages": ["KAMENYA", "KATEK"] },
+            { "name": "KOMOLO", "villages": ["AGULE", "KOMOLO"] },
+            { "name": "ODIPAI", "villages": ["KAREU", "ODIPAI"] },
+            { "name": "OGOOMA", "villages": ["OGOOMA", "OKWII"] },
+            { "name": "OKANYAPURIO", "villages": ["OKANYAPURIO", "OMUTIN"] },
+            { "name": "OMINAI", "villages": ["ATEK", "OMINAI"] }
+          ]
+        },
+        {
+          "name": "ONGINO",
+          "parishes": [
+            { "name": "AAKUM", "villages": ["AAKUM", "MORIO"] },
+            { "name": "AKOLITOROM", "villages": ["AKOLITOROM", "DAMASIKO"] },
+            { "name": "CEELE", "villages": ["CEELE", "NYAKOI", "OBELER"] },
+            { "name": "KABWANGASI", "villages": ["AKWORO", "KABWANGASI"] },
+            { "name": "KACHABOI", "villages": ["ADEKIS", "KACHABOI", "KACOSO", "OTWANARE"] },
+            { "name": "KACHELAKWENY", "villages": ["AKISIM", "KACHELAKWENY", "OKATABU"] },
+            { "name": "KAPASAK", "villages": ["AKUORO", "KAPASAK", "ONGOTO"] },
+            { "name": "KAPOLIN", "villages": ["ATIRIR", "KAPOLIN", "MUNYAL"] },
+            { "name": "KAREU", "villages": ["KAJAMAKA", "KAREU"] },
+            { "name": "MORUPEDED", "villages": ["AKEREKWAM", "MORUPEDED"] },
+            { "name": "ONGINO", "villages": ["AMURIA", "ODUKA", "ONGINO"] },
+            { "name": "OSEERA", "villages": ["ADUKA", "OSEERA", "OTADA", "TUKUM"] }
+          ]
+        },
+        {
+          "name": "TISAI",
+          "parishes": [
+            { "name": "ACERA", "villages": ["ACERA", "ULO"] },
+            { "name": "ADERUN", "villages": ["ADERUN", "ADODOI", "OKUTOT"] },
+            { "name": "AGUYA", "villages": ["AGUYA", "OKICHIRA"] },
+            { "name": "AKIDE", "villages": ["AKIDE", "OKUNGURO"] },
+            { "name": "ASINGE", "villages": ["ASINGE", "NABIOTO"] },
+            { "name": "TISAI ISLAND", "villages": ["OREMOT", "TISAI"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KUMI MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "NORTH DIVISION",
+          "parishes": [
+            { "name": "AMEJEI WARD", "villages": ["AMEJEI", "RARAK"] },
+            { "name": "BAZAAR WARD", "villages": ["ANGOPET", "BAZAAR"] },
+            { "name": "KABATA WARD", "villages": ["KABATA", "ODIDING"] },
+            { "name": "OKOUBA WARD", "villages": ["KADACAR", "OKOUBA"] },
+            { "name": "OMOLOKONYO", "villages": ["ANGOPET", "OMOLOKONYO"] }
+          ]
+        },
+        {
+          "name": "SOUTH DIVISION",
+          "parishes": [
+            { "name": "ABUBUR WARD", "villages": ["ABOSAN", "ABUBUR"] },
+            { "name": "APUTON WARD", "villages": ["ALIKODO", "APUTON"] },
+            { "name": "ATERAI WARD", "villages": ["ATERAI", "OKANYUMO"] },
+            { "name": "BOMA WARD", "villages": ["BOMA NORTH", "BOMA SOUTH"] },
+            { "name": "KANYUM WARD", "villages": ["KANYUM A", "KANYUM B"] },
+            { "name": "KELIM WARD", "villages": ["KELIM", "OTIDO"] },
+            { "name": "OLUNGIA WARD", "villages": ["AOLOKO", "OLUNGIA"] },
+            { "name": "OTIPE WARD", "villages": ["ATIDA", "OTIPE"] },
+            { "name": "TANK WARD", "villages": ["OSIODA", "TANK"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

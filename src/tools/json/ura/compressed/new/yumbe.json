@@ -1,0 +1,397 @@
+{
+  "name": "YUMBE",
+  "counties": [
+    {
+      "name": "ARINGA",
+      "sub_counties": [
+        {
+          "name": "APO",
+          "parishes": [
+            { "name": "ACHOLI", "villages": ["AGONGA", "KOZINGA", "DRIAMBU", "PIAJO", "NANJERE", "RONI", "WOROWORO"] },
+            { "name": "ARANGA", "villages": ["ALIBA", "AUPI", "GILA", "IBILE", "YAMBURA"] },
+            { "name": "ARIA", "villages": ["KISIMUA", "KONDIBA", "LANJUA", "ORIBA", "OKUKUA"] },
+            { "name": "ARINGA", "villages": ["ANGUA", "BANIKA", "LOKO", "ODUJO", "OLUGOFE"] },
+            { "name": "KERILA", "villages": ["ANAFIO", "KENA", "CENTRAL", "ELEKE", "OGUJABE", "WADADA"] },
+            { "name": "YETA", "villages": ["APINIKA", "ANGUWIRA", "KOWONGA", "GIBO", "LOBENGA"] },
+            { "name": "ORINZI", "villages": ["INYANGA", "IRABIA", "LOGOA", "ROBU"] },
+            { "name": "PENA", "villages": ["AFFA", "AWIJIA", "FATAHA", "MODICHA", "OMBA"] }
+          ]
+        },
+        {
+          "name": "KOCHI",
+          "parishes": [
+            { "name": "GOBORO", "villages": ["BAMURE", "LOBANGA", "MALANGA", "MARU"] },
+            { "name": "LIMIDIA", "villages": ["AINGA", "GOBIRI", "JUBA", "KOLOLO", "GADANIA", "NARAVULE"] },
+            { "name": "LOKPE", "villages": ["ARIWA", "MASAKA", "MURERE", "POINT K", "UMBECHI"] },
+            { "name": "LOMBE", "villages": ["ALIODRANUSI", "GBOROGBOROCHU", "NYAMNYAM", "LEWA A", "LEWA B", "NYAWA"] },
+            {
+              "name": "KOCHI",
+              "villages": [
+                "AKANDE",
+                "KEGBURU",
+                "KULIANARO",
+                "LENGA",
+                "NABARA",
+                "LOILI",
+                "LOOLO EAST",
+                "LOOLO WEST",
+                "PURE"
+              ]
+            },
+            {
+              "name": "YAYARI",
+              "villages": ["ALABA", "KELAA", "KOKA", "CHAMANIKUA", "LOJIA", "MOLONDO", "LOKOPIO", "NGAKUA"]
+            },
+            {
+              "name": "OKOI",
+              "villages": ["ANANGA", "GURUNGA", "JOBOROGO", "KALAMGBA", "MORICHA", "OKOI", "OCHOGANDI"]
+            },
+            { "name": "OMBACHI", "villages": ["ABENIKA", "GIRONGA", "KORO", "KOGBO", "LORI", "OCHE"] }
+          ]
+        },
+        {
+          "name": "KULULU",
+          "parishes": [
+            { "name": "ALIAPI", "villages": ["ANJEMARA", "KECHURU", "ONJIRI", "NARAGALA", "YEREGODE"] },
+            { "name": "EWAFA", "villages": ["CHUNIA", "KULULU", "KAMUKA", "MILINGA", "OYANGA"] },
+            {
+              "name": "GEYA",
+              "villages": [
+                "ALELINGA",
+                "ALIBA",
+                "ANIKURU",
+                "BIKICHIA",
+                "GOROA",
+                "GOVULE",
+                "KULAWIRI",
+                "NAKADE",
+                "UJJI EAST",
+                "UJJI WEST"
+              ]
+            },
+            {
+              "name": "LOMUNGA",
+              "villages": [
+                "ANAFIO",
+                "ALIBA",
+                "BURA",
+                "JOTRENGA",
+                "KIRILO",
+                "KAULE",
+                "TOKURO",
+                "OBO-MIRI",
+                "UPALIGO",
+                "WARAKA"
+              ]
+            },
+            { "name": "KOMGBE", "villages": ["KULACHA", "DONGOLOTO", "DRADRANGA", "LIMU", "UMVUZOKU", "UNIGANGA"] },
+            { "name": "MEROBA", "villages": ["BOMBO", "DUKURENGA", "MEROBA", "LANJUA", "WAKA"] },
+            { "name": "OJINGA", "villages": ["ALOSIO", "BOKI", "GILLA", "KENIA", "DOBEKE", "OJINGA"] },
+            { "name": "YOYO", "villages": ["AMBIA", "ALUNGA", "JOMOROGO", "KORO", "LUZIRA"] }
+          ]
+        },
+        {
+          "name": "KURU",
+          "parishes": [
+            { "name": "ALINGA", "villages": ["ALINGA", "GOBIRI-KOCHO", "KEMERU", "ELEKILE", "MILIA"] },
+            { "name": "GOJURU", "villages": ["JABALA", "KURU", "KOLOLO", "LOLORONGA", "TRITRI", "OBONGA"] },
+            {
+              "name": "IMVENGA",
+              "villages": ["AMBAYO", "AMANIRI", "IMVENGA", "KUYUNGA", "GARUBE", "LANGI", "LANGI WEST"]
+            },
+            { "name": "LIBUA", "villages": ["AUNGA", "IDACHE", "CHUNABE", "LIBUA", "NACHUA"] },
+            { "name": "MECHU", "villages": ["ACHIBA", "MECHU", "PANYUME", "RAMADAH", "TOMBERE"] },
+            {
+              "name": "RENDA",
+              "villages": [
+                "AGOBI-LULU",
+                "AMBALA",
+                "ATIPILI",
+                "BARIFA",
+                "DODORONGA",
+                "MIRI",
+                "MANDURU",
+                "LUGBANGA",
+                "MAZANGA",
+                "RENENGA",
+                "YINGA",
+                "ODUGONGA",
+                "OMBA"
+              ]
+            },
+            { "name": "ROGALE", "villages": ["ARUMAJE", "INIA", "LOKO", "LOKOPIO", "LUKUNENE"] }
+          ]
+        },
+        {
+          "name": "ROMOGI",
+          "parishes": [
+            { "name": "BIDIBIDI", "villages": ["BIDIBIDI", "DRAJINI", "LOBULUCHU", "OBERO", "TWAJIJI"] },
+            { "name": "BARINGA", "villages": ["ALIPI", "BARAKALA", "LEINGA CENTRAL", "LEINGA EAST", "LOMIRIJI"] },
+            { "name": "CHABILI", "villages": ["KURUNGA", "KULUPI", "GBORO", "LEGU", "LIMIKA", "MUNUPANA", "TRITRI"] },
+            { "name": "EYETE", "villages": ["IYETE", "DRABIJO", "GELURU", "OFONJE"] },
+            { "name": "LOCOMGBO", "villages": ["AGUWA", "ILANGA", "KIRI", "KIKPE", "GBURULE", "LIAGO"] },
+            { "name": "SWINGA", "villages": ["AMATANGA", "IDRALU", "KUI", "DRALURINGA", "POROPORO", "SWINGA"] },
+            { "name": "ONOKO", "villages": ["BATULU", "LIKICHONGA", "LUZIRA", "ONOKO"] }
+          ]
+        },
+        {
+          "name": "YUMBE TOWN COUNCIL",
+          "parishes": [
+            { "name": "BILEWU WARD", "villages": ["EAST YUMBE", "OYARU", "PARIKILE", "ODRIGA"] },
+            { "name": "AMANYIRI WARD", "villages": ["BIRANGONGA", "IRUNGA", "DELO", "GBORO KEJI"] },
+            { "name": "ARIGUYI WARD", "villages": ["WEST YUMBE", "OKANGA", "ODROPI", "SENIOR QUARTERS"] },
+            { "name": "ARUNGA WARD", "villages": ["AMUNA", "CHINA", "MIJALE", "MACHANGANA"] },
+            { "name": "CHARANGA WARD", "villages": ["JIBIA", "MILIA", "MORODU", "OWOLONGA"] },
+            { "name": "LUKUTUA WARD", "villages": ["AFRICAN QUARTERS", "AROBUA", "DRAKACHI"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ARINGA NORTH",
+      "sub_counties": [
+        {
+          "name": "KEI",
+          "parishes": [
+            { "name": "AKAYA", "villages": ["AKAYA", "KOBUA", "DRACHIA", "LELE", "NOKI", "YAKATA"] },
+            {
+              "name": "AMBALA",
+              "villages": [
+                "ADALAKA",
+                "ADU",
+                "AMBALA",
+                "GOLOGOLO",
+                "KOLUA",
+                "DUKULIA",
+                "KANABU",
+                "URUNGU",
+                "ODRUBI",
+                "TAPARAGO"
+              ]
+            },
+            {
+              "name": "AWOBA",
+              "villages": ["AKIA", "BIZEE", "KARAMUNA", "MORIKI", "MULEMULE", "PAYU", "NARA", "OMBA"]
+            },
+            { "name": "GICHARA", "villages": ["AZANGA", "GOTRI", "IBIRE", "JALATA", "DONGOLE", "ORABA", "URICHAKU"] },
+            {
+              "name": "GIMERE",
+              "villages": ["ADRUAZIKU", "IMBETRE", "DOKA", "MAGU", "LOMUNGA", "MATUMA", "ROBU", "TEREMU"]
+            },
+            { "name": "GOBU", "villages": ["GOBU", "KUBALI", "KULULUA", "MUNDOMORO", "ORABA", "ONGULEYO", "OLUBA"] },
+            { "name": "JOKE", "villages": ["CHAKIA", "MARIGUA", "ORIAJIN EAST", "ORIAJINI", "OKURINI", "OMBIYA"] },
+            {
+              "name": "KOKA",
+              "villages": ["ANYIRI", "GOGOLOA", "JOKE", "DIAMBU", "DULLA", "LOINA", "NACHUA", "OKUYO"]
+            },
+            {
+              "name": "RODO",
+              "villages": ["ARUPANGA", "BOMBO", "FIFIYUNGA", "PETATURE", "RODO", "OSUKIA", "WARAKALA"]
+            },
+            { "name": "RUKUJA", "villages": ["AJAGORO", "INDROGO", "KECHURU", "YAMIRO"] },
+            { "name": "TULIKI", "villages": ["AIYA", "IRAZALI", "WOYI", "TULIKI"] },
+            { "name": "PALAJA", "villages": ["ININIA", "MUNDUWALE", "MENGO", "MENZERE", "RIKACU", "TOKIRI"] }
+          ]
+        },
+        {
+          "name": "KERWA",
+          "parishes": [
+            {
+              "name": "KERWA",
+              "villages": ["CHOKOKOBIDI", "KERWA", "KOGBO", "GBONGATULU", "LETIMERKOR", "MONDUMUSE", "PAMULE", "TIRE"]
+            },
+            {
+              "name": "KOPIONGA",
+              "villages": ["AREPUNGA", "BARANYAKUTO", "KOGBO", "DOLOBO", "LONGOLIJO", "MATU", "PACIFIC", "NGONKITA"]
+            },
+            {
+              "name": "MIJIKITA",
+              "villages": ["AMBALA", "GIWAYA", "KUPIYA", "KILAJI", "KULACHARA", "PINGO", "OJIPAKU"]
+            },
+            { "name": "RODO", "villages": ["AJUNIAFE", "AMBALA", "DONGOTURE", "MIJALE", "MIYIRA", "LOYA", "MARKULU"] },
+            { "name": "WANDI", "villages": ["ALIGO", "ALUDU", "BUGO", "KONIKI", "DEMBE", "WOGO"] },
+            { "name": "OSUBIRA", "villages": ["CHORO", "MOROKITA", "OSUBIRA", "URA", "WANGORO"] }
+          ]
+        },
+        {
+          "name": "MIDIGO",
+          "parishes": [
+            { "name": "KOPUA", "villages": ["KOLOLO", "OREREA", "OSUBIRA", "OLUGA"] },
+            {
+              "name": "MEDENGA",
+              "villages": [
+                "ADIBU",
+                "ANAWU-CHEMA",
+                "IMILE",
+                "KELA",
+                "DERA",
+                "LOGOLE",
+                "YANDRU A",
+                "YANDRU B",
+                "WABANGA",
+                "OLEBA"
+              ]
+            },
+            {
+              "name": "MIGO",
+              "villages": ["ALIKU", "ALIRIKI", "BELIA A", "BELIA B", "GUBA", "KENUKIA", "KUANI", "PAMULE"]
+            },
+            {
+              "name": "MOCHA",
+              "villages": [
+                "GOJUA",
+                "BURA A",
+                "BURA B",
+                "KUKURU",
+                "MORODU",
+                "MENGO",
+                "META",
+                "TUNJIA",
+                "OLOBIO",
+                "SAMBALA"
+              ]
+            },
+            {
+              "name": "MULUMBE",
+              "villages": ["ADIBA", "GIRO", "GOJURU", "GUMBIRI", "KOKA", "LOINA", "NANDRI", "ODROPI", "WANDI"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ARINGA SOUTH",
+      "sub_counties": [
+        {
+          "name": "ARIWA",
+          "parishes": [
+            { "name": "AWINGA", "villages": ["AWINGA", "BIDIBIDI", "ICHIKI", "KITOLI", "GBIRIA", "GBOGBO", "OKUBAN"] },
+            { "name": "IKAFE", "villages": ["BARIFA", "CARANGA", "MEYIFE", "TOKURO", "OCHINGA", "OMBECHI", "TACHU"] },
+            {
+              "name": "RIGBONGA",
+              "villages": ["AYIVU", "BASUNGA", "EWANYATI", "KIRANGA", "KANGUDE", "LUGBARICAKU", "TIFA", "OCHINGA"]
+            },
+            {
+              "name": "OKUYO",
+              "villages": ["ABIRIGANGA", "AYAGO", "IRUNGA", "GBANGI", "LOLI", "OKUYO CENTRE", "ODRANGA"]
+            }
+          ]
+        },
+        {
+          "name": "DRAJINI/ARAJIM",
+          "parishes": [
+            { "name": "ALIVU", "villages": ["JUEMVUTI", "NABONGO", "NAKACA", "NAMUA", "OBOJI", "OMBADRI"] },
+            { "name": "ARUBAKU", "villages": ["ABONDU", "AINA", "ALIAMU", "GUMBARI", "KENYAA", "DONDI", "ORIVU"] },
+            {
+              "name": "AUPI",
+              "villages": ["ARAFA", "AYIVU", "ICINGA", "INIA", "JOATE", "CUPIRIA", "DRAMBA", "MILEKO"]
+            },
+            {
+              "name": "YAA",
+              "villages": ["ABOA", "AINA", "AWINDIRI", "KUSAKUSA", "KALUKALUA", "MONGOYO", "MATU", "NAKU"]
+            },
+            { "name": "OLIVU", "villages": ["KATRINI", "PALADRU", "PATAKARA", "OREBE", "ROKOZE", "OKUVURU", "OLI"] },
+            {
+              "name": "OMGBOKOLO",
+              "villages": [
+                "ADUOFE",
+                "ACIANUKU",
+                "AJUMGBIRI",
+                "ANDI",
+                "ALUTI",
+                "CILIMU",
+                "NYARAGO",
+                "MALANDRI",
+                "TAMBUTAMBU",
+                "OMGBOKOLO"
+              ]
+            },
+            {
+              "name": "PAJAMA",
+              "villages": ["AGORAKU", "LOWER NYAMADRI", "OWAYI", "NYAMADRI", "ORUGUA", "UPPER NYAMADRI", "OMBADRI"]
+            }
+          ]
+        },
+        {
+          "name": "LODONGA",
+          "parishes": [
+            {
+              "name": "DRIWALA",
+              "villages": ["AKILIGBA", "ARAJAGO", "BELLA", "GURUA", "IDRADRIFURU", "IYIDU", "WEST ARAJAGO"]
+            },
+            {
+              "name": "MIJALE",
+              "villages": ["AJJI", "BLACK", "ENTEBBE", "MIJALE", "LIMURU", "LIO", "NYAKAMURE", "YENGEJI"]
+            },
+            {
+              "name": "REMBETA",
+              "villages": ["ARINGA", "BANANA", "GOTRI", "KAKWA", "LUZIRA", "ONDUNGA", "REMBETA", "OKPO", "UROBE"]
+            },
+            {
+              "name": "YIBA",
+              "villages": [
+                "AJIKOA",
+                "BASILIKA",
+                "GOLOGOLO",
+                "GALABA",
+                "LODONGA T/CENTRE",
+                "MENGO",
+                "OMUGO",
+                "TIMBAKUA",
+                "YIBA",
+                "YIGO IYII",
+                "OKURANGA",
+                "ODOKIBO"
+              ]
+            },
+            {
+              "name": "NYORI",
+              "villages": [
+                "AINGA",
+                "ARINGACHAKU",
+                "ILEKILE",
+                "KENYANGA",
+                "KERUKULA",
+                "KALIWARA",
+                "LOKI",
+                "MAVULI",
+                "MAZANGA",
+                "ORINJI A",
+                "ORINJI B",
+                "RODONGA",
+                "WEREJENGA",
+                "OGONGA"
+              ]
+            },
+            {
+              "name": "OROGBO",
+              "villages": ["IJIGO", "INVETRE", "CHIKITIBO", "KURO", "MACHULE", "MBOLOBA", "PADURU", "PODIKA", "OROGBO"]
+            },
+            {
+              "name": "YUMELE",
+              "villages": ["AJUJINGA", "ILALIRI", "DACHA", "DACHA B", "LOMOROJO", "MURUKULU", "MEREDU", "PANI"]
+            }
+          ]
+        },
+        {
+          "name": "ODRAVU",
+          "parishes": [
+            { "name": "ABARA", "villages": ["BOLOMONI", "IGAMARA", "DRIMBENI", "KADO", "OKANGALI", "ODRUO"] },
+            { "name": "AMBELECHU", "villages": ["ACHUNGA", "BODOGO", "IKUFE", "LODENGA", "MALISI", "WETIKORO"] },
+            { "name": "BANGATUTI", "villages": ["ANITI", "BADIMA", "KITOLI", "MUSOGA", "MIGORO"] },
+            { "name": "IBABIRI", "villages": ["ARAMBANGA", "IBABIRI", "LOKO", "NYORINGA", "OCHANGA", "WANDI"] },
+            { "name": "LUDARA", "villages": ["LUDARA", "NYAI", "NIGONGA", "ZINZO", "OBOLOGOFUKU"] },
+            { "name": "LUI", "villages": ["ALIBA", "GODRIA", "IRAKINGA", "KIYI", "KALIWARA", "ULULUWIRI"] },
+            { "name": "MOJU", "villages": ["ALABA", "AJUPANI", "ARINDRUWE", "MOJU CENTRAL", "LOKORA", "LOMOROJO"] },
+            { "name": "MOLI", "villages": ["IDACHE", "KEJUBE", "CHINIA", "RIMBE"] },
+            { "name": "MUGOJU", "villages": ["ALIBA", "IGEYI", "MUGOJU", "NANGULENGA"] },
+            { "name": "WOLO", "villages": ["IMIKINGA", "KENA", "KULINGA", "NYAPEA", "NYOKO", "OKUKUNGA", "OLUKENGA"] },
+            { "name": "NYOKO", "villages": ["AMBATARAKU", "AYURI", "KOBO", "KAKWA", "MAJAKANGA", "PAMUA", "PARACHA"] },
+            { "name": "OLUBA", "villages": ["AJI", "KULIKULINGA", "KUMIA", "KINYANGA", "OBOMIRI"] },
+            { "name": "PAKAYO", "villages": ["ATIMINDA", "KOROYI", "KAKIRA", "LAJI", "PAKAYO", "UNYABA"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

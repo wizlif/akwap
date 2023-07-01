@@ -1,0 +1,175 @@
+{
+  "name": "SERERE",
+  "counties": [
+    {
+      "name": "KASILO",
+      "sub_counties": [
+        {
+          "name": "BUGONDO",
+          "parishes": [
+            {
+              "name": "AGULE",
+              "villages": [
+                "AGULE",
+                "AKOCHO",
+                "AMORU",
+                "ALEPILEP",
+                "ALUNGAR",
+                "MADOCH",
+                "OWII",
+                "NAPAK",
+                "OBONGOI",
+                "OKUKWA"
+              ]
+            },
+            { "name": "BUGONDO", "villages": ["AROO", "ATAPE", "KABOS", "KIKOOTA", "MORU", "OPUCET"] },
+            {
+              "name": "KAMOD",
+              "villages": ["APOLIN", "APUUTON", "ATIRIR", "KASILO", "OONOKORI", "OTIMONG", "OBEL OGOLOI", "OCULURA"]
+            },
+            { "name": "KONGOTO", "villages": ["ABATAIT", "KONGOTO", "OPUNGUREI", "OKOKOMA", "OLOBAI"] },
+            { "name": "TOROR", "villages": ["AGORA", "APAPAI", "OPALAI", "TOROR", "OBULULUN"] },
+            { "name": "OGERA", "villages": ["KABOLA", "GALILAYA", "KAGOLOGOLO", "OGERA", "OGOLAI"] }
+          ]
+        },
+        {
+          "name": "KADUNGULU",
+          "parishes": [
+            {
+              "name": "IRUKO",
+              "villages": [
+                "ABOLOI",
+                "AGULE",
+                "ADEPI",
+                "AJUBA",
+                "AMIRIA",
+                "AMUKURAT",
+                "ALILIMIKIPI",
+                "OWARAKWAP",
+                "OKULUKULUN",
+                "OJOMAI"
+              ]
+            },
+            { "name": "KABULABULA", "villages": ["AKOJO", "APAPAI", "APUTON", "ATURIA", "MADAKA", "OPIYA"] },
+            {
+              "name": "KADUNGULU",
+              "villages": [
+                "ABATA",
+                "ADWENYI",
+                "AGULE",
+                "ADIDING",
+                "ADUKUT",
+                "AMIEM",
+                "KADUNGULU CENTRAL",
+                "MORU",
+                "MUSOZI",
+                "OMOYO"
+              ]
+            },
+            { "name": "KAGWARA", "villages": ["AKWANGALET", "AMORU", "KAGWARA A", "KAGWARA B", "KAGWARA C"] }
+          ]
+        },
+        {
+          "name": "KASILO TOWN COUNCIL",
+          "parishes": [
+            { "name": "KASILO WARD", "villages": ["ABOCE", "OJALAMA"] },
+            { "name": "KAMOD WARD", "villages": ["ASEREKO", "KAMOD CENTRAL A"] },
+            { "name": "KOLOLO WARD", "villages": ["ALWALA", "KAMOD CENTRAL B", "MAIROMUKAGA"] }
+          ]
+        },
+        {
+          "name": "LABOR",
+          "parishes": [
+            { "name": "AARAPOO", "villages": ["AARAPOO", "MUGARAMA A", "MUGARAMA B", "MULONDO"] },
+            { "name": "ASWII", "villages": ["AKUORO", "ASWII", "OMAJU"] },
+            { "name": "LABOR", "villages": ["LABOR", "OPUNOI", "OSAMITO", "OTOBA", "OBANGIN", "OLELE"] }
+          ]
+        },
+        {
+          "name": "PINGIRE",
+          "parishes": [
+            { "name": "AKUMOI", "villages": ["AKUMOI I", "AKUMOI II", "OKOLONGA"] },
+            { "name": "KIDETOK", "villages": ["AGONYO I", "AGONYO II", "KIDETOK CENTRAL", "OMOLOTOK"] },
+            { "name": "PINGIRE", "villages": ["AGULE", "AMUURIA", "KARAMOJONG", "SAMBWA"] },
+            { "name": "ODAPAKOL", "villages": ["AKIMENGA", "ODAPAKOL", "OGATA", "OLUMOT"] },
+            { "name": "OKIDI", "villages": ["ABULULU", "ONGONGEI", "OKIDI", "OLWA", "OMIRIAI"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SERERE",
+      "sub_counties": [
+        {
+          "name": "ATIIRA",
+          "parishes": [
+            { "name": "ALENGO", "villages": ["ABUR", "AGIRET", "ACILO", "ALENGO", "OKAPEL", "OBIA", "ODOCAI"] },
+            { "name": "ASILANG", "villages": ["ASILANG", "OMUGENYA", "OKAALEN", "OKIMAI", "OBIT", "ODOKAI"] },
+            { "name": "ATIIRA", "villages": ["APOKOR", "ATIIRA CENTRE", "OPIIN", "OLUMOI"] },
+            {
+              "name": "OPUURE",
+              "villages": ["ABIL", "ADIPALA AGULE", "AKISIM", "OUKOT", "OMUGENYA", "OPUURE AGULE", "ONGOR", "OTAABA"]
+            }
+          ]
+        },
+        {
+          "name": "KATETA",
+          "parishes": [
+            { "name": "KANYANGAN", "villages": ["AMINIT", "AWOJA", "PACOTO", "NANANGA A", "NANANGA B"] },
+            {
+              "name": "KATETA",
+              "villages": ["AGOLA", "ACOMIA", "AISIN A", "AISIN B", "ATAPAR", "KATETA-MORU", "OSOKOTOIT", "OKULUKULUN"]
+            },
+            { "name": "KAMUSALA", "villages": ["KAMUSALA A", "KAMUSALA B", "POKOR A", "POKOR B"] },
+            { "name": "OJETENYANG", "villages": ["AEP", "ALEPILEP", "OPAPA", "ONYAARA"] },
+            { "name": "OKODO", "villages": ["ABOKONY", "AKOROI A", "AKOROI B", "OKODO"] },
+            { "name": "OMAGARA", "villages": ["AGIRIGIROI", "AGURUR", "MUTEBE", "OCUPO", "OMAGARA"] },
+            { "name": "ORUPE", "villages": ["AKISIM", "ORUPE", "OBURIEKORI I", "OBURIEKORI II"] },
+            { "name": "OWINY-AGULE", "villages": ["AMOROKIN", "CAMULIKI", "OWINY-AGULE", "OBIAT", "OLAGARA"] }
+          ]
+        },
+        {
+          "name": "KYERE",
+          "parishes": [
+            { "name": "ABUKET", "villages": ["ABUKET", "AMESE", "OCEKETUM", "OCORAI ABUKET", "OKUNGURO", "ODOO"] },
+            {
+              "name": "KANGODO",
+              "villages": ["AMINIT", "KALOAKI", "KANGODO CENTRAL", "OGOBAI", "SAPIR", "OJAMA CENTRAL"]
+            },
+            { "name": "KELIM", "villages": ["AGULE", "AKISIM", "APUTON", "ANGOLE", "OJINGAI"] },
+            { "name": "KAKUJA", "villages": ["ATOI", "KAKUJA CENTRAL", "OBAR", "OLEP", "OMOKOI"] },
+            {
+              "name": "KAMUROJO",
+              "villages": ["AGULE", "KAMUROJO CENTRAL", "KAMUROJO OCHORAI", "MORU", "MUKAKALA", "OUKOT"]
+            },
+            { "name": "KYERE", "villages": ["AKISIM", "KOBWAKOL", "KALILIMO", "OBUR", "OMORIO"] },
+            { "name": "OLUPE", "villages": ["ABULU", "AKUORO", "AOJAKITOI", "KAUKURA", "OTEM MOJONG", "OLUPE MORU"] },
+            { "name": "OMAGORO", "villages": ["AJELEL", "ARIET", "KACHINGA", "OTEME", "OMAGORO"] }
+          ]
+        },
+        {
+          "name": "SERERE TOWN COUNCIL",
+          "parishes": [
+            { "name": "KAKUS WARD", "villages": ["KAKUS", "SERERE TOWNSHIP"] },
+            { "name": "OKULONYO WARD", "villages": ["IGOLA I", "IGOLA II", "IGOLA III"] },
+            { "name": "OSUGURO WARD", "villages": ["AJESA", "KIKOOTA", "SERERE CENTRE"] }
+          ]
+        },
+        {
+          "name": "SERERE/OLIO",
+          "parishes": [
+            { "name": "AKOBOI", "villages": ["ABIA", "AKOBOI", "ANYALAI", "OBULAI"] },
+            { "name": "KAKUS", "villages": ["AIMA", "KAKUS IGOLA"] },
+            { "name": "OBURIN", "villages": ["AKONYAKINEI", "IDUPA", "OMURIAKORI", "OBURIN"] },
+            {
+              "name": "ODUNGURA",
+              "villages": ["JELEL", "JELEL MORUBANYA", "KORAMOJO", "ODUNGURA", "ODUNGURA EGADU", "ODUNGURA OMODOI"]
+            },
+            { "name": "OKULONYO", "villages": ["AKUDAM ACALAR", "OKULONYO", "OMOLOK"] },
+            { "name": "OSUGURO", "villages": ["ABILAEP", "ADOKU", "AOJAKUM", "ONGOBAI", "OJEBURUN"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

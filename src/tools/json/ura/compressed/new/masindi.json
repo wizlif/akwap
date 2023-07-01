@@ -1,0 +1,467 @@
+{
+  "name": "MASINDI",
+  "counties": [
+    {
+      "name": "BUJENJE",
+      "sub_counties": [
+        {
+          "name": "BUDONGO",
+          "parishes": [
+            {
+              "name": "KASENENE",
+              "villages": ["ABANGI", "BISAJU", "KIBALI", "BYASIKU", "EJIENGA", "ONIENI", "SIMBA", "OGADRA"]
+            },
+            {
+              "name": "KASONGOIRE",
+              "villages": [
+                "BULYANGO",
+                "KIRYAMYONGO",
+                "KISAGURA",
+                "KIMANYA I",
+                "KYABIJWENGE",
+                "KASONGOIRE",
+                "NYAKYEJU",
+                "WAIPACU"
+              ]
+            },
+            {
+              "name": "KABANGO",
+              "villages": [
+                "KABANGO",
+                "EWAFALA",
+                "BWINAMIRA I",
+                "BWINAMIRA II",
+                "BWINAMIRA III",
+                "KIDAMUKE",
+                "KAPEEKA I",
+                "KAPEEKA II",
+                "KAPEEKA III",
+                "KYANKADE",
+                "KADUKURU I",
+                "KADUKURU II",
+                "MUBENDE",
+                "LUGAZI"
+              ]
+            },
+            { "name": "KINYARA", "villages": ["LABOUR AND G", "SENIOR QTRS"] },
+            {
+              "name": "NYABYEYA",
+              "villages": [
+                "KANYEGE",
+                "KARONGO",
+                "KYEMPUNU",
+                "MARRAM",
+                "NYABYEYA I",
+                "NYABYEYA II",
+                "NYABYEYA T/C",
+                "NYAKAFUNJO",
+                "NYABIGOMA"
+              ]
+            },
+            {
+              "name": "NYANTONZI",
+              "villages": [
+                "AKARAKAVENI I",
+                "AKARAKAVENI II",
+                "AMBAKA",
+                "BINENEZA",
+                "KABABITO",
+                "KABALE",
+                "KIMANYA II",
+                "KATUGO I",
+                "RWEMPISI",
+                "KATUGO II",
+                "KYAMONGI",
+                "RWENTALE I",
+                "RWENTALE II",
+                "NYANTONZI",
+                "KATANGA",
+                "RWANGARA",
+                "SIIBA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BWIJANGA",
+          "parishes": [
+            {
+              "name": "BIKONZI",
+              "villages": [
+                "BALYEIJUKIRA",
+                "BIKONZI I",
+                "BIKONZI II",
+                "IKOBA",
+                "ISAGARA KIRYANJOJO",
+                "ISAGARA KIRYANSEKA",
+                "KABAHAARA",
+                "KIKAIKYA",
+                "KIKUUBE",
+                "KISINGO I",
+                "KISINGO II",
+                "KISONGA",
+                "KINYWAMURARA",
+                "KATUGO",
+                "KYAKAITERA",
+                "KARUNGU"
+              ]
+            },
+            {
+              "name": "KAHEMBE",
+              "villages": [
+                "BULIMA",
+                "KISALIZI",
+                "KIMIGI",
+                "KYABABANDE",
+                "KYABAKAZINDE",
+                "KISOGA",
+                "KITABOHA",
+                "KYAMUGAMBA",
+                "KYAWINYI",
+                "MAIHA",
+                "RWAMAKERE",
+                "MARONGO",
+                "MURRO",
+                "MUSOMA",
+                "NTUUMA",
+                "RUBONA"
+              ]
+            },
+            {
+              "name": "KITAMBA",
+              "villages": [
+                "BUBANDA I",
+                "ISIMBA",
+                "KIHAARA",
+                "KIKINGURA",
+                "KISAMBO",
+                "KINENABUHERE",
+                "BYEBEGA",
+                "BYERIMA",
+                "KITAMBA",
+                "KAIHA",
+                "KYAMAISO",
+                "KYAMAROLERE",
+                "KYAMUKUDUMI",
+                "KYANDANGI",
+                "MIRAMURA"
+              ]
+            },
+            {
+              "name": "NTOMA",
+              "villages": [
+                "BISEKE",
+                "BUBANDA II",
+                "KIHAGANI",
+                "KYABAGABU",
+                "KYABAKOOTO",
+                "RWENJOJO",
+                "KYABIKULE",
+                "KYAKAHEERU",
+                "KYAKAKI",
+                "RWENZIRAMIRE",
+                "KYANGA",
+                "KATAKUNGIRWA",
+                "RWEBIGWARA",
+                "RUSANGURA"
+              ]
+            },
+            {
+              "name": "RUKONDWA",
+              "villages": [
+                "BIHANGA",
+                "KABBO",
+                "KIINA",
+                "KIKARANGA",
+                "KIKOBWA",
+                "KISOMABUTUZI",
+                "KITONONZI",
+                "KICHANDI",
+                "KITYEDO",
+                "RWENTALE",
+                "KYANYAMBUBI",
+                "RWABATINI",
+                "NSAMBYA",
+                "RUBANI"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BURULI",
+      "sub_counties": [
+        {
+          "name": "KIMENGO",
+          "parishes": [
+            {
+              "name": "KIJUNJUBWA",
+              "villages": [
+                "BUKOOBA",
+                "KIZIMWE",
+                "KIJUNJUBWA",
+                "KITINWA",
+                "KATEIRWE",
+                "KAIKUKU",
+                "KYANGAMWOYO",
+                "KYARUTANGA",
+                "MIDUUMA",
+                "OMWIGURU",
+                "NYINEZARA"
+              ]
+            },
+            {
+              "name": "KIMENGO",
+              "villages": ["KIDIDIMA/KARWARA", "KIBANGYA", "KAYERA", "KARANGWE", "MYEBA/NYAKARONGO"]
+            }
+          ]
+        },
+        {
+          "name": "MIIRYA",
+          "parishes": [
+            {
+              "name": "BIGANDO",
+              "villages": [
+                "BALYEGOMBA",
+                "KIJENGA",
+                "KIBAALI KITONDE",
+                "KINUUMA",
+                "KAHARA I",
+                "KAHARA II",
+                "KABUTUKURU",
+                "KATAGURUKWA"
+              ]
+            },
+            { "name": "ISIMBA", "villages": ["KISINDIZI", "KITOOKA", "KYABASWA", "KYABASWA/KICHOPE", "KYEDIKYO"] },
+            {
+              "name": "KIGUULYA",
+              "villages": ["BISHENYI", "KIJOGORO", "KISUGA/KINUMI", "KIGEZI TC", "KITWETWE", "RWEMIGAALI", "KYARUKUNYA"]
+            }
+          ]
+        },
+        {
+          "name": "PAKANYI",
+          "parishes": [
+            {
+              "name": "KYAKAMESE",
+              "villages": [
+                "ALIMUGONZA",
+                "ALIMUGONZA II",
+                "IBARALIBI",
+                "KABOROGOTA",
+                "KIYUUYA",
+                "KIBAMBA",
+                "KISINDI",
+                "KISINDIZI I",
+                "KISINDIZI II",
+                "KISINDIZI II A",
+                "KISINDIZI II B",
+                "KIBIRANI",
+                "KATUGO",
+                "KATUMBA",
+                "KYAKAMESE",
+                "KYAMUDIKYA",
+                "KYARUMBEIHA",
+                "KASOMORO",
+                "KYATWENGE",
+                "NYAKATOGO",
+                "PABIIDI",
+                "NAMAGOMDE",
+                "PAKANYI",
+                "WAIGA A",
+                "WAIGA B"
+              ]
+            },
+            {
+              "name": "KYATIRI",
+              "villages": [
+                "KISEKURA I",
+                "KISEKURA II",
+                "KYABABYARA",
+                "KYABAKAMI",
+                "KIBIBIRA",
+                "KIBOIJOGORO I",
+                "KIBOIJOGORO II",
+                "KATUGO",
+                "KYAKAYAGA I",
+                "KYAKAYAGA II",
+                "KYAMBOGO",
+                "KYATIRI CENTRE",
+                "KAGERA",
+                "NYAKABALE",
+                "NYAKASAGAZI I",
+                "NYAKASAGAZI II"
+              ]
+            },
+            {
+              "name": "LABONGO",
+              "villages": [
+                "KIHONDA",
+                "KIRALIIRE",
+                "KIRYAMPATE",
+                "KISABAGWA",
+                "KILANYI",
+                "KISANJA",
+                "KIDWERA II",
+                "KATIKARA",
+                "KYABATEGA",
+                "RWENKOBE",
+                "KYAMUGWERA",
+                "LABONGO",
+                "NYAKYANIKA II",
+                "WALYOBA"
+              ]
+            },
+            {
+              "name": "KIHAGUZI",
+              "villages": [
+                "BOKWE",
+                "HANGA I",
+                "KIGUNIA I",
+                "KIGUNIA II",
+                "KIHAGUZI A",
+                "KIHAGUZI B",
+                "KIJUMBURA",
+                "KIDWERA I",
+                "KIGARAGARA",
+                "KITUKA CENTRAL",
+                "KITUKA II",
+                "NYAMITETE",
+                "KASENYI",
+                "NYAKYANIKA I"
+              ]
+            },
+            {
+              "name": "KIRULI",
+              "villages": [
+                "KIRULI CENTRAL",
+                "KIRULI I",
+                "KIRULI II",
+                "KIMINA",
+                "KISWERAMAHINDA",
+                "KITANYATA I",
+                "KITANYATA II",
+                "KITENGULE I",
+                "KITENGULE II",
+                "KITUMU",
+                "KYANGAMWOYO",
+                "NYAKAKOMA",
+                "NYAKARONGO",
+                "TANTARA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MASINDI MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "CENTRAL DIVISION - MASINDI",
+          "parishes": [
+            {
+              "name": "CIVIC CENTRE WARD",
+              "villages": ["EASTERN", "CENTRAL I", "CENTRAL II", "KATAMA", "NORTHEN", "WESTERN", "SOUTHERN"]
+            },
+            { "name": "SOUTHERN WARD", "villages": ["KABARWANA", "KIRASA I", "KIRASA II", "NYANGAHYA", "NYAMIGISA"] },
+            {
+              "name": "WESTERN WARD",
+              "villages": [
+                "BULYASOJO",
+                "KIHANDE I",
+                "KIHANDE II",
+                "KIJURA CENTRAL",
+                "KIJURA NORTH",
+                "KIJURA SOUTH",
+                "KISIITA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KARUJUBU DIVISION",
+          "parishes": [
+            {
+              "name": "KIBWONA WARD",
+              "villages": ["BULYANGO I", "BULYANGO II", "IRAGARA", "KABALYE I", "KYABADINDI", "KIBWONA"]
+            },
+            {
+              "name": "KIHUUBA WARD",
+              "villages": [
+                "KABALYE SETTLEMENT",
+                "KIHUUBA A",
+                "KIHUUBA B",
+                "KIROYA",
+                "KISARABWIRE",
+                "KISINDIZI",
+                "KISWATA",
+                "KIGAJU/KASEKURO",
+                "KAMUNYONGA",
+                "KYEMA"
+              ]
+            },
+            {
+              "name": "KISIITA WARD",
+              "villages": ["KIRIMA", "KINOGOZI A", "KINOGOZI B", "KITOJO", "KARUJUBU", "KYARUGANGARA"]
+            }
+          ]
+        },
+        {
+          "name": "KIGULYA DIVISION",
+          "parishes": [
+            {
+              "name": "BIGANDO WARD",
+              "villages": ["BIGANDO", "GORORA", "KIDURU", "KYAKASOZI", "KYAMUJWARA", "KYAMWITA", "NYABINYIRA"]
+            },
+            {
+              "name": "ISIMBA WARD",
+              "villages": ["KIJOGO", "KISANJA/KICHOPE", "KITAMANYA", "KYEMA/KYAKATO", "NYAKALOGI/KASAMBYA"]
+            },
+            { "name": "KIGULYA WARD", "villages": ["KIGULYA-KYETEGYA", "KIHAMYA", "KIKONYA", "MIIRYA", "NYAKATOOKE"] }
+          ]
+        },
+        {
+          "name": "NYANGAHYA DIVISION",
+          "parishes": [
+            {
+              "name": "KIKWANANA WARD",
+              "villages": [
+                "BIIZI",
+                "BINYINYA",
+                "KIJAMBURA",
+                "KIKWANANA",
+                "KISENGYA",
+                "KAKWESE I",
+                "KAKWESE II",
+                "KYAMUGWERE",
+                "KAMURASI"
+              ]
+            },
+            {
+              "name": "KIRYANGA WARD",
+              "villages": [
+                "BUTOOBE",
+                "BWIITA",
+                "KIJWEKA",
+                "KIRYANGA II",
+                "BYERIMA",
+                "KAYANJA",
+                "KIBYAMA",
+                "KATENDERO",
+                "RWENSA",
+                "KYAKATABUKA",
+                "RWIJEERE",
+                "KALYANGO",
+                "KATASENYWA",
+                "NGURAGULE",
+                "NYABISENSE"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

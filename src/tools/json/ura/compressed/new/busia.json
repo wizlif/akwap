@@ -1,0 +1,742 @@
+{
+  "name": "BUSIA",
+  "counties": [
+    {
+      "name": "BUSIA MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "EASTERN DIVISION",
+          "parishes": [
+            {
+              "name": "CENTRAL WARD",
+              "villages": ["NANGWE CUSTOMS ROAD A", "NANGWE CUSTOMS ROAD B", "NANGWE MUGUNGU A", "NANGWE MUGUNGU B"]
+            },
+            { "name": "NORTH C WARD", "villages": ["MAWERO EAST A", "MAWERO EAST B"] },
+            { "name": "NORTH EAST A WARD", "villages": ["ARUBAINE A", "ARUBAINE B"] },
+            { "name": "NORTH EAST B WARD", "villages": ["SOFIA A", "SOFIA B"] },
+            { "name": "SOUTH EAST WARD", "villages": ["MARACHI A", "MARACHI B", "MARACHI C", "MARACHI D"] }
+          ]
+        },
+        {
+          "name": "WESTERN DIVISION",
+          "parishes": [
+            { "name": "NORTH A WARD", "villages": ["SOLO A", "SOLO B"] },
+            { "name": "NORTH B WARD", "villages": ["MAWERO WEST", "SOLO C"] },
+            {
+              "name": "SOUTH WEST WARD",
+              "villages": ["KISENYI A", "KISENYI B", "MADIBIRA A", "MADIBIRA B", "NANGWE MADIBIRA", "NANGWE SHOPS"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SAMIA BUGWE NORTH",
+      "sub_counties": [
+        {
+          "name": "BULUMBI",
+          "parishes": [
+            {
+              "name": "BUBANGO",
+              "villages": [
+                "BUBANGO",
+                "BUBOLWA A",
+                "BUBOLWA B",
+                "BUBOLWA CENTRAL",
+                "HAMASANJA",
+                "MUKERA",
+                "NAMUTERE",
+                "NANJERE",
+                "NASIKWALI"
+              ]
+            },
+            {
+              "name": "BUHOBE",
+              "villages": [
+                "BUHACHA",
+                "BUHAULI A",
+                "BUHAULI B",
+                "BUHAULI C",
+                "BUHOBE",
+                "BUKABI",
+                "BUSYAHUBA",
+                "BUSINYWA",
+                "BUTOMERA",
+                "BUTONGI",
+                "BUWANDIRA",
+                "WAMUSWI"
+              ]
+            },
+            {
+              "name": "BUHUMI",
+              "villages": ["BUCHAWULO", "BUHONE", "BUHUMI A", "BUHUMI B", "BUWERO", "NAMUNGODI T/C", "SIDIMBIRE"]
+            },
+            {
+              "name": "BULUMBI",
+              "villages": [
+                "BUHOYA",
+                "BULICHE",
+                "BULUMBI",
+                "BUMULIMBA B",
+                "BUMULIMBA CENTRAL",
+                "DABAYERE",
+                "NAWANTE",
+                "NAMUNGODI TRADING CENTRE",
+                "TENTE",
+                "SINGI",
+                "SYEKOBERO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUSITEMA",
+          "parishes": [
+            { "name": "CHAWO", "villages": ["BUGAYI", "BULAMBA", "BUSABI", "BUSIRE", "BUWUCHI", "BUYEMBA"] },
+            {
+              "name": "HABULEKE",
+              "villages": ["BUBALYA", "HABULEKE", "HAMULI", "MBATU", "NAMAYENJE", "NAMUWO", "SILENGIRIRE"]
+            },
+            {
+              "name": "BUSITEMA",
+              "villages": ["BUSITEMA COLLEGE", "BUYALA", "KANJO", "MAKINA A", "MAKINA B", "NGOCHI", "NANGUDI", "SYAULE"]
+            },
+            { "name": "SYANYONJA", "villages": ["BUSITEMA T/C", "MANYANYA", "NAMBEWO", "NAMUKOMBE", "SYANYONJA"] }
+          ]
+        },
+        {
+          "name": "BUTEBA",
+          "parishes": [
+            {
+              "name": "ABOCHET",
+              "villages": ["ABOCHET A", "ABOCHET B", "AKOBWAIT", "OSAPIRI", "OKAME ABOCHET", "TIIRA", "OMANYE"]
+            },
+            {
+              "name": "AMONEKAKINEI",
+              "villages": ["AGAATA", "ACHILET", "AKISIM", "AMONIKAKINEI", "AMUNUOIT", "ANGOLOL", "ANGOROM", "OKAME"]
+            },
+            {
+              "name": "BUTEBA",
+              "villages": [
+                "KISOLE A",
+                "KISOLE B",
+                "KAYORO A",
+                "KAYORO B",
+                "KATEK A",
+                "KATEK B",
+                "KATEK C",
+                "KAREU",
+                "MANAKOR A",
+                "MANAKOR B",
+                "MANAKOR C",
+                "RARAK A",
+                "RARAK B"
+              ]
+            },
+            { "name": "MAWERO", "villages": ["AGORAITA", "AKIPENET", "ALUPE", "AMAGORO", "OKAME AMAGORO"] }
+          ]
+        },
+        {
+          "name": "BUYANGA",
+          "parishes": [
+            {
+              "name": "BUWEMBE",
+              "villages": [
+                "BUMIRAMBAKO",
+                "BUSEMBE EAST",
+                "BUSEMBE WEST",
+                "BUWEMBE",
+                "BUYENDE",
+                "NABAHASI",
+                "LULAKA",
+                "SYONGA"
+              ]
+            },
+            {
+              "name": "BUYUNDA",
+              "villages": [
+                "BUBWOHI",
+                "BUHALALIRE",
+                "BUHALALIRE WEST",
+                "BUHONGE A",
+                "BUHONGE B",
+                "BUHONGE CENTRAL",
+                "BUSIGUMBA",
+                "BUSIGUMBA WEST",
+                "BUWANGA A",
+                "BUWANGA B",
+                "MAGALE"
+              ]
+            },
+            {
+              "name": "BUKHUBALO",
+              "villages": [
+                "BUBOLWA EAST",
+                "BUBOLWA WEST",
+                "BULAKO",
+                "BUTANDE",
+                "BUWUNJE",
+                "BUYENGWE",
+                "NAHABALE",
+                "LULONDA EAST",
+                "LULONDA WEST",
+                "NAMBWA",
+                "NANYONI"
+              ]
+            },
+            {
+              "name": "BUSIBEMBE",
+              "villages": [
+                "BUDIBYA",
+                "BUDUTA",
+                "BUHERA",
+                "BUHEREBULA",
+                "BUSIBEMBE",
+                "HADWALE",
+                "HALYACHO",
+                "HANGOCHWE",
+                "BUWUKU",
+                "BUYANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DABANI",
+          "parishes": [
+            {
+              "name": "BUWUMBA",
+              "villages": [
+                "BUKEMO",
+                "BUKANGA NORTH",
+                "BUKANGA SOUTH",
+                "BUMAKWA A",
+                "BUWUMBA",
+                "BUWAWO",
+                "BUYAYA",
+                "BUYUNI",
+                "SIKADA"
+              ]
+            },
+            {
+              "name": "BUYENGO",
+              "villages": ["BUSUMBA A", "BUSUMBA B", "BUYENGO A", "BUYENGO B", "MALOMBA", "LUGEGA", "MUMULI", "YAALA"]
+            },
+            {
+              "name": "DABANI",
+              "villages": [
+                "BUCHIWEDO A",
+                "BUCHIWEDO B",
+                "BUCHIWEDO C",
+                "BUSABALE A",
+                "BUSABALE B",
+                "BUWUMA A",
+                "BUWUMA B",
+                "DABANI A",
+                "DABANI B",
+                "DABANI EAST",
+                "DABANI WEST",
+                "MULULUMBI A",
+                "MULULUMBI B"
+              ]
+            },
+            {
+              "name": "BUSIA",
+              "villages": [
+                "BUGUNDUHIRA A",
+                "BUGUNDUHIRA B",
+                "BUSIWONDO A",
+                "BUSIWONDO B",
+                "HAWADUNGA EAST",
+                "HAWADUNGA WEST",
+                "NABUWAMBO NORTH",
+                "NABUWAMBO SOUTH",
+                "MAYOMBE",
+                "NAMAUBI A",
+                "NAMAUBI B",
+                "SYAMITUMBA EAST",
+                "SYAMITUMBA WEST",
+                "SIBARARA NORTH",
+                "SIBARARA SOUTH"
+              ]
+            },
+            {
+              "name": "NANGWE",
+              "villages": [
+                "BUSUMBA A",
+                "BUSUMBA B",
+                "MUNDAA A",
+                "MUNDAA B",
+                "NANDERE",
+                "NANGWE A",
+                "NANGWE B",
+                "NANGWE NORTH",
+                "NANGWE SOUTH"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SIKUDA",
+          "parishes": [
+            {
+              "name": "BUCHICHA",
+              "villages": [
+                "ABOCHET",
+                "AMUNOIT",
+                "AUKOT",
+                "BUCHICHA A",
+                "BUCHICHA B",
+                "BUCHICHA CENTRAL",
+                "BUSUWU",
+                "MUNDAYA",
+                "NAKOLA A"
+              ]
+            },
+            {
+              "name": "AJUKET",
+              "villages": ["ABOLOI", "AKOBWAIT", "AJUKET A", "AJUKET B", "AMAGORO", "ANGOROM", "ATAPARA"]
+            },
+            {
+              "name": "SIKUDA",
+              "villages": [
+                "ASOPOTOIT A",
+                "ASOPOTOIT B",
+                "HADADIRA",
+                "HEKAKA",
+                "MUSWI",
+                "SIKUDA",
+                "SIREKA",
+                "SIWULIHIRE",
+                "SYONGA"
+              ]
+            },
+            { "name": "TIIRA", "villages": ["AKIPENET", "ANGARAMA", "NAKOLA B", "TIIRA", "TIIRA T/C", "TABONG"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SAMIA BUGWE SOUTH",
+      "sub_counties": [
+        {
+          "name": "BUHEHE",
+          "parishes": [
+            {
+              "name": "BUHASABA",
+              "villages": [
+                "BUCHAKI A",
+                "BUCHAKI B",
+                "BUHAMUNA",
+                "BUHASABA",
+                "BUJWANGA",
+                "BULWANI",
+                "BULAMBA A",
+                "BULAMBA B",
+                "BUSYEKUNYA",
+                "HABONDI",
+                "BUSITENGE",
+                "DAKHA",
+                "MADIBIRA",
+                "MAGOMBE",
+                "MUHOHO",
+                "MUKWANYA",
+                "MUNONGO",
+                "SIGALA",
+                "SIRIKANO",
+                "SEME A",
+                "SEME B",
+                "SYANGOSIA"
+              ]
+            },
+            {
+              "name": "BUHEHE",
+              "villages": [
+                "BUDIBYA",
+                "BUDUMA",
+                "BUGUNDUHIRA",
+                "BUNYADETI",
+                "BUNYAUDO",
+                "BUNYIDE",
+                "BUWOLIA A",
+                "BUWOLIA B",
+                "BWANI",
+                "KATERUHANA EAST",
+                "KATERUHANA WEST",
+                "MAGINA",
+                "MUHONDO",
+                "LUHALALI",
+                "MAUKO",
+                "MUSOHE",
+                "NDOLI A",
+                "NDOLI B",
+                "NAMUSUBA",
+                "NANGODO A",
+                "NANGODO B",
+                "NANJEHO",
+                "SISUMO"
+              ]
+            },
+            {
+              "name": "BULWENGE",
+              "villages": [
+                "BUGENGI",
+                "BUJWANGA",
+                "BUKWALA",
+                "GONDOHERA",
+                "GUNDA",
+                "BUSIERA",
+                "BUUMA",
+                "BUYUHA",
+                "MAHOLA",
+                "MALANGA",
+                "MUDIHO",
+                "MUGANIRO",
+                "MAWANGA",
+                "SIBONA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUSIME",
+          "parishes": [
+            {
+              "name": "BWANIHA",
+              "villages": [
+                "BUDONGA",
+                "BUBAMBA A",
+                "BUBAMBA B",
+                "BUDECHO",
+                "BULOOSI",
+                "BWALIRO",
+                "BWANIHA",
+                "DAKHA A",
+                "DAKHA B",
+                "NAGUBIMBI"
+              ]
+            },
+            {
+              "name": "BUSIME",
+              "villages": ["BUBO A", "BUBO B", "BURWODO", "BUSIME", "MAHOMA", "LUKABA", "NAMAMERA", "SIFUGWE"]
+            },
+            {
+              "name": "MUNDINDI",
+              "villages": [
+                "BUYOMBOHI",
+                "MASEBE",
+                "MUNDINDI A",
+                "MUNDINDI B",
+                "MUNYANJO",
+                "LWALA A",
+                "LWALA B",
+                "NAMBENGERE",
+                "NANJESE",
+                "SIHUBIRA",
+                "SIBODOHI"
+              ]
+            },
+            {
+              "name": "RUKAKA",
+              "villages": [
+                "BUDIBBO",
+                "BUHANGA",
+                "BULUKUYI",
+                "BUSAHI",
+                "BUTANGASI",
+                "BUTEGE",
+                "DUDDI",
+                "LULONDA",
+                "LUMULI",
+                "NDEGERO",
+                "RUKAKA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LUMINO",
+          "parishes": [
+            {
+              "name": "BUDIMO",
+              "villages": [
+                "BUDIMO A",
+                "BUDIMO B",
+                "BUDIMO C",
+                "BUDIMO D",
+                "BUDIBYA",
+                "BUKOBE A",
+                "BUKOBE B",
+                "NAMUSENDA C"
+              ]
+            },
+            {
+              "name": "HASYULE",
+              "villages": [
+                "BUGATI",
+                "BUKANI",
+                "HASYULE A",
+                "HASYULE B",
+                "NABOLOLA A",
+                "NEBOLOLA B",
+                "NAMUSENDA",
+                "NAMUSENDA B"
+              ]
+            },
+            {
+              "name": "JINJA",
+              "villages": [
+                "BUCHWERE",
+                "BUDALANGI A",
+                "BUDALANGI B",
+                "BUTALA A",
+                "BUTALA B",
+                "BWERERO A",
+                "BWERERO B",
+                "DOMA A",
+                "DOMA B",
+                "MULANYA",
+                "MULUKO",
+                "MBAJJA B",
+                "MBAJJA MUGUNGU",
+                "SYAMALEDE A",
+                "SYAMALEDE B"
+              ]
+            },
+            {
+              "name": "LUMINO",
+              "villages": [
+                "BUBBALA B",
+                "BUMALA",
+                "BULANGI",
+                "BUYODI",
+                "LUMINO I",
+                "LUMINO II",
+                "LUSISIRA",
+                "NANDWA A",
+                "NANDWA B",
+                "NANDWA C"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LUNYO",
+          "parishes": [
+            {
+              "name": "BUSIABALA",
+              "villages": ["BUGENGI", "BUGOMA", "BUHAMOSI", "BUKUHU", "BUSIABALA A", "BUSIABALA B", "BUSITABULO"]
+            },
+            {
+              "name": "LUNYO",
+              "villages": [
+                "BULONDANI A",
+                "BULONDANI B",
+                "BULONDANI SIBONA",
+                "BUTEMULA",
+                "GANJALA A",
+                "GANJALA B",
+                "LUNYO A",
+                "LUNYO B",
+                "SIGUMO",
+                "SIRERE A",
+                "SIRERE B",
+                "SIWOLOLO A",
+                "SIWOLOLO B"
+              ]
+            },
+            {
+              "name": "NALWIRE",
+              "villages": [
+                "BUGUBI",
+                "BUHAHALA",
+                "BUHWAMA-BULWANI",
+                "BUHWAMA-RWAHIMBA",
+                "BULEKEI A",
+                "BULEKEI B",
+                "BURANGA",
+                "BUSOHONI",
+                "BUTENGE A",
+                "BUTENGE B",
+                "BUWANGA",
+                "BWALIRO",
+                "MUKINA",
+                "SIRANGA"
+              ]
+            },
+            { "name": "NEKUKU", "villages": ["BUKHUNYA", "BUMAGINA A", "BUMAGINA B", "MANYOFU", "NEKUKU", "SIDOME"] }
+          ]
+        },
+        {
+          "name": "MAJANJI",
+          "parishes": [
+            { "name": "DADIRA", "villages": ["BUBBALA B", "BUYORE", "DADIRA", "MORORO", "SITENGO"] },
+            { "name": "JUNGE", "villages": ["BUMANANI", "DIKHO", "LUMIDI", "RUGEGA", "SYAKULA", "SYANGU"] },
+            {
+              "name": "MAJANJI",
+              "villages": [
+                "BULWANDE A",
+                "BULWANDE B",
+                "DABALI",
+                "MADUWA C",
+                "MADWA A",
+                "MADWA B",
+                "MAGOMBE",
+                "MAJANJI A",
+                "MAJANJI B",
+                "NAMUNDIRI A",
+                "NAMUNDIRI B",
+                "NAMUNDIRI C",
+                "NAMUNDIRI D"
+              ]
+            },
+            {
+              "name": "NAGABITA",
+              "villages": [
+                "BUKEMU",
+                "BUHENYE",
+                "BUHENYE B",
+                "BUHENYE C",
+                "BUTULA A",
+                "BWAKAMA A",
+                "BWAKAMA B",
+                "GANGU",
+                "MAHOMBI",
+                "NAGABITA",
+                "NAHABANJO",
+                "MUSUMA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MASABA",
+          "parishes": [
+            {
+              "name": "BUTANGASI",
+              "villages": [
+                "BUDULI",
+                "HUTALE",
+                "BUSYECHIRA",
+                "BUTANGASI",
+                "BUYUKHA",
+                "DIRAHO",
+                "SABUNI",
+                "MUNAKA",
+                "MUNDAYA",
+                "LWANGOSYA",
+                "SIGALAME A",
+                "SIGALAME B",
+                "SYABO",
+                "SIFUYO"
+              ]
+            },
+            {
+              "name": "MASABA",
+              "villages": [
+                "BUDEBANI",
+                "BUHAYENJE",
+                "BUJUNULA",
+                "BUJWANGA",
+                "BUKUYUDI",
+                "BUMALAKANI",
+                "HABOMI",
+                "BUSINJE",
+                "BUWULUHIRO",
+                "MAGALE",
+                "MAGINA",
+                "MUDONDO",
+                "MAPEDO",
+                "MASABA",
+                "MBAALE",
+                "LWANIHA",
+                "SIFUYO - MAGALE",
+                "SIRAKANO A",
+                "SIRAKANO B",
+                "SEKA"
+              ]
+            },
+            {
+              "name": "MBEHENYI",
+              "villages": [
+                "BUDIKIDI",
+                "BUGALO",
+                "BUCHIRAYI",
+                "BUKIA",
+                "BUKADE",
+                "BULENGI EAST",
+                "BULENGI WEST",
+                "BULOBI EAST",
+                "BULOBI WEST",
+                "BUMERA",
+                "BUTACHO",
+                "BUSIRUNDU",
+                "BUSONGA",
+                "BUSULUBI",
+                "NABULAMU",
+                "MAKUNDA A",
+                "MAKUNDA B",
+                "MATOFU",
+                "MBEHENYI",
+                "MUWENJERE",
+                "NESAGA",
+                "NAMASAGA",
+                "NANJEHO",
+                "SIBINDUHA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MASAFU",
+          "parishes": [
+            { "name": "BUHATUBA", "villages": ["BUDANDU", "BUKHALIKHA", "BUHATUBA", "BUMWENGE"] },
+            { "name": "KUBO", "villages": ["BUKOBE EAST", "BUKOBE WEST", "KUBO EAST", "KUBO WEST"] },
+            {
+              "name": "MASAFU",
+              "villages": ["BUBWIBO", "BUWAMBO", "BUWANDA", "KODEMA", "MIRA", "MUGANIRO", "SIKOKHWE", "SICHEHE"]
+            },
+            {
+              "name": "MAWANGA",
+              "villages": [
+                "BUDIBYA EAST",
+                "BUDIBYA WEST",
+                "BUHEMBO EAST",
+                "BUHEMBO WEST",
+                "BUMAYI",
+                "BUSEDU",
+                "BUYOSI",
+                "MUKANGU",
+                "MAWANGA EAST",
+                "MAWANGA WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MASINYA",
+          "parishes": [
+            {
+              "name": "BUTOTE",
+              "villages": ["BUDUMA", "BUHASOHO", "BUJABI NORTH", "BUJABI SOUTH", "BUTOTE", "BUYUYA"]
+            },
+            { "name": "BUMUNJI", "villages": ["BUDIBYA", "BULONGI", "HADODA", "BUWALIRA", "BWAYA"] },
+            {
+              "name": "BUSIKHO",
+              "villages": [
+                "BUSIKHO EAST",
+                "BUSIKHO WEST",
+                "BUYIMINI EAST",
+                "BUYIMINI WEST",
+                "BUYIYE EAST",
+                "BUYIYE WEST",
+                "SIDUHUMI"
+              ]
+            },
+            { "name": "MASINYA", "villages": ["BUHUMWA", "BULECHA", "BUSAMBA", "BUNYUKHE", "GULAMUBIRI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

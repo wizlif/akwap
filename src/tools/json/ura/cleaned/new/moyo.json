@@ -1,0 +1,542 @@
+{
+  "name": "MOYO",
+  "id": 61,
+  "counties": [
+    {
+      "name": "OBONGI",
+      "id": 116,
+      "sub_counties": [
+        {
+          "name": "ALIBA",
+          "id": 688,
+          "parishes": [
+            {
+              "name": "ARINGAJOBI",
+              "id": 530,
+              "villages": [
+                { "name": "ABIRIMAJO", "id": 291 },
+                { "name": "DRABIJO", "id": 15746 },
+                { "name": "MBALE NORTH", "id": 38070 },
+                { "name": "MBALE SOUTH", "id": 38071 },
+                { "name": "RODO", "id": 52398 }
+              ]
+            },
+            {
+              "name": "DILOKATA",
+              "id": 1938,
+              "villages": [
+                { "name": "ALIBABITO CENTRAL", "id": 3054 },
+                { "name": "ALIBABITO EAST", "id": 3055 },
+                { "name": "ALIBABITO WEST", "id": 3056 },
+                { "name": "ARIYA", "id": 4992 },
+                { "name": "DILOKATA", "id": 15606 },
+                { "name": "MALANGA", "id": 37090 }
+              ]
+            },
+            {
+              "name": "EWAFA",
+              "id": 2009,
+              "villages": [
+                { "name": "ACHIMARI CENTRAL", "id": 799 },
+                { "name": "ACHIMARI EAST", "id": 800 },
+                { "name": "ACHIMARI WEST", "id": 801 },
+                { "name": "OTUBANGA NORTH", "id": 50966 },
+                { "name": "OTUBANGA SOUTH", "id": 50967 }
+              ]
+            },
+            {
+              "name": "INDILINGA",
+              "id": 2197,
+              "villages": [
+                { "name": "INDILINGA EAST", "id": 17619 },
+                { "name": "INDILINGA WEST", "id": 17620 },
+                { "name": "ODONGA CENTRAL", "id": 48337 },
+                { "name": "ODONGA EAST", "id": 48338 },
+                { "name": "ODONGA WEST", "id": 48339 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GIMARA",
+          "id": 689,
+          "parishes": [
+            {
+              "name": "GOPELE",
+              "id": 2091,
+              "villages": [
+                { "name": "KENYA", "id": 25586 },
+                { "name": "KILEMBE", "id": 27828 },
+                { "name": "CENTRAL", "id": 14829 },
+                { "name": "YAKINEMIJI", "id": 57889 },
+                { "name": "OBONGI TOWN EAST", "id": 47918 },
+                { "name": "OBONGI TOWN WEST", "id": 47919 }
+              ]
+            },
+            {
+              "name": "LIONGA",
+              "id": 4466,
+              "villages": [
+                { "name": "AWINDIRI", "id": 5784 },
+                { "name": "LIONGA CENTRAL", "id": 34185 },
+                { "name": "LIONGA NORTH", "id": 34186 },
+                { "name": "LIONGA SOUTH", "id": 34187 }
+              ]
+            },
+            {
+              "name": "LIWA",
+              "id": 4470,
+              "villages": [
+                { "name": "DELO", "id": 15547 },
+                { "name": "GANGO", "id": 16372 },
+                { "name": "LIWA NORTH", "id": 34214 },
+                { "name": "LIWA SOUTH", "id": 34215 },
+                { "name": "OBOGUBU", "id": 47880 }
+              ]
+            },
+            {
+              "name": "LOMUNGA",
+              "id": 4531,
+              "villages": [
+                { "name": "ASAMVU", "id": 5151 },
+                { "name": "LOMUNGA", "id": 34661 },
+                { "name": "RUPO", "id": 53072 }
+              ]
+            },
+            {
+              "name": "MADUGA",
+              "id": 4761,
+              "villages": [
+                { "name": "ARINGA", "id": 4927 },
+                { "name": "MADUGA NORTH", "id": 36552 },
+                { "name": "MADUGA SOUTH", "id": 36553 },
+                { "name": "PALIO", "id": 51562 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ITULA",
+          "id": 690,
+          "parishes": [
+            {
+              "name": "LEGU",
+              "id": 4442,
+              "villages": [
+                { "name": "BELAMELING", "id": 6875 },
+                { "name": "DIKIRI", "id": 15603 },
+                { "name": "DONGO", "id": 15727 },
+                { "name": "KALI", "id": 20969 },
+                { "name": "LEGU", "id": 34009 },
+                { "name": "LEREJE", "id": 34085 }
+              ]
+            },
+            {
+              "name": "UBBI",
+              "id": 7316,
+              "villages": [
+                { "name": "ANDRA", "id": 3994 },
+                { "name": "IBOA", "id": 17297 }
+              ]
+            },
+            {
+              "name": "WAKA",
+              "id": 7348,
+              "villages": [
+                { "name": "ANGALIACINI", "id": 4031 },
+                { "name": "KOCHI CENTRAL", "id": 30810 },
+                { "name": "KOCHIBOMA", "id": 30811 },
+                { "name": "GBOROKONYO", "id": 16512 },
+                { "name": "LUKURI", "id": 35379 }
+              ]
+            },
+            {
+              "name": "PAALUJO",
+              "id": 6601,
+              "villages": [
+                { "name": "UKUNI EAST", "id": 56959 },
+                { "name": "UKUNI WEST", "id": 56960 }
+              ]
+            },
+            {
+              "name": "PALORINYA",
+              "id": 6676,
+              "villages": [
+                { "name": "PALORINYA EAST", "id": 51576 },
+                { "name": "PALORINYA WEST", "id": 51577 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "WEST MOYO",
+      "id": 117,
+      "sub_counties": [
+        {
+          "name": "DUFILE",
+          "id": 691,
+          "parishes": [
+            {
+              "name": "ARRA",
+              "id": 536,
+              "villages": [
+                { "name": "PAJAKIRI NORTH", "id": 51430 },
+                { "name": "PAJAKIRI SOUTH", "id": 51431 },
+                { "name": "PAKARUHWE", "id": 51483 },
+                { "name": "RAMOGI NORTH", "id": 52269 },
+                { "name": "RAMOGI SOUTH", "id": 52271 }
+              ]
+            },
+            {
+              "name": "CHINYI",
+              "id": 1910,
+              "villages": [
+                { "name": "GUNYA PANYEWE", "id": 16967 },
+                { "name": "ITIALO", "id": 17896 },
+                { "name": "PANYARA", "id": 51683 },
+                { "name": "ORUBA", "id": 50662 }
+              ]
+            },
+            {
+              "name": "DUFILE (INDRIDRI)",
+              "id": 1956,
+              "villages": [
+                { "name": "INDRIDRI", "id": 17623 },
+                { "name": "KOCIA", "id": 30817 },
+                { "name": "NZEREA EAST", "id": 47683 },
+                { "name": "NZEREA NORTH", "id": 47684 },
+                { "name": "NZEREA SOUTH", "id": 47685 }
+              ]
+            },
+            {
+              "name": "LEBUBU",
+              "id": 4439,
+              "villages": [
+                { "name": "PAANJALA", "id": 51275 },
+                { "name": "PAMANGARA", "id": 51594 },
+                { "name": "PAONYA", "id": 51701 },
+                { "name": "OPPI", "id": 50465 },
+                { "name": "RAMOGI DUFILE", "id": 52267 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LAROPI",
+          "id": 1346,
+          "parishes": [
+            {
+              "name": "GBALALA",
+              "id": 2051,
+              "villages": [
+                { "name": "GBALALA CENTRAL", "id": 16487 },
+                { "name": "GBALALA EAST", "id": 16488 },
+                { "name": "GBALALA WEST", "id": 16489 },
+                { "name": "PAKOMA EAST", "id": 51511 },
+                { "name": "PAKOMA WEST", "id": 51512 }
+              ]
+            },
+            {
+              "name": "IDRIMARI",
+              "id": 2159,
+              "villages": [
+                { "name": "ADHI", "id": 1168 },
+                { "name": "EDRE", "id": 15888 },
+                { "name": "PACORO", "id": 51318 },
+                { "name": "PAJARU", "id": 51437 },
+                { "name": "PATERE", "id": 51800 },
+                { "name": "OLIA", "id": 49390 }
+              ]
+            },
+            {
+              "name": "LAROPI",
+              "id": 4431,
+              "villages": [
+                { "name": "KIDHI", "id": 26386 },
+                { "name": "LOGUBU NORTH", "id": 34372 },
+                { "name": "LOGUBU SOUTH", "id": 34373 },
+                { "name": "UBBI NORTH", "id": 56933 },
+                { "name": "UBBI SOUTH", "id": 56934 }
+              ]
+            },
+            {
+              "name": "PANYANGA",
+              "id": 6709,
+              "villages": [
+                { "name": "PAKAA EAST", "id": 51475 },
+                { "name": "PAKAA WEST", "id": 51476 },
+                { "name": "PAKONIRA EAST", "id": 51514 },
+                { "name": "PAKONIRA WEST", "id": 51515 },
+                { "name": "PAUBU", "id": 51820 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LEFORI",
+          "id": 695,
+          "parishes": [
+            {
+              "name": "COLOA",
+              "id": 1916,
+              "villages": [
+                { "name": "COLOA", "id": 15330 },
+                { "name": "COLOA WEST", "id": 15331 },
+                { "name": "MUNU EAST", "id": 39886 },
+                { "name": "MUNU WEST", "id": 39888 },
+                { "name": "NYAINGA", "id": 45833 },
+                { "name": "TURUA", "id": 56873 }
+              ]
+            },
+            {
+              "name": "EBWEA",
+              "id": 1978,
+              "villages": [
+                { "name": "ABIRICAKU", "id": 285 },
+                { "name": "KIBIRA", "id": 26003 },
+                { "name": "EBWEA", "id": 15874 },
+                { "name": "LOJILI", "id": 34399 },
+                { "name": "MARINGU EAST", "id": 37376 },
+                { "name": "MARINGU WEST", "id": 37377 }
+              ]
+            },
+            {
+              "name": "GWERE",
+              "id": 2112,
+              "villages": [
+                { "name": "GWERE EAST", "id": 17024 },
+                { "name": "GWERE WEST", "id": 17027 },
+                { "name": "CHINYI", "id": 15259 },
+                { "name": "MERIA", "id": 38260 }
+              ]
+            },
+            {
+              "name": "MASALOA",
+              "id": 4870,
+              "villages": [
+                { "name": "AJUNDE", "id": 2131 },
+                { "name": "ITAJI", "id": 17861 },
+                { "name": "COHWE", "id": 15326 },
+                { "name": "DIRI", "id": 15622 },
+                { "name": "EGULE HILL", "id": 15915 },
+                { "name": "LEA", "id": 33997 },
+                { "name": "MASALOA EAST", "id": 37505 },
+                { "name": "MASALOA WEST", "id": 37506 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "METU",
+          "id": 692,
+          "parishes": [
+            {
+              "name": "AYIRO",
+              "id": 640,
+              "villages": [
+                { "name": "GOOPI EAST", "id": 16831 },
+                { "name": "GOOPI WEST", "id": 16832 },
+                { "name": "KULENI", "id": 31303 },
+                { "name": "EREPI EAST", "id": 16105 },
+                { "name": "EREPI WEST", "id": 16108 },
+                { "name": "PADIGA SOUTH", "id": 51334 },
+                { "name": "PAMONYE", "id": 51624 },
+                { "name": "PATABO/PAGONYIDRA", "id": 51784 },
+                { "name": "ORUBA", "id": 50661 }
+              ]
+            },
+            {
+              "name": "EREMI",
+              "id": 1999,
+              "villages": [
+                { "name": "AGUGWE", "id": 1666 },
+                { "name": "ARINGA EAST", "id": 4936 },
+                { "name": "ARINGA WEST", "id": 4938 },
+                { "name": "PABOLO", "id": 51289 },
+                { "name": "PAECOA/LOGO", "id": 51376 },
+                { "name": "PALEURE-PAMURU", "id": 51557 }
+              ]
+            },
+            {
+              "name": "PAJAKIRI",
+              "id": 6643,
+              "villages": [
+                { "name": "ABESO", "id": 194 },
+                { "name": "ALUGODU", "id": 3316 },
+                { "name": "IJUJO/CHINYI", "id": 17512 },
+                { "name": "IZZI", "id": 17986 },
+                { "name": "MERIA", "id": 38261 },
+                { "name": "PACUNAKI/PALEURE", "id": 51320 },
+                { "name": "PAMOYI", "id": 51628 },
+                { "name": "PAMULU", "id": 51636 }
+              ]
+            },
+            {
+              "name": "PAMERI",
+              "id": 6685,
+              "villages": [
+                { "name": "GWERE LUZIRA", "id": 17025 },
+                { "name": "GWERE MONDI", "id": 17026 },
+                { "name": "INDRI", "id": 17621 },
+                { "name": "JULUKWE", "id": 18152 },
+                { "name": "CECELOGO", "id": 14762 },
+                { "name": "EREPI EAST", "id": 16106 },
+                { "name": "EREPI SOUTH", "id": 16107 },
+                { "name": "EREPI WEST", "id": 16109 },
+                { "name": "MINYA", "id": 38437 },
+                { "name": "LOKWA", "id": 34549 },
+                { "name": "METU T/C", "id": 38276 },
+                { "name": "PAGERIBE", "id": 51386 },
+                { "name": "PAMENYUA", "id": 51604 }
+              ]
+            },
+            {
+              "name": "PAMOYI",
+              "id": 6695,
+              "villages": [
+                { "name": "ALU", "id": 3305 },
+                { "name": "AWAOLE", "id": 5627 },
+                { "name": "GWAYI", "id": 17012 },
+                { "name": "CINYI EAST", "id": 15314 },
+                { "name": "CINYI WEST", "id": 15315 },
+                { "name": "LIRI", "id": 34194 },
+                { "name": "PALOBURI", "id": 51573 },
+                { "name": "PAMULU EAST", "id": 51637 },
+                { "name": "PAMULU WEST", "id": 51638 },
+                { "name": "ORI", "id": 50558 }
+              ]
+            },
+            {
+              "name": "PAMUJO",
+              "id": 6698,
+              "villages": [
+                { "name": "ARAPI", "id": 4824 },
+                { "name": "IYUA", "id": 17966 },
+                { "name": "KWEYO", "id": 31491 },
+                { "name": "ELEGU", "id": 15995 },
+                { "name": "GBARI", "id": 16492 },
+                { "name": "PADIGA NORTH", "id": 51333 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MOYO",
+          "id": 693,
+          "parishes": [
+            {
+              "name": "ALURU",
+              "id": 337,
+              "villages": [
+                { "name": "ERA CENTRAL", "id": 16095 },
+                { "name": "MOYIPI", "id": 38990 },
+                { "name": "LAMA", "id": 33730 },
+                { "name": "PAMOJU EAST", "id": 51619 },
+                { "name": "PAMOJU MADAGASCAR", "id": 51620 },
+                { "name": "PAMOJU SOUTH", "id": 51621 },
+                { "name": "PAMOJU WEST", "id": 51622 },
+                { "name": "PAMOTI CENTRAL", "id": 51625 },
+                { "name": "PAMOTI EAST", "id": 51626 },
+                { "name": "PAMOTI WEST", "id": 51627 }
+              ]
+            },
+            {
+              "name": "EBIHWA",
+              "id": 1977,
+              "villages": [
+                { "name": "EBIHWA", "id": 15868 },
+                { "name": "PAREGO", "id": 51737 },
+                { "name": "PAREGO EAST", "id": 51738 },
+                { "name": "OPIRO", "id": 50421 },
+                { "name": "RAMOGI", "id": 52259 },
+                { "name": "RAMOGI CENTRAL", "id": 52266 },
+                { "name": "RAMOGI NORTH", "id": 52270 }
+              ]
+            },
+            {
+              "name": "ERIA",
+              "id": 2000,
+              "villages": [
+                { "name": "CEFO", "id": 14767 },
+                { "name": "ERIA CENTRAL", "id": 16111 },
+                { "name": "ERIA SOUTH", "id": 16112 },
+                { "name": "OYAJO", "id": 51167 },
+                { "name": "WANO", "id": 57533 }
+              ]
+            },
+            {
+              "name": "LOGOBA",
+              "id": 4489,
+              "villages": [
+                { "name": "AFOJI", "id": 1457 },
+                { "name": "ITTIA", "id": 17914 },
+                { "name": "KENDI", "id": 25548 },
+                { "name": "FODIA", "id": 16198 },
+                { "name": "MINZE", "id": 38446 },
+                { "name": "ONYIRE", "id": 50296 }
+              ]
+            },
+            {
+              "name": "VURA",
+              "id": 7328,
+              "villages": [
+                { "name": "ADUA", "id": 1295 },
+                { "name": "BILINYO", "id": 7106 },
+                { "name": "MADUGA", "id": 36551 },
+                { "name": "MADULU", "id": 36554 },
+                { "name": "PACHUAWI EAST", "id": 51310 },
+                { "name": "PACHUAWI WEST", "id": 51311 },
+                { "name": "TOLORO", "id": 56619 },
+                { "name": "VURA OPI", "id": 57123 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MOYO TOWN COUNCIL",
+          "id": 694,
+          "parishes": [
+            {
+              "name": "BESIA WARD",
+              "id": 725,
+              "villages": [
+                { "name": "BESIA", "id": 6915 },
+                { "name": "LOWI QUARTER", "id": 34904 }
+              ]
+            },
+            {
+              "name": "CELECELEA WARD",
+              "id": 1826,
+              "villages": [
+                { "name": "CELECELEA EAST", "id": 14772 },
+                { "name": "CELECELEA WEST", "id": 14773 },
+                { "name": "EDUA", "id": 15891 }
+              ]
+            },
+            {
+              "name": "CENTRAL WARD",
+              "id": 1843,
+              "villages": [
+                { "name": "CENTRAL I", "id": 14875 },
+                { "name": "CENTRAL II", "id": 14878 },
+                { "name": "POLICE BARRACKS", "id": 52025 }
+              ]
+            },
+            {
+              "name": "ELENDEREA WARD",
+              "id": 1985,
+              "villages": [
+                { "name": "CONGO", "id": 15345 },
+                { "name": "ELENDEREA", "id": 16000 },
+                { "name": "MEDICAL QUARTER", "id": 38207 },
+                { "name": "METU QUARTER", "id": 38275 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "name": "AMURU",
+  "counties": [
+    {
+      "name": "KILAK NORTH",
+      "sub_counties": [
+        {
+          "name": "ATIAK",
+          "parishes": [
+            { "name": "BIBIA", "villages": ["BIBIA EAST", "BIBIA WEST"] },
+            { "name": "KAL(ATIAK)", "villages": ["KAL EAST", "KAL WEST"] },
+            { "name": "PUPWONYA", "villages": ["PUPWONYA SOUTH"] },
+            { "name": "OKIDI", "villages": ["OKIDI NORTH", "OKIDI SOUTH"] },
+            { "name": "PACILO", "villages": ["PACILO EAST", "PACILO WEST"] },
+            { "name": "PALUKERE", "villages": ["PALUKERE WEST", "PALUKEREEAST"] },
+            { "name": "PARWACA", "villages": ["AGORO", "PABWONO"] },
+            { "name": "PAWEL", "villages": ["PAWEL KAL", "PUKUMU"] }
+          ]
+        },
+        {
+          "name": "PABBO",
+          "parishes": [
+            { "name": "GAYA", "villages": ["PAOMO", "PUKWANY"] },
+            { "name": "KAL", "villages": ["CENTRE", "OGURU"] },
+            { "name": "LABALA", "villages": ["ADARA", "APAA", "OLINGA"] },
+            { "name": "POGO", "villages": ["CERI", "OTOROKOME", "OKUTURE"] },
+            { "name": "PALWONG", "villages": ["KATIKATI A", "KATIKATI B", "PAKUMA"] },
+            { "name": "PARUBANGA", "villages": ["ABERA", "PERECU"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KILAK SOUTH",
+      "sub_counties": [
+        {
+          "name": "AMURU",
+          "parishes": [
+            { "name": "ACWERA", "villages": ["OBERABIC", "TEDDI"] },
+            { "name": "TORO", "villages": ["KAL", "TURDAKATUBA"] },
+            { "name": "OKUNGED", "villages": ["ABONGO", "ACODO"] },
+            { "name": "PAGAK", "villages": ["LABONGO GALI"] },
+            { "name": "PAILYEC", "villages": ["RECKICEKE"] },
+            { "name": "PAMUCA", "villages": ["LAYAMO", "OGALI"] }
+          ]
+        },
+        {
+          "name": "AMURU TOWN COUNCIL",
+          "parishes": [
+            { "name": "AMOYOKOMA WARD", "villages": ["ATITI", "KIGOLI"] },
+            { "name": "LUJORO WARD", "villages": ["NEN CARO", "OPO LACEN"] },
+            { "name": "POGI WARD", "villages": ["ABONGODYANG", "LABILA OM"] },
+            { "name": "OTWEE WARD", "villages": ["CINDI", "OWER"] }
+          ]
+        },
+        {
+          "name": "LAMOGI",
+          "parishes": [
+            { "name": "AGWARYUGI", "villages": ["ABYEE", "JIMO"] },
+            { "name": "COKE", "villages": ["LAMOLA", "ODUR"] },
+            { "name": "GIRAGIRA", "villages": ["AYILA", "OPOK"] },
+            { "name": "GURUGURU", "villages": ["AMORA", "OTICI"] },
+            { "name": "LACOR", "villages": ["LWALA KWAR", "PUKURE"] },
+            { "name": "OBBO", "villages": ["AKWAR", "APOTOKITOO"] },
+            { "name": "PAGORO", "villages": ["COO ROM", "KAL"] },
+            { "name": "PALEMA", "villages": ["AMILOBO", "PAKIRI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

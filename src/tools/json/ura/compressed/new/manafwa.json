@@ -1,0 +1,819 @@
+{
+  "name": "MANAFWA",
+  "counties": [
+    {
+      "name": "BUBULO WEST",
+      "sub_counties": [
+        {
+          "name": "BUGOBERO",
+          "parishes": [
+            {
+              "name": "BUWAKORO",
+              "villages": [
+                "AUKOTO",
+                "BUMATEYO",
+                "BUMULULU",
+                "GORIA",
+                "BUSIMALI",
+                "BUWAFUTU",
+                "BUWANDEBA",
+                "BUWERWE II",
+                "KHANTSOSI",
+                "SAAMBA"
+              ]
+            },
+            {
+              "name": "BUGOBERO TOWN BOARD",
+              "villages": ["BUNANGABO II", "BUMATEYO", "BUNABIRO", "BUNALUNGU", "KATANGA", "MALUKHU"]
+            },
+            {
+              "name": "BUMASOKHO",
+              "villages": ["BUNANDALA", "BUMUFUNI", "BUMULATE", "BUNABIRO", "BUSANGAYI", "BUWEBELE", "KHAMITSARU"]
+            },
+            {
+              "name": "BUNEFULE",
+              "villages": ["BUKHONTSO I", "BUKHONTSO II", "BUNANYAMA", "BUWERWE", "NEKINA", "NAMBAALE"]
+            },
+            { "name": "KHABUNGU", "villages": ["BUSANGAYI I", "BUSANGAYI II", "BUSANGAYI III", "KHABUNGU"] },
+            {
+              "name": "KIWATA",
+              "villages": [
+                "BUKUSU",
+                "BUMUFUNI",
+                "BUMURUMU",
+                "BUMURUMU I",
+                "BUMURUMU II",
+                "BUWAFUTU",
+                "BUTUMWA I",
+                "BUTUMWA II",
+                "KIWATA",
+                "SALOSALO"
+              ]
+            },
+            { "name": "NABIKULU", "villages": ["BUNANGABO I", "NABIKULU", "MANYAALI"] }
+          ]
+        },
+        {
+          "name": "BUKHADALA",
+          "parishes": [
+            { "name": "BUKHADALA", "villages": ["BUKHADALA"] },
+            {
+              "name": "BUMAENA",
+              "villages": [
+                "BUKHADALA",
+                "BUKHONTSO",
+                "BUKHWAYA",
+                "BUTSEMA",
+                "BUTTA",
+                "BUWAMAYI",
+                "MAKHAKHALA",
+                "MALUKHU"
+              ]
+            },
+            {
+              "name": "BUMATANDA",
+              "villages": [
+                "BUNASITA",
+                "BUMWALYE",
+                "BUNAKHAIMA",
+                "BUNAMBAFU",
+                "BUSHAKIRO",
+                "BUNEKOYE",
+                "BUWOPUWA",
+                "NASYANDA"
+              ]
+            },
+            {
+              "name": "KHATSONGA",
+              "villages": [
+                "BUFUMBULA",
+                "BUKEWA",
+                "BUMUFUNI",
+                "BURUKURU",
+                "BUWANGOLOBE",
+                "BUWEBOYA",
+                "KHATSONGA A",
+                "KHATSONGA B",
+                "MURUMBA",
+                "PIRYA",
+                "SAMBA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUKHOFU",
+          "parishes": [
+            {
+              "name": "IKAALI",
+              "villages": [
+                "BULYULI WEST",
+                "BUMAKUSA",
+                "BUNEKOMA",
+                "BUNEKOYE EAST",
+                "BUNEKOYE WEST",
+                "IKAALI",
+                "BWISERA",
+                "WAKHUNGULO"
+              ]
+            },
+            { "name": "BUKHOFU", "villages": ["BUNANDELE", "BUMWANGU", "BUSIMAMBO", "BUWANDULU"] },
+            {
+              "name": "BUKHWAYA",
+              "villages": [
+                "BUKHWAYA",
+                "BUKASAWA",
+                "BUNAMUNYALA",
+                "BUNANGABO",
+                "BUMALITI",
+                "BUMATSALYA",
+                "BUMULALU",
+                "BUNABISWA",
+                "BUSYONGO",
+                "BUWAMUWAYA",
+                "LUBOOLO"
+              ]
+            },
+            {
+              "name": "NAKHENDO",
+              "villages": [
+                "ASWAN",
+                "BUKHASUSA I",
+                "BUKHASUSA II",
+                "BUKHONZO",
+                "BULYULI EAST",
+                "BUWALIMBWA",
+                "BUWANGATYA",
+                "BUWANYAMA LOWER",
+                "BUWANYAMA UPPER",
+                "KHANZALA",
+                "TEMBELELA",
+                "WANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUKUSU",
+          "parishes": [
+            {
+              "name": "BUBUTSATSA",
+              "villages": [
+                "BUBUINDILA",
+                "BUBUTSATSA",
+                "BUKHASAKHI",
+                "BUKAMUKAMU II",
+                "BUNABWANA",
+                "BUWASIBI",
+                "BUWASIKE"
+              ]
+            },
+            {
+              "name": "BUWAYA",
+              "villages": ["BUMAKILA", "BUNABWILE", "BUSILASIO", "BUYAKA", "BUWAYA", "MAKHAKHALA", "SAYUNI"]
+            },
+            {
+              "name": "BUKHWAYA",
+              "villages": ["BUKHWAYA I", "BUKHWAYA II", "BUKANGALA", "KHAUNGU I", "KHAUNGU II", "MURULI"]
+            },
+            {
+              "name": "BUKOMA",
+              "villages": [
+                "BUKIBOLI EAST",
+                "BUKIBOLI I",
+                "BUKIBOLI II",
+                "BUKIBOLI WEST",
+                "BUWANZALA",
+                "BUWANZALA II",
+                "NAMBARA",
+                "SIBWALA"
+              ]
+            },
+            {
+              "name": "BUNYINZA",
+              "villages": ["BUKIMIYU", "BUMALELE", "BUWAKHURU", "LUNDU", "NAMBALE I", "NAMBALE II", "NAKHATWAYA II"]
+            },
+            { "name": "KAYOMBE", "villages": ["BUKAMUKAMU I", "BUNATANGA", "BUMUTILI", "BUTOOTO"] },
+            {
+              "name": "NAMBAALE",
+              "villages": ["BUMUSE", "BUNAMAKHOSI", "BUNAMBWILA", "LWANDA", "NAKHATWAYA I", "NAKHATWAYA II"]
+            },
+            {
+              "name": "SINYIFA",
+              "villages": ["BUBILUMI", "BUMAKILA", "BUNAMBWILA I", "BUNAMBWILA II", "BUWASIBI I", "BUWASIBI II"]
+            }
+          ]
+        },
+        {
+          "name": "BUNABUTSALE",
+          "parishes": [
+            { "name": "BUMUKHAMA", "villages": ["BUMUKHAMA"] },
+            {
+              "name": "BUNABUTSALE",
+              "villages": [
+                "BUNAPONDI A",
+                "BUNAPONDI B",
+                "BUNABUTSALE",
+                "BUNEKESA",
+                "BUWAFULA A",
+                "BUWAFULA B",
+                "NABIKWAKWA",
+                "LUKALE",
+                "MASHELE",
+                "MASINZI",
+                "MUSOOLA",
+                "SOOBI",
+                "SHILOBO"
+              ]
+            },
+            { "name": "BUNAPONDI", "villages": ["BUNAPONDI"] },
+            { "name": "BUNAPONDI A", "villages": ["BUNAPONDI A"] }
+          ]
+        },
+        {
+          "name": "BUNABWANA",
+          "parishes": [
+            {
+              "name": "BUMIRUMI",
+              "villages": [
+                "BUKHISA",
+                "BUKHWAYA",
+                "BUKIMIYU",
+                "BUMAGIRA",
+                "BUNAMUTUMA",
+                "BUNANGANDA",
+                "BUMIRUMI",
+                "BUNALUNGU",
+                "BUNAMAKE",
+                "BUWETSALO"
+              ]
+            },
+            {
+              "name": "BUNABWANA",
+              "villages": [
+                "BUBUYELA",
+                "BUBWAYO",
+                "BUKEWA",
+                "BUKHWAKA",
+                "BUKISENGE",
+                "BUNAKAMI",
+                "BUNAMBAFU A",
+                "BUWABULA",
+                "BUWAKHWEYA",
+                "BUWANZALA",
+                "BUWEBOYA",
+                "BUWETSALO II",
+                "NAMITSA"
+              ]
+            },
+            {
+              "name": "BUNABWILA",
+              "villages": [
+                "BUBUTALI",
+                "BUKALAMIA",
+                "BULYULI",
+                "BUMASABA",
+                "BUMISANGA NORTH",
+                "BUMISANGA SOUTH",
+                "BUMUYANGE",
+                "BUSIONGO",
+                "KAMBUNI",
+                "SIBANGA"
+              ]
+            },
+            {
+              "name": "BUNYINZA TOWN BOARD",
+              "villages": ["BUBUYELA", "BUKHWAKA", "BUNAMBAFU A", "BUNAMBAFU B", "BUWANZALA", "BUWEBOYA"]
+            },
+            {
+              "name": "NANDEREMA",
+              "villages": [
+                "BUKANGALA",
+                "BUMABIMBA",
+                "BUMASABA",
+                "BUNAMBAFU B",
+                "BUTTA",
+                "BUWEBOYA",
+                "BUWETSALO III",
+                "MABINA",
+                "SIBANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUSUKUYA",
+          "parishes": [
+            { "name": "BUFUMBULA", "villages": ["BUFUMBULA II", "KATEKI", "NANGILIMA", "PUWA"] },
+            { "name": "LWANJUSI", "villages": ["BUSITEMA I", "BUWERE II", "KURUKU I", "KURUKU II", "LWANJUSI"] },
+            { "name": "KIMALULI", "villages": ["BUBITUMU", "BUMULEKHWA", "BUNAMONE", "BUTSEMA-SINYE", "KIBUKWA"] },
+            { "name": "MASAKA TOWN BOARD", "villages": ["BUFUMBULA I", "BUNATANGA", "BUTASIKE", "BUWERE I", "ROCK"] },
+            {
+              "name": "PUWA",
+              "villages": [
+                "ANDEREMA",
+                "BURARAKA I",
+                "BURARAKA II",
+                "BURARAKA III",
+                "BUWALINGA I",
+                "BUWALINGA II",
+                "SAAMBA"
+              ]
+            },
+            {
+              "name": "SISATSA",
+              "villages": ["BUMARE I", "BUMARE II", "BUNABWILA", "BUWASU", "BUWERAYO", "NAMUKHONGE"]
+            }
+          ]
+        },
+        {
+          "name": "BUTIRU",
+          "parishes": [
+            {
+              "name": "BUTIRU TOWN BOARD",
+              "villages": [
+                "BUMUKETSI",
+                "BUMUKHAMA",
+                "BUMULEKHWA",
+                "BUNAMBWILA",
+                "BUSILALI",
+                "BUWAFULA",
+                "BUWAMALERO",
+                "BUWANGATYA",
+                "BUWANYELA I",
+                "BUWANYELA II",
+                "BUWASABULO",
+                "BUWAYA",
+                "MANGO TREE",
+                "SUKURA"
+              ]
+            },
+            { "name": "BUMAGAMBO", "villages": ["BUMAGAMBO"] },
+            { "name": "BUMATERE", "villages": ["BUMATERE"] },
+            { "name": "BUNABWANA", "villages": ["BUNABWANA"] }
+          ]
+        },
+        {
+          "name": "BUTTA",
+          "parishes": [
+            {
+              "name": "BUTTA",
+              "villages": ["BUBITUMU A", "BUBITUMU B", "BUKAKA", "MUFUNGU", "NAMUTOKHOLO", "WAKOBOLA"]
+            },
+            {
+              "name": "FULUMA BUTTA",
+              "villages": ["BUFUMBULA IV", "BUFUMBULA V", "BUNAMONE", "FULUMA", "KIBUKWA-TOOMA", "LUKUMA"]
+            },
+            { "name": "BUSANTSA", "villages": ["BUNATANGA", "BUSANTSA", "BURAMBARA", "BUWERE IV", "KIBIKA TOOMA"] },
+            { "name": "TOOMA BUTTA", "villages": ["BUMULEKHWA IV", "BUTSEMA III", "KHAMBATSI", "LYAMAINA"] }
+          ]
+        },
+        {
+          "name": "BUWAGOGO",
+          "parishes": [
+            {
+              "name": "BUWAGOGO",
+              "villages": ["BUNAPONDI", "BUNAPONDI A", "BUMUKHAMA", "BUNAMAE A", "BUNAMAE B", "BUTSESILI", "KUBEYA"]
+            },
+            {
+              "name": "BUWEBOYA",
+              "villages": ["BULIKIYI", "BUWAMUTSO LOWER", "BUWANZALA", "BUWEBOYA", "MAKWALI", "MALULI"]
+            },
+            {
+              "name": "BUKEWA",
+              "villages": ["BUKEWA A", "BUKEWA B", "BUNAMUTSO UPPER", "NABULANDO", "MASINA", "SHANEMBA"]
+            },
+            {
+              "name": "BUNASAKA",
+              "villages": [
+                "BUNASAKA A",
+                "BUNASAKA B",
+                "MATSAKHA",
+                "NAMUBOKO",
+                "NAMULUKHU",
+                "NANDUBISI A",
+                "NANDUBISI B"
+              ]
+            },
+            {
+              "name": "SHAMUKUNGA",
+              "villages": [
+                "BUNAMUKWA LOWER",
+                "BUNAMUKWA UPPER",
+                "BUNASIMALI A",
+                "BUNASIMALI B",
+                "BUNAKOMOLA",
+                "BUTIMAKA",
+                "MAANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAATO",
+          "parishes": [
+            {
+              "name": "BUWANGANI",
+              "villages": [
+                "BUKHONE",
+                "BUKITUTU",
+                "BUNAMUBI A",
+                "BUNAMUBI B",
+                "BUNAMUBI CENTRAL",
+                "BUNAMUWENJE A",
+                "MARONGOLI A",
+                "MARONGOLI B",
+                "NELAYI",
+                "NASHILO"
+              ]
+            },
+            {
+              "name": "BUWANGANI TOWN BOARD",
+              "villages": [
+                "BUKHISA",
+                "BUNAMAKANDA",
+                "BUNAMALOTA",
+                "BUWAMBOKA",
+                "NABIKINJI",
+                "MAKUMBA",
+                "NAMALEA",
+                "NAMASHO",
+                "TSUTSU",
+                "SHITIBO"
+              ]
+            },
+            {
+              "name": "BUKIMANAYI",
+              "villages": [
+                "BIBALE",
+                "IGANGU",
+                "NANDELE",
+                "NANDELE B",
+                "NANGWE",
+                "SHILOO A",
+                "SHILOO B",
+                "SHIRUKU LOWER",
+                "SHIRUKU UPPER"
+              ]
+            },
+            {
+              "name": "BUMUKARI",
+              "villages": [
+                "BUKUWA",
+                "BUNAMUNGOMA",
+                "BUMUKARI CENTRAL",
+                "BUMUKARI EAST",
+                "BUMUKARI WEST",
+                "BUNAMALWA EAST",
+                "BUNAMALWA WEST",
+                "NAMOSO",
+                "SIGUNGA",
+                "SHIBANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KHABUTOOLA",
+          "parishes": [
+            {
+              "name": "BUGOBERO",
+              "villages": [
+                "BUNANGABO",
+                "BUMIRUMU III",
+                "BUMULULU",
+                "BUMURUMU I",
+                "BUMURUMU II",
+                "BUNABIRO",
+                "BUWAMARA",
+                "KABAALE",
+                "MALUKHU",
+                "MUTARA",
+                "MUTOTO",
+                "NAMALAMBO"
+              ]
+            },
+            {
+              "name": "BUMUFUNI",
+              "villages": ["BUMUFUNI", "BUMUFUNI CENTRAL", "BUSELENGE", "MUKKI", "NASITSAPI", "SIONGO"]
+            },
+            {
+              "name": "BUNANGABO",
+              "villages": [
+                "BUNANGABO I",
+                "BUNANGABO II",
+                "BUMATOOLA I",
+                "KUBUYI I",
+                "KUBUYI II",
+                "NAMUNYIRI",
+                "TSERONO"
+              ]
+            },
+            {
+              "name": "KHABUTOOLA",
+              "villages": [
+                "BUKABOOLE",
+                "BUMATOOLA II",
+                "BUNAKAMI",
+                "BUNAMBALE",
+                "BUSYULA I",
+                "BUSYULA II",
+                "BUWATSOSI",
+                "BUWEBELE",
+                "BUWERWE I",
+                "NAMAWANGA",
+                "WATSUBE",
+                "SIRUMBUSA",
+                "SIYANZA"
+              ]
+            },
+            {
+              "name": "NEKINA",
+              "villages": [
+                "BUMAKHAYI",
+                "BUNANDUTU I",
+                "BUNANDUTU II",
+                "BUMASOKHO",
+                "BUMITYERO",
+                "BUMUFUNI I",
+                "BUMUFUNI II",
+                "BUSANGAYI I",
+                "BUSANGAYI II",
+                "ISUNU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MAEFE",
+          "parishes": [
+            {
+              "name": "BUKHONZO",
+              "villages": ["BUKHABUNZE", "BUKHONZO I", "BUKANGALA II", "BULWENDEDE", "BUWOLWA", "LUKOBA", "SYARAMUKA"]
+            },
+            { "name": "BUMAEFE", "villages": ["BUMAENA", "BUNATANGA I", "BUSYAKILO", "SIWOLELO"] },
+            {
+              "name": "MATENGE",
+              "villages": ["BUKHAUKHA", "BUKITUTU", "BUWAFULA", "BUWAKIMWERU", "BUWAMAYI I", "BUWAMAYI II", "BUWAMONO"]
+            },
+            {
+              "name": "TEMBELELA",
+              "villages": [
+                "BUNATANGA II",
+                "BUWOLUMELI",
+                "BUWANGANI",
+                "BUWASIKE I",
+                "BUWASIKE II",
+                "BUWASYU",
+                "NAKHENDO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MAKENYA",
+          "parishes": [
+            { "name": "BUBILUMU", "villages": ["BUBILUMU"] },
+            { "name": "BUKIMIYU", "villages": ["BUKIMIYU"] },
+            { "name": "BUMAGIRA", "villages": ["BUMAGIRA"] },
+            { "name": "BUMUFUNI", "villages": ["BUMUFUNI"] },
+            {
+              "name": "MAKENYA",
+              "villages": [
+                "BUBULO",
+                "BUBWAYO",
+                "BUMAGIRA",
+                "BUKWAMBO",
+                "BUMASABA",
+                "BUMUFUNI",
+                "BUWETSALO I",
+                "LUTAASO",
+                "WEKELEKHA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MANAFWA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BUBULO WARD",
+              "villages": [
+                "BUBIRABI",
+                "BUBULO CORNER",
+                "BUMULYANYUMA A",
+                "BUMULYANYUMA B",
+                "MURIRINYI A",
+                "MURIRINYI B",
+                "NAMWEILE",
+                "SIKAYI",
+                "WANGUTUSI"
+              ]
+            },
+            {
+              "name": "BUBWAYA WARD",
+              "villages": [
+                "BUBUTSATSA",
+                "BUMAYEKU A",
+                "BUMAYEKU B",
+                "BUNEKESA",
+                "BUWANDEREMA",
+                "BUWANDEREMA NORTH",
+                "MABOLO",
+                "MANAFWA",
+                "NAMAKHUTU",
+                "NAMAKHUTU NORTH",
+                "NAMUTEMBI",
+                "NANYONTSO"
+              ]
+            },
+            {
+              "name": "BUMWANGU WARD",
+              "villages": [
+                "BULWATSATSA",
+                "BUMUFUNI",
+                "BUMUFUNI CENTRAL",
+                "BUMUKOYA EAST",
+                "BUMUKOYA WEST",
+                "BUMWANGU CENTRAL",
+                "BUMWANGU UPPER",
+                "BWIRUSA",
+                "NABUKHUYA",
+                "MARUBA",
+                "NABWIMA",
+                "NAMAHANGA"
+              ]
+            },
+            {
+              "name": "MAYENZE WARD",
+              "villages": [
+                "BUBITUMU",
+                "BUMULEKHWA",
+                "BUTSEMA",
+                "BUWERE A",
+                "BUWERE B",
+                "NAMAKESE",
+                "NAMUNYU",
+                "WALANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NALONDO",
+          "parishes": [
+            { "name": "BUTSEMA", "villages": ["BUTSEMA", "KITSI", "NALUNGU", "NAMUKHOKHE", "NASYA"] },
+            { "name": "BUMULEKHWA", "villages": ["BUMULEKHWA III", "BUNABWILE", "MURUMBA", "WANGA A", "WANGA B"] },
+            {
+              "name": "NALONDO BUTTA",
+              "villages": ["BUFUMBULA B", "BUFUMBULA III", "BUBITUMU II", "BUNAMONE III", "MATOTO", "NALONDO"]
+            },
+            { "name": "WANGA", "villages": ["BUNATANGA - NALONDO", "BUWERE", "NEKINA", "SIBEMBE"] }
+          ]
+        },
+        {
+          "name": "SIBANGA",
+          "parishes": [
+            {
+              "name": "BUWASYEBA",
+              "villages": ["BUMASARI I", "BUMASARI II", "BUWASYEBA", "KIBIKA", "NABITAWA I", "NABITAWA II"]
+            },
+            {
+              "name": "BULAKO",
+              "villages": ["BUGOBERO I", "BUGOBERO II", "BUSANGAI I", "BUSANGAI II", "MULUKHU", "NAMIKELO"]
+            },
+            { "name": "BUMATOOLA", "villages": ["BIRAARI", "BUMATOOLA", "BUMWALYE", "BUSIKE"] },
+            {
+              "name": "BUNAMUKHEYA",
+              "villages": [
+                "BUKHINDE I",
+                "BUKHINDE II",
+                "BUNAMUKHEYA I",
+                "BUNAMUKHEYA II",
+                "ISUNU",
+                "BUWAKHOME",
+                "SYEBA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SISUNI",
+          "parishes": [
+            {
+              "name": "BUMAGAMBO",
+              "villages": ["BUBUSISA", "BUKASAWA LOWER", "BUMUTSOLE", "BUTSEMA", "BUWASIBA", "KHAMITSARU"]
+            },
+            {
+              "name": "KIBUKWA",
+              "villages": [
+                "BUKHISA",
+                "BUKANGALA",
+                "BUMAFUMO",
+                "BUNANGANDA",
+                "BUNASITA",
+                "BUMUNYIFA",
+                "BUMUTUMA",
+                "BUMWANGU",
+                "BUNALUNGU"
+              ]
+            },
+            {
+              "name": "SISUNI",
+              "villages": [
+                "BUKASAWA",
+                "BUKASAWA UPPER",
+                "BUMAENA LOWER",
+                "BUMAENA UPPER",
+                "BUMATOLA",
+                "BUMUKHAMA",
+                "BUMUNGOMA",
+                "BUMWALYE",
+                "BUTSEMA",
+                "BUWOPUWA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WESWA",
+          "parishes": [
+            {
+              "name": "BUBUKANZA",
+              "villages": ["BUBAKANZA A", "BUBAKANZA B", "ISANGA", "BUWASIKYE", "BWISABE", "NAKITSALALA", "SITUMI"]
+            },
+            {
+              "name": "BUTOTO",
+              "villages": [
+                "BUNAMONO",
+                "BUMATAYA",
+                "BUNABUYOKA A",
+                "BUNABUYOKA B",
+                "BUNAMAKANDA EAST",
+                "BUNAMAKANDA MAIN",
+                "BUNAMIKASA",
+                "MAKHELE",
+                "NAMILEMBE"
+              ]
+            },
+            {
+              "name": "BUWESONGA",
+              "villages": [
+                "BILINDWA",
+                "BUKAKALA",
+                "BUMUKHWANA",
+                "BUNABUYOKA MAIN",
+                "BUSHIBINGO",
+                "BUWESONGA A",
+                "BUWESONGA B",
+                "MABIINA",
+                "MUCHINI",
+                "WAKHARU"
+              ]
+            },
+            {
+              "name": "BUWESWA",
+              "villages": [
+                "BUNASHIRWE",
+                "BUSHABURIRI",
+                "MAKHONJE",
+                "MAKUMBA",
+                "MUFUFU",
+                "MUFUTU B",
+                "MULEKHWA",
+                "NAMBEWO",
+                "NAMBEWO B",
+                "SHIROBO"
+              ]
+            },
+            {
+              "name": "BUNGOOLO",
+              "villages": [
+                "BULUKYE",
+                "BUNANDUTU A",
+                "BUNANDUTU B",
+                "BUNANDUTU C",
+                "BUNASAMBI",
+                "BUNATSABWANA",
+                "BUNATSABWANA C",
+                "MABOLO",
+                "SHAMBELELE"
+              ]
+            },
+            {
+              "name": "SHIBANGA",
+              "villages": [
+                "BUNAMUWENJE CENTRAL",
+                "BUNAMUWENJE CENTRAL B",
+                "BUNAMUWENJE EAST",
+                "BUNAMUWENJE EAST B",
+                "BUNAMUWENJE WEST",
+                "BUNAMUWENJE WEST B"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

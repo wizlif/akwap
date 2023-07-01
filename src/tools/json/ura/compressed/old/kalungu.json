@@ -1,0 +1,320 @@
+{
+  "name": "KALUNGU",
+  "counties": [
+    {
+      "name": "KALUNGU EAST COUNTY",
+      "sub_counties": [
+        {
+          "name": "BUKULULA",
+          "parishes": [
+            {
+              "name": "BUGONZI",
+              "villages": [
+                "BUGONZI",
+                "BUSANSO",
+                "BUZAANA",
+                "KABAALE  II",
+                "KABAALE TOWN",
+                "KAMUTUUZA",
+                "KANSAMBA",
+                "LUZIRA",
+                "NAMWANZI"
+              ]
+            },
+            {
+              "name": "KASAALI",
+              "villages": ["KABAALE VILLAGE", "KAGO", "KASAALI", "KAWEMBERO", "MABOWA", "MULUNGU", "VVUMA", "ZZINGA"]
+            },
+            {
+              "name": "KITI",
+              "villages": [
+                "BUKULA",
+                "KAKWANZI",
+                "KAMWANGA",
+                "KANTUULE",
+                "KASSUNGA",
+                "KAYUNGA",
+                "KITABONA",
+                "KITI",
+                "LUGALAMA",
+                "NAMILYANGO",
+                "NAMUSUJJA"
+              ]
+            },
+            {
+              "name": "KYAMBALA",
+              "villages": [
+                "BUBAALE",
+                "BUGWERE",
+                "KASENYI",
+                "KISAWO",
+                "MITETE",
+                "MUTUMBA",
+                "MUWOOMYA",
+                "NANTABA",
+                "SSERUBIDDE"
+              ]
+            },
+            {
+              "name": "LUSANGO",
+              "villages": ["KAMULI", "KISIMBA", "KISIWUULA", "KIWEESA", "LUSANGO - TOWN", "LUVULE", "MULEGEYA", "MULO"]
+            },
+            {
+              "name": "LUSASA/KALUNGI",
+              "villages": ["BUBEMBA", "BUTONGO", "BUYIIKUUZI", "DDANDA", "LUGASA", "LUSASA", "MUGE"]
+            },
+            {
+              "name": "MABUYE",
+              "villages": [
+                "KASSEBUTI",
+                "KATUNGULU",
+                "KIKONDA",
+                "KISALAMATU",
+                "KITOKOLO",
+                "KYAGGUNDA",
+                "KYAJJIIJA",
+                "KYANAGGOLO",
+                "MABUYE  CENTRAL",
+                "MABUYE  NZO"
+              ]
+            },
+            {
+              "name": "MUKOKO",
+              "villages": [
+                "BULINGO",
+                "KALANGALA",
+                "KAMUGOMBWA",
+                "KASASA  EAST",
+                "KASASA  WEST",
+                "KISANJE  WEST",
+                "KISANJE EAST",
+                "LUKULI",
+                "LUTENGO",
+                "MUKOKO NORTH",
+                "MUKOKO SOUTH",
+                "MUKOKO VILLAGE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LUKAYA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BAJJA WARD", "villages": ["BAJJA  A CELL", "BAJJA  B CELL", "KAYUNGA CELL", "NABISOGA CELL"] },
+            {
+              "name": "CENTRAL WARD",
+              "villages": ["AGIP CELL", "CENTRAL CELL", "JUMA CELL", "KALUNGI CELL", "LUBUMBA CELL", "LUTENTE CELL"]
+            },
+            {
+              "name": "KALIRO WARD",
+              "villages": ["KAKOOZA CELL", "KALIRO CELL", "KAPERE CELL", "KIRINYA CELL", "MWOTA CELL"]
+            },
+            {
+              "name": "MAGEZI KIZUNGU WARD",
+              "villages": ["KAMUWUNGA CELL", "KULUBYA CELL", "MAGEZI CELL", "MASTER CELL"]
+            }
+          ]
+        },
+        {
+          "name": "LWABENGE",
+          "parishes": [
+            {
+              "name": "BUGOMOLA",
+              "villages": [
+                "BITEEBE",
+                "BUGOMOLA 'A'",
+                "BUGOMOLA 'B'",
+                "BUWANDA",
+                "KAGONGERO",
+                "KALUMAGA",
+                "KIGAJJU",
+                "KIKOOTA",
+                "KISAMBA-BUKIRI",
+                "KITYABA",
+                "LWAMANYONYI",
+                "LWENGO",
+                "NANSEKO",
+                "SALA 'B'",
+                "SERINYA"
+              ]
+            },
+            {
+              "name": "BWESA",
+              "villages": [
+                "BULENZI 'A'",
+                "BULENZI 'B'",
+                "BULOLA",
+                "BWESA 'A'",
+                "BWESA 'B'",
+                "KINONI 'A'",
+                "KINONI 'B'",
+                "KIWUMULO",
+                "KYAKIBUTA",
+                "KYATO",
+                "LUKENKE 'A'",
+                "LUKENKE 'B'",
+                "LUKENKE 'C'",
+                "MIWULA",
+                "NABWATO",
+                "NDAGI",
+                "NUNDA 'A'",
+                "NUNDA 'B'"
+              ]
+            },
+            {
+              "name": "KIBISI",
+              "villages": [
+                "BUTOOLE",
+                "KABALE  'A'",
+                "KABALE 'B'",
+                "KANFUKA",
+                "KASAMBYA 'A'",
+                "KASAMBYA 'B'",
+                "KIBISI",
+                "SALA 'A'",
+                "SALA 'C'",
+                "TOWA 'A'",
+                "TOWA 'B'",
+                "TOWA 'C'"
+              ]
+            },
+            {
+              "name": "KIRAGGA",
+              "villages": [
+                "BIRONGO 'A'",
+                "BIRONGO 'B'",
+                "BIRONGO 'C'",
+                "KABUYE 'A'",
+                "KABUYE 'B'",
+                "KABUYE 'C'",
+                "KASAMBU",
+                "KASEBWERA",
+                "KIRAGGA",
+                "KIRIMANYAGA",
+                "KISITULA 'A'",
+                "KISITULA 'B'",
+                "KITEREDDE",
+                "KYAMAGUNDU",
+                "LWEMIWAFU",
+                "MABALE",
+                "NABIKAKKALA",
+                "NAMULIRO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KALUNGU WEST COUNTY",
+      "sub_counties": [
+        {
+          "name": "KALUNGU",
+          "parishes": [
+            {
+              "name": "BULAWULA",
+              "villages": [
+                "BULAWULA",
+                "KABUYE",
+                "KASEESA",
+                "KIKONDA",
+                "KYABAKUUMA",
+                "KYANKYUMU",
+                "LUKERERE",
+                "LWANSWERA",
+                "MISENYI",
+                "NATTITA"
+              ]
+            },
+            {
+              "name": "BWASANDEKU",
+              "villages": ["BWASANDEKU", "GAYAAZA", "KAWULE", "KINOGOLA", "KITABYAMA", "KYATO", "LUGEYE", "SEETA"]
+            },
+            {
+              "name": "KALIIRO",
+              "villages": ["BUGGWA", "BUSEKE", "BYAANA", "KALIIRO", "KIGOONYA", "KIRANGA", "KYAMUSANSALA", "KYAMUSOKE"]
+            },
+            {
+              "name": "KASANJE",
+              "villages": ["BULANGA", "BUTAWATA", "KIGO", "KIJJOMANYI", "KIRETERWA", "KIROWOOZA", "KIWEBWA"]
+            },
+            {
+              "name": "KIBISI",
+              "villages": ["KATEERA", "KIBISI", "KINYERERE  A", "KINYERERE  B", "MIREMBE", "NAMAGOMA"]
+            },
+            { "name": "KITAMBA", "villages": ["KAGASA", "KALONGO", "KAWULE", "KITAMBA"] },
+            { "name": "NABUTONGWA", "villages": ["BUSEKE", "KALOKERO", "KIKABYA", "LUWANGA", "NABUTONGWA  T.C"] },
+            { "name": "NTALE", "villages": ["KABUNGO A", "KABUNGO B", "KANYOGOGA", "KITEMBO", "NTALE T.CENTRE"] },
+            {
+              "name": "VILLA-MARIA",
+              "villages": ["BBAALA", "BUKALASA", "BWEYO", "KAKUNYU", "KAMUKONGO", "KATIGONDO", "VILLA - MARIA"]
+            }
+          ]
+        },
+        {
+          "name": "KALUNGU TOWN COUNCIL",
+          "parishes": [
+            { "name": "KALUNGU WARD", "villages": ["KABISA - GALUNYU", "KALUNGU  TOWN", "KALUNGU VILLAGE"] },
+            { "name": "KIKUKUMBI WARD", "villages": ["KAANIKA", "KABUKUNGE", "KIKUKUMBI"] },
+            { "name": "KISAAWA WARD", "villages": ["KASABBAALE", "KIKAYA - NNENDE", "KISAAWA"] },
+            { "name": "LUSAANA WARD", "villages": ["KABISA/LUGAZI", "KYONDO", "LUSAANA"] }
+          ]
+        },
+        {
+          "name": "KYAMULIBWA",
+          "parishes": [
+            {
+              "name": "BAKIJJULULA",
+              "villages": [
+                "BAKIJJULULA  A",
+                "BAKIJJULULA  B",
+                "BUJAGAALI",
+                "BUJUBI",
+                "KASEKERE",
+                "KIRYANKUYEGE",
+                "KIWAAWO"
+              ]
+            },
+            {
+              "name": "BUSOGA",
+              "villages": ["BUSOGA A", "BUSOGA B", "KISAGAZI", "NAKASEETA", "NAKATEETE", "NALUNNYA", "SSEBIJJA"]
+            },
+            {
+              "name": "KABAALE",
+              "villages": ["KABAALE  B", "KABAALE A", "KISAANA", "MAGULUKA", "NAMASAVU  A", "NAMASAVU  B"]
+            },
+            {
+              "name": "KIGASA",
+              "villages": [
+                "KABUSWAGA  A",
+                "KABUSWAGA  B",
+                "KIGASA   E",
+                "KIGASA  A",
+                "KIGASA  B",
+                "KIGASA  C",
+                "KIKONGOLO",
+                "KINONI",
+                "KITULIKIZI",
+                "KYAKIBUTA",
+                "KYANAMULI",
+                "LWANNUME  A",
+                "LWANNUME  B"
+              ]
+            },
+            { "name": "KITOSI", "villages": ["BULWADDA", "BUTAWATA", "BUTITI", "BUWEMBA", "KAMPUUKI", "KASWA"] }
+          ]
+        },
+        {
+          "name": "KYAMULIBWA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BAKALUBA WARD", "villages": ["KASUULA A", "KASUULA B", "KIWUNGA"] },
+            { "name": "CENTRAL WARD", "villages": ["KYAMULIBWA A", "MISENYI"] },
+            { "name": "KATEREGGA WARD", "villages": ["KALAMA", "KAMBULALA A", "KAMBULALA B"] },
+            { "name": "YAKOBO WARD", "villages": ["KITEMI", "KYAMULIBWA B", "LUSOZI"] },
+            { "name": "ZAAKE WARD", "villages": ["BUNOGA", "CHURCH VILLAGE", "KAWUNGA"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

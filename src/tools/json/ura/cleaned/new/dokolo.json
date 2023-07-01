@@ -1,0 +1,929 @@
+{
+  "name": "DOKOLO",
+  "id": 18,
+  "counties": [
+    {
+      "name": "DOKOLO NORTH",
+      "id": 396,
+      "sub_counties": [
+        {
+          "name": "ADOK",
+          "id": 1134,
+          "parishes": [
+            {
+              "name": "ADOK",
+              "id": 120,
+              "villages": [
+                { "name": "AGOLOWELO", "id": 1603 },
+                { "name": "ACUNA", "id": 922 },
+                { "name": "AMING", "id": 3638 },
+                { "name": "ALYECOWE", "id": 3453 },
+                { "name": "BARLWALA", "id": 6620 },
+                { "name": "OPEKE", "id": 50380 },
+                { "name": "OKILE", "id": 48974 },
+                { "name": "OBENE", "id": 47810 },
+                { "name": "OCAMOAYOM", "id": 48060 },
+                { "name": "ODEO", "id": 48226 },
+                { "name": "TEDAM", "id": 56268 }
+              ]
+            },
+            {
+              "name": "AMONOLOCO",
+              "id": 380,
+              "villages": [
+                { "name": "ACANDEK", "id": 679 },
+                { "name": "ADABADABA", "id": 996 },
+                { "name": "AMONOLOCOO", "id": 3748 },
+                { "name": "OLAROBWOL", "id": 49282 },
+                { "name": "OLELPEK", "id": 49335 }
+              ]
+            },
+            {
+              "name": "AMUNAMUN",
+              "id": 400,
+              "villages": [
+                { "name": "ABOLI", "id": 339 },
+                { "name": "ADWALA", "id": 1357 },
+                { "name": "AKUBALA", "id": 2568 },
+                { "name": "ALABI", "id": 2771 },
+                { "name": "AMULAKERE", "id": 3848 },
+                { "name": "AMUNAMUN", "id": 3861 },
+                { "name": "ANYAPONENIGOLO", "id": 4352 },
+                { "name": "AWIDAM", "id": 5743 },
+                { "name": "TETOL", "id": 56470 },
+                { "name": "OLIDURU", "id": 49401 }
+              ]
+            },
+            {
+              "name": "APYE",
+              "id": 506,
+              "villages": [
+                { "name": "ABENYONYA A", "id": 172 },
+                { "name": "ABENYONYA B", "id": 173 },
+                { "name": "APETI A", "id": 4582 },
+                { "name": "APETI B", "id": 4583 },
+                { "name": "APYE", "id": 4780 },
+                { "name": "AWOK", "id": 5848 },
+                { "name": "BUNG", "id": 11680 },
+                { "name": "TEAMON", "id": 56240 }
+              ]
+            },
+            {
+              "name": "BARDYANG",
+              "id": 692,
+              "villages": [
+                { "name": "ADWILA", "id": 1370 },
+                { "name": "AGENGI", "id": 1521 },
+                { "name": "AKAIDEBE", "id": 2215 },
+                { "name": "AMIAKONY", "id": 3607 },
+                { "name": "ALWALA", "id": 3393 },
+                { "name": "APUTI", "id": 4730 },
+                { "name": "TE ACII", "id": 56130 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AGWATTA",
+          "id": 178,
+          "parishes": [
+            {
+              "name": "ACOTO",
+              "id": 91,
+              "villages": [
+                { "name": "ABALI", "id": 61 },
+                { "name": "ADEDI", "id": 1128 },
+                { "name": "APALA A", "id": 4485 },
+                { "name": "APALA B", "id": 4488 },
+                { "name": "ARAP B", "id": 4820 },
+                { "name": "OWIRI", "id": 51143 }
+              ]
+            },
+            {
+              "name": "ADWOKI",
+              "id": 130,
+              "villages": [
+                { "name": "ABONGORWOT", "id": 426 },
+                { "name": "AGULA", "id": 1667 },
+                { "name": "AJET", "id": 2030 },
+                { "name": "AJOK-DONG", "id": 2086 },
+                { "name": "AYITO", "id": 6032 },
+                { "name": "ODEKOGWENO", "id": 48224 }
+              ]
+            },
+            {
+              "name": "AGWICIRI",
+              "id": 183,
+              "villages": [
+                { "name": "ABENYO", "id": 169 },
+                { "name": "ACILKOM", "id": 832 },
+                { "name": "ADAKOGIK B", "id": 1106 },
+                { "name": "ALITO", "id": 3183 },
+                { "name": "BARAYOM", "id": 6552 }
+              ]
+            },
+            {
+              "name": "ALYECJUK",
+              "id": 344,
+              "villages": [
+                { "name": "ADAKOGIK A", "id": 1105 },
+                { "name": "AKWOYO", "id": 2764 },
+                { "name": "AJUK", "id": 2111 },
+                { "name": "AWEKIPARO", "id": 5705 },
+                { "name": "OTIMA", "id": 50914 },
+                { "name": "OKIIPOKERE", "id": 48970 },
+                { "name": "OLEKOCEKE", "id": 49318 }
+              ]
+            },
+            {
+              "name": "AMUDA",
+              "id": 393,
+              "villages": [
+                { "name": "AGEBO A", "id": 1514 },
+                { "name": "AGEBO B", "id": 1515 },
+                { "name": "AGWATA-ATIDI", "id": 1802 },
+                { "name": "AMUDA", "id": 3817 },
+                { "name": "ALII", "id": 3086 },
+                { "name": "OMUKOCEKE", "id": 49964 },
+                { "name": "OJUL", "id": 48812 },
+                { "name": "ODEYE", "id": 48242 }
+              ]
+            },
+            {
+              "name": "KACUNG",
+              "id": 2438,
+              "villages": [
+                { "name": "ACUNGAPENYI", "id": 928 },
+                { "name": "AKWOTE A", "id": 2761 },
+                { "name": "AKWOTE B", "id": 2762 },
+                { "name": "ARAP A", "id": 4819 },
+                { "name": "AWANY A", "id": 5619 },
+                { "name": "AWANY B", "id": 5620 }
+              ]
+            },
+            {
+              "name": "TETUGO",
+              "id": 7255,
+              "villages": [
+                { "name": "ACAN OWILO", "id": 654 },
+                { "name": "ANOKI", "id": 4276 },
+                { "name": "BUNG", "id": 11691 },
+                { "name": "LWALA", "id": 35926 },
+                { "name": "TETUGO", "id": 56473 },
+                { "name": "OKWOR", "id": 49218 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AMWOMA",
+          "id": 1137,
+          "parishes": [
+            {
+              "name": "ABURCERO",
+              "id": 55,
+              "villages": [
+                { "name": "ACAN GWENO", "id": 642 },
+                { "name": "ABURCERO", "id": 535 },
+                { "name": "ABAT", "id": 119 },
+                { "name": "ADWOGONONO", "id": 1378 },
+                { "name": "ADAGWOO", "id": 1076 },
+                { "name": "ADAK", "id": 1081 },
+                { "name": "ALWAR", "id": 3407 },
+                { "name": "ALYER", "id": 3461 },
+                { "name": "AOLIKWAC", "id": 4454 },
+                { "name": "APII-OWIO", "id": 4602 },
+                { "name": "AYAGO", "id": 5893 },
+                { "name": "BARONGER", "id": 6658 },
+                { "name": "IDYENY", "id": 17357 },
+                { "name": "ORINGO DAKO", "id": 50600 },
+                { "name": "ORINGOPALA", "id": 50609 },
+                { "name": "OKERKOK", "id": 48940 }
+              ]
+            },
+            {
+              "name": "AKOLODONG",
+              "id": 251,
+              "villages": [
+                { "name": "ACEDE", "id": 736 },
+                { "name": "ADICUNY", "id": 1174 },
+                { "name": "ALANYI A", "id": 2836 },
+                { "name": "ALANYI B", "id": 2837 },
+                { "name": "ARIBI", "id": 4889 },
+                { "name": "KOROTO", "id": 31173 },
+                { "name": "OROMO", "id": 50651 },
+                { "name": "OGORA", "id": 48610 }
+              ]
+            },
+            {
+              "name": "AMWOMA",
+              "id": 408,
+              "villages": [
+                { "name": "ACUKERE", "id": 912 },
+                { "name": "AMWOMA", "id": 3915 },
+                { "name": "ALUTI", "id": 3379 },
+                { "name": "AWEIWO", "id": 5686 },
+                { "name": "AWELOGWEI", "id": 5718 },
+                { "name": "OMUKOWIE", "id": 49966 },
+                { "name": "OTOLOMOGO A", "id": 50942 },
+                { "name": "OTOLOMOGO B", "id": 50943 },
+                { "name": "OBUMA", "id": 47976 },
+                { "name": "OKWALONGWEN", "id": 49168 },
+                { "name": "TEILWA", "id": 56320 }
+              ]
+            },
+            {
+              "name": "IGULI",
+              "id": 2172,
+              "villages": [
+                { "name": "ABUKI", "id": 478 },
+                { "name": "AGORI", "id": 1637 },
+                { "name": "ADAGAMONE", "id": 1022 },
+                { "name": "ADAGANI", "id": 1033 },
+                { "name": "APOR", "id": 4676 },
+                { "name": "ARAKI", "id": 4810 },
+                { "name": "AWAT", "id": 5638 },
+                { "name": "IGULI", "id": 17436 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BATTA",
+          "id": 179,
+          "parishes": [
+            {
+              "name": "ABYENEK",
+              "id": 67,
+              "villages": [
+                { "name": "AKATAKWI", "id": 2314 },
+                { "name": "AKUKI", "id": 2575 },
+                { "name": "ANINGO", "id": 4249 },
+                { "name": "OPWOANYIRA", "id": 50492 },
+                { "name": "ONEKOCANI", "id": 50123 },
+                { "name": "OKWONGO", "id": 49202 }
+              ]
+            },
+            {
+              "name": "ALAPATA",
+              "id": 286,
+              "villages": [
+                { "name": "ABONGODERO", "id": 403 },
+                { "name": "ACAEOGIK", "id": 613 },
+                { "name": "ALITO", "id": 3185 },
+                { "name": "ANYANGACOTO", "id": 4337 },
+                { "name": "IDAIOL", "id": 17330 },
+                { "name": "OBALOTIC", "id": 47725 },
+                { "name": "OKOKOTIO", "id": 49019 },
+                { "name": "OKWERKWOR", "id": 49183 }
+              ]
+            },
+            {
+              "name": "APENYO",
+              "id": 488,
+              "villages": [
+                { "name": "ABERIMATO", "id": 189 },
+                { "name": "APENYO", "id": 4574 },
+                { "name": "BERIDWOGO", "id": 6909 },
+                { "name": "BARAYOM", "id": 6554 },
+                { "name": "OCEKICEN", "id": 48095 },
+                { "name": "OLEM-KETRE", "id": 49342 },
+                { "name": "OLOR", "id": 49504 }
+              ]
+            },
+            {
+              "name": "ATABU",
+              "id": 555,
+              "villages": [
+                { "name": "ABUNYI", "id": 514 },
+                { "name": "AKWEN", "id": 2712 },
+                { "name": "ANWONG", "id": 4285 },
+                { "name": "AWIGWENG", "id": 5761 },
+                { "name": "ATABU", "id": 5218 },
+                { "name": "OKALOPYEN", "id": 48857 },
+                { "name": "OLAMO-DYEL", "id": 49260 }
+              ]
+            },
+            {
+              "name": "BARDEGE",
+              "id": 691,
+              "villages": [
+                { "name": "ABENYO ONYA", "id": 171 },
+                { "name": "ABOLI", "id": 340 },
+                { "name": "ADIP", "id": 1200 },
+                { "name": "ALENGO", "id": 2970 },
+                { "name": "BARDEGE", "id": 6562 }
+              ]
+            },
+            {
+              "name": "BARLELA",
+              "id": 696,
+              "villages": [
+                { "name": "AGWENG", "id": 1835 },
+                { "name": "BARLELA", "id": 6613 },
+                { "name": "BARGWENG", "id": 6576 },
+                { "name": "BUNG", "id": 11682 },
+                { "name": "ENGET", "id": 16060 },
+                { "name": "OMENY", "id": 49738 }
+              ]
+            },
+            {
+              "name": "TE-YAO",
+              "id": 7229,
+              "villages": [
+                { "name": "ACANDYANG", "id": 686 },
+                { "name": "ACOOLWOR", "id": 894 },
+                { "name": "ADAGKENE", "id": 1065 },
+                { "name": "ALYET", "id": 3468 },
+                { "name": "ARWOT", "id": 5100 },
+                { "name": "TEYAO", "id": 56490 },
+                { "name": "OKET", "id": 48943 }
+              ]
+            },
+            {
+              "name": "OCERO",
+              "id": 6239,
+              "villages": [
+                { "name": "ALAM", "id": 2810 },
+                { "name": "ALAPATA", "id": 2844 },
+                { "name": "ALELA", "id": 2924 },
+                { "name": "AKABI", "id": 2168 },
+                { "name": "ANYOMORANGA", "id": 4394 },
+                { "name": "OCERO", "id": 48104 },
+                { "name": "TEILWA", "id": 56322 },
+                { "name": "WANGLOBO", "id": 57498 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOKOLO",
+          "id": 180,
+          "parishes": [
+            {
+              "name": "ABENYO",
+              "id": 29,
+              "villages": [
+                { "name": "ABENYO", "id": 168 },
+                { "name": "ACANATIN", "id": 671 },
+                { "name": "AGWAYO", "id": 1805 },
+                { "name": "AGWEN", "id": 1820 },
+                { "name": "AKWALI", "id": 2683 },
+                { "name": "AYITA", "id": 6026 },
+                { "name": "ATALI", "id": 5227 },
+                { "name": "ONYOBA", "id": 50297 }
+              ]
+            },
+            {
+              "name": "ACANPII",
+              "id": 71,
+              "villages": [
+                { "name": "ABYECE", "id": 598 },
+                { "name": "ACANPII A", "id": 720 },
+                { "name": "ACAPII B", "id": 726 },
+                { "name": "ABARLELA", "id": 106 },
+                { "name": "ADAGNYEKO", "id": 1070 },
+                { "name": "ALYET", "id": 3464 },
+                { "name": "ATALI", "id": 5229 },
+                { "name": "IDUNY", "id": 17354 },
+                { "name": "OKWALOMOGO", "id": 49167 }
+              ]
+            },
+            {
+              "name": "ADAGMON",
+              "id": 101,
+              "villages": [
+                { "name": "ABWONG", "id": 586 },
+                { "name": "ACENLWORO A", "id": 768 },
+                { "name": "ACOTO", "id": 903 },
+                { "name": "AMATIDOKCON", "id": 3527 },
+                { "name": "ANYAC A", "id": 4287 },
+                { "name": "BARTUGO", "id": 6730 },
+                { "name": "OPOKOTEDO A", "id": 50445 },
+                { "name": "OCEDE", "id": 48088 },
+                { "name": "TECEL", "id": 56257 }
+              ]
+            },
+            {
+              "name": "ALENGA",
+              "id": 297,
+              "villages": [
+                { "name": "ACANONYOMO", "id": 712 },
+                { "name": "ACANYIBI", "id": 722 },
+                { "name": "ABUGE", "id": 468 },
+                { "name": "AKUT", "id": 2661 },
+                { "name": "AJWIO", "id": 2156 },
+                { "name": "ALENGA", "id": 2960 },
+                { "name": "ARINGOADING", "id": 4963 },
+                { "name": "AYOLO", "id": 6061 },
+                { "name": "KAMPALA", "id": 21440 },
+                { "name": "TEOBWOLO", "id": 56412 }
+              ]
+            },
+            {
+              "name": "ANANGOGWEC",
+              "id": 414,
+              "villages": [
+                { "name": "AGIKTUKO", "id": 1557 },
+                { "name": "ALANGOTIC", "id": 2834 },
+                { "name": "ANANGOGWEC", "id": 3957 },
+                { "name": "ANGIC", "id": 4101 },
+                { "name": "APALA", "id": 4481 },
+                { "name": "KIMA", "id": 27876 }
+              ]
+            },
+            {
+              "name": "AWIRI",
+              "id": 612,
+              "villages": [
+                { "name": "ADAGANI", "id": 1032 },
+                { "name": "AKWORATORA", "id": 2745 },
+                { "name": "ALYET", "id": 3466 },
+                { "name": "AWEI", "id": 5668 },
+                { "name": "IGUNG", "id": 17450 },
+                { "name": "ILONG", "id": 17580 },
+                { "name": "KAGERA", "id": 19693 },
+                { "name": "OYIMA", "id": 51223 },
+                { "name": "OLOMET", "id": 49494 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OKWALONGWEN",
+          "id": 1136,
+          "parishes": [
+            {
+              "name": "ABALANG",
+              "id": 7,
+              "villages": [
+                { "name": "ACORI", "id": 897 },
+                { "name": "AMOMTUM", "id": 3723 },
+                { "name": "ANARA", "id": 3960 },
+                { "name": "APADO", "id": 4469 },
+                { "name": "ANGOROMO", "id": 4191 },
+                { "name": "ONGORATOK", "id": 50190 },
+                { "name": "OBANGO ASINGE", "id": 47762 },
+                { "name": "OCILA", "id": 48128 }
+              ]
+            },
+            {
+              "name": "ADAGNYEKO",
+              "id": 102,
+              "villages": [
+                { "name": "ACANGWENO", "id": 692 },
+                { "name": "ABUJE", "id": 471 },
+                { "name": "ADWONGOWOR", "id": 1391 },
+                { "name": "ADAGNYEKO", "id": 1071 },
+                { "name": "ANANGI", "id": 3955 },
+                { "name": "AMATIBURU", "id": 3525 },
+                { "name": "APIDU", "id": 4590 },
+                { "name": "ODEYE", "id": 48241 },
+                { "name": "OMANOABUNGA", "id": 49652 }
+              ]
+            },
+            {
+              "name": "ADEROLONGO",
+              "id": 115,
+              "villages": [
+                { "name": "ABINO", "id": 267 },
+                { "name": "ADYANGMONO", "id": 1409 },
+                { "name": "AJWAI", "id": 2150 },
+                { "name": "ANGUNYDERO", "id": 4214 },
+                { "name": "ONGOCENG", "id": 50173 },
+                { "name": "OKELOKUC", "id": 48918 },
+                { "name": "OBORO", "id": 47933 },
+                { "name": "OLONYIORO", "id": 49498 }
+              ]
+            },
+            {
+              "name": "AKWANGA",
+              "id": 272,
+              "villages": [
+                { "name": "AGALI", "id": 1477 },
+                { "name": "ACWINYI", "id": 994 },
+                { "name": "ADAGDEDE", "id": 1062 },
+                { "name": "AKUROKWE", "id": 2654 },
+                { "name": "AJONYABWOTE", "id": 2100 },
+                { "name": "ANAPAKORI", "id": 3959 },
+                { "name": "AWEKIPARO", "id": 5704 },
+                { "name": "AWEOWIA", "id": 5727 },
+                { "name": "BEDIKUC", "id": 6855 }
+              ]
+            },
+            {
+              "name": "ALUTI",
+              "id": 338,
+              "villages": [
+                { "name": "ADWOYE", "id": 1392 },
+                { "name": "ALANG ALANG", "id": 2822 },
+                { "name": "ALUTI", "id": 3378 },
+                { "name": "AWIEALEM", "id": 5754 },
+                { "name": "BARYAO", "id": 6738 },
+                { "name": "ENGET", "id": 16059 },
+                { "name": "NGA-AMI", "id": 44451 },
+                { "name": "ORYENY", "id": 50768 }
+              ]
+            },
+            {
+              "name": "OKWALONGWEN",
+              "id": 6359,
+              "villages": [
+                { "name": "ACONE", "id": 888 },
+                { "name": "ADEKOKWOK", "id": 1142 },
+                { "name": "AMONOLOCOO", "id": 3749 },
+                { "name": "AWELO OMER", "id": 5715 },
+                { "name": "BARADANGA", "id": 6519 },
+                { "name": "IPARA DUKU", "id": 17669 },
+                { "name": "OPUKA", "id": 50473 },
+                { "name": "OKWALONGWEN", "id": 49169 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DOKOLO SOUTH",
+      "id": 397,
+      "sub_counties": [
+        {
+          "name": "ADEKNINO",
+          "id": 1133,
+          "parishes": [
+            {
+              "name": "ADEKNINO",
+              "id": 107,
+              "villages": [
+                { "name": "ACANPII", "id": 717 },
+                { "name": "ABAROLAM", "id": 113 },
+                { "name": "ADEKNINO", "id": 1136 },
+                { "name": "ALIK", "id": 3089 },
+                { "name": "AWIDI A", "id": 5746 },
+                { "name": "BAROKUTO", "id": 6646 },
+                { "name": "KOMARA", "id": 30988 },
+                { "name": "ONGEI", "id": 50148 },
+                { "name": "TELELA", "id": 56351 }
+              ]
+            },
+            {
+              "name": "ADWONG-OWOR",
+              "id": 131,
+              "villages": [
+                { "name": "ABONGOWAT", "id": 435 },
+                { "name": "ADWEKBER", "id": 1362 },
+                { "name": "ACUNGAPENYI", "id": 926 },
+                { "name": "ADEROLONGO", "id": 1161 },
+                { "name": "ADOGMONMIO", "id": 1235 },
+                { "name": "ALENGI", "id": 2967 },
+                { "name": "OWOR", "id": 51160 },
+                { "name": "OBORO", "id": 47934 }
+              ]
+            },
+            {
+              "name": "AJIBA",
+              "id": 197,
+              "villages": [
+                { "name": "AKANY", "id": 2263 },
+                { "name": "AJIBA", "id": 2037 },
+                { "name": "ALWAR", "id": 3409 },
+                { "name": "ATUGO", "id": 5472 },
+                { "name": "ELWANGE", "id": 16022 },
+                { "name": "OTURULEE", "id": 51016 },
+                { "name": "PEBALO", "id": 51882 },
+                { "name": "OBAKO", "id": 47709 },
+                { "name": "OBOLOKOME", "id": 47911 }
+              ]
+            },
+            {
+              "name": "ARIDI",
+              "id": 522,
+              "villages": [
+                { "name": "ACAMO-OGALI", "id": 629 },
+                { "name": "ADYANGOTO A", "id": 1414 },
+                { "name": "ADYANGOTO B", "id": 1415 },
+                { "name": "ADALA", "id": 1110 },
+                { "name": "AKABI", "id": 2167 },
+                { "name": "ARIDI", "id": 4898 },
+                { "name": "AWINYO-COA", "id": 5808 },
+                { "name": "OKWOR", "id": 49214 }
+              ]
+            },
+            {
+              "name": "AWELO",
+              "id": 601,
+              "villages": [
+                { "name": "ABALANG", "id": 56 },
+                { "name": "ALAO", "id": 2838 },
+                { "name": "AMIT", "id": 3686 },
+                { "name": "AMUK", "id": 3831 },
+                { "name": "ANYWALI", "id": 4413 },
+                { "name": "APEWOTNEKI", "id": 4585 },
+                { "name": "AWIDI B", "id": 5747 },
+                { "name": "BATA EBWOL", "id": 6755 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DOKOLO TOWN COUNCIL",
+          "id": 183,
+          "parishes": [
+            {
+              "name": "CENTRAL WARD",
+              "id": 1837,
+              "villages": [
+                { "name": "ACENGRYENY", "id": 767 },
+                { "name": "ACUNGAPENYI", "id": 927 },
+                { "name": "AKAIDEBE", "id": 2219 },
+                { "name": "AKONGO-ODYEK", "id": 2508 },
+                { "name": "ALAM", "id": 2809 },
+                { "name": "ARWOTNYAP", "id": 5122 },
+                { "name": "AWINYIPANY", "id": 5806 },
+                { "name": "OTOLEMOMOLEO", "id": 50941 }
+              ]
+            },
+            {
+              "name": "EASTERN WARD",
+              "id": 1970,
+              "villages": [
+                { "name": "ACANMAC", "id": 702 },
+                { "name": "ABUR", "id": 518 },
+                { "name": "ADUKULOTONG", "id": 1316 },
+                { "name": "AMIRO", "id": 3683 },
+                { "name": "AMULI", "id": 3852 },
+                { "name": "ANYAC B", "id": 4288 },
+                { "name": "ANYOMOLOI", "id": 4392 },
+                { "name": "ATERI", "id": 5332 },
+                { "name": "DIMA", "id": 15608 },
+                { "name": "ONYONINO", "id": 50307 }
+              ]
+            },
+            {
+              "name": "NOTHERN WARD",
+              "id": 5883,
+              "villages": [
+                { "name": "ACENLWORO B", "id": 769 },
+                { "name": "ARUDABIRO", "id": 5050 },
+                { "name": "BASERE A", "id": 6746 },
+                { "name": "BASERE B", "id": 6747 },
+                { "name": "GOROGORO A", "id": 16847 },
+                { "name": "GOROGORO B", "id": 16848 },
+                { "name": "OPOKOTEDO B", "id": 50446 }
+              ]
+            },
+            {
+              "name": "SOUTHERN WARD",
+              "id": 7165,
+              "villages": [
+                { "name": "ABENYO", "id": 170 },
+                { "name": "ALAO-OKWANYA", "id": 2841 },
+                { "name": "ALOKIRI", "id": 3263 },
+                { "name": "ALWAR", "id": 3411 }
+              ]
+            },
+            {
+              "name": "WESTERN WARD",
+              "id": 7421,
+              "villages": [
+                { "name": "ABONGOWOO", "id": 436 },
+                { "name": "ACANDYANG", "id": 687 },
+                { "name": "AGORA", "id": 1632 },
+                { "name": "AGWENO NYWAL", "id": 1865 },
+                { "name": "AKEOGWENO", "id": 2370 },
+                { "name": "ANOK", "id": 4274 },
+                { "name": "AYITO", "id": 6035 },
+                { "name": "ATAMA", "id": 5231 },
+                { "name": "ATUR", "id": 5488 },
+                { "name": "OCOKOWIE", "id": 48156 },
+                { "name": "OLELPEK", "id": 49337 },
+                { "name": "OGONYOWORO", "id": 48602 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KANGAI",
+          "id": 181,
+          "parishes": [
+            {
+              "name": "ADWILA",
+              "id": 128,
+              "villages": [
+                { "name": "ABONGOIPALE", "id": 411 },
+                { "name": "ACANCILING", "id": 672 },
+                { "name": "ADWILA", "id": 1366 },
+                { "name": "ADWONG GER", "id": 1379 },
+                { "name": "ACUT KUMU", "id": 951 },
+                { "name": "ACWER", "id": 986 },
+                { "name": "AKOPANGO", "id": 2526 },
+                { "name": "ITONG", "id": 17909 },
+                { "name": "GECERE", "id": 16521 }
+              ]
+            },
+            {
+              "name": "AKUROLANGO",
+              "id": 268,
+              "villages": [
+                { "name": "ABANGKWON", "id": 82 },
+                { "name": "ADITA", "id": 1212 },
+                { "name": "AKURI", "id": 2636 },
+                { "name": "ALELA", "id": 2919 },
+                { "name": "AMATI", "id": 3522 },
+                { "name": "ANYWAL-ACUT", "id": 4411 },
+                { "name": "ILONG", "id": 17579 },
+                { "name": "OWANGAI", "id": 51086 }
+              ]
+            },
+            {
+              "name": "ANGWENYA",
+              "id": 444,
+              "villages": [
+                { "name": "ABONGORWOT", "id": 428 },
+                { "name": "ADYELI", "id": 1436 },
+                { "name": "AGUBI", "id": 1661 },
+                { "name": "ANGWENYA", "id": 4232 },
+                { "name": "ONYWAKO", "id": 50314 },
+                { "name": "OTONGODYEL", "id": 50952 },
+                { "name": "OCEKIKOT A", "id": 48096 },
+                { "name": "OCEKIKOT B", "id": 48097 },
+                { "name": "OLUBA", "id": 49519 }
+              ]
+            },
+            {
+              "name": "AYUNI",
+              "id": 642,
+              "villages": [
+                { "name": "ABWA", "id": 563 },
+                { "name": "ACOGODANO", "id": 864 },
+                { "name": "AKONGOMIT", "id": 2512 },
+                { "name": "ANGAI", "id": 4025 },
+                { "name": "ALIT", "id": 3180 },
+                { "name": "ALIWOK", "id": 3218 },
+                { "name": "AYUNI", "id": 6097 },
+                { "name": "BATA", "id": 6753 },
+                { "name": "INGENY", "id": 17639 }
+              ]
+            },
+            {
+              "name": "CHWAGERE",
+              "id": 1912,
+              "villages": [
+                { "name": "ACO OBEDO", "id": 851 },
+                { "name": "ANGETA", "id": 4098 },
+                { "name": "AWEIWOT", "id": 5688 },
+                { "name": "INANG", "id": 17613 },
+                { "name": "CWAGERE", "id": 15417 },
+                { "name": "OYIRO-OGOLE", "id": 51228 },
+                { "name": "OTORO", "id": 50959 },
+                { "name": "OKWOR", "id": 49215 },
+                { "name": "OLIFARM", "id": 49404 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KWERA",
+          "id": 182,
+          "parishes": [
+            {
+              "name": "AGOGA",
+              "id": 155,
+              "villages": [
+                { "name": "AGEE", "id": 1516 },
+                { "name": "ADEK KWOK", "id": 1133 },
+                { "name": "APOKGOR", "id": 4645 },
+                { "name": "APYEN", "id": 4783 },
+                { "name": "ARWOTCOL", "id": 5120 },
+                { "name": "AUKI", "id": 5539 },
+                { "name": "OJER", "id": 48757 }
+              ]
+            },
+            {
+              "name": "ANWANGI",
+              "id": 451,
+              "villages": [
+                { "name": "ABINYI A", "id": 271 },
+                { "name": "ABINYI B", "id": 272 },
+                { "name": "ABULI", "id": 487 },
+                { "name": "AKURILUBA A", "id": 2649 },
+                { "name": "AKURILUBA B", "id": 2650 },
+                { "name": "ANWANGI", "id": 4283 },
+                { "name": "OBAPODERO B", "id": 47770 }
+              ]
+            },
+            {
+              "name": "APENYANG",
+              "id": 487,
+              "villages": [
+                { "name": "ACAN ORYEMA", "id": 652 },
+                { "name": "ABEI", "id": 148 },
+                { "name": "ADWILA", "id": 1368 },
+                { "name": "ADING A", "id": 1190 },
+                { "name": "ADING B", "id": 1192 },
+                { "name": "ALAKE", "id": 2789 },
+                { "name": "AOA", "id": 4430 },
+                { "name": "ATWAC", "id": 5504 }
+              ]
+            },
+            {
+              "name": "OTORO",
+              "id": 6574,
+              "villages": [
+                { "name": "ABYENEK", "id": 601 },
+                { "name": "ADAGI", "id": 1063 },
+                { "name": "AKULI", "id": 2590 },
+                { "name": "AWEIWOT", "id": 5691 },
+                { "name": "OTORO", "id": 50960 },
+                { "name": "OBURAGWE", "id": 47997 }
+              ]
+            },
+            {
+              "name": "OYENG-OPERE",
+              "id": 6594,
+              "villages": [
+                { "name": "ADUUODYEK", "id": 1353 },
+                { "name": "ADARI A", "id": 1119 },
+                { "name": "ADARI B", "id": 1120 },
+                { "name": "OYENG OPERE A", "id": 51198 },
+                { "name": "OYENG OPERE B", "id": 51199 },
+                { "name": "OBAPODERO A", "id": 47769 },
+                { "name": "ODUDUI", "id": 48413 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OKWONGODUL",
+          "id": 1135,
+          "parishes": [
+            {
+              "name": "AGENI",
+              "id": 149,
+              "villages": [
+                { "name": "AGENI A", "id": 1530 },
+                { "name": "AGENI B", "id": 1531 },
+                { "name": "ALUT", "id": 3374 },
+                { "name": "AMARI", "id": 3514 },
+                { "name": "APUTA APUTA A", "id": 4726 },
+                { "name": "APUTA APUTA B", "id": 4727 }
+              ]
+            },
+            {
+              "name": "ANERALIBI",
+              "id": 420,
+              "villages": [
+                { "name": "ACAN DYANG A", "id": 639 },
+                { "name": "ACAN DYANG B", "id": 640 },
+                { "name": "AJAA A", "id": 1957 },
+                { "name": "ANERALIBI", "id": 4015 },
+                { "name": "ARIKENO", "id": 4914 },
+                { "name": "ATWAKO A", "id": 5505 },
+                { "name": "ATWAKO B", "id": 5506 }
+              ]
+            },
+            {
+              "name": "ANYACOTO",
+              "id": 452,
+              "villages": [
+                { "name": "AMIALAKI A", "id": 3608 },
+                { "name": "AMIALAKI B", "id": 3609 },
+                { "name": "ANYACOTO A", "id": 4289 },
+                { "name": "ANYACOTO B", "id": 4290 },
+                { "name": "OTURORAO A", "id": 51012 },
+                { "name": "OTURORAO B", "id": 51014 },
+                { "name": "OBELOWER", "id": 47804 }
+              ]
+            },
+            {
+              "name": "APENYOWEO",
+              "id": 489,
+              "villages": [
+                { "name": "AGURI", "id": 1749 },
+                { "name": "AJWATI", "id": 2153 },
+                { "name": "APENYOWEO", "id": 4576 },
+                { "name": "AYETAYET A", "id": 5961 },
+                { "name": "AYETAYET B", "id": 5962 },
+                { "name": "ATAMA A", "id": 5232 },
+                { "name": "ATAMA B", "id": 5233 }
+              ]
+            },
+            {
+              "name": "OKWONGODUL",
+              "id": 6365,
+              "villages": [
+                { "name": "ADWONGDOK INYOM A", "id": 1383 },
+                { "name": "ADWONGDOK INYOM B", "id": 1384 },
+                { "name": "AJAA B", "id": 1958 },
+                { "name": "AMITICENG", "id": 3688 },
+                { "name": "BARRAYOM", "id": 6698 },
+                { "name": "OKWONGODUL A", "id": 49210 },
+                { "name": "OKWONGODUL B", "id": 49211 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

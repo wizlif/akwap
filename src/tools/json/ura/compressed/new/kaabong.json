@@ -1,0 +1,716 @@
+{
+  "name": "KAABONG",
+  "counties": [
+    {
+      "name": "DODOTH EAST",
+      "sub_counties": [
+        {
+          "name": "KAABONG EAST",
+          "parishes": [
+            { "name": "KALONGOR", "villages": ["KALONGOR", "LOKICHER", "MORU ANYAOU", "NANYANGAESE"] },
+            {
+              "name": "LOKOLIA",
+              "villages": ["KOMISIKA", "KALODEKE", "LOKOLIA CENTRE", "LOKOOLI", "LOMINYIT", "NAPETABUL", "SIMALOK"]
+            },
+            {
+              "name": "LOSOGOLO",
+              "villages": ["LOBURI EKORI", "NAKARAMOE", "NAMERI", "NAPORUKOLONG", "NARIWOBWAL", "TOROAE"]
+            },
+            {
+              "name": "MORULEM",
+              "villages": ["LODWAR EAST", "LODWAR WEST", "LOMONYE", "MORULEM", "RISAE", "NATEDEERO", "SOKODU"]
+            }
+          ]
+        },
+        {
+          "name": "KAABONG TOWN COUNCIL",
+          "parishes": [
+            { "name": "BIAFRA WARD", "villages": ["BIAFRA EAST", "BIAFRA NORTH", "BIAFRA SOUTH"] },
+            { "name": "CAMPSWAHILI WARD", "villages": ["CAMPSWAHILI EAST", "CAMPSWAHILI NORTH", "CAMPSWAHILI SOUTH"] },
+            { "name": "CENTRAL WARD", "villages": ["HOSPITAL QUARTERS", "CENTRAL EAST", "CENTRAL WEST"] },
+            { "name": "KAPILANI BAR EAST WARD", "villages": ["KAPILAN BAR EAST", "LOPEDO ROAD", "NADIIRIKITOE"] },
+            { "name": "KAPILANI BAR WEST WARD", "villages": ["KAPILAN BAR WEST", "LOMACHARIWORET", "NAKADELIO"] },
+            { "name": "LOPUTUK WARD", "villages": ["LOPUTUK EAST", "LOPUTUK WEST", "NARISAE"] },
+            { "name": "KOMURIA EAST WARD", "villages": ["KOMURIA NORTH", "KOMURIA SOUTH", "NAKAPIRIPIRIT"] },
+            { "name": "KOMURIA WEST WARD", "villages": ["KOMURIA CENTRAL", "NAWOYABUL", "TANK HILL"] },
+            { "name": "PAJAR WARD", "villages": ["KOLOLO (NAPAK/LOPEERU)", "KARONGO", "PAJAR"] }
+          ]
+        },
+        {
+          "name": "KAABONG WEST",
+          "parishes": [
+            { "name": "KAABONG", "villages": ["KEPAK", "KANGIGETEI", "LOKURET", "LOPETUN", "LORENGECHORA", "YOKOTAK"] },
+            {
+              "name": "LOBONGIA",
+              "villages": [
+                "KAISET",
+                "NAAKOT",
+                "LOBULIO",
+                "NAGAALA",
+                "LOKUMOMOE",
+                "LOMUSIAN",
+                "LONGOROMIT",
+                "NALINGARO",
+                "PAJAR",
+                "NAMORUKOOK",
+                "NAOIT"
+              ]
+            },
+            {
+              "name": "LOKERUI",
+              "villages": ["KOBUIN", "KARIMOJONG", "LOKERUI", "MORUCHORONG", "LOTIYEKET", "NANGOLEKURUK"]
+            },
+            {
+              "name": "LOMERIS",
+              "villages": ["KOMEI", "KAKEREKEROI", "KACHIKOL", "KANGISUTE", "MORU ERAU", "MORULEM"]
+            },
+            { "name": "LOMORUITAE", "villages": ["KATELENG", "KALARILAR", "LOMORUITAE", "NANGWALACHOM", "SOLIKIK"] }
+          ]
+        },
+        {
+          "name": "KAKAMAR",
+          "parishes": [
+            {
+              "name": "KAKAMAR",
+              "villages": ["KITEE LORE", "KAYOKONG", "KAKAMAR", "KANAKORA", "LOCHURUUTU", "NADWARAMUKUNY", "NAMUS"]
+            },
+            { "name": "KITE-LORE", "villages": ["KITE-LORE"] },
+            { "name": "KOTIRAE", "villages": ["KOTIRAE"] },
+            {
+              "name": "MORUNYANG",
+              "villages": [
+                "KAAKUMA",
+                "KOTIRAE",
+                "DANGASIL",
+                "MORU - ENGATUNY",
+                "MORU - ESE",
+                "NAGUM-A-LOKORINGOLE",
+                "MORUNYANG",
+                "LOPELIPEL",
+                "NAKITURUTURET",
+                "NANYANGADOKET",
+                "NAPEIKIDOR"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KALAPATA",
+          "parishes": [
+            { "name": "KACHEMICHEM", "villages": ["KAITACH", "KACHEMICHEM", "NABUREKITOE", "MORU ITA", "NAKARACH"] },
+            {
+              "name": "KALAPATA",
+              "villages": [
+                "KURAO",
+                "KALAPATA CENTRE",
+                "KALONYANGIAT",
+                "KANAKURUK",
+                "LOCHEGER EAST",
+                "LOCHEGER WEST",
+                "NABONYIA",
+                "MORU - EDIKAE EAST",
+                "MORU EDIKAE WEST",
+                "MORUCHORO",
+                "MORUNYANG",
+                "LOPUTUK",
+                "NANYANGAYESE",
+                "NAPEICHOKEI",
+                "NARENGEKERU",
+                "NARIWORE"
+              ]
+            },
+            {
+              "name": "KURAO",
+              "villages": [
+                "KURAO",
+                "KAIBEYE",
+                "LOCHEGER EAST",
+                "LOCHEGER WEST",
+                "LOKASENYAK",
+                "MORU-ANAIDO",
+                "LOPEITAPAR"
+              ]
+            },
+            { "name": "NAPETAKORI", "villages": ["LOTWAL-LOKUT", "NAPETAKORI"] },
+            {
+              "name": "MEUS",
+              "villages": [
+                "NAESE ANGICHOMIN",
+                "LOTUBAE",
+                "MEUS",
+                "MEUS CENTRE",
+                "NALEMUSEKON",
+                "NAPAAT II",
+                "NARIWOGUM EAST",
+                "NARIWOGUM WEST",
+                "NATAPAR-A-LOCHORO"
+              ]
+            },
+            {
+              "name": "MOROTO",
+              "villages": [
+                "GOLOPAK",
+                "KALERE",
+                "KANGALITA",
+                "LOBONGIA",
+                "LOKATAP",
+                "MOROTO EAST",
+                "MOROTO WEST",
+                "MORULEM CENTRE",
+                "MORULEM NORTH",
+                "MORULEM SOUTH"
+              ]
+            },
+            { "name": "MORUNYANG", "villages": ["MORU ANGITA", "MORU ITA", "MORUNYANG"] }
+          ]
+        },
+        {
+          "name": "KATHILE",
+          "parishes": [
+            {
+              "name": "KATHILE",
+              "villages": [
+                "KITUM",
+                "KATHILE EAST",
+                "KATHILE WEST",
+                "MORU - ANGIKAMAR",
+                "LOKWAKARAMOE",
+                "LOPELIPEL",
+                "NAKOSOWAN",
+                "NAPACHIPACHA",
+                "NASUGURU"
+              ]
+            },
+            {
+              "name": "KATHILE TOWN BOARD",
+              "villages": ["LOIT", "MORU ETOM", "NAKORE", "NANGOLECHOWA", "NARIAMABUNE", "NARIONOMORU", "TODOKONASSE"]
+            },
+            { "name": "LEMUGETE", "villages": ["LEMUGETE", "NALEBENY", "NAMAMUTAU", "NATIPEM"] },
+            { "name": "LOBATOU", "villages": ["LOBATOU"] },
+            { "name": "LOKARENGAK", "villages": ["NWAKAPICHA"] },
+            { "name": "LOMALER", "villages": ["LOKILI"] },
+            { "name": "NARUBE", "villages": ["LOKARIWON", "LOSANAE", "LOWALA", "POONGO", "NARUBE", "USAKE"] },
+            { "name": "NARYONOMORU", "villages": ["NARYONOMORU"] },
+            { "name": "TEREGU", "villages": ["MORU ANGISIGIRIA", "NAITAKWAE", "LOMUNYEN", "TEREGU"] }
+          ]
+        },
+        {
+          "name": "KATHILE SOUTH",
+          "parishes": [
+            {
+              "name": "KAMACHARIKOL",
+              "villages": [
+                "KAMACHARIKOL",
+                "KAMACHARIKOL C",
+                "PEIKALE",
+                "NAPEIRATIL",
+                "NAKEMILIAN",
+                "TULIANYANG",
+                "URUTUKAPEL"
+              ]
+            },
+            {
+              "name": "LOIS",
+              "villages": ["KOTEEN", "LOIS", "LOKWAMORU", "MAMUK", "NAKERE", "TULELO NORTH", "TULELO SOUTH"]
+            },
+            { "name": "LOKALI", "villages": ["LOKALI"] },
+            {
+              "name": "NARIAMAAOI",
+              "villages": [
+                "DANGASIL",
+                "NAANGORIT",
+                "LOKALI EAST",
+                "LOKALI WEST",
+                "LOKWAPOO",
+                "NARIAMAAOI NORTH",
+                "NARIAMAAOI SOUTH"
+              ]
+            },
+            {
+              "name": "NACHUKUL",
+              "villages": ["KOMERESIA", "KAPELIMONG", "LORENGECHORA", "NACHUKUL EAST", "NACHUKUL WEST"]
+            }
+          ]
+        },
+        {
+          "name": "LODIKO",
+          "parishes": [
+            { "name": "KANGIOS", "villages": ["KANGIOS EAST", "KANGIOS NORTH", "LOMILIP", "MORUDOOCHI", "NALEMSEKON"] },
+            {
+              "name": "KAJIIR",
+              "villages": ["LOKODOE", "LOMAMULEPOT", "NARIWOBWAL EAST", "NARIWOBWAL WEST", "NATEDEEPONG"]
+            },
+            { "name": "LOPEDO/TEUSO", "villages": ["KAAKUTA", "LOPEDO/TEUSO"] },
+            { "name": "KOTOME", "villages": ["KOTOME", "KOMISIKA", "KAKUTATOM", "NABUREKITOE", "LOGUTO", "SOKODU"] },
+            { "name": "SAKATAN", "villages": ["SAKATAN", "MORUNYANG", "LOMUTON", "NAWOYAKALI", "NAUKORET AMORU"] }
+          ]
+        },
+        {
+          "name": "LOLELIA",
+          "parishes": [
+            { "name": "KAIMESE", "villages": ["CHUMAKAKU", "KAILOB", "KAIWELE", "LOKWAMOR", "MORUNYANG"] },
+            {
+              "name": "LOLELIA",
+              "villages": [
+                "KOTARUKOT",
+                "KOLIMEU",
+                "LOBALANGIT",
+                "LOCHOKEI",
+                "LOCHOTO",
+                "LOKIRIWO",
+                "MORU ANGITA",
+                "LOLELIA CENTRE",
+                "NACHAKUNET",
+                "NACHEELETEM",
+                "NAKWAKWA",
+                "PIYOITU",
+                "RITEEN"
+              ]
+            },
+            {
+              "name": "LOTETELEIT",
+              "villages": [
+                "KAABIL - KICHIR",
+                "KAAKUMA",
+                "KALOTWO",
+                "KASENYISENY",
+                "LOKAPAKINE",
+                "MORUKINEI",
+                "LORENGECHORA",
+                "NAKAMURIAE"
+              ]
+            },
+            {
+              "name": "NAROGOS",
+              "villages": ["NAKODIOKODIOI", "NAPETABUL", "NAROGOS", "NATOROKOKITO", "NATUMUGERAI", "TAKANIKIAL"]
+            }
+          ]
+        },
+        {
+          "name": "LOTIM",
+          "parishes": [
+            {
+              "name": "KAKUTATOM",
+              "villages": [
+                "ENIK",
+                "KAKUTATOM",
+                "NAACHUKA",
+                "LOKARIWON EAST",
+                "LOKARIWON WEST",
+                "LOKWASINYON",
+                "NAKAPELIYESE",
+                "NAKARENGAN",
+                "NARIWOGUM"
+              ]
+            },
+            {
+              "name": "KALOBOKI",
+              "villages": [
+                "KALOBOKI",
+                "KACHARIK",
+                "LOBATAE",
+                "LOLOBAE",
+                "MORUNYANG",
+                "LOPIE",
+                "NAWUAKIRU",
+                "NAKWAKA CELL",
+                "NANGOLEMORU"
+              ]
+            },
+            {
+              "name": "LOTIM",
+              "villages": [
+                "NADOOMEIT",
+                "LOKWAAPOO",
+                "LOOJIM",
+                "LORENGECHORA",
+                "LOTIM CENTRE",
+                "NAPALABUR",
+                "TULYANYANG"
+              ]
+            },
+            {
+              "name": "KOSUI",
+              "villages": [
+                "KOSUI EAST",
+                "KOSUI WEST",
+                "LOKICHER",
+                "LOKOKI",
+                "MORU EPIRICH",
+                "NAKWANYIA",
+                "NALEMUSEKON",
+                "NAPORUKOLONG",
+                "NARIWOGUM",
+                "NATIAKET"
+              ]
+            },
+            {
+              "name": "MORUKORI",
+              "villages": [
+                "KAILELE",
+                "LOCHOTO",
+                "LOKODOPEI",
+                "MORUKORI CENTRE",
+                "MORUNYANG",
+                "LOOKUSE",
+                "LOPELIPEL",
+                "NANGAAMIT",
+                "NAPEICHOKEI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LOYORO",
+          "parishes": [
+            {
+              "name": "LOKANAYONA",
+              "villages": [
+                "LIGOT",
+                "LOBONGIA",
+                "LOKANAYONA CENTRAL",
+                "LOKANAYONA WEST",
+                "LOLEOKOT",
+                "LOSULUT/NAKICHER",
+                "NARIWOGUM",
+                "NARIWOSE"
+              ]
+            },
+            { "name": "LOMERIMA", "villages": ["KALAPATA", "LOMERIMA EAST", "LOMERIMA WEST", "NARIWORE"] },
+            {
+              "name": "TOROI",
+              "villages": [
+                "LOGUMASIROI",
+                "LOKODE/CHAKALUM",
+                "MORU - AKURING",
+                "LOKOOLI",
+                "MORUNYAG",
+                "LORENGECHORA",
+                "TOROI CENTRAL",
+                "TOROI EAST",
+                "TOROI MISSION WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SIDOK (KOPOTH)",
+          "parishes": [
+            {
+              "name": "KASIMERI",
+              "villages": [
+                "KAJIRIWAR",
+                "KARICHOR",
+                "KALOLIB",
+                "LOCHOM CENTRE",
+                "RUPA",
+                "NARIWORE NORTH",
+                "NARIWORE SOUTH"
+              ]
+            },
+            { "name": "LOCHEREP", "villages": ["KALAPATA", "LOCHEREP", "NALAMANARO", "NARWAAROT", "NASIDOK/KASIMERI"] },
+            { "name": "LOMILIMIL (NATINGOROK)", "villages": ["LENGONYIA", "LOMILIMIL"] },
+            {
+              "name": "LONGARO",
+              "villages": ["KOPOTH", "KALOULA", "KACHINGA", "LONGARO", "LOURIONG", "NAKWAKOU", "TIITI"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "DODOTH WEST",
+      "sub_counties": [
+        {
+          "name": "KAPEDO",
+          "parishes": [
+            {
+              "name": "KAPEDO",
+              "villages": [
+                "ITANYIA",
+                "K.D.A",
+                "KOLOLO",
+                "KOLOLO KRAALS",
+                "KANYIKWAR",
+                "KATANGA",
+                "MOGOS",
+                "LORENGECHORA",
+                "LOYORO",
+                "NAKORICHOKEI",
+                "NASINYONOIT EAST",
+                "NASINYONOIT WEST"
+              ]
+            },
+            { "name": "KALIMON", "villages": ["KALIMON"] },
+            {
+              "name": "KOMOLICHER",
+              "villages": [
+                "GURUMA",
+                "KAACHOMIN",
+                "KOMEM",
+                "KARIWONYANG",
+                "KATANYIA",
+                "LOBELUNA",
+                "LOWALA",
+                "NABUTERA",
+                "NAWOYAPIE"
+              ]
+            },
+            {
+              "name": "NAKITEMYET (LOTWAL)",
+              "villages": ["KUMET", "KALOKIENY", "NABAS", "LOESEMUDANG", "NACHUKUL", "NAPOOK"]
+            }
+          ]
+        },
+        {
+          "name": "KARENGA(NAPORE)",
+          "parishes": [
+            { "name": "KANGOLE", "villages": ["KANGOLE"] },
+            { "name": "KIDEPO", "villages": ["APOKA", "KIDEPO", "KATURUM", "LOITANIT", "NATAABA-A-LOKURE"] },
+            {
+              "name": "KARENGA",
+              "villages": [
+                "KAMUKOI CENTRAL",
+                "KAMUKOI NORTH",
+                "KAMUKOI SOUTH",
+                "KANGOLE CENTRAL",
+                "KANGOLE NORTH",
+                "KANGOLE SOUTH",
+                "LOKODOPE",
+                "LOPUTUK",
+                "LORWAMA",
+                "NALEMORU",
+                "TELEL",
+                "WAPAKIRU"
+              ]
+            },
+            {
+              "name": "LOYORO/NAPORE",
+              "villages": ["GEREMECH", "LORUKUL", "LOYORO CENTRAL", "LOYORO NORTH", "LOYORO SOUTH", "NEW KARENGA"]
+            }
+          ]
+        },
+        {
+          "name": "KAWALAKOL",
+          "parishes": [
+            {
+              "name": "KAWALAKOL",
+              "villages": [
+                "KAWALAKOL CENTRAL",
+                "LOBELE",
+                "MORUNGOLE",
+                "LOPEERU",
+                "NAKAPANGITENGA",
+                "NAKODOIKODIO",
+                "NAMATENGE",
+                "NANGOLECHOWA"
+              ]
+            },
+            {
+              "name": "LOMANOK",
+              "villages": ["DANGASIL", "LOKOONA", "LOMANOK", "LOPUTUK", "MATAKUWAR", "NAKIIRIAS", "NAURUTOCHOM"]
+            },
+            {
+              "name": "LOMEJ/NATIIRA",
+              "villages": [
+                "KOCHOLO",
+                "NAAPONG",
+                "LOPWA",
+                "LOTIPWAL",
+                "LOUKOMOR",
+                "NAKUNGUROIT",
+                "NAPORUKOLONG",
+                "TULELO"
+              ]
+            },
+            {
+              "name": "KOKORO",
+              "villages": [
+                "KAAKOCHIL",
+                "KOKORO",
+                "KOLELE",
+                "KALOKORIO",
+                "MORU-ARENGAN",
+                "NAGOLOPAK",
+                "MORUNGOLE",
+                "LOPELIPEL"
+              ]
+            },
+            {
+              "name": "NAOYAGUM",
+              "villages": [
+                "NAAPONG",
+                "LODIRINYANG",
+                "LOKODOPE",
+                "LOKOSIMALITIT",
+                "MORULEM",
+                "MORUNYANG",
+                "LOPOKOR",
+                "NAWOYAGUM",
+                "NAPUSIMORU",
+                "NAKIDIIR"
+              ]
+            },
+            {
+              "name": "NASEPERWAE",
+              "villages": [
+                "LEMUKIAL",
+                "MORU ITA",
+                "LOOKUSE",
+                "LORITIT",
+                "NAKISIMOE",
+                "NASEPERWAE",
+                "NATAABA-A-LOKURE",
+                "SEMUKOI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LOBALANGIT",
+          "parishes": [
+            {
+              "name": "KAKWANGA",
+              "villages": ["KAKWANGA", "LOKIPIE", "NAESEKAPEL NORTH", "NAESEKAPEL SOUTH", "NARYONOMORU"]
+            },
+            {
+              "name": "LOBALANGIT",
+              "villages": ["LOBALANGIT CENTRAL", "LODAPAL", "LODWARI", "NAGOLOPAK", "NAWOYARO", "NARENGEPUWA"]
+            },
+            {
+              "name": "NAKELLIO",
+              "villages": ["KAKIRA", "LOKAPUKE EAST", "LOKAPUKE WEST", "NAWARA", "NAKELLIO NORTH", "NAKELLIO SOUTH"]
+            },
+            {
+              "name": "PIRE",
+              "villages": [
+                "LOMANAKO",
+                "LONGOLETYANGA NORTH",
+                "LONGOLETYANGA SOUTH",
+                "NAKUNGURIT",
+                "PIRE",
+                "PIRE CENTRAL",
+                "NARIUPWAL"
+              ]
+            },
+            { "name": "SARACHOM", "villages": ["LOKWAKINEI", "LOKWANGKIR", "LOPET", "PUDA", "SARACHOM"] }
+          ]
+        },
+        {
+          "name": "LOKORI",
+          "parishes": [
+            {
+              "name": "LOKORI",
+              "villages": ["KAAKURUK", "KAILUNGO", "KACHAPANGOLE", "NABETELENG", "LOKORI", "LOPIAN"]
+            },
+            { "name": "NAKITOIT", "villages": ["NAKITOIT NORTH", "NAKITOIT SOUTH"] },
+            {
+              "name": "OPOTIPOT",
+              "villages": [
+                "KAALIMON",
+                "DUKOOLE",
+                "KALOKUDO",
+                "LOCHWANGALEM",
+                "LOKABAIYA",
+                "LOKUYON",
+                "NAWOYARO",
+                "OPOTIPOT",
+                "NANGOLEMORU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SANGAR",
+          "parishes": [
+            { "name": "LOKIAL", "villages": ["KAALIMON", "LOKIAL", "NAGARA", "LONGEREP", "NAKWAYELEL", "NALEECH"] },
+            { "name": "KOCHOLO", "villages": ["KOCHOLO"] },
+            {
+              "name": "KUMET",
+              "villages": ["GOLOPAK", "KUMET", "LOLIBIKAN", "LORENGECHORA", "LOROBOROB", "LOTOUKOROE", "NAPETAAOI"]
+            },
+            {
+              "name": "SANGAR",
+              "villages": [
+                "GOLOPAK",
+                "DAISIK",
+                "KALANYAKORI",
+                "LOKASANGATE",
+                "LOMODOOCH",
+                "LOMONIYOLO",
+                "LOMORUNYANGAE",
+                "LOWAKUJ",
+                "NANGOLEMORU",
+                "NAOYASE",
+                "NAPETAAOI",
+                "NAPORUKOLONG",
+                "NARIWOSE",
+                "NAROUCHOM",
+                "SOKODOKAN",
+                "TORE"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KAMION",
+      "sub_counties": [
+        {
+          "name": "KAMION",
+          "parishes": [
+            {
+              "name": "KAMION",
+              "villages": [
+                "KOKOSOWA",
+                "LOCHOTO",
+                "LOKIYOTO",
+                "MORU ARENGAN",
+                "MORU-A-ATAP",
+                "LOUSUNA",
+                "NACHAKUNET",
+                "NARUKIENY",
+                "NAWADOU/KAMION CENTRE"
+              ]
+            },
+            {
+              "name": "LOKWAKARAMOE",
+              "villages": [
+                "KAITEBA",
+                "LOKWAKARAMOE CENTRE",
+                "LOMIL",
+                "MORUNGOLE/USAKE UPDF BARRACKS",
+                "LOTINYAM",
+                "NAKAALE",
+                "PAALAKAN",
+                "PIRE",
+                "PUTA",
+                "NATIPEEM",
+                "USAKE"
+              ]
+            },
+            {
+              "name": "TIMU",
+              "villages": [
+                "KOCHOKIO",
+                "KOLOLO",
+                "KAIKOBA",
+                "KAPALU",
+                "KANARO",
+                "LOITA",
+                "LOKINENE",
+                "LOKITELA KA ELOB",
+                "LOKITOE",
+                "LOODOI",
+                "LOPOKOK",
+                "NAWOYAKINGOL",
+                "TULTUL"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

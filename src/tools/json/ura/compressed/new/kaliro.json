@@ -1,0 +1,581 @@
+{
+  "name": "KALIRO",
+  "counties": [
+    {
+      "name": "BULAMOGI",
+      "sub_counties": [
+        {
+          "name": "BUDOMERO",
+          "parishes": [
+            {
+              "name": "BUDOMERO",
+              "villages": [
+                "BUGABWE",
+                "BUKERE I",
+                "BUKERE II",
+                "BULEMO",
+                "BUKULIRA",
+                "KAHANGO",
+                "KANANSUNA/KISIKI",
+                "KANANSUNA/KYANFUBBA",
+                "NABINYONYI",
+                "NAIRIKA/KABULI",
+                "NAIRIKA/NAMUZIGO",
+                "LUGINGO",
+                "NABWENDE",
+                "LUMBUYE-KANANSUNA",
+                "NAZIGOMERE",
+                "NALUSENYE",
+                "NAMUKAKALA I",
+                "NAMUKALALA II",
+                "NAMUZIGO/BUDAMBA"
+              ]
+            },
+            {
+              "name": "KIYUNGA",
+              "villages": [
+                "BUGADA",
+                "BULEJU",
+                "BUKYESA",
+                "BUSEREKA",
+                "KIGOODO",
+                "NABUKALU",
+                "NAMAKUNYU",
+                "NAMAVUNDU A",
+                "NAMAVUNDU B",
+                "NAMUZIGO",
+                "NAKIBUNGULYA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUMANYA",
+          "parishes": [
+            {
+              "name": "BULUMBA",
+              "villages": [
+                "BUGUBI",
+                "BUJEJJE",
+                "BUKALIMO",
+                "BULIMUKA",
+                "BUMPULI",
+                "BUNABALA",
+                "BUSIKWE",
+                "BUSUNGA",
+                "KOSAMU",
+                "LONDE",
+                "MUKASA",
+                "NALENYA I",
+                "NALENYA II",
+                "ZEFANIA"
+              ]
+            },
+            {
+              "name": "BUMANYA",
+              "villages": [
+                "BULIMA",
+                "BULUMI",
+                "BULOMA I",
+                "BULOMA II",
+                "GENDWA I",
+                "GENDWA II",
+                "KASOZI",
+                "NAIGAZI",
+                "LUGINGO",
+                "NABWEYO",
+                "MAWULIRO/WAKIRERE",
+                "NAMBULA/NABUKALU",
+                "WEMPERE",
+                "WAKIRERE",
+                "WAMUBIRIGWE"
+              ]
+            },
+            {
+              "name": "KASULETA",
+              "villages": [
+                "KABIRI A",
+                "KABIRI B",
+                "KALALU I",
+                "KALALU II",
+                "KALALU III",
+                "KANAMBATIKO",
+                "KASULETA",
+                "KANANSEGA",
+                "KANANTALE",
+                "NABIGWALI I",
+                "NABIGWALLI II",
+                "NAIGAZI",
+                "NAMUZIGO",
+                "TAKIRA CENTRAL",
+                "TAKIRA I",
+                "TAKIRA II"
+              ]
+            },
+            {
+              "name": "KYANI",
+              "villages": [
+                "BUBBUMBI",
+                "IHAGALO",
+                "KIYUNGA",
+                "KISENYE",
+                "KINAMAGOYE",
+                "KYANI - NYANZA B",
+                "KYANI T/C",
+                "KYANI/NYANZA A",
+                "KANANZOKI",
+                "NAIBINGA",
+                "NAKABALE",
+                "NAMBULA",
+                "NAMUNYA A",
+                "NAMUNYA B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUYINDA",
+          "parishes": [
+            {
+              "name": "BUYINDA",
+              "villages": [
+                "BULAGO A",
+                "BULAGO B",
+                "BUTONGOLE",
+                "KIRAMA",
+                "KIRANGA A",
+                "KIRANGA B",
+                "KIRANGA TOWN",
+                "KIKOOGE",
+                "KASULETA",
+                "NABIINA",
+                "MADIBIRA A",
+                "MADIBIRA B",
+                "MAKUUTU",
+                "NAMAYOBYO",
+                "NAMUNINGE"
+              ]
+            },
+            {
+              "name": "BUKONDE",
+              "villages": [
+                "BUKONDE A",
+                "BUKONDE B",
+                "KEREBU",
+                "KIBUYE",
+                "KANABUGO",
+                "NABUHAALI",
+                "NAMEJJE A",
+                "NAMEJJE B",
+                "WAMPITEKU",
+                "WANGOBO A",
+                "WANGOBO B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GADUMIRE",
+          "parishes": [
+            {
+              "name": "GADUMIRE",
+              "villages": [
+                "BUGADA/BUSEREKA",
+                "BUKOOTI",
+                "BUNABIRO/BUSUSWA",
+                "KIROBA",
+                "KIBEMBE",
+                "GADUMIRE/BUGONYA",
+                "NABWEYO",
+                "NAMUHONDO",
+                "NANSIONO/NASERE",
+                "NASERE",
+                "NAWANDYO",
+                "WAMUSUTA"
+              ]
+            },
+            {
+              "name": "BUPYANA",
+              "villages": [
+                "BUDONGO",
+                "BUBALALA",
+                "BUKERE",
+                "BUSERU",
+                "BUVUNDYA",
+                "BUTAMBALA",
+                "BUWUMBA",
+                "KIRANGA A",
+                "KAYIIRA",
+                "KYAMBA",
+                "KABWIKWA/KABEGA",
+                "NAKANA",
+                "NAMUKOKO",
+                "NANSOHERA"
+              ]
+            },
+            {
+              "name": "PANYOLO",
+              "villages": ["BUSEEGE", "BUSIRO", "IGULILYO", "ISAALO", "BWISANGA", "LUHUNGA", "NYOLO"]
+            }
+          ]
+        },
+        {
+          "name": "KALIRO TOWN COUNCIL",
+          "parishes": [
+            { "name": "BUDINI WARD", "villages": ["BAMUTAZE", "NYANZA", "MISSION"] },
+            { "name": "BUYUNGA WARD", "villages": ["BUSOMA", "BUWALUJJO", "NAKIYANJA"] },
+            { "name": "BUKUMANKOOLA WARD", "villages": ["BUGOMA", "KIRINDI", "MWANGHA"] },
+            { "name": "LUMBUYE WARD", "villages": ["INDUSTRIAL AREA", "KALITUNSI", "VALLEY HILL"] },
+            { "name": "NAIGOMBWA WARD", "villages": ["BUGABWE", "BULANGIRA", "ZIBONDO"] }
+          ]
+        },
+        {
+          "name": "KASOKWE",
+          "parishes": [
+            {
+              "name": "BWAYUYA",
+              "villages": ["BUSANDA", "BUSANDA B", "BUTESA A", "BUTESA B", "BWAYUYA A", "BWAYUYA B", "BWAYUYA C"]
+            },
+            {
+              "name": "KASOKWE",
+              "villages": [
+                "BUGOODO",
+                "BUKAKUBBE",
+                "BUKONGOLO",
+                "BUTONGOLE",
+                "BUTUJU",
+                "BUYIGANGAINE",
+                "BUYODI KINANTAMA",
+                "BUYODI-KIRUMBI",
+                "BUYODI/KIBOYO",
+                "KALALU",
+                "KASOKWE NKALU B",
+                "KASOKWE T/C",
+                "KASOKWE/KIBOYO",
+                "NAKABALE",
+                "NKALU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KISINDA",
+          "parishes": [
+            {
+              "name": "LUBULO",
+              "villages": [
+                "KIBAALE",
+                "KIBEMBE A",
+                "KIBEMBE B",
+                "KIBWIIZA",
+                "KAMUTAKA",
+                "MAHUMO",
+                "MPAMBWA",
+                "NAKAKOOGE",
+                "LWAMBOGA",
+                "NAMASAKA",
+                "NANDERE"
+              ]
+            },
+            {
+              "name": "KISINDA",
+              "villages": [
+                "BUKAYALE A",
+                "BUKAYALE B",
+                "BUHOMBI",
+                "BUKUNYA",
+                "IGEMBE",
+                "NAKABOKO/NSULUMBI",
+                "NAMUNTU",
+                "NYENDE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NAMUGONGO",
+          "parishes": [
+            {
+              "name": "BUTEGE",
+              "villages": [
+                "BULONDO/BUBONGO A",
+                "BULONDO/BUBONGO B",
+                "KITALIKIKYO",
+                "KANANTEGE",
+                "KANANTEGE B",
+                "N.T.C KALIRO",
+                "NYALINYALI/BUGERO",
+                "NAKISENYI",
+                "NATWANA",
+                "WAKUKUUTA/BULAMBULA"
+              ]
+            },
+            {
+              "name": "BUGONZA",
+              "villages": [
+                "BUGODA",
+                "BUDANGHA/BULALA",
+                "BUHODI/NABIRERE",
+                "BUTINDA",
+                "KALUNGU",
+                "KASOZI/BUKONGOLE",
+                "KASULETA",
+                "NAKALANGA"
+              ]
+            },
+            {
+              "name": "NAMUKOGE",
+              "villages": [
+                "BUKIGIKI",
+                "IGULAMUBIRI A",
+                "IGULAMUBIRI B",
+                "NABINYONYI",
+                "NAKABALE",
+                "NAKYERE",
+                "NAMUKOOGE T/C",
+                "SIRIKA"
+              ]
+            },
+            {
+              "name": "NABIKOLI",
+              "villages": [
+                "BUHULULAIRE",
+                "BULYANKOKO",
+                "BULOGO",
+                "BUKULABWIRE",
+                "BUSOOBA",
+                "KAJANABULWAIRE A",
+                "KAJANABULWAIRE B",
+                "NAMAKANDA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NAMWIWA",
+          "parishes": [
+            {
+              "name": "NAMWIWA",
+              "villages": [
+                "BIRAALI",
+                "BUKAIRE",
+                "BUSAMBEKO A",
+                "BUSAMBEKO B",
+                "BUSEREKA",
+                "BUNSWEZYE",
+                "IZINGA",
+                "KIGANDA A",
+                "KIGANDA B",
+                "MUTENDERI",
+                "NAKWANGALA",
+                "NAMWIWA A",
+                "NAMWIWA B"
+              ]
+            },
+            {
+              "name": "SAAKA",
+              "villages": [
+                "BUGUGE",
+                "KIWA",
+                "KAVULE",
+                "KAKOSI A",
+                "KAKOSI B",
+                "KAKOSI C",
+                "SAAKA",
+                "NABUZZI",
+                "NAWANGOMA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BULAMOGI NORTH WEST",
+      "sub_counties": [
+        {
+          "name": "BUKAMBA",
+          "parishes": [
+            {
+              "name": "BUKAMBA",
+              "villages": [
+                "BEEDA",
+                "BUKAMBA",
+                "BUKAMBA B",
+                "BUKUNYA",
+                "BUKUNYA B",
+                "BUNNENE",
+                "BUVULUNGUTI",
+                "BUVULUNGUTI EAST",
+                "BUVULUNGUTI WEST",
+                "BUZAYA",
+                "BUZAYA B",
+                "KIBUYE A",
+                "KIBUYE B",
+                "KIBUYE C",
+                "KIBUYE D",
+                "KASULETA A",
+                "KASULETA B",
+                "NABUSIRA",
+                "NABUSIRA B",
+                "LWAMBA",
+                "NAKIBUNGULYA",
+                "NAKIBUNGULYA B"
+              ]
+            },
+            {
+              "name": "NANGALA",
+              "villages": [
+                "ISOOBA",
+                "KUUTO",
+                "KUUTO B",
+                "KISU",
+                "KISU B",
+                "KITENGA",
+                "KANAABI",
+                "KANAABI B",
+                "MUTUMIZI"
+              ]
+            },
+            {
+              "name": "NAWAMPITI",
+              "villages": [
+                "BUGALIMU",
+                "BUGOLYO",
+                "BUSEREKA",
+                "KABOLE",
+                "KISANGA",
+                "KUNYA",
+                "KISIRA",
+                "KAGWA",
+                "KYAKYAMPASA",
+                "LYADA",
+                "LUGONYOLA",
+                "NDOLI",
+                "WOIRA",
+                "SEMUTEWO",
+                "WALULALO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NANSOLOLO",
+          "parishes": [
+            {
+              "name": "BULUYA",
+              "villages": [
+                "BALISULEYO",
+                "BULUYA II",
+                "BULAWA",
+                "BUNANGWE",
+                "BUSENKE",
+                "BUSUSWA",
+                "IKONERO",
+                "ISOOBA MALE",
+                "KIHOLERE",
+                "KOSEYA KALUYA",
+                "KYALIZWANYUMA",
+                "NAIVULUNGUTI A",
+                "NAIVULUNGUTI B",
+                "MULI I",
+                "MULI I T/C",
+                "MULI II",
+                "PEREZI KASAJJA",
+                "NAKASWA",
+                "SAULO ITALO"
+              ]
+            },
+            {
+              "name": "NANSOLOLO",
+              "villages": [
+                "BUBWIIKA",
+                "BUDEEBA",
+                "BUKOMAHO",
+                "BUSANGO",
+                "BUWOLOGOMA",
+                "KIKOMERA",
+                "KINANGIRI",
+                "BWOYE",
+                "KAMANYA",
+                "MPITI",
+                "MBAGO/IBANDA",
+                "NANSOLOLO T/C",
+                "NANTAMALI TC",
+                "NZIRAKAYINDI A",
+                "NZIRAKAYINDI B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NAWAIKOKE",
+          "parishes": [
+            {
+              "name": "NAMAWA",
+              "villages": [
+                "BEEDA",
+                "BUHANGALA T/C",
+                "BUWANGALA",
+                "KITAMBOGO",
+                "KITAMBOGO B",
+                "KASOZI",
+                "KAFUNDIKIRE",
+                "KANANSYAIKYE A",
+                "KANANSYAIKYE B",
+                "NABULO",
+                "NALUBOMBOKA"
+              ]
+            },
+            {
+              "name": "NSAMULE",
+              "villages": [
+                "BUBBULI",
+                "BULUBA",
+                "BUKUBAITUBA",
+                "BUKUNYA",
+                "BUPENI",
+                "BUSULETA A",
+                "BUSULETA B",
+                "KAMANYA",
+                "KABUTANYA",
+                "KANAMUNYA",
+                "NABITENDE",
+                "MAHAMBA",
+                "LUNYENKE",
+                "MENYA",
+                "NEKEMIA MUWUMBA",
+                "YAIRO MAGINO",
+                "YOKOYASI"
+              ]
+            },
+            {
+              "name": "NAWAIKOKE",
+              "villages": [
+                "BUBINGA",
+                "BUGWABI",
+                "BUGWABI B",
+                "BUGYAKU",
+                "BUKULABONE",
+                "BUKUMBI",
+                "BUKUNYA",
+                "BUNKULEGA",
+                "BUSIHA",
+                "BUTANDOLA",
+                "BUTYANGA",
+                "KAJUBU",
+                "NABUUKU",
+                "MULASI",
+                "LUKUMI",
+                "NAMALEMBA",
+                "NAWAIKOKE",
+                "WALYABIRA",
+                "WAMUNSYONO"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

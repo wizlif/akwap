@@ -1,0 +1,921 @@
+{
+    "counties": [
+        {
+            "name": "ARUU",
+            "sub_counties": [
+                {
+                    "name": "AWERE",
+                    "parishes": [
+                        {
+                            "name": "ANGOLE",
+                            "villages": [
+                                "ALUNY",
+                                "ANGOLE LAROO",
+                                "ATEDE CENTRAL",
+                                "ATEDE EAST",
+                                "ATEDE WEST",
+                                "ATEDE WIGWENG",
+                                "LAMINA PUR",
+                                "LATEK EAST",
+                                "LATEK WEST",
+                                "LATIRA EAST",
+                                "LATIRA WEST",
+                                "LUTINI CENTRAL",
+                                "LUTINI EAST",
+                                "LUTINI WEST",
+                                "OBIC EAST",
+                                "OBIC WEST",
+                                "PAIKAT AGENGO",
+                                "PAIKAT AKIDI"
+                            ]
+                        },
+                        {
+                            "name": "BOLO",
+                            "villages": [
+                                "AGWENG",
+                                "AGWENG NORTH",
+                                "AGWENG WEST",
+                                "AYOM",
+                                "AYOM CENTRAL",
+                                "AYOM WEST",
+                                "GOT OLAL",
+                                "JUK LEBI CENTRAL",
+                                "JUK LEBI WEST",
+                                "LAMACH CENTRAL",
+                                "LAMACH NORTH",
+                                "LAMACH SOUTH",
+                                "LAMACH WEST",
+                                "LAMING",
+                                "LANGOLE",
+                                "LANGOLE B",
+                                "LAPETA EAST",
+                                "LAPETA WEST",
+                                "LAPETTA CENTRAL",
+                                "NYANYA",
+                                "OLAMKARA"
+                            ]
+                        },
+                        {
+                            "name": "LAGILE",
+                            "villages": [
+                                "AKOL-TOO",
+                                "BOLO DAGO",
+                                "BOLO DAM",
+                                "BOLO DAM WEST",
+                                "BOLO WIGWENG",
+                                "CANBENO",
+                                "CANBENO B",
+                                "GWENG LIK",
+                                "LALURUKU",
+                                "LAMINBACA",
+                                "LUKOR",
+                                "LUKWOR OJUU",
+                                "OBOLOKOME",
+                                "OLOKO TUM",
+                                "PARWECH LUKEE",
+                                "PARWECH LUKEE EAST",
+                                "WII KWEYO",
+                                "WIRAA"
+                            ]
+                        },
+                        {
+                            "name": "RACKOKO",
+                            "villages": [
+                                "ATUP",
+                                "BOLO OPETTE",
+                                "LALIYA LAROO",
+                                "LUNYIRI EAST",
+                                "LUNYIRI WEST",
+                                "RACKOKO A",
+                                "RACKOKO B",
+                                "TIKTIK"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OGOM",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ALUKA EAST",
+                                "ALUKA WEST",
+                                "BAR ODYEK",
+                                "COOROM EAST",
+                                "COOROM WEST",
+                                "DAGO DWONG",
+                                "LABAKA",
+                                "LAPINA BURU PUK",
+                                "PAGO"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "AMAT GIRA",
+                                "OGENG NORTH",
+                                "OWELE",
+                                "TE - LELA EAST",
+                                "TE-LELA WEST",
+                                "TELELA CENTRAL",
+                                "YITODUNY EAST",
+                                "YITODUNY WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "AGUM WII GWENG",
+                                "AMYEL",
+                                "ARINGO DYANG",
+                                "GANG BAR",
+                                "KEYO ROM",
+                                "LAPINA BAR DYANG",
+                                "LAPINA TEBUNG",
+                                "LOYO CAK",
+                                "MISCIRI",
+                                "NYONG",
+                                "OLAM CENTRAL",
+                                "TE-ADWOKI",
+                                "TOO KODO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PADER",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PADER TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PURANGA",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ARUU NORTH",
+            "sub_counties": [
+                {
+                    "name": "AWERE",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OGOM",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PADER",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PADER TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PURANGA",
+                    "parishes": [
+                        {
+                            "name": "KAL ANGORE",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OGOM",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OTONG",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PUKOR",
+                            "villages": [
+                                "ACANO CENTRAL",
+                                "ACANO EAST",
+                                "ACANO WEST",
+                                "GABADIN",
+                                "KITENY CENTRAL",
+                                "KITENY WEST",
+                                "LACINGA CENTRAL",
+                                "LACINGA NORTH",
+                                "LACINGA SOUTH",
+                                "LAPENY",
+                                "LUZIRA",
+                                "OTUMPILI CENTRAL",
+                                "OTUMPILI NORTH",
+                                "OTUMPILI SOUTH",
+                                "VIETNAM",
+                                "WI RAA EAST",
+                                "WIRAA WEST"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "PADER"
+}

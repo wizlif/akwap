@@ -1,0 +1,1097 @@
+{
+  "name": "KITGUM",
+  "id": 42,
+  "counties": [
+    {
+      "name": "CHUA EAST",
+      "id": 393,
+      "sub_counties": [
+        {
+          "name": "MUCHWINI",
+          "id": 467,
+          "parishes": [
+            {
+              "name": "AKARA",
+              "id": 223,
+              "villages": [
+                { "name": "BIDIN", "id": 6953 },
+                { "name": "JUBA", "id": 18123 },
+                { "name": "MOTA A", "id": 38977 },
+                { "name": "MOTA B", "id": 38978 },
+                { "name": "LACENOTINGA EAST", "id": 33535 },
+                { "name": "LACENOTINGA WEST", "id": 33536 },
+                { "name": "ORIMA A", "id": 50591 },
+                { "name": "ORIMA B", "id": 50592 },
+                { "name": "ORIMA CENTRAL", "id": 50593 },
+                { "name": "TWON OKUN", "id": 56911 },
+                { "name": "OMOKLURU", "id": 49811 }
+              ]
+            },
+            {
+              "name": "BURA",
+              "id": 1442,
+              "villages": [
+                { "name": "AGULA A", "id": 1668 },
+                { "name": "AGULA B", "id": 1669 },
+                { "name": "LAWOGOWOGO A", "id": 33975 },
+                { "name": "LAWOGOWOGO B", "id": 33976 },
+                { "name": "NGWENY EAST", "id": 44709 },
+                { "name": "NGWENY WEST", "id": 44710 },
+                { "name": "PANYUM A", "id": 51694 },
+                { "name": "PANYUM B", "id": 51695 },
+                { "name": "PANYUM CENTRAL", "id": 51696 },
+                { "name": "PUDURE", "id": 52124 },
+                { "name": "PUDURE A", "id": 52125 },
+                { "name": "PUDURE B", "id": 52126 }
+              ]
+            },
+            {
+              "name": "PUBECH",
+              "id": 6788,
+              "villages": [
+                { "name": "AGWENG", "id": 1848 },
+                { "name": "BUCE", "id": 7773 },
+                { "name": "KALALA", "id": 20825 },
+                { "name": "KALANG A", "id": 20867 },
+                { "name": "KALANG B", "id": 20868 },
+                { "name": "LINGALINGA A", "id": 34171 },
+                { "name": "LINGALINGA B", "id": 34172 },
+                { "name": "LOTUKUBOR", "id": 34869 },
+                { "name": "MULIKI", "id": 39751 },
+                { "name": "LAGOT CUGU", "id": 33592 },
+                { "name": "LARAKARAKA CENTRAL", "id": 33907 },
+                { "name": "PARYEKO TEL A", "id": 51766 },
+                { "name": "PARYEKO TEL B", "id": 51767 },
+                { "name": "PUBECH EAST", "id": 52109 },
+                { "name": "PUBECH EAST KELPOLO", "id": 52110 },
+                { "name": "OBELE", "id": 47801 }
+              ]
+            },
+            {
+              "name": "PUDO",
+              "id": 6790,
+              "villages": [
+                { "name": "GOLNGOM A", "id": 16755 },
+                { "name": "GOLNGOM B", "id": 16756 },
+                { "name": "KABETE", "id": 18798 },
+                { "name": "MUGILA", "id": 39338 },
+                { "name": "LAKWELE OKATO A", "id": 33680 },
+                { "name": "LAKWELE OKATO B", "id": 33681 },
+                { "name": "PANYOK", "id": 51691 },
+                { "name": "PUDO A", "id": 52119 },
+                { "name": "PUDO B", "id": 52120 },
+                { "name": "PUDO CENTRAL", "id": 52121 },
+                { "name": "PUDO KWEYO", "id": 52122 },
+                { "name": "TEPWOYO CENTRAL", "id": 56440 },
+                { "name": "TEPWOYO EAST", "id": 56441 },
+                { "name": "TEPWOYO WEST", "id": 56442 }
+              ]
+            },
+            {
+              "name": "YEPA",
+              "id": 7453,
+              "villages": [
+                { "name": "BOROBORO", "id": 7439 },
+                { "name": "KOMNURU", "id": 31005 },
+                { "name": "LONDON", "id": 34680 },
+                { "name": "LOYONYUKA", "id": 34917 },
+                { "name": "MUCWINI CENTRAL WARD", "id": 39248 },
+                { "name": "OWINY WARD", "id": 51132 },
+                { "name": "PADWONG", "id": 51365 },
+                { "name": "YEPA A", "id": 57930 },
+                { "name": "YEPA B", "id": 57931 },
+                { "name": "YEPA CENTRAL", "id": 57932 },
+                { "name": "YEPA WEST OWINY", "id": 57933 },
+                { "name": "OBIA WARD", "id": 47836 }
+              ]
+            },
+            {
+              "name": "OGWAPOKE",
+              "id": 6296,
+              "villages": [
+                { "name": "IKOROM", "id": 17548 },
+                { "name": "LIKOL A", "id": 34140 },
+                { "name": "LIKOL B", "id": 34141 },
+                { "name": "LIKOL CENTRAL", "id": 34142 },
+                { "name": "PEDERYAM A", "id": 51889 },
+                { "name": "PEDERYAM B", "id": 51890 },
+                { "name": "PUKURE", "id": 52146 },
+                { "name": "OMUNA A", "id": 49993 },
+                { "name": "OMUNA B", "id": 49994 },
+                { "name": "ORUMA", "id": 50696 }
+              ]
+            },
+            {
+              "name": "OKOL",
+              "id": 6337,
+              "villages": [
+                { "name": "ARAA", "id": 4790 },
+                { "name": "AYOMOLOLA A", "id": 6077 },
+                { "name": "AYOMOLOLA B", "id": 6078 },
+                { "name": "BIWANG EAST", "id": 7302 },
+                { "name": "BIWANG WEST", "id": 7305 },
+                { "name": "KITIBOL", "id": 29906 },
+                { "name": "PAMA BONE", "id": 51591 },
+                { "name": "POCODO", "id": 51983 }
+              ]
+            },
+            {
+              "name": "PACHUA",
+              "id": 6613,
+              "villages": [
+                { "name": "AMATKIMEYA", "id": 3528 },
+                { "name": "BUR LELA", "id": 11928 },
+                { "name": "ICEGO TYENA", "id": 17320 },
+                { "name": "PAKUBA CENTRAL", "id": 51518 },
+                { "name": "PAKUBA EAST", "id": 51519 },
+                { "name": "PAKUBA WEST", "id": 51520 },
+                { "name": "PALWE", "id": 51585 }
+              ]
+            },
+            {
+              "name": "PAJONG",
+              "id": 6648,
+              "villages": [
+                { "name": "AGWOKO", "id": 1895 },
+                { "name": "ACUT OMER", "id": 956 },
+                { "name": "GULIT", "id": 16929 },
+                { "name": "LATOL", "id": 33946 },
+                { "name": "LOGOT BURLELA", "id": 34368 },
+                { "name": "MOYA", "id": 38988 },
+                { "name": "LUBATIOLWONGA B", "id": 34969 },
+                { "name": "LUBIRI", "id": 35003 },
+                { "name": "LURWO", "id": 35548 },
+                { "name": "LABATIOLWONGA A", "id": 33447 },
+                { "name": "LAGOT A", "id": 33589 },
+                { "name": "LAGOT B", "id": 33591 },
+                { "name": "PAJONG A", "id": 51457 },
+                { "name": "PAJONG B", "id": 51458 },
+                { "name": "PAJONG C", "id": 51459 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NAM-OKORA",
+          "id": 468,
+          "parishes": [
+            {
+              "name": "KALABONG",
+              "id": 2655,
+              "villages": [
+                { "name": "GILIGILI", "id": 16649 },
+                { "name": "GILIGILI KAL", "id": 16651 },
+                { "name": "KALABONG CENTRAL", "id": 20753 },
+                { "name": "KALABONG EAST", "id": 20754 },
+                { "name": "KALABONG WEST", "id": 20755 },
+                { "name": "MASESE", "id": 37540 },
+                { "name": "PALOBOLU", "id": 51572 },
+                { "name": "PAWINY", "id": 51846 },
+                { "name": "WINYO RAC", "id": 57800 },
+                { "name": "OBUTU CEL", "id": 48019 },
+                { "name": "OGUL", "id": 48635 }
+              ]
+            },
+            {
+              "name": "PUGODA EAST",
+              "id": 6791,
+              "villages": [
+                { "name": "AGOTAGOT", "id": 1654 },
+                { "name": "BARJERE", "id": 6602 },
+                { "name": "GUDA", "id": 16911 },
+                { "name": "DYE BUNGA", "id": 15849 },
+                { "name": "MASAKA", "id": 37486 },
+                { "name": "ORABUL", "id": 50514 },
+                { "name": "ORYEBO", "id": 50765 },
+                { "name": "ROSIL", "id": 52432 },
+                { "name": "TUMANGU", "id": 56845 },
+                { "name": "ODILANG", "id": 48258 }
+              ]
+            },
+            {
+              "name": "PUGODA WEST",
+              "id": 6792,
+              "villages": [
+                { "name": "BOROBORO", "id": 7438 },
+                { "name": "JAIPII", "id": 17996 },
+                { "name": "NYAPEA A", "id": 47276 },
+                { "name": "NYAPEA B", "id": 47277 },
+                { "name": "LAYIKA", "id": 33990 },
+                { "name": "LOGURUC", "id": 34377 },
+                { "name": "MULOZI", "id": 39782 },
+                { "name": "LAPANA", "id": 33862 },
+                { "name": "PUNU AKURU", "id": 52166 },
+                { "name": "RAPAI", "id": 52285 },
+                { "name": "ORYANG", "id": 50753 },
+                { "name": "ORYANG CENTRAL", "id": 50755 },
+                { "name": "ORYANG WEST", "id": 50763 }
+              ]
+            },
+            {
+              "name": "PAGWOK",
+              "id": 6633,
+              "villages": [
+                { "name": "ABWOBE", "id": 574 },
+                { "name": "ALIMA LAGOT", "id": 3114 },
+                { "name": "GWOLO", "id": 17047 },
+                { "name": "KWEYO", "id": 31490 },
+                { "name": "DOG DEM A", "id": 15654 },
+                { "name": "DOG TANGI", "id": 15670 },
+                { "name": "DOGDEM B", "id": 15675 },
+                { "name": "KITELENG", "id": 29761 },
+                { "name": "KAOLO", "id": 22405 },
+                { "name": "KAKO", "id": 20450 },
+                { "name": "KAKO CENTRAL", "id": 20452 },
+                { "name": "LOGUM DOG TANGI", "id": 34374 },
+                { "name": "LADWOGI", "id": 33566 },
+                { "name": "LAGOT GWOLO", "id": 33593 },
+                { "name": "LAGUM A", "id": 33600 },
+                { "name": "LAGUM B", "id": 33601 },
+                { "name": "LAKOGA", "id": 33665 },
+                { "name": "LAKOKOK", "id": 33667 },
+                { "name": "NGORA", "id": 44651 },
+                { "name": "PALOMUTE", "id": 51575 },
+                { "name": "ONYALA", "id": 50269 },
+                { "name": "ONYALA CENTRAL", "id": 50270 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OMIYA-ANYIMA",
+          "id": 471,
+          "parishes": [
+            {
+              "name": "AKOBI",
+              "id": 246,
+              "villages": [
+                { "name": "ACALAWAI FOREST", "id": 619 },
+                { "name": "ACALAWAYI", "id": 620 },
+                { "name": "ABAKA DYEL", "id": 27 },
+                { "name": "ABAKA DYEL WEST", "id": 28 },
+                { "name": "AELI", "id": 1448 },
+                { "name": "AKOBI KENYA CENTRAL", "id": 2450 },
+                { "name": "AKOBI OLWOC", "id": 2451 },
+                { "name": "AKOBI-KENYA EAST", "id": 2452 },
+                { "name": "AKOBI-KENYA WEST", "id": 2453 },
+                { "name": "ALAMATU", "id": 2821 },
+                { "name": "BARDYANG", "id": 6568 },
+                { "name": "BARDYANG CENTRAL", "id": 6570 },
+                { "name": "BARDYANG TECWA", "id": 6571 },
+                { "name": "GWOKNGWEE EAST", "id": 17043 },
+                { "name": "GWOKNGWEE WEST", "id": 17044 },
+                { "name": "GWOKONGWE CENTRAL", "id": 17046 },
+                { "name": "KANYUMA", "id": 22378 },
+                { "name": "LELA PUNGOR", "id": 34049 },
+                { "name": "LODWAR CENTRAL", "id": 34344 },
+                { "name": "LODWAR JAI PII", "id": 34346 },
+                { "name": "LAGAMPIR", "id": 33578 },
+                { "name": "NGOMLAC", "id": 44628 },
+                { "name": "PEDERYAM", "id": 51888 },
+                { "name": "TE ODONG", "id": 56152 },
+                { "name": "TE-GWENG", "id": 56181 },
+                { "name": "TE-GWIRI EAST", "id": 56185 },
+                { "name": "TE-OBOKE", "id": 56205 },
+                { "name": "WANG LANGO", "id": 57457 },
+                { "name": "TEGWIRI", "id": 56315 }
+              ]
+            },
+            {
+              "name": "PALAMENY",
+              "id": 6668,
+              "villages": [
+                { "name": "ABONGOLEE", "id": 414 },
+                { "name": "ALYEKA", "id": 3455 },
+                { "name": "AWINY KI LEE", "id": 5798 },
+                { "name": "LABAKARA", "id": 33442 },
+                { "name": "LABAL WII", "id": 33443 },
+                { "name": "LWALA", "id": 35923 },
+                { "name": "PALAMENY CENTRAL", "id": 51543 },
+                { "name": "PALAMENY WEST", "id": 51544 },
+                { "name": "ORABONYO", "id": 50512 },
+                { "name": "ORABONYO CENTRAL", "id": 50513 },
+                { "name": "OBOLOKOME", "id": 47915 },
+                { "name": "OBWORE WEST", "id": 48038 }
+              ]
+            },
+            {
+              "name": "PALWO",
+              "id": 6679,
+              "villages": [
+                { "name": "ACUT OMER", "id": 957 },
+                { "name": "APOT-ALOR", "id": 4684 },
+                { "name": "APOTA ALOR SOUTH", "id": 4685 },
+                { "name": "KAGAK", "id": 19595 },
+                { "name": "MOTA CENTRAL", "id": 38979 },
+                { "name": "MOTA FOREST", "id": 38980 },
+                { "name": "LABONGO OGURU", "id": 33472 },
+                { "name": "LACANBIL", "id": 33516 },
+                { "name": "LARAKA", "id": 33906 },
+                { "name": "WINY CIK", "id": 57793 },
+                { "name": "OBWORE CENTRAL", "id": 48036 },
+                { "name": "OBWORE EAST", "id": 48037 }
+              ]
+            },
+            {
+              "name": "PANYUM MELONG",
+              "id": 6713,
+              "villages": [
+                { "name": "AJUKU MANYIGE WEST", "id": 2122 },
+                { "name": "BALANGO CENTRAL", "id": 6229 },
+                { "name": "BALANGOR KWEYO", "id": 6230 },
+                { "name": "BALANGOR TEGOT", "id": 6231 },
+                { "name": "BARA-TOYO", "id": 6512 },
+                { "name": "JOLLO", "id": 18109 },
+                { "name": "JOLO B", "id": 18110 },
+                { "name": "KWEYO", "id": 31492 },
+                { "name": "COO PELWO", "id": 15352 },
+                { "name": "KUMELE KASESE", "id": 31361 },
+                { "name": "KUMELE WICERE", "id": 31362 },
+                { "name": "KATOPLAK", "id": 24676 },
+                { "name": "KATOPLAK B", "id": 24677 },
+                { "name": "KALELE", "id": 20923 },
+                { "name": "KALELE CENTRAL", "id": 20924 },
+                { "name": "KAGON", "id": 19785 },
+                { "name": "MANYNGEYI", "id": 37309 },
+                { "name": "MANYNGEYI CENTRAL", "id": 37310 },
+                { "name": "LABWOROMOR", "id": 33504 },
+                { "name": "LACAN BIL", "id": 33509 },
+                { "name": "LANGO OYENG", "id": 33828 },
+                { "name": "LANGOLA NGOLA", "id": 33833 },
+                { "name": "LANYAP", "id": 33846 },
+                { "name": "OGILI", "id": 48553 },
+                { "name": "TE YAA", "id": 56159 },
+                { "name": "TE-GWENG", "id": 56184 },
+                { "name": "TE-OKIRO", "id": 56212 }
+              ]
+            },
+            {
+              "name": "PANYUM PELA",
+              "id": 6714,
+              "villages": [
+                { "name": "AMOYOKOL", "id": 3811 },
+                { "name": "AMOYOKOL CENTRAL", "id": 3812 },
+                { "name": "AYWEE", "id": 6109 },
+                { "name": "ATO-CON", "id": 5426 },
+                { "name": "BONGO LAYIK", "id": 7413 },
+                { "name": "BONGOLAYIK EAST", "id": 7416 },
+                { "name": "GURUGURU", "id": 16976 },
+                { "name": "KWEYO", "id": 31493 },
+                { "name": "DIC-PEE", "id": 15585 },
+                { "name": "DYANGBII", "id": 15842 },
+                { "name": "CENTRAL", "id": 14851 },
+                { "name": "KALAKI", "id": 20823 },
+                { "name": "KALWENY", "id": 21149 },
+                { "name": "LATURUTURU", "id": 33951 },
+                { "name": "LATUTURU EAST", "id": 33952 },
+                { "name": "LYELO KWAR", "id": 36300 },
+                { "name": "LOKAOLET", "id": 34424 },
+                { "name": "LOYO ATERA", "id": 34910 },
+                { "name": "LAMODYAK", "id": 33797 },
+                { "name": "NGOM LAC", "id": 44597 },
+                { "name": "PELLA CENTRAL", "id": 51902 },
+                { "name": "PELLA PUYUDA", "id": 51903 },
+                { "name": "PUR BER", "id": 52181 },
+                { "name": "PUYUDA EAST", "id": 52201 },
+                { "name": "WICERE", "id": 57693 },
+                { "name": "OBALO GUNGU", "id": 47718 },
+                { "name": "VITNAM", "id": 57107 },
+                { "name": "ODONG LOR EAST", "id": 48332 },
+                { "name": "ODONGLOR", "id": 48344 },
+                { "name": "OLELLA", "id": 49332 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OROM",
+          "id": 469,
+          "parishes": [
+            {
+              "name": "AKURUMO",
+              "id": 269,
+              "villages": [
+                { "name": "LOBALE", "id": 34221 },
+                { "name": "LOCHUM", "id": 34308 },
+                { "name": "LOCOMO CENTRAL", "id": 34321 },
+                { "name": "LODWAR", "id": 34343 },
+                { "name": "NABOLO", "id": 40885 },
+                { "name": "NAGOLO PAK", "id": 41217 },
+                { "name": "LOLUNG", "id": 34600 },
+                { "name": "LOPERU", "id": 34757 },
+                { "name": "NARUNGA TUNY", "id": 43784 },
+                { "name": "ZAIRE", "id": 58018 }
+              ]
+            },
+            {
+              "name": "KATWOTWO",
+              "id": 3257,
+              "villages": [
+                { "name": "ANGAN", "id": 4035 },
+                { "name": "BILAYOLO", "id": 7097 },
+                { "name": "LATODORE", "id": 33945 },
+                { "name": "LOBIRI", "id": 34236 },
+                { "name": "MOROCOLONG", "id": 38830 },
+                { "name": "LOKONGU", "id": 34519 },
+                { "name": "LOLUKO", "id": 34599 },
+                { "name": "MORULEM", "id": 38932 },
+                { "name": "LOMULE", "id": 34655 },
+                { "name": "RACKOKO", "id": 52225 },
+                { "name": "TULTUL CENTRAL", "id": 56808 },
+                { "name": "TULTUL NORTH", "id": 56809 },
+                { "name": "OLAYA", "id": 49285 }
+              ]
+            },
+            {
+              "name": "LOLIA",
+              "id": 4518,
+              "villages": [
+                { "name": "ABIL NINO", "id": 223 },
+                { "name": "JUBA", "id": 18128 },
+                { "name": "JUBA CENTRAL", "id": 18133 },
+                { "name": "KONA", "id": 31052 },
+                { "name": "DODOMA", "id": 15637 },
+                { "name": "CAMGWENG", "id": 14728 },
+                { "name": "CAMGWENG WEST", "id": 14729 },
+                { "name": "LENGA CENTRAL", "id": 34074 },
+                { "name": "LOKIPAWA", "id": 34467 },
+                { "name": "LADITOYWEE", "id": 33558 },
+                { "name": "LAGWOK OMER", "id": 33619 },
+                { "name": "LAPEITAK", "id": 33868 },
+                { "name": "LAPENE", "id": 33871 },
+                { "name": "NGARIYAK", "id": 44528 },
+                { "name": "RUKUK", "id": 52982 },
+                { "name": "RINGILIL", "id": 52363 },
+                { "name": "TEMPOLO", "id": 56387 },
+                { "name": "WANG KENYA", "id": 57455 }
+              ]
+            },
+            {
+              "name": "LOLWA",
+              "id": 4519,
+              "villages": [
+                { "name": "AGORA", "id": 1626 },
+                { "name": "AGOROMIN", "id": 1648 },
+                { "name": "AGOROMIN CITY", "id": 1649 },
+                { "name": "BALE", "id": 6235 },
+                { "name": "ISAREAL", "id": 17775 },
+                { "name": "CEYLON", "id": 14909 },
+                { "name": "CEYLON WEST", "id": 14910 },
+                { "name": "KAMANDING", "id": 21257 },
+                { "name": "LOGEREMA", "id": 34354 },
+                { "name": "MADI OPEI", "id": 36527 },
+                { "name": "LONGANYURA CENTRAL", "id": 34683 },
+                { "name": "LONGANYURA EAST", "id": 34684 },
+                { "name": "LOT-LOKOYO", "id": 34839 },
+                { "name": "MULEMBE", "id": 39740 },
+                { "name": "LABWOROMOR", "id": 33501 },
+                { "name": "LABWOROMOR WEST", "id": 33506 },
+                { "name": "LAGWELIMA", "id": 33616 },
+                { "name": "LAMINGONEN", "id": 33771 },
+                { "name": "WIPOLO", "id": 57809 },
+                { "name": "OJORONGOLE", "id": 48802 },
+                { "name": "OMORU", "id": 49863 }
+              ]
+            },
+            {
+              "name": "KITENY",
+              "id": 3911,
+              "villages": [
+                { "name": "AKUNA", "id": 2606 },
+                { "name": "AJULU", "id": 2126 },
+                { "name": "ALWONGO CHUA", "id": 3422 },
+                { "name": "APIMOTUR", "id": 4614 },
+                { "name": "AWINYO", "id": 5807 },
+                { "name": "BONGO PII EAST", "id": 7414 },
+                { "name": "BONGOPII WEST", "id": 7419 },
+                { "name": "GOONA", "id": 16828 },
+                { "name": "GOONA NORTH", "id": 16829 },
+                { "name": "KABOKOTUM A", "id": 18943 },
+                { "name": "KABOKOTUM B", "id": 18944 },
+                { "name": "KONA ABIM", "id": 31053 },
+                { "name": "RYAMAKILOK", "id": 54747 },
+                { "name": "KAMONI", "id": 21418 },
+                { "name": "LACEKOCOT", "id": 33528 },
+                { "name": "LACEKOCOT B", "id": 33529 },
+                { "name": "LADOTONEN CENTRAL", "id": 33560 },
+                { "name": "LADOTONEN EAST", "id": 33561 },
+                { "name": "LADOTONEN WEST", "id": 33562 },
+                { "name": "LADOTONONEN CITY", "id": 33563 },
+                { "name": "LAKONGERA", "id": 33669 },
+                { "name": "LALEKAN CENTRAL", "id": 33704 },
+                { "name": "LALEKAN EAST", "id": 33705 },
+                { "name": "LAMOGI", "id": 33799 },
+                { "name": "PALOBAR A", "id": 51570 },
+                { "name": "PALOBAR B", "id": 51571 },
+                { "name": "PALOWALA", "id": 51580 },
+                { "name": "OTOME", "id": 50944 },
+                { "name": "OBEM", "id": 47806 },
+                { "name": "TEGOT KALABONG", "id": 56298 },
+                { "name": "TELATYENG", "id": 56348 }
+              ]
+            },
+            {
+              "name": "OKUTI",
+              "id": 6354,
+              "villages": [
+                { "name": "AKILOK CENTRAL", "id": 2396 },
+                { "name": "AKILOK NORTH", "id": 2397 },
+                { "name": "AKILOK SOUTH", "id": 2398 },
+                { "name": "DALA", "id": 15466 },
+                { "name": "KOLOPIRE", "id": 30980 },
+                { "name": "NYAPEYA", "id": 47280 },
+                { "name": "KACELEM", "id": 19309 },
+                { "name": "LAWEL", "id": 33967 },
+                { "name": "LOCOM", "id": 34320 },
+                { "name": "LOKIBARAC", "id": 34452 },
+                { "name": "LOKOM", "id": 34515 },
+                { "name": "LUJIRA", "id": 35213 },
+                { "name": "LAKORE", "id": 33670 },
+                { "name": "PUDPUD", "id": 52123 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "CHUA WEST",
+      "id": 394,
+      "sub_counties": [
+        {
+          "name": "AKWANG",
+          "id": 480,
+          "parishes": [
+            {
+              "name": "LUGWAR",
+              "id": 4603,
+              "villages": [
+                { "name": "AKADO", "id": 2177 },
+                { "name": "GOKO", "id": 16748 },
+                { "name": "MWOLBUNE", "id": 40568 },
+                { "name": "LUBENE EAST", "id": 34981 },
+                { "name": "LUBENE WEST", "id": 34982 },
+                { "name": "ORYANG OGOM", "id": 50757 }
+              ]
+            },
+            {
+              "name": "MURA",
+              "id": 5184,
+              "villages": [
+                { "name": "LUGWAR CENTRAL", "id": 35201 },
+                { "name": "MIDLAND", "id": 38309 },
+                { "name": "PALI", "id": 51560 },
+                { "name": "OKWICI EAST", "id": 49190 },
+                { "name": "OKWICI WEST", "id": 49191 },
+                { "name": "OGET", "id": 48545 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KITGUM MATIDI",
+          "id": 466,
+          "parishes": [
+            {
+              "name": "IBAKARA",
+              "id": 2147,
+              "villages": [
+                { "name": "BOBI A", "id": 7342 },
+                { "name": "BOBI B", "id": 7343 },
+                { "name": "BOBI CENTRAL", "id": 7344 },
+                { "name": "BOBI EAST", "id": 7345 },
+                { "name": "PAGWA AWERE", "id": 51397 },
+                { "name": "PAGWA CENTRAL", "id": 51398 },
+                { "name": "PAGWA DOGNAM", "id": 51399 },
+                { "name": "PAGWA LAYAMO", "id": 51400 },
+                { "name": "PAGWA SAMBA", "id": 51401 },
+                { "name": "PAKUMU A", "id": 51522 },
+                { "name": "PAKUMU JANGYAT", "id": 51523 },
+                { "name": "PAKUMU KAMDINI", "id": 51524 },
+                { "name": "PAKUMU OLUK", "id": 51525 },
+                { "name": "PARWECH ALANGO", "id": 51759 },
+                { "name": "PARWECH LOJUL", "id": 51760 },
+                { "name": "PARWECH LUMAK", "id": 51763 },
+                { "name": "PARWECH TEGWENG", "id": 51764 },
+                { "name": "OLOKAYWERI", "id": 49482 }
+              ]
+            },
+            {
+              "name": "LUMULE",
+              "id": 4630,
+              "villages": [
+                { "name": "ADAK", "id": 1086 },
+                { "name": "BOLKOL", "id": 7370 },
+                { "name": "BOLKOL CENTRAL", "id": 7371 },
+                { "name": "GORE", "id": 16834 },
+                { "name": "LACAN-ONYONG", "id": 33515 },
+                { "name": "LUWALOGUR", "id": 35756 },
+                { "name": "LALWORO-ONEN", "id": 33728 },
+                { "name": "LANYAMBIRA", "id": 33845 },
+                { "name": "NAZERERTH", "id": 44161 },
+                { "name": "ONYAA CENTRAL", "id": 50257 },
+                { "name": "TONGROM", "id": 56637 },
+                { "name": "OKWONGOBONE", "id": 49209 },
+                { "name": "OLAMBYERA", "id": 49254 },
+                { "name": "OMARODWEE", "id": 49660 },
+                { "name": "WANGOLAM", "id": 57503 }
+              ]
+            },
+            {
+              "name": "ORYANGA B",
+              "id": 6546,
+              "villages": [
+                { "name": "ACUT OMER", "id": 955 },
+                { "name": "AMAKO RYEK", "id": 3496 },
+                { "name": "LABIGIRYAM", "id": 33452 },
+                { "name": "LABONGO DONYO SOUTH", "id": 33470 },
+                { "name": "LABONGO-ODONYO CENTRAL", "id": 33474 },
+                { "name": "LABONGO-ODONYO NORTH", "id": 33475 },
+                { "name": "LANGII", "id": 33821 },
+                { "name": "PUNOCOL", "id": 52165 },
+                { "name": "PUTUKE EAST", "id": 52191 },
+                { "name": "PUTUKE WEST", "id": 52192 },
+                { "name": "OGOO WINYO", "id": 48605 }
+              ]
+            },
+            {
+              "name": "PAIBONY",
+              "id": 6635,
+              "villages": [
+                { "name": "APUTUBERE", "id": 4753 },
+                { "name": "APUTUBERE A", "id": 4754 },
+                { "name": "APUTUBERE B", "id": 4755 },
+                { "name": "JERUSALEM", "id": 18049 },
+                { "name": "DOGNAM", "id": 15678 },
+                { "name": "DOGTUNY", "id": 15682 },
+                { "name": "MAKTUNU", "id": 36998 },
+                { "name": "MULAGO A", "id": 39701 },
+                { "name": "MULAGO B", "id": 39702 },
+                { "name": "MUNUOTAM", "id": 39889 },
+                { "name": "LAKWERAJOK", "id": 33683 },
+                { "name": "LAPANA A", "id": 33863 },
+                { "name": "LAPANA B", "id": 33864 },
+                { "name": "ORAKWE", "id": 50518 },
+                { "name": "OBYEN CENTRAL", "id": 48043 },
+                { "name": "OBYEN EAST", "id": 48044 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LABONGO-AMIDA",
+          "id": 464,
+          "parishes": [
+            {
+              "name": "AKWORO",
+              "id": 277,
+              "villages": [
+                { "name": "AKWORO TECWA NORTH", "id": 2753 },
+                { "name": "AKWORO TECWA SOUTH", "id": 2754 },
+                { "name": "AROMO RWOT", "id": 5015 },
+                { "name": "GANGLELA", "id": 16363 },
+                { "name": "MANWOKO NORTH", "id": 37290 },
+                { "name": "MANWOKO SOUTH", "id": 37291 },
+                { "name": "OYURU", "id": 51253 }
+              ]
+            },
+            {
+              "name": "KOCH",
+              "id": 4059,
+              "villages": [
+                { "name": "ALERO", "id": 3015 },
+                { "name": "OCUBU LATARA", "id": 48174 },
+                { "name": "TAIOCOT", "id": 56025 },
+                { "name": "WAO CENTRAL", "id": 57576 },
+                { "name": "WAOBINEN", "id": 57577 }
+              ]
+            },
+            {
+              "name": "OKIDI",
+              "id": 6326,
+              "villages": [
+                { "name": "AWERE", "id": 5730 },
+                { "name": "DYEORYANG", "id": 15850 },
+                { "name": "KAMPALA", "id": 21449 },
+                { "name": "KAMPALA ANYUKA", "id": 21452 },
+                { "name": "LAGWAL", "id": 33610 },
+                { "name": "LALILIBI", "id": 33709 },
+                { "name": "LARABA", "id": 33903 },
+                { "name": "OKIDI CENTRAL", "id": 48960 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LABONGO-LAYAMO",
+          "id": 481,
+          "parishes": [
+            {
+              "name": "PAMOLO",
+              "id": 6692,
+              "villages": [
+                { "name": "ATURA", "id": 5492 },
+                { "name": "PAMOLO CENTRAL", "id": 51623 },
+                { "name": "OBEM CENTRAL", "id": 47807 },
+                { "name": "OBEM EAST", "id": 47808 },
+                { "name": "OBEM NORTH", "id": 47809 },
+                { "name": "OLET", "id": 49372 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LAGORO",
+          "id": 470,
+          "parishes": [
+            {
+              "name": "LABER",
+              "id": 4387,
+              "villages": [
+                { "name": "AKECAH B", "id": 2341 },
+                { "name": "AKECHA A", "id": 2343 },
+                { "name": "ALERO", "id": 3016 },
+                { "name": "APECHA", "id": 4543 },
+                { "name": "ATEM", "id": 5315 },
+                { "name": "BOLO", "id": 7373 },
+                { "name": "BULUZI", "id": 10430 },
+                { "name": "BULOBO", "id": 10226 },
+                { "name": "KIWER", "id": 30452 },
+                { "name": "DAGO PANY", "id": 15458 },
+                { "name": "CENTRAL", "id": 14841 },
+                { "name": "LABORA", "id": 33478 },
+                { "name": "LAJORO", "id": 33638 },
+                { "name": "LAMOGI", "id": 33800 },
+                { "name": "LANYIKOR", "id": 33854 },
+                { "name": "OYIKA-TEKIKWA", "id": 51218 },
+                { "name": "NAM-OYIKA", "id": 42247 },
+                { "name": "PACO", "id": 51316 },
+                { "name": "RAA-OKUM", "id": 52213 },
+                { "name": "WIGWENG", "id": 57722 },
+                { "name": "VIETNAM", "id": 57056 }
+              ]
+            },
+            {
+              "name": "LAKWOR",
+              "id": 4408,
+              "villages": [
+                { "name": "ADAK", "id": 1084 },
+                { "name": "ADINGA A", "id": 1193 },
+                { "name": "ADINGA B", "id": 1194 },
+                { "name": "AKAYOLITWAC", "id": 2337 },
+                { "name": "ALYEMO", "id": 3460 },
+                { "name": "BALAKWA", "id": 6226 },
+                { "name": "IKOR", "id": 17546 },
+                { "name": "JAMAIKA A", "id": 18011 },
+                { "name": "JAMIKA B", "id": 18021 },
+                { "name": "DAGOPANY", "id": 15459 },
+                { "name": "DANYA", "id": 15490 },
+                { "name": "LAKWOR CENTRAL A", "id": 33684 },
+                { "name": "LAKWOR CENTRAL B", "id": 33685 },
+                { "name": "LALOO EAST", "id": 33714 },
+                { "name": "LALOO WEST", "id": 33715 },
+                { "name": "LALOR", "id": 33716 },
+                { "name": "RUCURUCU", "id": 52581 },
+                { "name": "POKA LOK TEK", "id": 52000 },
+                { "name": "OGUL WEST", "id": 48640 },
+                { "name": "WANGKWORO", "id": 57491 }
+              ]
+            },
+            {
+              "name": "PAWIDI",
+              "id": 6747,
+              "villages": [
+                { "name": "AKUNA", "id": 2607 },
+                { "name": "AKUNA CENTRAL", "id": 2608 },
+                { "name": "ALEL CENTRAL", "id": 2913 },
+                { "name": "ALEL EAST", "id": 2914 },
+                { "name": "ALEL WEST", "id": 2915 },
+                { "name": "ALEL WEST B", "id": 2916 },
+                { "name": "AJUMANI", "id": 2127 },
+                { "name": "GULU GWEN", "id": 16942 },
+                { "name": "DOG ORA", "id": 15667 },
+                { "name": "LABILO A", "id": 33454 },
+                { "name": "LABILO B", "id": 33455 },
+                { "name": "LABILO CENTRAL", "id": 33456 },
+                { "name": "LADUR", "id": 33564 },
+                { "name": "LAGAMPI A", "id": 33576 },
+                { "name": "LAGAMPI B", "id": 33577 },
+                { "name": "LAGAMPIR", "id": 33579 },
+                { "name": "LAJANGA", "id": 33627 },
+                { "name": "LAJANGA WEST", "id": 33628 },
+                { "name": "LANYATONO", "id": 33850 },
+                { "name": "LATANG", "id": 33924 },
+                { "name": "ORUA A", "id": 50659 },
+                { "name": "ORUA B", "id": 50660 },
+                { "name": "OGUDA", "id": 48626 },
+                { "name": "OGUDA EAST", "id": 48627 },
+                { "name": "OGUDA WEST", "id": 48628 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KITGUM MUNICIPALITY",
+      "id": 439,
+      "sub_counties": [
+        {
+          "name": "CENTRAL DIVISION",
+          "id": 1521,
+          "parishes": [
+            {
+              "name": "TOWN WARD",
+              "id": 7288,
+              "villages": [
+                { "name": "APOLO GROUND", "id": 4662 },
+                { "name": "CENTRAL", "id": 14853 },
+                { "name": "LANGA LANGA", "id": 33815 }
+              ]
+            },
+            {
+              "name": "WEST LAND WARD A",
+              "id": 7414,
+              "villages": [
+                { "name": "1ST JENGE", "id": 3 },
+                { "name": "ACUT OMER A", "id": 960 },
+                { "name": "LUWALINGA", "id": 35755 },
+                { "name": "LAMDOGI", "id": 33746 }
+              ]
+            },
+            {
+              "name": "WEST LAND WARD B",
+              "id": 7415,
+              "villages": [
+                { "name": "2ND JENGE", "id": 4 },
+                { "name": "AFRICAN VILLAGE", "id": 1465 },
+                { "name": "KONY PACO", "id": 31111 },
+                { "name": "WEST VILLAGE", "id": 57664 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PAGER DIVISION",
+          "id": 1484,
+          "parishes": [
+            {
+              "name": "LAMIT",
+              "id": 4416,
+              "villages": [
+                { "name": "ADYEE", "id": 1424 },
+                { "name": "BAJERE", "id": 6186 },
+                { "name": "BAJERE EAST", "id": 6189 },
+                { "name": "BAJERE SOUTH", "id": 6190 },
+                { "name": "BONGO-LAKUR", "id": 7415 },
+                { "name": "DERO-OMEDA", "id": 15577 },
+                { "name": "LOKORO-ORWE", "id": 34537 },
+                { "name": "LABWOROMOR", "id": 33500 },
+                { "name": "LAMIT LIBA", "id": 33792 },
+                { "name": "PEM", "id": 51905 },
+                { "name": "TUMANGU", "id": 56844 },
+                { "name": "VIETNAM", "id": 57058 },
+                { "name": "TAD LAGWE", "id": 56018 }
+              ]
+            },
+            {
+              "name": "PONGDWONGO WARD",
+              "id": 6778,
+              "villages": [
+                { "name": "NYANYA", "id": 47254 },
+                { "name": "LEMOBONGOLEWIC EAST", "id": 34068 },
+                { "name": "LEMOBONGOLEWIC SOUTH", "id": 34069 },
+                { "name": "LEMOBONGOLEWIC WEST", "id": 34070 },
+                { "name": "LATITI", "id": 33943 },
+                { "name": "NYIKI-NYIKI", "id": 47596 }
+              ]
+            },
+            {
+              "name": "OCETOKE",
+              "id": 6240,
+              "villages": [
+                { "name": "LAMUGU", "id": 33806 },
+                { "name": "TUMA ATOO", "id": 56838 },
+                { "name": "OCETOKE CENTRAL", "id": 48105 },
+                { "name": "OCETOKE EAST", "id": 48106 },
+                { "name": "OCETOKE NORTH", "id": 48107 },
+                { "name": "OCETOKE WEST", "id": 48108 }
+              ]
+            },
+            {
+              "name": "PAGEN",
+              "id": 6626,
+              "villages": [
+                { "name": "GWENG AJUT", "id": 17017 },
+                { "name": "LELAMU", "id": 34057 },
+                { "name": "LALWAL", "id": 33723 },
+                { "name": "PAGEN CENTRAL", "id": 51383 },
+                { "name": "PAGEN EAST", "id": 51384 },
+                { "name": "PAGEN WEST", "id": 51385 }
+              ]
+            },
+            {
+              "name": "PAGER WARD A",
+              "id": 6627,
+              "villages": [
+                { "name": "LAMIT KAPIM CENTRAL", "id": 33788 },
+                { "name": "LAMIT KAPIM NORTH", "id": 33789 },
+                { "name": "LAMIT KAPIM SOUTH", "id": 33790 }
+              ]
+            },
+            {
+              "name": "PAGER WARD B",
+              "id": 6628,
+              "villages": [
+                { "name": "AYUL A NORTH", "id": 6088 },
+                { "name": "AYUL A SOUTH", "id": 6089 },
+                { "name": "AYUL B", "id": 6090 },
+                { "name": "AYUL C", "id": 6091 },
+                { "name": "OGWAL WOO", "id": 48663 }
+              ]
+            },
+            {
+              "name": "PAIBWOR",
+              "id": 6636,
+              "villages": [
+                { "name": "PAIBWOR CENTRAL", "id": 51407 },
+                { "name": "PAIBWOR EAST", "id": 51408 },
+                { "name": "PAIBWOR NORTH", "id": 51409 },
+                { "name": "PAIBWOR SOUTH", "id": 51410 },
+                { "name": "PAIBWOR WEST", "id": 51411 }
+              ]
+            },
+            {
+              "name": "PAJIMO",
+              "id": 6647,
+              "villages": [
+                { "name": "ABUDERE", "id": 463 },
+                { "name": "AGWENG", "id": 1847 },
+                { "name": "ATENG", "id": 5320 },
+                { "name": "BOLBOM", "id": 7364 },
+                { "name": "KILIME EAST", "id": 27841 },
+                { "name": "KILIME WEST", "id": 27842 },
+                { "name": "MEDE", "id": 38199 },
+                { "name": "PAJIMO BOLA", "id": 51446 },
+                { "name": "PAJIMO CENTRAL", "id": 51447 },
+                { "name": "PAJIMO EAST", "id": 51448 },
+                { "name": "PAJIMO WEST", "id": 51449 },
+                { "name": "PANYKEL", "id": 51690 },
+                { "name": "PINYMUNU", "id": 51963 },
+                { "name": "WIGWENG", "id": 57726 },
+                { "name": "ODONGILURU", "id": 48342 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PANDWONG DIVISION",
+          "id": 1483,
+          "parishes": [
+            {
+              "name": "ALANGO WARD",
+              "id": 284,
+              "villages": [
+                { "name": "ALANGO EAST", "id": 2829 },
+                { "name": "ALANGO WEST", "id": 2832 },
+                { "name": "CAMCAM", "id": 14727 },
+                { "name": "TANGI AGORO", "id": 56065 }
+              ]
+            },
+            {
+              "name": "GUU WARD",
+              "id": 2105,
+              "villages": [
+                { "name": "GINNERY EAST", "id": 16672 },
+                { "name": "GINNERY WEST", "id": 16673 },
+                { "name": "ORYANG OJUMA", "id": 50758 }
+              ]
+            },
+            {
+              "name": "GUU WARD B",
+              "id": 2106,
+              "villages": [
+                { "name": "EAST VILLAGE A", "id": 15860 },
+                { "name": "EAST VILLAGE B", "id": 15861 },
+                { "name": "EAST VILLAGE C", "id": 15862 },
+                { "name": "UPLAND", "id": 56993 }
+              ]
+            },
+            {
+              "name": "LAMOLA",
+              "id": 4418,
+              "villages": [
+                { "name": "BINEN", "id": 7116 },
+                { "name": "LAYIK EAST", "id": 33988 },
+                { "name": "LAYIK WEST", "id": 33989 },
+                { "name": "LAYIKOCO", "id": 33991 },
+                { "name": "LAGAYA", "id": 33584 },
+                { "name": "LAGAYA WEST", "id": 33585 },
+                { "name": "OMUMY BULL WEST", "id": 49991 },
+                { "name": "OMUNY BUL", "id": 50008 }
+              ]
+            },
+            {
+              "name": "LUKWOR",
+              "id": 4621,
+              "villages": [
+                { "name": "LOKIRA CENTRAL", "id": 34470 },
+                { "name": "LOKIRA NORTH", "id": 34471 },
+                { "name": "LOKIRA SOUTH", "id": 34472 },
+                { "name": "LUKWOR EAST A", "id": 35386 },
+                { "name": "LUKWOR EAST B", "id": 35387 },
+                { "name": "LUKWOR WEST", "id": 35391 },
+                { "name": "OPETTE", "id": 50395 },
+                { "name": "OPETTE EAST", "id": 50396 }
+              ]
+            },
+            {
+              "name": "ORYANG A",
+              "id": 6544,
+              "villages": [
+                { "name": "BIPONG", "id": 7140 },
+                { "name": "ORYANG OJUMA A NORTH", "id": 50759 },
+                { "name": "ORYANG OJUMA A SOUTH", "id": 50760 },
+                { "name": "TANGI AGORO", "id": 56066 }
+              ]
+            },
+            {
+              "name": "ORYANG-LALANO",
+              "id": 6545,
+              "villages": [
+                { "name": "AKINO WARD", "id": 2404 },
+                { "name": "ALOTO CENTRAL", "id": 3299 },
+                { "name": "ALOTO NORTH", "id": 3300 },
+                { "name": "ALOTO SOUTH", "id": 3301 },
+                { "name": "DAM KULUKWAC B", "id": 15473 },
+                { "name": "DEM KULUKWAC A", "id": 15550 },
+                { "name": "LAUDA", "id": 33957 },
+                { "name": "LEI BIT", "id": 34011 },
+                { "name": "LAGWE KONYA", "id": 33611 },
+                { "name": "LALANO", "id": 33695 },
+                { "name": "LALANO CENTRAL", "id": 33696 },
+                { "name": "LAMIN PIC", "id": 33763 },
+                { "name": "LANGO OMUK", "id": 33827 },
+                { "name": "LANGOL ALENGA A", "id": 33831 },
+                { "name": "LANGOL ALENGA B", "id": 33832 }
+              ]
+            },
+            {
+              "name": "PANDWONG WARD",
+              "id": 6701,
+              "villages": [
+                { "name": "ACUT OMER", "id": 958 },
+                { "name": "AUCH", "id": 5533 },
+                { "name": "BAR DEGE", "id": 6375 },
+                { "name": "GODOWN", "id": 16722 },
+                { "name": "HILLTOP", "id": 17188 },
+                { "name": "GANGDYANG", "id": 16361 },
+                { "name": "PANDWONG", "id": 51652 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

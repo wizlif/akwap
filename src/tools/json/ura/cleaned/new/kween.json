@@ -1,0 +1,996 @@
+{
+  "name": "KWEEN",
+  "id": 97,
+  "counties": [
+    {
+      "name": "KWEEN",
+      "id": 110,
+      "sub_counties": [
+        {
+          "name": "BENET",
+          "id": 1233,
+          "parishes": [
+            {
+              "name": "CHEBEREN",
+              "id": 1872,
+              "villages": [
+                { "name": "KOKWOMONGESAI", "id": 30918 },
+                { "name": "KINOBET", "id": 28058 },
+                { "name": "KITAL", "id": 29600 },
+                { "name": "CHEBEREN", "id": 14940 },
+                { "name": "RWANDA", "id": 53815 },
+                { "name": "TUYOBEI", "id": 56882 }
+              ]
+            },
+            {
+              "name": "KAPNARKUT TOWN BOARD",
+              "id": 2917,
+              "villages": [
+                { "name": "CHEMUKANGOI", "id": 15056 },
+                { "name": "CHEMURON", "id": 15077 },
+                { "name": "CHEMWOM", "id": 15115 },
+                { "name": "KAPNARKUT", "id": 22635 },
+                { "name": "NGENGE", "id": 44537 }
+              ]
+            },
+            {
+              "name": "KASEKO",
+              "id": 3042,
+              "villages": [
+                { "name": "CHEPSENETON", "id": 15158 },
+                { "name": "KOPSIYOY", "id": 31143 },
+                { "name": "CHEMANGA", "id": 15032 },
+                { "name": "KAPAWU", "id": 22425 },
+                { "name": "KAPSENGE", "id": 22688 },
+                { "name": "KAMASAREN", "id": 21270 },
+                { "name": "KASEKO", "id": 23473 },
+                { "name": "LAIKONG", "id": 33624 }
+              ]
+            },
+            {
+              "name": "LIKIL",
+              "id": 4461,
+              "villages": [
+                { "name": "KOKWOTOROKWO", "id": 30926 },
+                { "name": "KAPCHEMELEI", "id": 22452 },
+                { "name": "KAPSIRIK", "id": 22699 },
+                { "name": "LIKIL", "id": 34134 },
+                { "name": "LOCH", "id": 34283 }
+              ]
+            },
+            {
+              "name": "KITANY",
+              "id": 3886,
+              "villages": [
+                { "name": "KITANY", "id": 29671 },
+                { "name": "KAPKUNEROI", "id": 22550 },
+                { "name": "KAPMWEYET", "id": 22625 }
+              ]
+            },
+            {
+              "name": "MENGYA",
+              "id": 4971,
+              "villages": [
+                { "name": "KABORITIN", "id": 18969 },
+                { "name": "KOKWOPNGOTUNY", "id": 30921 },
+                { "name": "KASTOY", "id": 23953 },
+                { "name": "MENGYA", "id": 38247 }
+              ]
+            },
+            {
+              "name": "MULUNGWA",
+              "id": 5173,
+              "villages": [
+                { "name": "CHEMUMUL", "id": 15062 },
+                { "name": "KAPCHESUKE", "id": 22478 },
+                { "name": "MULUNGWA", "id": 39805 },
+                { "name": "SITOTWET", "id": 55553 }
+              ]
+            },
+            {
+              "name": "PISWA",
+              "id": 6767,
+              "villages": [
+                { "name": "KABARAK", "id": 18629 },
+                { "name": "KAPKURESON", "id": 22556 },
+                { "name": "KAKWEEN", "id": 20712 },
+                { "name": "TARAGON UPPER", "id": 56092 }
+              ]
+            },
+            {
+              "name": "TAMBAJJA",
+              "id": 7214,
+              "villages": [
+                { "name": "KAPCHEKWORIS", "id": 22443 },
+                { "name": "TOBOT", "id": 56596 },
+                { "name": "TWENGE", "id": 56899 },
+                { "name": "TAMBAJJA", "id": 56049 }
+              ]
+            },
+            {
+              "name": "TARAGON",
+              "id": 7221,
+              "villages": [
+                { "name": "CHEMWONBEI", "id": 15116 },
+                { "name": "ROROK", "id": 52431 },
+                { "name": "TULWO", "id": 56831 },
+                { "name": "SUKUT", "id": 55892 },
+                { "name": "TARAGON LOWER", "id": 56091 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BINYINY",
+          "id": 660,
+          "parishes": [
+            {
+              "name": "CHEPYAKANIET",
+              "id": 1901,
+              "villages": [
+                { "name": "CHEPYAKANIET", "id": 15207 },
+                { "name": "KAPCHESOBEI", "id": 22474 },
+                { "name": "KAPTEKEYEN", "id": 22746 },
+                { "name": "KAMOWO", "id": 21435 },
+                { "name": "KAMUGENGERE", "id": 21496 }
+              ]
+            },
+            {
+              "name": "KISONGI",
+              "id": 3845,
+              "villages": [
+                { "name": "KABAI", "id": 18493 },
+                { "name": "KAPENGURIA", "id": 22504 },
+                { "name": "SIRO", "id": 55515 }
+              ]
+            },
+            {
+              "name": "KONO",
+              "id": 4116,
+              "villages": [
+                { "name": "BEBOCHEBEROM", "id": 6845 },
+                { "name": "CHESOSURWO", "id": 15237 },
+                { "name": "KWORUS", "id": 31518 },
+                { "name": "KAMUKE", "id": 21540 }
+              ]
+            },
+            {
+              "name": "TABAGON",
+              "id": 7209,
+              "villages": [
+                { "name": "CHEMURON", "id": 15090 },
+                { "name": "CHEPTANTAN", "id": 15172 },
+                { "name": "CHESAKAT", "id": 15222 },
+                { "name": "KUBEREN", "id": 31248 },
+                { "name": "CHAPTARRE", "id": 14929 },
+                { "name": "KAPCHEKWEROP", "id": 22439 },
+                { "name": "TABAGON", "id": 56000 }
+              ]
+            },
+            {
+              "name": "TUKUMO",
+              "id": 7303,
+              "villages": [
+                { "name": "KAMWALECH", "id": 21697 },
+                { "name": "NGOSI", "id": 44673 },
+                { "name": "TUIKAT", "id": 56788 },
+                { "name": "TUKUMO", "id": 56796 },
+                { "name": "SUKUT", "id": 55896 },
+                { "name": "TARAK", "id": 56097 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BINYINYI TOWN COUNCIL",
+          "id": 1230,
+          "parishes": [
+            {
+              "name": "KAPKWOROS WARD",
+              "id": 2909,
+              "villages": [
+                { "name": "CHELUK", "id": 15024 },
+                { "name": "KAPKWOROS", "id": 22594 },
+                { "name": "KAMAYAK", "id": 21295 }
+              ]
+            },
+            {
+              "name": "KISONGI WARD",
+              "id": 3846,
+              "villages": [
+                { "name": "BINYNY", "id": 7133 },
+                { "name": "CHEPKWOSITEN", "id": 15150 },
+                { "name": "KEW", "id": 25634 },
+                { "name": "KISONGI", "id": 29355 },
+                { "name": "CHEBEREN", "id": 14941 },
+                { "name": "KAMOWO", "id": 21436 },
+                { "name": "KAMUTENG", "id": 21668 },
+                { "name": "MULYABOI", "id": 39812 },
+                { "name": "RIKWO", "id": 52357 }
+              ]
+            },
+            {
+              "name": "KWOBUS WARD",
+              "id": 4166,
+              "villages": [
+                { "name": "KWOBUS", "id": 31501 },
+                { "name": "KAPLAM", "id": 22607 },
+                { "name": "KAPNARONGO", "id": 22636 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GREEK RIVER",
+          "id": 1229,
+          "parishes": [
+            {
+              "name": "ALALAM",
+              "id": 281,
+              "villages": [
+                { "name": "ALALAM", "id": 2804 },
+                { "name": "KIRYAMET", "id": 28771 },
+                { "name": "KWONGON", "id": 31508 },
+                { "name": "CHEBINYINY", "id": 14943 },
+                { "name": "CHEKWIR", "id": 14998 },
+                { "name": "KAPCHEKWOU", "id": 22444 },
+                { "name": "KAPTERIT", "id": 22751 },
+                { "name": "MOKOYON", "id": 38766 },
+                { "name": "NDILAI", "id": 44307 },
+                { "name": "NGANIA", "id": 44506 },
+                { "name": "NAREROK", "id": 43741 }
+              ]
+            },
+            {
+              "name": "KAPSWAMA",
+              "id": 2936,
+              "villages": [
+                { "name": "JAMJAM", "id": 18022 },
+                { "name": "CHEBURBEI", "id": 14972 },
+                { "name": "KAPKOROKON", "id": 22534 },
+                { "name": "KAPSWAMA", "id": 22726 },
+                { "name": "KAPTURBORI", "id": 22791 },
+                { "name": "NGENY", "id": 44540 },
+                { "name": "TULWOYOS", "id": 56836 },
+                { "name": "TUYOBEI", "id": 56886 }
+              ]
+            },
+            {
+              "name": "KERE",
+              "id": 3347,
+              "villages": [
+                { "name": "KABENDER", "id": 18779 },
+                { "name": "KIPTARI", "id": 28295 },
+                { "name": "CHEPTUYA", "id": 15202 },
+                { "name": "KURKURWO", "id": 31398 },
+                { "name": "KUTUTU", "id": 31432 },
+                { "name": "CHEKWASTA", "id": 14992 },
+                { "name": "KAPKWAROI", "id": 22563 },
+                { "name": "TULWOMOI", "id": 56834 },
+                { "name": "SWAYOI", "id": 55961 }
+              ]
+            },
+            {
+              "name": "KIRIKI",
+              "id": 3729,
+              "villages": [
+                { "name": "BILILAK", "id": 7099 },
+                { "name": "CHEMUROT", "id": 15095 },
+                { "name": "KIRIKI", "id": 28520 },
+                { "name": "CHEPTUIMAT", "id": 15199 },
+                { "name": "KONAMASIWA", "id": 31055 },
+                { "name": "KAPSONGOYWO", "id": 22712 },
+                { "name": "KAMABATI", "id": 21200 },
+                { "name": "KABUNDUKI", "id": 19115 },
+                { "name": "NABUJEJE", "id": 40923 }
+              ]
+            },
+            {
+              "name": "KORITE",
+              "id": 4122,
+              "villages": [
+                { "name": "AYOREI", "id": 6082 },
+                { "name": "KORITE", "id": 31153 },
+                { "name": "KUKUMAI", "id": 31289 },
+                { "name": "KAPTENIS", "id": 22749 },
+                { "name": "KAMAGUNGA", "id": 21213 },
+                { "name": "KAMOKOYWO", "id": 21410 },
+                { "name": "SURUMIT", "id": 55939 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAPRORON",
+          "id": 661,
+          "parishes": [
+            {
+              "name": "CHEMWANIA",
+              "id": 1891,
+              "villages": [
+                { "name": "CHEMWANIA", "id": 15104 },
+                { "name": "KULULU", "id": 31340 },
+                { "name": "KAPTARE", "id": 22743 },
+                { "name": "MOKOWO", "id": 38762 },
+                { "name": "SUMOTWO", "id": 55919 }
+              ]
+            },
+            {
+              "name": "KAPRORON TOWN BOARD",
+              "id": 2925,
+              "villages": [
+                { "name": "KAPNYALI", "id": 22654 },
+                { "name": "KAPRORON", "id": 22672 },
+                { "name": "KAMERUT", "id": 21356 },
+                { "name": "LESOSO", "id": 34093 },
+                { "name": "ST. MICHAEL", "id": 55816 }
+              ]
+            },
+            {
+              "name": "KAMWAM",
+              "id": 2794,
+              "villages": [
+                { "name": "KOROSI", "id": 31169 },
+                { "name": "KERE", "id": 25599 },
+                { "name": "KAPSWAYOY", "id": 22728 },
+                { "name": "KAMWAM", "id": 21700 },
+                { "name": "TULWO", "id": 56818 }
+              ]
+            },
+            {
+              "name": "RARAWA",
+              "id": 6820,
+              "villages": [
+                { "name": "KURES", "id": 31397 },
+                { "name": "CHEMERIN", "id": 15041 },
+                { "name": "KAPYOMAT", "id": 22825 },
+                { "name": "KARASOY", "id": 22918 },
+                { "name": "LELKETI", "id": 34063 },
+                { "name": "NDILAY", "id": 44311 },
+                { "name": "RARAWA", "id": 52305 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAPTOYOY",
+          "id": 1379,
+          "parishes": [
+            {
+              "name": "KAPKOCH",
+              "id": 2893,
+              "villages": [
+                { "name": "CHEMUNY", "id": 15063 },
+                { "name": "KAYMATOI", "id": 25227 },
+                { "name": "KAPKOCH", "id": 22526 },
+                { "name": "KAPKOROS", "id": 22535 },
+                { "name": "KAPTOBOSWO", "id": 22766 },
+                { "name": "SERERWO", "id": 55104 }
+              ]
+            },
+            {
+              "name": "KAPTENG",
+              "id": 2939,
+              "villages": [
+                { "name": "KEWARWONG", "id": 25640 },
+                { "name": "KAPKWOSOBEI", "id": 22597 },
+                { "name": "KAPTENG", "id": 22748 },
+                { "name": "KAMUTILILWO", "id": 21673 }
+              ]
+            },
+            {
+              "name": "KAPTOYOY",
+              "id": 2947,
+              "villages": [
+                { "name": "KUPSAMIY", "id": 31389 },
+                { "name": "KAPCHEKWOI", "id": 22441 },
+                { "name": "KAPTOYOY", "id": 22785 },
+                { "name": "RWAKOI", "id": 53662 },
+                { "name": "SUKUT", "id": 55890 },
+                { "name": "SENENDENT", "id": 55063 }
+              ]
+            },
+            {
+              "name": "KEROP",
+              "id": 3351,
+              "villages": [
+                { "name": "KEROP", "id": 25614 },
+                { "name": "KOI", "id": 30850 },
+                { "name": "CHEBINYINY", "id": 14954 },
+                { "name": "CHEMAGALAL", "id": 15027 },
+                { "name": "KAPCHEROPTA", "id": 22464 },
+                { "name": "KAPKURE", "id": 22551 },
+                { "name": "KAPKWAWAI", "id": 22569 },
+                { "name": "KAPTEROR", "id": 22756 },
+                { "name": "KASEMIA", "id": 23476 }
+              ]
+            },
+            {
+              "name": "NGORYEMWO",
+              "id": 5797,
+              "villages": [
+                { "name": "KOSWO", "id": 31194 },
+                { "name": "KAPCHEBOR", "id": 22433 },
+                { "name": "KAPCHEMIRYOT", "id": 22453 },
+                { "name": "NGORYEMWO", "id": 44671 },
+                { "name": "REBERWO", "id": 52315 }
+              ]
+            },
+            {
+              "name": "TOSWO",
+              "id": 7285,
+              "villages": [
+                { "name": "CHEPKWOSUM", "id": 15151 },
+                { "name": "CHESIMWO", "id": 15230 },
+                { "name": "KORYA", "id": 31179 },
+                { "name": "KAPCHESIKOR", "id": 22470 },
+                { "name": "KAPTOKOLO", "id": 22771 },
+                { "name": "KAPTOLONG", "id": 22777 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAPTUM",
+          "id": 1228,
+          "parishes": [
+            {
+              "name": "ALOMAN",
+              "id": 330,
+              "villages": [
+                { "name": "ALOMAN", "id": 3277 },
+                { "name": "BUMOTOI", "id": 10797 },
+                { "name": "CHEMURON", "id": 15064 },
+                { "name": "CHEPAKANAR", "id": 15119 },
+                { "name": "KAYABAI", "id": 25108 },
+                { "name": "CHEBOROM", "id": 14965 },
+                { "name": "KAPKWERE", "id": 22577 },
+                { "name": "KAPNAKAK", "id": 22629 },
+                { "name": "KAPTORO", "id": 22783 },
+                { "name": "KAKWEMPEL", "id": 20714 },
+                { "name": "KAMAKUNGA", "id": 21235 },
+                { "name": "KAMOWO", "id": 21434 },
+                { "name": "KAMUSHEMBU", "id": 21653 }
+              ]
+            },
+            {
+              "name": "CHEBINYINY",
+              "id": 1874,
+              "villages": [
+                { "name": "BURIRKUT", "id": 12032 },
+                { "name": "KURENY", "id": 31396 },
+                { "name": "CHEBINYINY", "id": 14946 },
+                { "name": "CHELWENG", "id": 15025 },
+                { "name": "KAPLAKATET", "id": 22601 },
+                { "name": "KAPTOBORWO", "id": 22764 },
+                { "name": "SIMATON", "id": 55426 }
+              ]
+            },
+            {
+              "name": "CHEMINY",
+              "id": 1886,
+              "villages": [
+                { "name": "BOSHA", "id": 7453 },
+                { "name": "CHEMINY", "id": 15042 },
+                { "name": "KAPULAYA", "id": 22794 },
+                { "name": "LOCH", "id": 34276 },
+                { "name": "RWANDET", "id": 53834 },
+                { "name": "SUKUT", "id": 55886 }
+              ]
+            },
+            {
+              "name": "KAPSOMO",
+              "id": 2932,
+              "villages": [
+                { "name": "CHEMOLON", "id": 15044 },
+                { "name": "KWENUT", "id": 31484 },
+                { "name": "KAPKWOBOR", "id": 22589 },
+                { "name": "KAPSOMO", "id": 22709 },
+                { "name": "ROTIN", "id": 52437 },
+                { "name": "SUNDET", "id": 55921 }
+              ]
+            },
+            {
+              "name": "KAPTUM",
+              "id": 2949,
+              "villages": [
+                { "name": "KONGELEL", "id": 31067 },
+                { "name": "KAYAMOYA", "id": 25121 },
+                { "name": "KAPTOBURWO", "id": 22769 },
+                { "name": "KAKWIRWOK", "id": 20718 },
+                { "name": "REBERWO", "id": 52314 },
+                { "name": "SONGOK", "id": 55621 },
+                { "name": "SONKOROCH", "id": 55625 },
+                { "name": "SESUN", "id": 55136 }
+              ]
+            },
+            {
+              "name": "SERERE",
+              "id": 7113,
+              "villages": [
+                { "name": "KOKWOBUTAKI", "id": 30914 },
+                { "name": "MUKUT", "id": 39678 },
+                { "name": "LAKATET", "id": 33654 },
+                { "name": "TOROR", "id": 56682 },
+                { "name": "SALAWU", "id": 54870 },
+                { "name": "SERERE", "id": 55101 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KITAWOI",
+          "id": 1232,
+          "parishes": [
+            {
+              "name": "KEWAKWEEN",
+              "id": 3353,
+              "villages": [
+                { "name": "KIRING", "id": 28564 },
+                { "name": "KEWAKWARE", "id": 25636 },
+                { "name": "KEWAKWEEN", "id": 25637 },
+                { "name": "KAPCHEKWES", "id": 22440 }
+              ]
+            },
+            {
+              "name": "KITAWOI",
+              "id": 3890,
+              "villages": [
+                { "name": "KOSTOY", "id": 31191 },
+                { "name": "KITAWOI", "id": 29699 },
+                { "name": "KAPKOWET", "id": 22546 },
+                { "name": "PIYONON", "id": 51975 },
+                { "name": "POSHA", "id": 52079 }
+              ]
+            },
+            {
+              "name": "SUMATON",
+              "id": 7195,
+              "villages": [
+                { "name": "KOKWOMATILA", "id": 30917 },
+                { "name": "KASOWON", "id": 23904 },
+                { "name": "LOCH", "id": 34287 },
+                { "name": "RWANJAG", "id": 53855 },
+                { "name": "SUMATON", "id": 55913 }
+              ]
+            },
+            {
+              "name": "TABAGON",
+              "id": 7210,
+              "villages": [
+                { "name": "CHEMOMUL", "id": 15045 },
+                { "name": "CHECHAS", "id": 14977 },
+                { "name": "KAMOWO", "id": 21438 },
+                { "name": "SISITYA", "id": 55534 },
+                { "name": "TABAGON", "id": 56001 }
+              ]
+            },
+            {
+              "name": "TARAK",
+              "id": 7222,
+              "villages": [
+                { "name": "KOKWOBALIAT", "id": 30913 },
+                { "name": "KAPKOROS", "id": 22539 },
+                { "name": "TARAK", "id": 56096 },
+                { "name": "TARAK LOWER", "id": 56098 }
+              ]
+            },
+            {
+              "name": "TEREMPOY",
+              "id": 7250,
+              "villages": [
+                { "name": "KENGISIN", "id": 25558 },
+                { "name": "CHEKWOTOK", "id": 15006 },
+                { "name": "KAPCHERWONGOY", "id": 22466 },
+                { "name": "TEREMPOY", "id": 56450 },
+                { "name": "TOPOT", "id": 56659 },
+                { "name": "SUKUT", "id": 55893 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KWANYIY",
+          "id": 663,
+          "parishes": [
+            {
+              "name": "KAPKWATA",
+              "id": 2901,
+              "villages": [
+                { "name": "GREEN VALLEY", "id": 16897 },
+                { "name": "CHERAKAN", "id": 15208 },
+                { "name": "CHESEBIT", "id": 15226 },
+                { "name": "CHESORET", "id": 15236 },
+                { "name": "KWORUS", "id": 31517 },
+                { "name": "KISANGANI", "id": 28983 },
+                { "name": "KAPKOROS", "id": 22537 },
+                { "name": "KAPKWATA", "id": 22567 },
+                { "name": "KAPNGOKIN", "id": 22648 },
+                { "name": "KAPSOYEN", "id": 22714 },
+                { "name": "KAMUNCHAN", "id": 21593 },
+                { "name": "MUSHEMBO", "id": 40102 },
+                { "name": "SISIMACH", "id": 55530 },
+                { "name": "TOWET", "id": 56698 },
+                { "name": "TULWO", "id": 56819 },
+                { "name": "TARAK", "id": 56093 }
+              ]
+            },
+            {
+              "name": "KAPKWOIKOI",
+              "id": 2907,
+              "villages": [
+                { "name": "CHEPAR", "id": 15120 },
+                { "name": "CHAMCHAM", "id": 14923 },
+                { "name": "CHEKWASTA", "id": 14991 },
+                { "name": "KAPJOKEN", "id": 22523 },
+                { "name": "KAPKOIKOI", "id": 22527 },
+                { "name": "KAPUSHE", "id": 22804 },
+                { "name": "MOKOTU", "id": 38757 },
+                { "name": "LOMOYWO", "id": 34645 },
+                { "name": "MUNDA", "id": 39831 },
+                { "name": "MURKONOI", "id": 39989 },
+                { "name": "TULWO", "id": 56820 }
+              ]
+            },
+            {
+              "name": "KAPKWOROS",
+              "id": 2908,
+              "villages": [
+                { "name": "BONIO", "id": 7425 },
+                { "name": "CHEMONGE", "id": 15048 },
+                { "name": "CHEMWATAT", "id": 15106 },
+                { "name": "CHEPATPAT", "id": 15121 },
+                { "name": "CHEPCHABAI", "id": 15123 },
+                { "name": "CHEPTOLOCH", "id": 15192 },
+                { "name": "KUSURUT", "id": 31420 },
+                { "name": "KONGTA", "id": 31093 },
+                { "name": "KAPOROTWO", "id": 22663 },
+                { "name": "NGEREP", "id": 44550 }
+              ]
+            },
+            {
+              "name": "KAPLEGEP",
+              "id": 2912,
+              "villages": [
+                { "name": "KUROT", "id": 31403 },
+                { "name": "KUTWECH", "id": 31433 },
+                { "name": "CHELOLONG", "id": 15023 },
+                { "name": "KAPLEGEP", "id": 22611 },
+                { "name": "KAPLEGEP LOWER", "id": 22612 },
+                { "name": "KAPLEKETET", "id": 22615 },
+                { "name": "KAPTENDEN", "id": 22747 },
+                { "name": "NYIMEI", "id": 47606 }
+              ]
+            },
+            {
+              "name": "NYIMEI",
+              "id": 6193,
+              "villages": [
+                { "name": "BUMOTOI", "id": 10798 },
+                { "name": "CHEMURON", "id": 15086 },
+                { "name": "KWANYIY", "id": 31459 },
+                { "name": "KAWUSWO A", "id": 25099 },
+                { "name": "KAWUSWO B", "id": 25100 },
+                { "name": "CHEBIRBEI", "id": 14960 },
+                { "name": "CHEBURBEI", "id": 14973 },
+                { "name": "KAPKWATA FOREST", "id": 22568 },
+                { "name": "KAMWESA", "id": 21721 },
+                { "name": "RWANDA", "id": 53819 },
+                { "name": "NANDI", "id": 43380 },
+                { "name": "ROTIN", "id": 52438 },
+                { "name": "SUMOTWO", "id": 55920 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KWOSIR",
+          "id": 1231,
+          "parishes": [
+            {
+              "name": "KAPNGOTINY",
+              "id": 2918,
+              "villages": [
+                { "name": "KAWORYO", "id": 25052 },
+                { "name": "KAPNGOTINY", "id": 22650 },
+                { "name": "KAPTERIS", "id": 22750 },
+                { "name": "KAPURET", "id": 22802 },
+                { "name": "KAMATUNGWO", "id": 21292 },
+                { "name": "LITEI", "id": 34209 },
+                { "name": "NAMORYO", "id": 42982 },
+                { "name": "SINOPTUMBO", "id": 55486 },
+                { "name": "TOPOT", "id": 56658 },
+                { "name": "TULOLWO", "id": 56806 }
+              ]
+            },
+            {
+              "name": "KERE",
+              "id": 3348,
+              "villages": [
+                { "name": "KABELYO", "id": 18764 },
+                { "name": "CHEPKUTUS", "id": 15142 },
+                { "name": "CHEPKWASTA", "id": 15143 },
+                { "name": "KONGTA", "id": 31097 },
+                { "name": "KERE", "id": 25601 },
+                { "name": "KAPLAMAI", "id": 22608 },
+                { "name": "KAPSIKWON", "id": 22696 },
+                { "name": "KAPTANG", "id": 22740 },
+                { "name": "MUKULIET", "id": 39648 },
+                { "name": "TUNKWOSERET", "id": 56866 }
+              ]
+            },
+            {
+              "name": "KWOSIR",
+              "id": 4168,
+              "villages": [
+                { "name": "BENET EAST", "id": 6897 },
+                { "name": "BENET WEST", "id": 6898 },
+                { "name": "CHEPKUBE", "id": 15133 },
+                { "name": "CHEPTANDAN", "id": 15169 },
+                { "name": "KIJIRIR", "id": 27243 },
+                { "name": "KWOSIR", "id": 31519 },
+                { "name": "KAPKOROSOI", "id": 22542 },
+                { "name": "KAMATELONG", "id": 21284 },
+                { "name": "MUKULIET", "id": 39649 },
+                { "name": "MUKUT", "id": 39677 },
+                { "name": "TULWO EAST", "id": 56832 },
+                { "name": "TULWO WEST", "id": 56833 },
+                { "name": "SUNDET", "id": 55922 },
+                { "name": "TEKANTET", "id": 56328 }
+              ]
+            },
+            {
+              "name": "TUIKAT",
+              "id": 7300,
+              "villages": [
+                { "name": "CHEMURON", "id": 15092 },
+                { "name": "KAPCHEBAKON", "id": 22430 },
+                { "name": "KAPKOROSOI", "id": 22544 },
+                { "name": "KAMWAM", "id": 21701 },
+                { "name": "MOIGUT", "id": 38745 },
+                { "name": "SOSUR", "id": 55658 },
+                { "name": "TOLIL", "id": 56616 },
+                { "name": "TUIKAT", "id": 56787 },
+                { "name": "SUKUT", "id": 55895 }
+              ]
+            },
+            {
+              "name": "YATUI",
+              "id": 7449,
+              "villages": [
+                { "name": "ARKUT", "id": 4994 },
+                { "name": "CHEMUKULA", "id": 15058 },
+                { "name": "CHERANGUT", "id": 15210 },
+                { "name": "CHESIKONGO", "id": 15227 },
+                { "name": "KORTOW", "id": 31176 },
+                { "name": "SABU", "id": 54830 },
+                { "name": "MATUPSOO", "id": 37804 },
+                { "name": "YATUI", "id": 57914 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MOYOK",
+          "id": 1234,
+          "parishes": [
+            {
+              "name": "KAPCHESIMET",
+              "id": 2879,
+              "villages": [
+                { "name": "CHESAKAS", "id": 15220 },
+                { "name": "CHESOPIT", "id": 15235 },
+                { "name": "KAWIMBI", "id": 25011 },
+                { "name": "KAPCHESIMET", "id": 22472 },
+                { "name": "MAKUNGA", "id": 37033 },
+                { "name": "NYAMA", "id": 46641 },
+                { "name": "ROSTI", "id": 52433 },
+                { "name": "SUMATON", "id": 55908 }
+              ]
+            },
+            {
+              "name": "KAPLEKEPSOI",
+              "id": 2913,
+              "villages": [
+                { "name": "KONGTA", "id": 31094 },
+                { "name": "KWURES", "id": 31527 },
+                { "name": "CHEKWEI", "id": 14997 },
+                { "name": "KAPCHERIPISTIN", "id": 22461 },
+                { "name": "KAPLEKEP-SOI", "id": 22614 },
+                { "name": "SINGILAY", "id": 55474 },
+                { "name": "SONGOK", "id": 55620 }
+              ]
+            },
+            {
+              "name": "KAPYATEI",
+              "id": 2955,
+              "villages": [
+                { "name": "FARM", "id": 16188 },
+                { "name": "KERE", "id": 25600 },
+                { "name": "CHEBURONY", "id": 14975 },
+                { "name": "KAPCHEKWUTWO", "id": 22445 },
+                { "name": "KAPYATEI", "id": 22820 },
+                { "name": "KASAPEN", "id": 23405 },
+                { "name": "TOBOSWO", "id": 56595 },
+                { "name": "SOYO", "id": 55680 },
+                { "name": "TULWO", "id": 56824 },
+                { "name": "SURUTOI", "id": 55946 }
+              ]
+            },
+            {
+              "name": "KABELYO",
+              "id": 2340,
+              "villages": [
+                { "name": "KABELYO", "id": 18762 },
+                { "name": "CHEPSURWA", "id": 15164 },
+                { "name": "CHEKWATA", "id": 14993 },
+                { "name": "KAPCHEMEKEN", "id": 22451 },
+                { "name": "KAPNGOKIN", "id": 22647 },
+                { "name": "KAPTERIT", "id": 22753 },
+                { "name": "KAKWOYONGEN", "id": 20720 },
+                { "name": "KAMWASAI", "id": 21714 },
+                { "name": "MOKOYON", "id": 38767 },
+                { "name": "MUYESA", "id": 40422 },
+                { "name": "NDILAI", "id": 44308 },
+                { "name": "SUKUT", "id": 55888 },
+                { "name": "TARAGON", "id": 56090 }
+              ]
+            },
+            {
+              "name": "MOYOK",
+              "id": 5068,
+              "villages": [
+                { "name": "CHEMURON", "id": 15083 },
+                { "name": "CHEKWIR", "id": 15003 },
+                { "name": "MOYOK", "id": 38992 },
+                { "name": "MATINYBEI", "id": 37755 },
+                { "name": "MENGYA", "id": 38248 },
+                { "name": "TANGWEN", "id": 56071 },
+                { "name": "TAYEKO", "id": 56111 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NGENGE",
+          "id": 662,
+          "parishes": [
+            {
+              "name": "CHEPSUKUNYA TOWN BOARD",
+              "id": 1896,
+              "villages": [
+                { "name": "CHEPSUKUNYA", "id": 15163 },
+                { "name": "KITNET", "id": 29933 },
+                { "name": "CHEKWUTO", "id": 15008 },
+                { "name": "KAPKWICH", "id": 22579 },
+                { "name": "KATALEL", "id": 24163 },
+                { "name": "MUTALIA", "id": 40217 },
+                { "name": "PANGANI", "id": 51657 },
+                { "name": "NASAK", "id": 43790 },
+                { "name": "NYISWA", "id": 47625 },
+                { "name": "TOBOTO", "id": 56598 }
+              ]
+            },
+            {
+              "name": "CHEPTARRE",
+              "id": 1897,
+              "villages": [
+                { "name": "CHEPTARRE", "id": 15175 },
+                { "name": "KUSKONG", "id": 31418 },
+                { "name": "KAPNDAROI", "id": 22640 },
+                { "name": "NGORYOWET", "id": 44672 },
+                { "name": "SERETYO", "id": 55105 }
+              ]
+            },
+            {
+              "name": "KAPKWOT",
+              "id": 2910,
+              "villages": [
+                { "name": "ARYOWET", "id": 5137 },
+                { "name": "CHERINGIR", "id": 15213 },
+                { "name": "KOKWANYI", "id": 30910 },
+                { "name": "KAPLAL", "id": 22606 },
+                { "name": "KAPTULEL", "id": 22787 },
+                { "name": "KAMUNGEI", "id": 21595 },
+                { "name": "MAKUNGA", "id": 37035 },
+                { "name": "MAKUTANO", "id": 37045 }
+              ]
+            },
+            {
+              "name": "KAPTERIT",
+              "id": 2943,
+              "villages": [
+                { "name": "CHEPKUMALIS", "id": 15136 },
+                { "name": "KAPTERIT", "id": 22755 },
+                { "name": "MAKUNGA", "id": 37036 },
+                { "name": "MURTAMAI", "id": 39997 },
+                { "name": "TULWOMWANGA", "id": 56835 },
+                { "name": "TWAMA", "id": 56892 }
+              ]
+            },
+            {
+              "name": "KABACHIRIA",
+              "id": 2305,
+              "villages": [
+                { "name": "BUTARIA", "id": 13032 },
+                { "name": "KABOMBEI", "id": 18951 },
+                { "name": "KABACHIRYA", "id": 18443 },
+                { "name": "CHEPKERKER", "id": 15130 },
+                { "name": "CHEBOROM", "id": 14967 },
+                { "name": "KAPKALACHI", "id": 22524 },
+                { "name": "KAPLOBOTWO", "id": 22617 },
+                { "name": "MOKONAT", "id": 38754 },
+                { "name": "NGANIET", "id": 44507 },
+                { "name": "SUTOO", "id": 55951 }
+              ]
+            },
+            {
+              "name": "KUBOBEY",
+              "id": 4142,
+              "villages": [
+                { "name": "CHEPKUNOI", "id": 15137 },
+                { "name": "CHEPTUYIS", "id": 15205 },
+                { "name": "KUBOBEY", "id": 31259 },
+                { "name": "KAPCHESARUR", "id": 22467 },
+                { "name": "KAPKWAROI", "id": 22564 },
+                { "name": "SOWUR", "id": 55678 },
+                { "name": "SUKUNYA", "id": 55879 },
+                { "name": "SURUMTIT", "id": 55941 }
+              ]
+            },
+            {
+              "name": "SIKWO",
+              "id": 7130,
+              "villages": [
+                { "name": "AMKOKEL", "id": 3691 },
+                { "name": "CHEPNOIBEI", "id": 15154 },
+                { "name": "KWURES", "id": 31528 },
+                { "name": "KAIBOS", "id": 20042 },
+                { "name": "KAIMARENG", "id": 20079 },
+                { "name": "MOKOYWET", "id": 38774 },
+                { "name": "SIKWO", "id": 55414 },
+                { "name": "SOSET", "id": 55649 }
+              ]
+            },
+            {
+              "name": "SOSHO",
+              "id": 7154,
+              "villages": [
+                { "name": "ANIO-KWENIK", "id": 4258 },
+                { "name": "ATYAI", "id": 5520 },
+                { "name": "KAPSAWURIA", "id": 22680 },
+                { "name": "MARANDAN", "id": 37354 },
+                { "name": "WORYO", "id": 57862 },
+                { "name": "SOSHO", "id": 55653 }
+              ]
+            },
+            {
+              "name": "SUNDET",
+              "id": 7198,
+              "villages": [
+                { "name": "CHEMURON", "id": 15088 },
+                { "name": "CHEMENGICH", "id": 15040 },
+                { "name": "KAPKWARE", "id": 22562 },
+                { "name": "KAPKWOROS", "id": 22595 },
+                { "name": "MOKOTU", "id": 38760 },
+                { "name": "SUNDET", "id": 55923 }
+              ]
+            },
+            {
+              "name": "NYILIT",
+              "id": 6192,
+              "villages": [
+                { "name": "KAPCHESARUR", "id": 22468 },
+                { "name": "KAPTOBOYON", "id": 22768 },
+                { "name": "NGORNA", "id": 44665 },
+                { "name": "NYILIT", "id": 47603 },
+                { "name": "SOSET", "id": 55648 },
+                { "name": "TUYOBEI", "id": 56889 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

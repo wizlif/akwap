@@ -1,0 +1,82 @@
+{
+  "name": "NWOYA",
+  "counties": [
+    {
+      "name": "NWOYA",
+      "sub_counties": [
+        {
+          "name": "ALERO",
+          "parishes": [
+            { "name": "BWOBONAM", "villages": ["BWOBOMANAM A", "BWOBOMANAM B"] },
+            { "name": "KAL", "villages": ["ATOCON", "OKURA"] },
+            { "name": "PANGUR", "villages": ["GOT RINGO", "LANGOL"] },
+            { "name": "PANYABONO", "villages": ["LALARA", "OYINY"] }
+          ]
+        },
+        {
+          "name": "ANAKA (PAYIRA)",
+          "parishes": [
+            { "name": "TODORA", "villages": ["AGUNG", "LABYEYI", "OBIRA"] },
+            { "name": "PABALI", "villages": ["AKAGO", "LAPONO"] },
+            { "name": "YWAYA", "villages": ["LAMOKI", "OKIR"] }
+          ]
+        },
+        {
+          "name": "GOT APWOYO",
+          "parishes": [
+            { "name": "BAR LYEC", "villages": ["ARINGO KECH", "KATINYA", "TEOKOT"] },
+            { "name": "TEGOT", "villages": ["ALOKIWINYO", "LATORO CENTRAL", "LATORO TEGOT", "PAJENGO"] },
+            { "name": "OBIRA", "villages": ["OBIRA LOWER", "OBIRA SOUTH", "OBIRA UPPER"] },
+            { "name": "PAMINOLANGO", "villages": ["AYARO LWANGO", "LAYELE", "OTENGOBWOME", "WII ANAKA"] }
+          ]
+        },
+        {
+          "name": "KOCH-GOMA",
+          "parishes": [
+            { "name": "AGONGA", "villages": ["AGONGA A", "AGONGA B"] },
+            { "name": "AMAR", "villages": ["KALANG", "LAKALAC"] },
+            { "name": "COO-ROM", "villages": ["LAPEM", "OKIR"] },
+            { "name": "GOMA KAL", "villages": ["KAL A1", "KAL A2", "KAL B"] }
+          ]
+        },
+        {
+          "name": "LII",
+          "parishes": [
+            { "name": "LANGELE", "villages": ["CEKE", "CELPEKE", "PAKAWERA", "OGELO"] },
+            { "name": "LII", "villages": ["BUNGU", "PAKIYA"] },
+            { "name": "LUTUK", "villages": ["AGONGA B", "GONY COGO", "TEOJAR", "TEGOT LUNYANG"] },
+            { "name": "ORUM", "villages": ["GORO", "KOROBAR", "OBUL"] }
+          ]
+        },
+        {
+          "name": "LUNGULU",
+          "parishes": [
+            { "name": "BAJERE", "villages": ["AGUCIRA", "LUKAI", "LADYEMA"] },
+            { "name": "LEBNGEC", "villages": ["CORNER LUKUNG", "LEBNGEC LOWER", "LEBNGEC UPPER"] },
+            { "name": "LULYANGO", "villages": ["GWENOTWOM", "LACEK", "LAGUR"] },
+            { "name": "NYAMOKINO", "villages": ["ALINGIRI", "ARANA", "GOT OKWARA", "DOK ACWA"] },
+            { "name": "PANOKRAC", "villages": ["LUNIK", "LATEKODONG", "OWER"] }
+          ]
+        },
+        {
+          "name": "NWOYA TOWN COUNCIL",
+          "parishes": [
+            { "name": "AKAGO WARD", "villages": ["AKAGO CENTRAL", "MISSION", "LARONGO", "OBIRA"] },
+            { "name": "CEKE WARD", "villages": ["BIDATI", "KAL", "LAMOGI", "OWAK"] },
+            { "name": "LABYEI WARD", "villages": ["DOG - AKAGO", "LUYAM", "PAJAA", "OLONY"] },
+            { "name": "OGOM WARD", "villages": ["AMUKA", "KWEYO", "ONYOMTIL", "PUDYEK"] }
+          ]
+        },
+        {
+          "name": "PURONGO",
+          "parishes": [
+            { "name": "PABIT", "villages": ["LAGAZI", "PABIT EAST", "PABIT WEST", "PARAA"] },
+            { "name": "PAROMO", "villages": ["BELKEC", "GOTNGUU", "LODI"] },
+            { "name": "PATIRA", "villages": ["PATIRA EAST", "PATIRA WEST"] },
+            { "name": "PAWATOMERO", "villages": ["PAWATOMERO CENTRAL", "PAWATOMERO EAST", "PAWATOMERO WEST"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "name": "BULIISA",
+  "counties": [
+    {
+      "name": "BULIISA",
+      "sub_counties": [
+        {
+          "name": "BIISO",
+          "parishes": [
+            {
+              "name": "BIISO",
+              "villages": [
+                "BIISO T/C",
+                "KIHUUHA",
+                "KITIGO",
+                "KAYONGO",
+                "KAHEMURA",
+                "KANYARANYARA",
+                "KANYUNYA",
+                "KATUMBA",
+                "PIIDA T/C",
+                "SITIINI A"
+              ]
+            },
+            { "name": "BUBWE", "villages": ["BUBWE", "KAYERA", "KAMPALA A", "KAMPALA B", "NGANDA", "TANGALA"] },
+            {
+              "name": "BUSINGIRO",
+              "villages": [
+                "BUSINGIRO",
+                "KIJUNGU",
+                "KIJURA",
+                "KAWONA",
+                "KAYANJA",
+                "KALENGEIJA A",
+                "KALENGEIJA B",
+                "KALENGEIJA T/C",
+                "SITINI B",
+                "UDUKURU A",
+                "UDUKURU B"
+              ]
+            },
+            { "name": "NYAMASOGA", "villages": ["BUKUMI", "ITUTWE A", "ITUTWE B", "NYAMASOGA A", "NYAMASOGA B"] }
+          ]
+        },
+        {
+          "name": "BULIISA",
+          "parishes": [
+            { "name": "BUGANA", "villages": ["KICHOKE BUGANA", "KATALEEBA", "WAIGA"] },
+            { "name": "KAKOORA", "villages": ["BEROYA", "KIJUMBYA", "KAKOORA"] },
+            { "name": "KIGOYA", "villages": ["KABOLWA", "KIGOYA", "KIJANGI"] },
+            { "name": "NYAMITETE", "villages": ["GONLYECH", "PANDEGA", "URIIBO"] }
+          ]
+        },
+        {
+          "name": "BULIISA TOWN COUNCIL",
+          "parishes": [
+            { "name": "CENTRAL WARD", "villages": ["CIVIC", "KIGONGI"] },
+            { "name": "EASTERN WARD", "villages": ["KIZIKYA", "NYAPEYA"] },
+            { "name": "NORTHERN WARD", "villages": ["KISIMO", "KAKINDO"] },
+            { "name": "WESTERN WARD", "villages": ["KITAHURA", "KITYANGA"] }
+          ]
+        },
+        {
+          "name": "BUTIABA",
+          "parishes": [
+            { "name": "BOOMA", "villages": ["BARRACKS", "BOOMA", "KIGANGAIZI", "PIIDA B", "TUGOMBILI"] },
+            { "name": "BUGOIGO", "villages": ["KIGUNGU", "MUNONDE", "SERULE A", "SERULE B", "WAISOKE"] },
+            { "name": "WALUKUBA", "villages": ["KISINJA", "NYAMUKUTA", "KARUKA", "KAMAGONGOLO", "SONSIO", "WALUKUBA"] },
+            { "name": "PIIDA", "villages": ["KEKEYA", "KAWAIBANDA", "MAGALI", "PIIDA A", "TRIANGLE"] }
+          ]
+        },
+        {
+          "name": "KIGWERA",
+          "parishes": [
+            { "name": "KIGWERA", "villages": ["KIGWERA NORTH WEST", "KIGWERA SOUTH EAST", "KIGWERA SOUTH WEST"] },
+            { "name": "KIRAMA", "villages": ["KIGWERA NORTH EAST", "KIRAMA", "KIYERE"] },
+            { "name": "KISANYA", "villages": ["BIKONGOLO", "KISANSYA EAST", "KISANSYA WEST"] },
+            { "name": "NDANDAMIRE", "villages": ["KICHOKE", "KATODIO", "NDANDAMIRE"] },
+            { "name": "WANSEKO", "villages": ["KATANGA", "MASAKA", "WANSEKO T/C"] }
+          ]
+        },
+        {
+          "name": "KIHUNGYA",
+          "parishes": [
+            {
+              "name": "GARASOYA",
+              "villages": ["AKIIMI A", "AKIMI B", "KIIZI", "GARASOYA A", "KYABURUNGI", "KANSIMO", "MUSIIZI"]
+            },
+            { "name": "KAGERA", "villages": ["AKOLO LOWER", "AKOLO UPPER", "ANGOLYERO", "HAIBALE", "KAGERA"] },
+            {
+              "name": "WAAKI",
+              "villages": ["ITUTWE K", "KIHUNGYA T/C", "KIMBENI", "MUGUME", "WAAKI EAST", "WAAKI WEST"]
+            },
+            { "name": "NYERAMYA", "villages": ["KABASEKA", "GARASOYA B", "NYARAMYA", "NYALWERA A"] }
+          ]
+        },
+        {
+          "name": "NGWEDO",
+          "parishes": [
+            { "name": "AVOGERA", "villages": ["AVOGERA", "KAMANDINDI", "MUVULE NUNDA"] },
+            { "name": "NGWEDO", "villages": ["KIBAMBURA", "NGWEDO T/CENTRE", "UDUK II"] },
+            { "name": "NILE", "villages": ["KILYANGO", "KISOMERE", "KASINYI"] },
+            { "name": "MUBAKO", "villages": ["KARATUM", "MUBAKO", "PARAA"] },
+            { "name": "MUVULE", "villages": ["AJIGO", "MUVULE", "NGWEDO FARM", "UDUK I"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

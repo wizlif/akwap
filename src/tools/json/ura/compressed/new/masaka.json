@@ -1,0 +1,509 @@
+{
+  "name": "MASAKA",
+  "counties": [
+    {
+      "name": "BUKOTO CENTRAL",
+      "sub_counties": [
+        {
+          "name": "KABONERA",
+          "parishes": [
+            {
+              "name": "BISANJE",
+              "villages": ["BISANJE EAST", "BISANJE WEST", "BUTAAYA", "KASAALI", "KANABUKULIRO", "KAGGANDA", "NABINENE"]
+            },
+            {
+              "name": "BUTALE",
+              "villages": ["BUTALE A", "BUTALE B", "KIKUNGWE A", "KIKUNGWE B", "KAYUNGA", "NABULAGO", "TAKAJJUNGE"]
+            },
+            { "name": "KAKUNYU", "villages": ["BUKOTO", "KISENYI A", "KISENYI B", "KAKUNYU", "KASANGO", "KYANAKASE"] },
+            {
+              "name": "KYAMUYIMBWA",
+              "villages": ["BUSENSE", "KABAGABO", "KIKALAALA", "KYAMUYIMBWA", "KYANJALE", "KAGEZI", "LWANSUSU"]
+            },
+            {
+              "name": "KIRIMYA",
+              "villages": ["KIRIMYA A", "KIRIMYA B", "KIRIMYA VILLAGE", "GAYAZA FUWE", "GAYAZA NABBOWA"]
+            },
+            {
+              "name": "KITANGA",
+              "villages": [
+                "DDEGEYA",
+                "KITANGA",
+                "KAWULE",
+                "KAYIRIRA",
+                "KYAJUBIRA",
+                "KYALULIRA",
+                "KASEETA",
+                "KANSAMBYA",
+                "MBIRIZI"
+              ]
+            },
+            {
+              "name": "KIZIBA",
+              "villages": ["BUKOONA", "BUSAGALA", "KABONERA A", "KABONERA B", "KIZIBA", "KITO", "KASANJE", "LUFUMBA"]
+            }
+          ]
+        },
+        {
+          "name": "KYANAMUKAKA",
+          "parishes": [
+            {
+              "name": "BUYAGA",
+              "villages": [
+                "BBAALE",
+                "BIBAALE",
+                "KIWUMPA",
+                "KANYAGA",
+                "MIJUNJU",
+                "MPALA",
+                "LUWEREKERA",
+                "NKOMA",
+                "NKUUNA",
+                "NAMIREMBE",
+                "SSERINYA"
+              ]
+            },
+            {
+              "name": "BUYINJA",
+              "villages": ["BUYINJA", "KYENGERERE", "MIKOMAGO", "MIRUNDU", "LUKODDE", "LUZINGA", "SSEMUTO"]
+            },
+            {
+              "name": "KAMUZINDA",
+              "villages": [
+                "BIYA",
+                "BULEGEYA",
+                "BUKUNDA",
+                "KIKUUMA - DDUNGU",
+                "KYAMULA",
+                "KALUUMA",
+                "KAMUZINDA",
+                "KANONI",
+                "LUBUMBA - BULEMBE",
+                "MANZI",
+                "TTALA"
+              ]
+            },
+            {
+              "name": "KYANTALE",
+              "villages": [
+                "BUWUNDE",
+                "KIZIGO",
+                "KKINDU",
+                "KATIITI",
+                "KYAJJUNGU",
+                "KYAMBAZI",
+                "KYANAMUKAKA",
+                "KYANANJULA",
+                "KAMUNGU",
+                "KASOLO",
+                "KANAMUSALABA",
+                "KAGOLOGOLO",
+                "MANYWA",
+                "LUVUNJA",
+                "NFUULA",
+                "SSERINYA - BBAALA"
+              ]
+            },
+            {
+              "name": "ZZIMWE",
+              "villages": [
+                "BUKYALA",
+                "BUTANU",
+                "KATINYONDO",
+                "KALAMBI",
+                "KYASA",
+                "MINYINYA - PROPER",
+                "MINYINYA GALILAYA",
+                "MINYINYA KABAALE",
+                "MINYINYA KYAMUTWE",
+                "LUBUMBA",
+                "LUKINDU (A)",
+                "LUKINDU (B)",
+                "NSANGWA",
+                "ZZIMWE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KYESIIGA",
+          "parishes": [
+            {
+              "name": "BBULIRO",
+              "villages": [
+                "BBULIRO A",
+                "BBULIRO B",
+                "KIRAMBULA",
+                "DDIMO",
+                "BYAMBAALE",
+                "GAYAZA",
+                "KATIKAMU",
+                "NABITAKA",
+                "MUWOLOLO"
+              ]
+            },
+            {
+              "name": "BUGERE",
+              "villages": [
+                "BUGERE A",
+                "BUGERE B",
+                "BUTOZI",
+                "KIBBE",
+                "KAJJWA",
+                "KAMUGENYI",
+                "KAMULEGU",
+                "MWERUKA A",
+                "MWERUKA B",
+                "MWERUKA C",
+                "LWAGGULWE A",
+                "LWAGGULWE B",
+                "LWAGGULWE C"
+              ]
+            },
+            {
+              "name": "KYESIIGA",
+              "villages": [
+                "BAMUNANIKA",
+                "BIRONGO",
+                "BUGO - LWEMODDE",
+                "BUNYUMA",
+                "KABANDA",
+                "KISEREKETE",
+                "KATWE",
+                "KALINGOMA",
+                "KASANJE",
+                "KYATOKOLO",
+                "MAGEEGE",
+                "MAGIRI",
+                "LUKOLO",
+                "MULEMA",
+                "NATEETE"
+              ]
+            },
+            {
+              "name": "KITUNGA",
+              "villages": [
+                "BIGGA",
+                "KIKONDA",
+                "KITUNGA A",
+                "KITUNGA B",
+                "KYAMUZIMBA",
+                "MALEMBO",
+                "MUKOBE",
+                "LUKONO",
+                "MUKUNYU"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUKOTO EAST",
+      "sub_counties": [
+        {
+          "name": "BUKAKATA",
+          "parishes": [
+            {
+              "name": "BUKIBONGA",
+              "villages": [
+                "BISWA",
+                "BUKIBONGA",
+                "BUKAKATA",
+                "BUNADDU",
+                "KABASESE A",
+                "KABASESE B",
+                "KAZIRU",
+                "KIKONOKA",
+                "KISASA",
+                "KACHANGA",
+                "KASOKERO",
+                "LAMBU A",
+                "LAMBU B",
+                "LAMBU C",
+                "NAKITOKOLO"
+              ]
+            },
+            { "name": "MAKONZI", "villages": ["BUKOKO", "BUZIRANGO", "BWAMI", "KISUKU", "MITONDO"] },
+            {
+              "name": "SSUNGA",
+              "villages": [
+                "BBAALE",
+                "BIRINZI",
+                "BUKAAYI A",
+                "BUKAAYI B",
+                "KISAAKA A",
+                "KISAAKA B",
+                "KIGO",
+                "KASANJE-NAKIGGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUWUNGA",
+          "parishes": [
+            {
+              "name": "BUWUNGA",
+              "villages": [
+                "BUWUNGA-KYABBUMBA",
+                "BUYANJA",
+                "KITWE A",
+                "KITWE B",
+                "KASEETA",
+                "KYANTE-KAWULE",
+                "KYASSUNSU-DOGERO",
+                "MIKONI-KATTOLO"
+              ]
+            },
+            {
+              "name": "GGULUMA",
+              "villages": [
+                "BUKINDA-KAKINTU",
+                "BUKINDA-NAKATEETE",
+                "JANGANO",
+                "KAWERE-KIGANGAZZI",
+                "KABUCUNCU-NAKASOJJO"
+              ]
+            },
+            {
+              "name": "BULANDO",
+              "villages": ["BULANDO A", "BULANDO B", "KABAGABO", "KIBINDI", "KAYIJJA", "SERINYA-BULUNGU"]
+            },
+            {
+              "name": "KAMWOZI",
+              "villages": [
+                "BUTEBERE",
+                "BUWANGA - NAROZAALI",
+                "KIJONJO",
+                "KALUGONDO",
+                "KYANJOVU",
+                "KYEERA",
+                "KAMWOZI",
+                "LUGAZI",
+                "LWANUNDA"
+              ]
+            },
+            {
+              "name": "KANYWA",
+              "villages": [
+                "BUKEERI",
+                "BULEMBA",
+                "KABIRA-KANAMUSABALA",
+                "KITOMA",
+                "KASOZI",
+                "KANNYWA",
+                "MUMPU-MUTEMANTE",
+                "MBIRA",
+                "NAKIYAGA",
+                "NKUKE A",
+                "NKUKE B",
+                "TEKERA"
+              ]
+            },
+            {
+              "name": "KASAKA",
+              "villages": [
+                "BIRONGO",
+                "BULENGE",
+                "KAJUNA BENA",
+                "KAJUNA CHURCH",
+                "KALODDO",
+                "KASAKA - EMIRIRO A",
+                "KASAKA - EMIRIRO B",
+                "KASAKA - FELESIO",
+                "NNYONDO"
+              ]
+            },
+            {
+              "name": "KITENGEESA",
+              "villages": [
+                "KITENGEESA B",
+                "KITENGEESA T.C.",
+                "KIDDA",
+                "KYANGA - KITEZA",
+                "KYASSUMA",
+                "MAZINGA A",
+                "MAZINGA B",
+                "LWANYI"
+              ]
+            },
+            {
+              "name": "MAZINGA",
+              "villages": [
+                "BUTALE",
+                "BUTENZI-BUSAALE",
+                "BUTENZI-KANNYOGOGA",
+                "KATOOGO",
+                "MISANSALA",
+                "MUGUMBA",
+                "MAZINGA",
+                "NDOZI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MUKUNGWE",
+          "parishes": [
+            {
+              "name": "BUGABIRA",
+              "villages": [
+                "BUGABIRA",
+                "KIYIMBWE",
+                "KISAGAZI/BUTERERE",
+                "KYALI",
+                "KYALUGO",
+                "KALUNDIRA",
+                "LWABUSISI",
+                "NDEGEYA"
+              ]
+            },
+            {
+              "name": "BULAYI",
+              "villages": ["BULAYI LUGUUDO", "BULAYI SEETA", "KIYUMBA", "KIKULULA", "KIGATTO", "KIWAALA", "MITEMULA"]
+            },
+            {
+              "name": "KATWADDE",
+              "villages": ["KAYUGI", "KATWADDE", "KASAALA", "KASAANA", "MANYWA-KAZIRA", "LUVULE", "NJUMAGA"]
+            },
+            {
+              "name": "KALAGALA",
+              "villages": [
+                "BUGGYA",
+                "KIRINDA",
+                "KINONI",
+                "KITENGA A",
+                "KITENGA B",
+                "KAYIRIKITI",
+                "KAYUNGA",
+                "KALAGALA",
+                "KASAANA",
+                "KASANA",
+                "MISAALI",
+                "MULEMA",
+                "LWABIKERE"
+              ]
+            },
+            {
+              "name": "MATANGA",
+              "villages": ["BUTALE", "BUTENDE", "KIWANYIZI", "KINYERERE", "MATANGA", "LWANDA", "NSANGAMO", "NAKATOOKE"]
+            },
+            {
+              "name": "SAMALIYA",
+              "villages": [
+                "KAKO HILL",
+                "KAKO VILLAGE",
+                "KYALUSOWE A",
+                "KYALUSOWE B",
+                "MPUGWE T.C",
+                "MPUGWE VILLAGE",
+                "MUKUNGWE/KIYANJA",
+                "LUZINGA",
+                "NAMAKINDU",
+                "SAMALIYA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MASAKA MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "KATWE/BUTEGO",
+          "parishes": [
+            {
+              "name": "BUTEGO",
+              "villages": [
+                "BUTEGO",
+                "KIYIMBWE",
+                "KIRUMBA A",
+                "KIRUMBA B",
+                "KALAGALA",
+                "KAMUGOMBWA",
+                "SSAZA",
+                "U.T.C MASAKA"
+              ]
+            },
+            {
+              "name": "KATWE",
+              "villages": [
+                "BATA CELL",
+                "BWALA",
+                "KIRUMBA -KATWE",
+                "CINEMA CELL",
+                "KISUUNA",
+                "KITABAZI",
+                "FOLK LAND CELL",
+                "KANONI",
+                "MARKET CELL",
+                "MUTUBA-MUSISI GARDENS",
+                "TOWN YARD"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIMAANYA/KYABAKUZA",
+          "parishes": [
+            { "name": "KYABAKUZA", "villages": ["KYABAKUZA A", "KYABAKUZA B", "KYABAKUZA T.C", "GAYAAZA", "MWALO"] },
+            {
+              "name": "KIMAANYA",
+              "villages": [
+                "KIJJABWEMI A",
+                "KIJJABWEMI B",
+                "KIZUNGU",
+                "KUMBU H.E",
+                "KIMAANYA A",
+                "KIMAANYA B",
+                "KASSIJAGIRWA VILLAGE",
+                "MASAKA HOSPITAL",
+                "MASAKA S.S.S",
+                "NEW KKUMBU",
+                "POLICE/PRISON BARRACKS"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYENDO/SENYANGE",
+          "parishes": [
+            {
+              "name": "SENYANGE",
+              "villages": [
+                "BUCHULO",
+                "KITOVU HOSPITAL",
+                "KITOVU-KASANA",
+                "SSENYANGE A",
+                "SSENYANGE B",
+                "ST.HENRY S COLLEGE KITOVU"
+              ]
+            },
+            {
+              "name": "NYENDO",
+              "villages": [
+                "BINYONYI A",
+                "BINYONYI B",
+                "BLOCK A",
+                "BUJJA-NJERU",
+                "KINSADDE",
+                "KITAKA",
+                "KAYIRIKITI",
+                "KITOVU - NNUME",
+                "KITOVU ROAD",
+                "KASANA",
+                "MARKET - TRIANGLE",
+                "MUKUDDE",
+                "NSEREKO",
+                "NAKAYIBA A",
+                "NAKAYIBA B"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

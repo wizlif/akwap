@@ -1,0 +1,591 @@
+{
+  "name": "KISORO",
+  "counties": [
+    {
+      "name": "BUFUMBIRA EAST",
+      "sub_counties": [
+        {
+          "name": "BUKIMBIRI",
+          "parishes": [
+            {
+              "name": "IREMERA",
+              "villages": [
+                "BUGOMORA",
+                "BUTENGO",
+                "KABITOJO",
+                "KIGYEYO",
+                "KIJUGUTA",
+                "KISUNYU",
+                "NYAMIYAGA",
+                "KASHENYI",
+                "RWAMASHENYI",
+                "RUGONGWE",
+                "NYAMASINDA",
+                "RUSHEKYE"
+              ]
+            },
+            { "name": "KAGUNGA", "villages": ["BAMBA", "BIRARA", "KISAGARA", "CYOGO", "KATERITERI", "NYAKAREMBE"] }
+          ]
+        },
+        {
+          "name": "KANABA",
+          "parishes": [
+            {
+              "name": "KAGEZI",
+              "villages": [
+                "GISASA",
+                "GITEBE",
+                "BUSHOGA",
+                "BUTOKE",
+                "KOGA",
+                "RWUYA",
+                "KAGERA",
+                "MUKAKA",
+                "RUBURI",
+                "RUGARAMA"
+              ]
+            },
+            {
+              "name": "MUHINDURA",
+              "villages": [
+                "GISASA",
+                "GISENYI",
+                "CHUNGO",
+                "KIBANDE",
+                "GATARE",
+                "KIGEZI",
+                "KAGOROGORO",
+                "KAMUGOYI",
+                "KAGANO",
+                "MULINDI",
+                "NYAGATEMBE",
+                "RUKORO",
+                "SHAYU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MURORA",
+          "parishes": [
+            {
+              "name": "CHAHAFI",
+              "villages": [
+                "GICUZI",
+                "GIHUYAGA",
+                "GISHA",
+                "KABAMI",
+                "KABINGO",
+                "GASHORO",
+                "GATETE",
+                "KARAMBI",
+                "KARUZOGERO",
+                "KABYAZA",
+                "MUHIGA",
+                "MUPAKA",
+                "NYABUNE",
+                "RWABARA",
+                "RUBANGE",
+                "NYABITARE"
+              ]
+            },
+            {
+              "name": "CHIBUMBA",
+              "villages": [
+                "BIIZI",
+                "BUKERAHE",
+                "BUYORA",
+                "CHIBUMBA",
+                "MPUNDU",
+                "MAREGAMO",
+                "RUGESHI",
+                "NYAMATEMBE",
+                "RUKOPFE",
+                "NYABIYONGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKABANDE",
+          "parishes": [
+            {
+              "name": "GASIZA",
+              "villages": [
+                "BIHURU",
+                "BUGARA",
+                "BUSOZI",
+                "CHUCHO",
+                "KIBAYA",
+                "GAKORO",
+                "KARURUMA",
+                "KABUMBA",
+                "MUGOMBERO",
+                "MBURARA",
+                "MUTOLERE HOSPITAL",
+                "MUTOLERE PARISH",
+                "RUBURANKONO",
+                "RAMBURA",
+                "SHOZI"
+              ]
+            },
+            {
+              "name": "GISORORA",
+              "villages": [
+                "BUGARA",
+                "BUBAGA",
+                "GAHINGA",
+                "KIBURARA",
+                "GATARE",
+                "KIGEZI",
+                "KIGOMA",
+                "KANYABUKUNGU",
+                "MBURABUTURO",
+                "NYAKABANDE",
+                "NTURO",
+                "SHOZI"
+              ]
+            },
+            {
+              "name": "RWINGWE",
+              "villages": ["BULUNGA", "GIKORO", "BUTUGA", "KIRARO", "CYIBUMBA", "GAKORO", "GASARO", "KAMATINZA"]
+            }
+          ]
+        },
+        {
+          "name": "NYUNDO",
+          "parishes": [
+            { "name": "BUBUYE", "villages": ["BUBUYE", "GISEKE", "MULEHE", "RUBONA", "NYARUBUYE"] },
+            {
+              "name": "NYUNDO",
+              "villages": [
+                "IKAMIRO",
+                "BUZANIRO",
+                "KIRIBA",
+                "RWEBIKONKO",
+                "MUKOZI",
+                "MUKUNGU",
+                "MATYAZO",
+                "MUSEZERO",
+                "MUTANDA",
+                "RUGARYI",
+                "RUSAVE",
+                "RULEMBO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUFUMBIRA NORTH",
+      "sub_counties": [
+        {
+          "name": "BUSANZA",
+          "parishes": [
+            {
+              "name": "GITOVU",
+              "villages": [
+                "BUGARA",
+                "GITOVU",
+                "BUNYANYA",
+                "BUSIGI",
+                "BUTUNGA",
+                "KABAYA",
+                "KINANIRA",
+                "GAKYENKYE",
+                "GATERA",
+                "RURANGARA",
+                "NYARURAMBI"
+              ]
+            },
+            {
+              "name": "BUHOZI",
+              "villages": [
+                "BUGANA",
+                "BUHOZI",
+                "BUSANANI",
+                "GIHIMBI",
+                "GIKORO",
+                "IKARAMBO",
+                "BUTOBO",
+                "GAHIZA",
+                "KABURASAZI",
+                "KAGEZI",
+                "MUREHE",
+                "MUYOVE",
+                "NYAGATANDA",
+                "NYAMABUYE",
+                "RUSEKE"
+              ]
+            },
+            {
+              "name": "BUHUMBU",
+              "villages": [
+                "BUCURABWENGE",
+                "BUCUZI",
+                "BURAZA",
+                "KABAYA",
+                "KILIBA",
+                "KIBALE",
+                "KAMUKUMU",
+                "RWANZU",
+                "RUVUMU",
+                "RUBONA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIRUNDO",
+          "parishes": [
+            {
+              "name": "RUBUGURI",
+              "villages": [
+                "HIGABIRO",
+                "IGABIRO",
+                "KANYAMAHANE",
+                "KASHAKA",
+                "KASHIJA",
+                "KAFUGA",
+                "RUGANDU",
+                "RUSHABARARA",
+                "RUSHAGA",
+                "NOMBE",
+                "RUTOOMA",
+                "NYABAREMURA",
+                "NYABICENCE"
+              ]
+            },
+            {
+              "name": "RUTAKA",
+              "villages": [
+                "BUGINA",
+                "BUCEECE",
+                "IGARI",
+                "IREMERA",
+                "KIRUNDO",
+                "KIRWA",
+                "KISHARU",
+                "GACACA",
+                "KIBUGU",
+                "KIGOMBE",
+                "KALEHE",
+                "MURAMBI",
+                "RUGAMBWA",
+                "RUGANDU",
+                "RUGENDABARE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYABWISHENYA",
+          "parishes": [
+            {
+              "name": "NTEKO",
+              "villages": [
+                "BIKOKORA",
+                "KABAYA",
+                "KIKOBERO",
+                "KIKOMO",
+                "KAHURIRE",
+                "NYAMIKUMBI",
+                "MUGOMBWA",
+                "MUROLE",
+                "NTEKO",
+                "SUMA"
+              ]
+            },
+            {
+              "name": "NYARUTEMBE",
+              "villages": ["BITARE", "BUSANANI", "KIBYIYONI", "KIGEZI", "MUKO", "NYARUTEMBE", "SHUNGA"]
+            }
+          ]
+        },
+        {
+          "name": "NYARUBUYE",
+          "parishes": [
+            {
+              "name": "BUSENGO",
+              "villages": [
+                "BUSHEKWE",
+                "BUSENYANGABO",
+                "BUSHUNGA B",
+                "KABAYA",
+                "KIRAMBO",
+                "GATOBO",
+                "KANYANCUCU",
+                "KAGEYO"
+              ]
+            },
+            {
+              "name": "KARAMBI",
+              "villages": [
+                "BUKEBEKA",
+                "BUSHUNGA A",
+                "KABAGARA",
+                "KABANDE",
+                "KIRWA",
+                "KINYABABA",
+                "GAPFURIZO",
+                "GATETE",
+                "KANYANDO",
+                "NYARUBANDE",
+                "MWARO",
+                "RUKO",
+                "NYAKAGEZI",
+                "RUTUNDURE"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUFUMBIRA SOUTH",
+      "sub_counties": [
+        {
+          "name": "CHAHI",
+          "parishes": [
+            {
+              "name": "NYAKABINGO",
+              "villages": [
+                "BIHANGA",
+                "BUGAHE",
+                "BUHAYO",
+                "BUKINGO",
+                "KABARA",
+                "KIBAYA",
+                "GAHINGA",
+                "GAHUNGA",
+                "RWANKONI",
+                "MUGANZA",
+                "MASAKA",
+                "RUKORO"
+              ]
+            },
+            { "name": "MUGANZA", "villages": ["BUHINGA", "BUSAMBA", "BUSARO", "KABUGA"] },
+            {
+              "name": "RUTARE",
+              "villages": [
+                "BIREMBO",
+                "KABIRA",
+                "KIRIMIRO",
+                "KINYABABA",
+                "GAHURO",
+                "KANYAMICUCU",
+                "NYAMIGENDA",
+                "RUTARE",
+                "RUBAGABAGA",
+                "NYARURAMA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MURAMBA",
+          "parishes": [
+            {
+              "name": "GISOZI",
+              "villages": [
+                "BUKAZI",
+                "GISHONDORI",
+                "KIBANDE",
+                "CHANA",
+                "KAGANDU",
+                "KANOMBE",
+                "MUGWATA",
+                "MATARAMA",
+                "NYAGAKENKE"
+              ]
+            },
+            {
+              "name": "BUNAGANA",
+              "villages": [
+                "BUBAGANA T. CENTRE",
+                "BUSANZA",
+                "GITOWA",
+                "KIBAYA",
+                "GAKORO",
+                "GATSIBO",
+                "GATWE",
+                "KANYAMPIRIKO",
+                "KARA",
+                "MAKURIZO",
+                "NDAYINGOMA",
+                "NYARUTOVU"
+              ]
+            },
+            {
+              "name": "MURAMBA",
+              "villages": [
+                "BUKARA",
+                "BURERE",
+                "BURUNGU",
+                "GAKO",
+                "KIDAKAMA",
+                "KANYENKA",
+                "MURINZI",
+                "MAZIBA",
+                "RUHANDANZOVU",
+                "RUHANGO",
+                "NANGO"
+              ]
+            },
+            {
+              "name": "SOOKO",
+              "villages": [
+                "BIZITIRO",
+                "GAKORO",
+                "GAKWARE",
+                "GASARARA",
+                "GASURI",
+                "KIGARAMA",
+                "MUGWATA",
+                "MATABA",
+                "MURORA",
+                "MIGESHI",
+                "RUSENYI",
+                "NTARAMA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKINAMA",
+          "parishes": [
+            {
+              "name": "CHIHE",
+              "villages": [
+                "GIFUNZO",
+                "GIKORO",
+                "BURERE",
+                "BUSINGA",
+                "BUTURANYA",
+                "KINONI",
+                "GATOVU",
+                "KANYAMEGERI",
+                "KANGOMA",
+                "KANNYOGO",
+                "MUCYAMO",
+                "MUKINGO"
+              ]
+            },
+            { "name": "MBUGA", "villages": ["BUGWENE", "BUHAYO", "BUZIGAMBOGO", "GASE", "TABA"] },
+            {
+              "name": "RWARAMBA",
+              "villages": [
+                "BIHANGA",
+                "BUKERE",
+                "BULIHIRA",
+                "BUSERA",
+                "BUPFUMPFU",
+                "KABANDE",
+                "GAHEMBE",
+                "GASAVE",
+                "GATETE",
+                "GATYAZO",
+                "KIGATA",
+                "MURAMBI",
+                "MIGESHI",
+                "NDAKIRIYE",
+                "NYAGICEBE",
+                "NYAKINAMA",
+                "RUKORO",
+                "NTURO",
+                "NYABITARE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYARUSIZA",
+          "parishes": [
+            {
+              "name": "GASOVU",
+              "villages": [
+                "BUNAMA",
+                "GISHITA",
+                "BUSHOKA",
+                "KABONERO",
+                "KABALE",
+                "KABAYA",
+                "BUZEYI",
+                "KAZIBA",
+                "CHONDO",
+                "GASOVU",
+                "KARAMBI",
+                "MUGWATA",
+                "MATYAZO",
+                "MUSASA",
+                "NDAGO",
+                "NYAGIHENGE",
+                "NYAGISENYI"
+              ]
+            },
+            {
+              "name": "GITENDERI",
+              "villages": [
+                "BITONGO",
+                "BUTAHA",
+                "KABANDE",
+                "KABAYA",
+                "MWANJARI",
+                "MUBANDE",
+                "MUBUGA",
+                "MATABA",
+                "RUCHANTEGE",
+                "NDEGO",
+                "RUKERI",
+                "NZOGERA"
+              ]
+            },
+            {
+              "name": "MABUNGO",
+              "villages": [
+                "BIGINA",
+                "BIKORO",
+                "BUHANGURA",
+                "BUHIMA",
+                "BURAKEYE",
+                "GASENYI",
+                "SAGITWE",
+                "NYAMUSHUNGWA",
+                "NSHORA",
+                "RUSISIRO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KISORO MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "CENTRAL DIVISION",
+          "parishes": [
+            { "name": "CENTRAL", "villages": ["KISORO HILL", "KARUMENA", "MAIN"] },
+            { "name": "NYAMAGANA", "villages": ["CHINTALE", "NYAMIRIMA", "NYARUYAGA"] }
+          ]
+        },
+        {
+          "name": "NORTHERN DIVISION",
+          "parishes": [
+            { "name": "KAMONYI", "villages": ["KIBAYA", "GASE", "KAMONYI A", "KAMONYI B", "ZINDIRO"] },
+            { "name": "NYAGASHINGE", "villages": ["GISHEGAERA", "CHAHI", "NYAGASHINGE"] }
+          ]
+        },
+        {
+          "name": "SOUTHERN DIVISION",
+          "parishes": [
+            { "name": "BUSAMBA", "villages": ["KIBANDE", "GASHEGESHI", "MIKINGO", "NYARUHENGYERI"] },
+            { "name": "GASIZA", "villages": ["BIKORO A", "BIKORO B", "GASARARA", "GATOVU"] },
+            { "name": "HOSPITAL", "villages": ["BIGINA", "KABAYA", "GATOVU", "KASEMISEGO"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

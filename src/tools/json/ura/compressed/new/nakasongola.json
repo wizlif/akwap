@@ -1,0 +1,296 @@
+{
+  "name": "NAKASONGOLA",
+  "counties": [
+    {
+      "name": "BUDYEBO",
+      "sub_counties": [
+        {
+          "name": "LWAMPANGA",
+          "parishes": [
+            { "name": "LWAMPANGA", "villages": ["KABASOMBWA", "KISENYI", "NAKALIKIIRYA", "MBAARI", "LWAMPANGA"] },
+            { "name": "KIKOIRO", "villages": ["KIKOIRO", "KIBUYE", "KASENYI"] },
+            {
+              "name": "KISAALIZI",
+              "villages": ["KIKARAGANYA", "KISAALIZI", "KIMOLE", "KIGINGO", "KYAWAIKATA", "KYEBISIRE"]
+            },
+            {
+              "name": "KIWEMBI",
+              "villages": ["IRIMBA", "KIWEMBI", "BWIRE", "KITYOBA", "KAMABBALA", "NABWITA", "RWAKATABA", "NAMUKAGO"]
+            },
+            {
+              "name": "WAJJALA",
+              "villages": ["AIR FIELD", "KITALEBA", "KANYONYI(BARRACKS COMPLEX)", "LUWERO INDUSTRIES", "WAJJALA"]
+            },
+            { "name": "ZENGEBE", "villages": ["KABIRA", "KIYANJA", "MUWUNAMI", "ZENGEBE"] }
+          ]
+        },
+        {
+          "name": "MIGYERA TOWN COUNCIL",
+          "parishes": [
+            { "name": "MIGYERA CENTRAL WARD", "villages": ["DEMBE", "KIBIRA", "NALUKONGE", "POLICE", "POSTA"] },
+            {
+              "name": "MIGYERA EAST WARD",
+              "villages": ["KIWEEWA", "KITWEKYAMBOGO", "KYAKALA", "MIGYERA", "WAMUKOKOWE"]
+            },
+            { "name": "MIGYERA NORTH WARD", "villages": ["KYABACWEZI", "KYANGOGOLO", "VETE ZONE"] },
+            { "name": "MIGYERA WEST WARD", "villages": ["BIZIBITUKULA", "MOSLEM", "MAYANJA"] }
+          ]
+        },
+        {
+          "name": "NABISWERA",
+          "parishes": [
+            { "name": "KATUBA", "villages": ["BUSONE", "KIKULUBYO", "KATUBBA", "KALWALA", "MUSENYI - MOONE"] },
+            {
+              "name": "KALENGEDE",
+              "villages": ["KIMAGA", "KALENGEDDE", "KAGIYO", "KATEEBE", "RWANDAMA", "NAMIIZO", "WALUKUNYU", "WALUSI"]
+            },
+            {
+              "name": "KYAMUKONDA",
+              "villages": [
+                "BUJUMBURA",
+                "BUYAMBA",
+                "BUYOORO",
+                "KYABALAMUKYA",
+                "KYAKISYAGA",
+                "KYAMUKONDA",
+                "NGOIZI",
+                "WADUNDULYA"
+              ]
+            },
+            {
+              "name": "KYANGOGOLO",
+              "villages": [
+                "KANYONYI",
+                "KYADOBO",
+                "KALUBANGA",
+                "KYANGOGOLO",
+                "NABISWERA",
+                "NAKAKOOLA",
+                "MATUUGO",
+                "NAMAKUKULU"
+              ]
+            },
+            {
+              "name": "NAMAASA",
+              "villages": [
+                "BUTIITI",
+                "KIRAMATA",
+                "KIRUMUKO",
+                "KALUNGU",
+                "LUGOGO",
+                "NAMAASA",
+                "SINJA",
+                "WABUSAANA",
+                "WAMUNKENDE"
+              ]
+            },
+            { "name": "MULONZI", "villages": ["KABAALA/KALULA", "KIGALAMBI", "MULONZI", "NAMBAJJU", "ZABAZULA"] }
+          ]
+        },
+        {
+          "name": "NAKITOMA",
+          "parishes": [
+            {
+              "name": "BUJJABE",
+              "villages": ["BUGARAMWA", "BUJJABE", "KIKOOBA", "KAIKANGA", "KYANI-KAFO", "NAKITOMA", "WANGOIRO"]
+            },
+            { "name": "KASOZI", "villages": ["KYAMUKAMA", "KALYAMPANDE", "KASOZI"] },
+            {
+              "name": "KIGWERI",
+              "villages": ["KABAYONGO", "KIDUGALA", "KIRYABYOYA", "KIMAATWE", "KYAKATONO", "MINAAWO"]
+            },
+            { "name": "NJERU", "villages": ["BUTUUTI", "KIRORO", "KATASENYWA", "MALOMBE", "NJERU"] }
+          ]
+        },
+        {
+          "name": "RWABYATA",
+          "parishes": [
+            {
+              "name": "KANSIRA",
+              "villages": [
+                "GAABA",
+                "KYAMBOGO",
+                "KALINDA",
+                "KYANKANGA",
+                "KADUBA",
+                "KANSIIRA",
+                "MPUMWIIRE",
+                "NAMIIKA",
+                "PODYA",
+                "SOWETO",
+                "WABUSAANA"
+              ]
+            },
+            { "name": "KIKOOGE", "villages": ["KIKOOGE", "KIKUUTA", "NDAIGA", "WANGOMA"] },
+            { "name": "NAKAYONZA", "villages": ["KIRENGE", "KAGANJA", "NAMAATO", "NAKAYONZA"] },
+            {
+              "name": "NALUKONGE",
+              "villages": [
+                "KITEREDDE",
+                "KAMULI",
+                "MPABYE",
+                "RWANJUKI",
+                "NALUKONGE",
+                "NALULONGO",
+                "RWABYATA",
+                "NTAGAARA",
+                "TUMBA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NAKASONGOLA",
+      "sub_counties": [
+        {
+          "name": "KAKOOGE",
+          "parishes": [
+            {
+              "name": "BAMUSUUTA",
+              "villages": ["BAMUSUUTA", "KINONI", "KITANDA", "KANYOGOGA", "KAKIRA", "KYAKIDUULA", "WAKAKOOLI"]
+            },
+            {
+              "name": "KATUUGO",
+              "villages": [
+                "BUTENGA",
+                "KIWONGOIRE",
+                "KIRALAMBA",
+                "KITTANSWA",
+                "KATUUGO",
+                "KYABUKONYOGO",
+                "KYAMALIMBYE",
+                "KASANGA"
+              ]
+            },
+            { "name": "KYABUTAIKA", "villages": ["KYAMPISI", "SEETA/KIRANGA", "WABINYIRA", "WAKASIMBA"] },
+            {
+              "name": "KYAMBOGO",
+              "villages": [
+                "BATUUSA",
+                "BUSEEBWE",
+                "BUVUMA",
+                "KYAMBOGO",
+                "KASAMBYA",
+                "KYANCWENDE",
+                "KYANIKA",
+                "KABUSINDE",
+                "KAMUWANULA",
+                "LWANJUKI"
+              ]
+            },
+            {
+              "name": "KYANKONWA",
+              "villages": [
+                "KABAKAZI",
+                "KYALUBAMBULA",
+                "KYALWEZA",
+                "KASAMBYA",
+                "KYANDYAGA",
+                "KYANKONWA",
+                "NONGO/NAKAKONO",
+                "WABIKONKOME"
+              ]
+            },
+            {
+              "name": "KYEYINDULA",
+              "villages": [
+                "BUDDU",
+                "BUKABI",
+                "BULAMAGO",
+                "BUSOLOSOLO",
+                "KITANGALA",
+                "KITWE",
+                "KYANSIMBI",
+                "KYEBONGORE",
+                "KYEYINDULA",
+                "LWANJUKI",
+                "NTUUTI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAKOOGE TOWN COUNCIL",
+          "parishes": [
+            { "name": "KIBIRA WARD", "villages": ["KIBIRA", "KYABUTAYIKA", "KYANSIMBI", "KAMUKAMU", "MBAALE"] },
+            {
+              "name": "KABAALE WARD",
+              "villages": ["KABAALE KLEZIA", "KABAALE MIVULE", "KAZZI", "KYAMASANDA", "MULUNGI OMU"]
+            },
+            { "name": "KAKOOGE CENTRAL WARD", "villages": ["KALINA", "KATALE", "NAMUNKANGA", "NAMUNSAALA"] },
+            { "name": "KAKOOGE NORTH WARD", "villages": ["HAJI YASI", "KIKADDE", "KIROWOOZA", "KASUUGE", "NAKASEETA"] }
+          ]
+        },
+        {
+          "name": "KALONGO",
+          "parishes": [
+            { "name": "BAMUGOLODDE", "villages": ["BAMUGOLODDE", "KIRANGA", "NAMALINDA"] },
+            {
+              "name": "KAMIRAMPANGO",
+              "villages": ["BUSANSULA", "KIBBUMBA", "KYAKABOMBWE", "KALALU", "KALONGO", "KAMIRAMPANGO"]
+            },
+            { "name": "KIGEJJO", "villages": ["BULWANDI", "KIGEJJO", "KANYIKA"] },
+            { "name": "KISUUMA", "villages": ["KIREKA", "KIBBANJA", "KISUUMA"] },
+            {
+              "name": "KISWEERA-MAYINDA",
+              "villages": ["KISOZI", "KISWERAMAINDA", "KATUUGO", "KAKOOLA", "KALEIRE", "NAKINYAMA"]
+            },
+            { "name": "KIWAMBYA", "villages": ["BUDENGEDDE", "KIWAMBYA", "KIWOOLE", "NALUBOBYA", "NALUKONGE"] },
+            { "name": "MAYIRIKITI", "villages": ["KABAZI", "KISWERWA", "KAYISOLO", "MAYIRIKITI"] }
+          ]
+        },
+        {
+          "name": "KALUNGI",
+          "parishes": [
+            { "name": "IRIMA", "villages": ["IRIMA", "JUNDA", "KIIGAZI", "KINAMWANGA", "KYALUSAKA", "NDAIGA"] },
+            {
+              "name": "KAZWAAMA",
+              "villages": ["KAZWAMA", "DDAGALA", "KAPUNDO", "MADAALI", "MIZAALA", "NINGA", "RUKOONGE", "NAKATUBBA"]
+            },
+            {
+              "name": "KISENYI",
+              "villages": ["KIGWERA", "KISENYI", "KIGALI", "KASAMBYA", "KAMIGA", "KASOZI", "RUNYU"]
+            },
+            { "name": "NAMUNGOLO", "villages": ["BAGAMBIRA", "LUTENGO", "NAMUNGOLO", "NAKATAKA"] },
+            {
+              "name": "WANZOGI",
+              "villages": ["IREMYA", "KABBANDI", "KAWONDWE", "KANYONYI", "KATUUGO", "KALUNGI", "WANZOGI"]
+            }
+          ]
+        },
+        {
+          "name": "NAKASONGOLA TOWN",
+          "parishes": [
+            { "name": "NAKASONGOLA CENTRAL WARD", "villages": ["BURULI QUARTER", "NAKASONGOLA CENTRAL", "WAKIBOMBO"] },
+            {
+              "name": "NAKASONGOLA EAST WARD",
+              "villages": ["KIBENGO", "KALUBANGA", "KANSIRYE", "NAKAJOOGA", "NABYETEREKA", "MATUUGO", "WABINYONYI"]
+            },
+            { "name": "NAKASONGOLA WEST WARD", "villages": ["KIBIRA", "KALIKOMA", "WABBALE", "SUNGIRA", "WANKATI"] }
+          ]
+        },
+        {
+          "name": "WABINYONYI",
+          "parishes": [
+            { "name": "KAGERI", "villages": ["KYAKADOKO", "KALOBOKWE", "KABUGENDA", "KAGERI", "MWOLWE"] },
+            { "name": "KAMUNIINA", "villages": ["KAISAGARA", "KAMUNIINA", "MITANZI", "MALENGERA"] },
+            { "name": "KYAMUYINGO", "villages": ["ISEGERO", "KIKANGULLA", "KYABAGANGA", "KYAMUYINGO", "KABUYE"] },
+            { "name": "KIWONGOIRE", "villages": ["KIWONGOIRE", "KIREMBO", "KAKONDI", "NSUGGA", "WABULIME"] },
+            { "name": "SASIIRA", "villages": ["KATITIIZA", "KAMBALA", "MACHUMU", "NAITONDO", "SASIRA"] },
+            { "name": "SIKYE", "villages": ["LUGOGO", "NAKASEETA", "NALUBAALE", "RUKINZI", "NAKIJJWA", "SIKYE"] },
+            {
+              "name": "WABIGALO",
+              "villages": ["KABOJJA", "KIBATIKO", "KITEGO", "KAMALANZALA", "NAMAYONJO", "NAMBEERE", "WABIGALO"]
+            },
+            {
+              "name": "WAMPITI",
+              "villages": ["KIZONGO", "KIKONGE", "KALUNGU", "KALYAKOTI", "WABIKOKOMA", "WANKERENGE/WAMPITI", "WANTABYA"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

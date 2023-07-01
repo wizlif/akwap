@@ -1,0 +1,509 @@
+{
+  "name": "MARACHA",
+  "counties": [
+    {
+      "name": "MARACHA",
+      "sub_counties": [
+        {
+          "name": "KIJOMORO",
+          "parishes": [
+            { "name": "ALIVU", "villages": ["AJUPENI", "ALIBA ANZEVU", "AROI", "AYINGABO", "ODUKODU"] },
+            {
+              "name": "AMBIDRO",
+              "villages": ["AZOKO", "KULU HILL", "KAKWA", "LAYI", "LICI", "LIKI", "LAMBGA", "NYOKI", "NYORI"]
+            },
+            { "name": "DRANZIPI", "villages": ["AIA", "DRANZIPI", "MUNDRU", "NALIBE", "WIIJA", "ODRAVU"] },
+            {
+              "name": "LAMILA",
+              "villages": ["ABINYU", "AMAA", "AWUPI", "POO", "ROBU- KANDRIA", "NYOO", "OLEVU", "OLUO HILL"]
+            },
+            {
+              "name": "ROBU",
+              "villages": ["AMBOPILE", "ANGUA", "BURA", "NYADULE", "RIKABU", "NZERE", "OBOKOA", "TALIA"]
+            },
+            {
+              "name": "OLUVU",
+              "villages": ["ALIBA", "ENDIA", "KATIKU", "PADRUKU", "NYAI NYOGO", "OTRAVU", "ODRUVU", "OLUBA"]
+            }
+          ]
+        },
+        {
+          "name": "OLUFE",
+          "parishes": [
+            {
+              "name": "KAMAKA",
+              "villages": [
+                "AMONIPI",
+                "ANDRUA",
+                "ARIMBEA",
+                "ANGIRI",
+                "ANYAKANI",
+                "B. BURA",
+                "ASSO",
+                "AWHU",
+                "GODRIA",
+                "K. BURA",
+                "KIJOMORO",
+                "MAJURU",
+                "MUNOBU",
+                "ORINYANI",
+                "OBICHA"
+              ]
+            },
+            {
+              "name": "KIMIRU",
+              "villages": [
+                "AJURE HILL",
+                "AMBEKUA",
+                "ANAKA",
+                "ALIKI",
+                "APAYOA",
+                "BABAA",
+                "KOCHI",
+                "DORO",
+                "RWEE",
+                "OKAA"
+              ]
+            },
+            {
+              "name": "MUNDRU",
+              "villages": ["ABAA", "ADIMINI", "APADRI", "EYIA", "OVUJO A", "OVUJO B", "YEBIA", "OMGBO"]
+            },
+            {
+              "name": "OTRAVU",
+              "villages": [
+                "ALIBA A",
+                "ALIBA B",
+                "AYIVU A",
+                "AYIVU B",
+                "BONGILO",
+                "RETRIKO",
+                "OLIPI A",
+                "OLIPI B",
+                "SUSUNI",
+                "OJIBA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OLUVU",
+          "parishes": [
+            {
+              "name": "AYIKO",
+              "villages": [
+                "AYIKO",
+                "BURAA",
+                "CIRU",
+                "MALUPU",
+                "LUDUA",
+                "PARANGA",
+                "OBUKU - ORU",
+                "OBUKU-ANDRA",
+                "OLEYI"
+              ]
+            },
+            { "name": "DRAJU", "villages": ["AKAA", "GODRIA", "DRAJU", "LEGA", "MARI", "NIGO", "NYAYI", "ODRAVU"] },
+            {
+              "name": "MICHU",
+              "villages": [
+                "ADELU",
+                "AMBAKU",
+                "AMBEKUA",
+                "ANDENI",
+                "ANDRUA",
+                "ARIKIA",
+                "GBULUKUA",
+                "NYAMIO",
+                "NYAGANDERE",
+                "ONGUDRI"
+              ]
+            },
+            {
+              "name": "RIKABU",
+              "villages": [
+                "ANANZI",
+                "KUBO DIPI",
+                "NYAMI",
+                "LAMILA BURA",
+                "LAMILA OMI",
+                "LAMILA-NYOO",
+                "PADRUKU",
+                "PIAGO",
+                "ROBU",
+                "OBICHA-BURA",
+                "OBICHA-OMI"
+              ]
+            },
+            {
+              "name": "NYOGO",
+              "villages": [
+                "AYIVU",
+                "PADRUKU",
+                "NIGO - BURU",
+                "NIGO-ANZUPI",
+                "RENDRA",
+                "RIGBO",
+                "ROGALE",
+                "NYOGO - ANZUPI",
+                "OLUVU"
+              ]
+            },
+            {
+              "name": "OMBACHI",
+              "villages": [
+                "ABHI",
+                "ABUGOA",
+                "AGIDRII",
+                "AGII T/C",
+                "AYIKURU",
+                "ASURU",
+                "KURUA",
+                "GBELE",
+                "NYANZO",
+                "MANIGOA",
+                "MARUBEKE",
+                "MUNDRU",
+                "ONGORO",
+                "NYIKIA",
+                "ODUA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MARACHA EAST",
+      "sub_counties": [
+        {
+          "name": "MARACHA TOWN COUNCIL",
+          "parishes": [
+            { "name": "ADONGORO WARD", "villages": ["ADONGORO A", "ADONGORO B", "ADONGORO C"] },
+            {
+              "name": "AYIKO WARD",
+              "villages": [
+                "AYIKO OBAA",
+                "ETOKO",
+                "EGAMARA EAST",
+                "EGAMARA NORTH",
+                "EGAMARA SOUTH",
+                "EGAMARA WEST",
+                "NYAMAJIKI",
+                "OJAPI"
+              ]
+            },
+            { "name": "CENTRAL ZONE WARD", "villages": ["BURA - OPIDRI", "EAST", "NORTH", "WEST", "SOUTH"] },
+            {
+              "name": "BURA WARD",
+              "villages": ["ALIVU RIBINI A", "ALIVU RIBINI B", "EMVA ALIA B", "EMVA ALIA A", "WOROGBO"]
+            },
+            {
+              "name": "ODRAVU WARD",
+              "villages": ["ALIVU RODO EAST", "ALIVU RODO WEST", "EMVA OLIFEA EAST", "EMVA OLIFEA WEST"]
+            },
+            { "name": "OKAPI WARD", "villages": ["GOBIRI", "NYARIA", "NYAALA", "OKAPI CENTRAL", "OMBIA"] },
+            { "name": "OMBIA WARD", "villages": ["GUDU", "DUNYIRI", "MINYAKO", "NYAI-PIO"] }
+          ]
+        },
+        {
+          "name": "NYADRI",
+          "parishes": [
+            {
+              "name": "BARIA",
+              "villages": [
+                "AMBIDRO A",
+                "AMBIDRO B",
+                "NYARIA ALIBA",
+                "NYARIA OLIKA",
+                "NYARIGO",
+                "LUJENYORI",
+                "NYAI",
+                "RANDRA",
+                "ONIBA",
+                "OMBAVU"
+              ]
+            },
+            {
+              "name": "ROBU",
+              "villages": [
+                "AMBIDRO",
+                "ALIO",
+                "ALIVU A",
+                "ALIVU B",
+                "ANZEVU",
+                "ANGURUKO",
+                "ANYAVU",
+                "AYIVU",
+                "BURA",
+                "GOVU",
+                "KOPIRA",
+                "EGAMARA",
+                "EMVUA",
+                "NYARACA",
+                "NYANGILIA",
+                "MUNDRU",
+                "NGACUA OLIKA",
+                "PADAA",
+                "PIAGO",
+                "RANDRA",
+                "RETRIO",
+                "ONINIVU",
+                "ROBU",
+                "NYELEBE",
+                "YIBA",
+                "NYORO",
+                "ODRAVU",
+                "OLIKA",
+                "OLUVU",
+                "OMBIA",
+                "OMOO"
+              ]
+            },
+            {
+              "name": "PABURA",
+              "villages": [
+                "AGBARA",
+                "ANYAFIO",
+                "AYIVU",
+                "ERIVU",
+                "KIJOMORO",
+                "NYARIA",
+                "LURUA",
+                "LAMILA",
+                "PAJAMA",
+                "ROBU",
+                "YAGULE",
+                "NYORO LOINYA",
+                "OBIYO",
+                "OLEBA",
+                "OLEKO A",
+                "OLEKU B",
+                "OLIKA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OLEBA",
+          "parishes": [
+            {
+              "name": "BANGO",
+              "villages": [
+                "ARUAA",
+                "DRIMU",
+                "DUMURU",
+                "MICU",
+                "NDALIKUA",
+                "NYATIKA",
+                "WINYAKO",
+                "WODU",
+                "NYORI",
+                "OCEVU",
+                "OLEBA TRANDING CENTRE"
+              ]
+            },
+            {
+              "name": "ETOKO",
+              "villages": [
+                "IDIPI",
+                "ETUFEA",
+                "KOROPI",
+                "LIKO",
+                "MALI",
+                "ONGUANZIPI",
+                "ONIBA",
+                "YIBA",
+                "ODRAVU -BARIA",
+                "ODRAVU EDE"
+              ]
+            },
+            {
+              "name": "BURAMALI",
+              "villages": [
+                "IDIPI NYORI",
+                "IDIPI PANDULE",
+                "GBEREMU",
+                "GBEREMU AREE",
+                "GBEREMU MARACHA",
+                "GIAWA",
+                "KAMAKA",
+                "LIKO",
+                "NDRIVU",
+                "PADRUKU",
+                "PARANGA",
+                "PIAGO ALIGO",
+                "PIAGO NYAALA",
+                "PIAGO-KIMIRU",
+                "TURUPA ALIGO",
+                "TURUPA-RENDU",
+                "OMBA"
+              ]
+            },
+            {
+              "name": "ROBU",
+              "villages": [
+                "LEIKO",
+                "MITIKA",
+                "MUNDRU",
+                "ROBU",
+                "WINYAKO",
+                "YIBA",
+                "NYORI",
+                "ODRAVU",
+                "OLIMBA",
+                "OLUPI",
+                "WANDRIA"
+              ]
+            },
+            {
+              "name": "WOROGBO",
+              "villages": [
+                "ALAA",
+                "AIA",
+                "ALIGO",
+                "ESSA",
+                "KILEMBE",
+                "NYANGILO",
+                "OVINAKA",
+                "NGACU",
+                "ONYI",
+                "TITI",
+                "ZENGULU",
+                "ODAKU",
+                "ODRU"
+              ]
+            },
+            {
+              "name": "PARANGA",
+              "villages": [
+                "AMBALA",
+                "ALIGO",
+                "GODU",
+                "MITIKA",
+                "MIDIA",
+                "PADRUKU I",
+                "PADRUKU II",
+                "NIGO",
+                "NIGOKORO",
+                "PAKAYO",
+                "PECHA",
+                "NYALA",
+                "PODROKI",
+                "RIGBO",
+                "ROBU",
+                "ROBU TABI",
+                "NYORO",
+                "OMBOKORO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TARA",
+          "parishes": [
+            {
+              "name": "ANYIVU",
+              "villages": ["AMBAYO", "ANDELIZU", "KUJAKI", "DRANDRU", "MIDIOWA", "TUMVEA", "ODRUA", "OFFUDE HILLS"]
+            },
+            {
+              "name": "VURRA",
+              "villages": [
+                "AGARUKU",
+                "AGAVUA",
+                "ARANYA",
+                "IGUMAYI",
+                "KOLOLO EAST",
+                "KOLOLO WEST",
+                "PAJURU",
+                "ODUPIRI",
+                "OFFUDRI"
+              ]
+            },
+            { "name": "OJAPI", "villages": ["ALIAMU", "BARIA", "IRIVU", "NYACARA", "PALIDA", "ONAYI", "OLIAPI"] },
+            {
+              "name": "OMBAVU",
+              "villages": [
+                "ABIRIJO",
+                "ABOO",
+                "ABARA",
+                "AMBAYO",
+                "ARUWE",
+                "BATAKAA",
+                "BIJELE",
+                "KARONGO",
+                "LODRE",
+                "OTUKALIRI"
+              ]
+            },
+            {
+              "name": "PAJAMA",
+              "villages": ["KIJOMORO EAST", "KIJOMORO WEST", "MACHU EAST", "MACHU WEST", "ONDUVU", "OLUA"]
+            }
+          ]
+        },
+        {
+          "name": "YIVU",
+          "parishes": [
+            { "name": "ALARAPI", "villages": ["AJULEPI", "ANYAVU", "DRIMU", "ORIVU", "NYORO", "OJOA"] },
+            {
+              "name": "AMANIPI",
+              "villages": ["KIMIKIMIRI", "EKARIKOFE", "GBONGO", "ORANI", "YOKOLEMADA", "NZAYIA", "OKUYO"]
+            },
+            {
+              "name": "AROI",
+              "villages": [
+                "AMBIDRO",
+                "LAMILA NORTH",
+                "LAMILA SOUTH",
+                "ONZORO",
+                "WOROGBO EAST",
+                "WOROGBO WEST",
+                "OKAVU",
+                "OLOPARI"
+              ]
+            },
+            {
+              "name": "EGAMARA",
+              "villages": [
+                "ALIKUA TRADING CENTRE",
+                "ALIO NORTH",
+                "ALIO SOUTH",
+                "YEPI NORTH",
+                "YEPI SOUTH",
+                "YIVU S.S",
+                "NYORO",
+                "OLEVU"
+              ]
+            },
+            {
+              "name": "LOINYA",
+              "villages": ["ANDRUVU", "ALIRO EAST", "ALIRO WEST", "KADAMADA", "LIMICA", "LALA", "PIO", "OBI"]
+            },
+            {
+              "name": "OKUVU",
+              "villages": [
+                "ABIRIA",
+                "ALIRIMVU",
+                "ARIWARA",
+                "AYINDO",
+                "JIBI",
+                "ERAIMVE",
+                "OREKU",
+                "OKELE",
+                "ZEMBE",
+                "OBBIIA",
+                "OJIANI"
+              ]
+            },
+            {
+              "name": "OMBIA",
+              "villages": ["ALIVU", "AMANIPI", "MEKI CENTRAL", "MEKI EAST", "MEKI NORTH", "MEKI WEST", "YIVU P.7/PIO"]
+            },
+            { "name": "PAKAYO", "villages": ["EWAVU", "NELEBE", "YEPI", "OLEBA", "OFFUDE"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

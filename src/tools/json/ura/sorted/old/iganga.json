@@ -1,0 +1,568 @@
+{
+    "counties": [
+        {
+            "name": "IGANGA MUNICIPALITY",
+            "sub_counties": [
+                {
+                    "name": "CENTRAL DIVISION",
+                    "parishes": [
+                        {
+                            "name": "BULIGO WARD",
+                            "villages": [
+                                "BULIGO NORTH",
+                                "KASOKOSO NORTH",
+                                "KASOKOSO SOUTH",
+                                "KAYAGA"
+                            ]
+                        },
+                        {
+                            "name": "KASOKOSO WARD",
+                            "villages": [
+                                "KASOKOSO CENTRAL  I",
+                                "KASOKOSO CENTRAL  II"
+                            ]
+                        },
+                        {
+                            "name": "NABIDONGHA PRISON WARD",
+                            "villages": [
+                                "BULIGO SOUTH",
+                                "BULIGO SOUTH A",
+                                "NABIDONGA  C",
+                                "NABIDONGHA PRISONS"
+                            ]
+                        },
+                        {
+                            "name": "NABIDONGHA WARD",
+                            "villages": [
+                                "NABIDONGHA  A",
+                                "NABIDONGHA  B",
+                                "NABIDONGHA  PROPER"
+                            ]
+                        },
+                        {
+                            "name": "NAKAVULE WARD",
+                            "villages": [
+                                "LUBAALE",
+                                "NAKAVULE 'A'",
+                                "NAKAVULE 'B'",
+                                "NAKAVULE MAIN"
+                            ]
+                        },
+                        {
+                            "name": "WALUGOGO WARD",
+                            "villages": [
+                                "KASOKOSO CENTRAL  III",
+                                "WALUGOGO ESTATE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NORTHERN DIVISION",
+                    "parishes": [
+                        {
+                            "name": "BUGUMBA WARD",
+                            "villages": [
+                                "BUGUMBA   A",
+                                "BUGUMBA   B"
+                            ]
+                        },
+                        {
+                            "name": "IGAMBA WARD",
+                            "villages": [
+                                "BIKADHO",
+                                "IGAMBA"
+                            ]
+                        },
+                        {
+                            "name": "MUTUKULA WARD",
+                            "villages": [
+                                "MUTAMBALA",
+                                "MUTUKULA",
+                                "NKONO I",
+                                "NKONO III"
+                            ]
+                        },
+                        {
+                            "name": "NKATU WARD",
+                            "villages": [
+                                "KILOWA",
+                                "NKAATU MAIN",
+                                "NKAATU PROPER"
+                            ]
+                        },
+                        {
+                            "name": "NKONO WARD",
+                            "villages": [
+                                "NKONO  II",
+                                "NKONO CENTRAL",
+                                "SILIVE"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KIGULU COUNTY NORTH",
+            "sub_counties": [
+                {
+                    "name": "KIDAAGO",
+                    "parishes": [
+                        {
+                            "name": "KAZIGO",
+                            "villages": [
+                                "KAZIGO  A",
+                                "KAZIGO  B"
+                            ]
+                        },
+                        {
+                            "name": "KIDAAGO",
+                            "villages": [
+                                "KIDAAGO A",
+                                "KIDAAGO B"
+                            ]
+                        },
+                        {
+                            "name": "NABITENDE",
+                            "villages": [
+                                "BUKOSE ZONE",
+                                "BUSABI ZONE",
+                                "BUYALE ZONE",
+                                "NABITENDE A",
+                                "NABITENDE B"
+                            ]
+                        },
+                        {
+                            "name": "NAIBIRI",
+                            "villages": [
+                                "NAIBIRI CENTRAL",
+                                "NAIBIRI NORTH",
+                                "NAIBIRI SOUTH"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NABITENDE",
+                    "parishes": [
+                        {
+                            "name": "BUGONO",
+                            "villages": [
+                                "BUGONO",
+                                "BUGONO B",
+                                "NABINYONYI"
+                            ]
+                        },
+                        {
+                            "name": "ITANDA",
+                            "villages": [
+                                "BUKAYIGO",
+                                "BUVULE",
+                                "ITANDA - BUWEIRA",
+                                "KINU"
+                            ]
+                        },
+                        {
+                            "name": "KABIRA-ITUBA",
+                            "villages": [
+                                "BULIGANWA",
+                                "BULIGANWA B",
+                                "ITUBA",
+                                "ITUBA BUNIGULE",
+                                "KABIRA",
+                                "KABIRA B"
+                            ]
+                        },
+                        {
+                            "name": "KASAMBIKA",
+                            "villages": [
+                                "BUWEREMPE",
+                                "KASAMBIKA I",
+                                "KASAMBIKA II",
+                                "NAMUSIISI I",
+                                "NAMUSIISI II"
+                            ]
+                        },
+                        {
+                            "name": "NABITENDE",
+                            "villages": [
+                                "BUBEKO",
+                                "BUTABALA",
+                                "KALUNGAMI 'A'",
+                                "KALUNGAMI 'B'",
+                                "NABITENDE"
+                            ]
+                        },
+                        {
+                            "name": "NALUKO",
+                            "villages": [
+                                "NALUKO",
+                                "NALUKO BUZIBIRILA",
+                                "NAWANKWALE",
+                                "NAWANKWALE BUGWERE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAMBALE",
+                    "parishes": [
+                        {
+                            "name": "MWIRA",
+                            "villages": [
+                                "KAMIRABIKOMO",
+                                "MWIRA",
+                                "NABITOVU",
+                                "NABITOVU NORTH"
+                            ]
+                        },
+                        {
+                            "name": "NAMBALE",
+                            "villages": [
+                                "NAMBALE I  A",
+                                "NAMBALE I  B",
+                                "NAMBALE II"
+                            ]
+                        },
+                        {
+                            "name": "NASUTI",
+                            "villages": [
+                                "BUSIMBA",
+                                "KAKIRA",
+                                "NABUKONE",
+                                "NASUUTI NORTH",
+                                "NASUUTI SOUTH"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAMUNGALWE",
+                    "parishes": [
+                        {
+                            "name": "BULUMWAKI",
+                            "villages": [
+                                "BULUMWAKI I",
+                                "BULUMWAKI II",
+                                "NSINZE"
+                            ]
+                        },
+                        {
+                            "name": "MWENDANFUKO",
+                            "villages": [
+                                "BULANGA",
+                                "MWENDANFUKO I"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNGALWE",
+                            "villages": [
+                                "KAWETE",
+                                "NAMUNGALWE B",
+                                "NAMUNGALWE RURAL",
+                                "NAMUNGALWE T/C"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNKANAGA",
+                            "villages": [
+                                "NAMUNKANAGA  I",
+                                "NAMUNKANAGA  II"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNKESU",
+                            "villages": [
+                                "BUBOGO A",
+                                "BUBOGO B",
+                                "NABIKOOTE",
+                                "NAMUFUMA",
+                                "NAMUNKESU"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNSAALA",
+                            "villages": [
+                                "BUFUTULA",
+                                "BUFUTULA 2",
+                                "NAMUNSAALA"
+                            ]
+                        },
+                        {
+                            "name": "NAWANSEGA",
+                            "villages": [
+                                "NAWANSEGA I A",
+                                "NAWANSEGA II  B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAWANDALA",
+                    "parishes": [
+                        {
+                            "name": "BUGONGO",
+                            "villages": [
+                                "BUGOLE A",
+                                "BUGOLE B",
+                                "BUGONGO",
+                                "BUGONGO B",
+                                "BUSAKAIRE",
+                                "NAMABWERE  I",
+                                "NAMABWERE  II",
+                                "NAMUKUMYA",
+                                "NAWANDALA",
+                                "NAWANGAIZA  II"
+                            ]
+                        },
+                        {
+                            "name": "KIWANYI",
+                            "villages": [
+                                "BUKYEEGA",
+                                "BUSAALA",
+                                "BUWUMBA",
+                                "KIWANYI I",
+                                "KIWANYI II",
+                                "MADHIMASU"
+                            ]
+                        },
+                        {
+                            "name": "KYENDABAWALA",
+                            "villages": [
+                                "BUGAMBO",
+                                "BUNYOKANO",
+                                "BUSOIGI",
+                                "BUZAYA",
+                                "IKUMBYA",
+                                "KABULI I",
+                                "KABULI II",
+                                "KYENDABAWALA"
+                            ]
+                        },
+                        {
+                            "name": "NAMUSIISI",
+                            "villages": [
+                                "BUGANZA",
+                                "BUYUNGA",
+                                "MALOBI",
+                                "NAMUSIISI"
+                            ]
+                        },
+                        {
+                            "name": "NAWANGAIZA",
+                            "villages": [
+                                "KIRINGA A",
+                                "KIRINGA B",
+                                "NAWANGAIZA I"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KIGULU COUNTY SOUTH",
+            "sub_counties": [
+                {
+                    "name": "BULAMAGI",
+                    "parishes": [
+                        {
+                            "name": "BUKOYO",
+                            "villages": [
+                                "BUDHWEGE",
+                                "BUKABISI",
+                                "BUKOYO",
+                                "NAWANSINGE"
+                            ]
+                        },
+                        {
+                            "name": "BULAMAGI",
+                            "villages": [
+                                "BUBAKA",
+                                "BULAMAGI"
+                            ]
+                        },
+                        {
+                            "name": "BULOWOOZA",
+                            "villages": [
+                                "BULOWOOZA",
+                                "KASOLO",
+                                "MADHIGANDERE",
+                                "MAWOITO",
+                                "NGANGALI",
+                                "WALUKUBA"
+                            ]
+                        },
+                        {
+                            "name": "BWANALIRA",
+                            "villages": [
+                                "BUDHEBERA",
+                                "BUWASA",
+                                "BUYUBU",
+                                "BWANALIRA",
+                                "IGULAMUBIRI",
+                                "KINAWANSWA"
+                            ]
+                        },
+                        {
+                            "name": "IWAWU",
+                            "villages": [
+                                "BUWOYA",
+                                "IWAWU",
+                                "KYEMEIRE",
+                                "MASABA",
+                                "NAMALEMBA",
+                                "NAMASOGA",
+                                "NAWANKOFU",
+                                "NKAZIWERU",
+                                "NTINDA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAKALAMA",
+                    "parishes": [
+                        {
+                            "name": "BUKAYE",
+                            "villages": [
+                                "BUKAYE",
+                                "BUWONGO",
+                                "IGULUSA",
+                                "NAMPIRIKA A",
+                                "NAMPIRIKA B"
+                            ]
+                        },
+                        {
+                            "name": "BUKOONA",
+                            "villages": [
+                                "BUKALAMBWA",
+                                "BUPALA",
+                                "KAKONGOKA",
+                                "KAKONGOKA B",
+                                "NAMUNAUDI C",
+                                "NAMUNDUDI A",
+                                "NAMUNDUDI B"
+                            ]
+                        },
+                        {
+                            "name": "BUSEYI",
+                            "villages": [
+                                "BUSEYI A",
+                                "BUSEYI B",
+                                "BUSEYI CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "NAKALAMA",
+                            "villages": [
+                                "BUKOBOOLI",
+                                "BUKYAYE",
+                                "BUTAAMA",
+                                "NABIRYE",
+                                "NAKALAMA CENTRAL",
+                                "NAKALAMA NORTH",
+                                "NAKALAMA SOUTH"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAKIGO",
+                    "parishes": [
+                        {
+                            "name": "BULUBANDI",
+                            "villages": [
+                                "BUGABWE",
+                                "BULUBANDI CENTRAL A",
+                                "BULUBANDI CENTRAL B",
+                                "NANDEKULA A",
+                                "NANDEKULA B"
+                            ]
+                        },
+                        {
+                            "name": "BUNYAMA",
+                            "villages": [
+                                "BUKWAYA",
+                                "BUNYAMA",
+                                "KIBOYO",
+                                "NAMIRALI"
+                            ]
+                        },
+                        {
+                            "name": "BUSOWOOBI",
+                            "villages": [
+                                "BUSOWOOBI CENTRAL",
+                                "BUSOWOOBI- NYENGA",
+                                "KIWERERE",
+                                "NABITOVU",
+                                "NAKIGO I",
+                                "NAKIGO II"
+                            ]
+                        },
+                        {
+                            "name": "KABIRA",
+                            "villages": [
+                                "BULUZA",
+                                "KABIRA",
+                                "NAMUSENWA",
+                                "NAWANZU"
+                            ]
+                        },
+                        {
+                            "name": "WAIRAMA",
+                            "villages": [
+                                "IZIMBA",
+                                "KAKOMBO",
+                                "NAKISENYI",
+                                "WAIRAMA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAWANYINGI",
+                    "parishes": [
+                        {
+                            "name": "BUNYIRO",
+                            "villages": [
+                                "BUKOSE",
+                                "BUNYIIRO",
+                                "BUWOLOMER B",
+                                "BUWOLOMERA A",
+                                "LWABAGA",
+                                "NAGADUDULA"
+                            ]
+                        },
+                        {
+                            "name": "MAGOGO",
+                            "villages": [
+                                "BUKONKO",
+                                "BUWANDE",
+                                "BUWENDA",
+                                "LWERERA",
+                                "MAGOGO",
+                                "NAKIRULWE",
+                                "NAWANDYO"
+                            ]
+                        },
+                        {
+                            "name": "NAWANYINGI",
+                            "villages": [
+                                "BUWOIREKU",
+                                "LUGOBANGO",
+                                "MAWAGALA",
+                                "MBAALA",
+                                "NAWANKONGE",
+                                "NAWANYINGI",
+                                "WALUGOMA"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "IGANGA"
+}

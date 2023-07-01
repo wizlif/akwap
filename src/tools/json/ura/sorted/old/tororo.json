@@ -1,0 +1,2002 @@
+{
+    "counties": [
+        {
+            "name": "TORORO MUNICIPALITY",
+            "sub_counties": [
+                {
+                    "name": "TORORO EASTERN",
+                    "parishes": [
+                        {
+                            "name": "AMAGORO A",
+                            "villages": [
+                                "AMAGORO A CENTRAL",
+                                "AMAGORO A NORTH",
+                                "AMAGORO A SOUTH",
+                                "MANJASI HIGH SCHOOL",
+                                "SENIOR QUARTERS"
+                            ]
+                        },
+                        {
+                            "name": "AMAGORO B",
+                            "villages": [
+                                "AMAGORO B CENTRAL",
+                                "AMAGORO B NORTH",
+                                "AMAGORO B SOUTH",
+                                "TORORO GIRLS SCHOOL"
+                            ]
+                        },
+                        {
+                            "name": "KASOLI",
+                            "villages": [
+                                "KASOLI",
+                                "KASOLI EAST",
+                                "MEDICAL QUARTERS",
+                                "OGOLLA",
+                                "POLICE QUARTERS",
+                                "RAILWAY QUARTERS"
+                            ]
+                        },
+                        {
+                            "name": "NYANGOLE",
+                            "villages": [
+                                "BENEDICTINE FATHERS",
+                                "NYANGOLE A",
+                                "NYANGOLE B",
+                                "ST. PETERS COLLEGE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "TORORO WESTERN",
+                    "parishes": [
+                        {
+                            "name": "AGURURU A",
+                            "villages": [
+                                "AGURURU AI",
+                                "AGURURU AII",
+                                "AGURURU AIII"
+                            ]
+                        },
+                        {
+                            "name": "AGURURU B",
+                            "villages": [
+                                "AGURURU BI",
+                                "AGURURU BII",
+                                "AGURURU BIII"
+                            ]
+                        },
+                        {
+                            "name": "BISON/MAGURIA",
+                            "villages": [
+                                "BISON   A",
+                                "BISON   B",
+                                "BISON C JUBA"
+                            ]
+                        },
+                        {
+                            "name": "CENTRAL",
+                            "villages": [
+                                "CENTRAL WARD",
+                                "SOUTH  CENTRAL  EAST",
+                                "SOUTH  CENTRAL  WEST",
+                                "WATER VILLAGE"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TORORO NORTH COUNTY",
+            "sub_counties": [
+                {
+                    "name": "AKADOT",
+                    "parishes": [
+                        {
+                            "name": "AKADOT",
+                            "villages": [
+                                "AKADOT A",
+                                "AKADOT B",
+                                "AKADOT C",
+                                "AKADOT CENTREAL",
+                                "AKADOT WEST",
+                                "ATIRI A",
+                                "ATIRI B",
+                                "NYAKOLI A",
+                                "NYAKOLI B"
+                            ]
+                        },
+                        {
+                            "name": "KABIRO",
+                            "villages": [
+                                "ATIRI A",
+                                "ATIRI B",
+                                "BENDO A",
+                                "BENDO B",
+                                "KATEKI",
+                                "KURUK",
+                                "MORUWA"
+                            ]
+                        },
+                        {
+                            "name": "KAMULI",
+                            "villages": [
+                                "LOLI A",
+                                "LOLI B",
+                                "LOLI C",
+                                "ONGURAI EAST",
+                                "ONGURAI WEST",
+                                "PAGOYA A",
+                                "PAGOYA B",
+                                "RARAKA",
+                                "RARAKA A",
+                                "RARAKA B",
+                                "RARAKA CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "KAYORO",
+                            "villages": [
+                                "KAYORO A",
+                                "KAYORO B",
+                                "KAYORO C",
+                                "KAYORO CENTRAL",
+                                "KAYORO D",
+                                "SERE A",
+                                "SERE B"
+                            ]
+                        },
+                        {
+                            "name": "MORUKONYANGAI",
+                            "villages": [
+                                "KATHOWA A",
+                                "KATHOWA B",
+                                "KINOM",
+                                "KINOM EAST",
+                                "KINOM WEST",
+                                "KURUK CENTRAL",
+                                "MORUKONYANGAI A",
+                                "MORUKONYANGAI B",
+                                "MORUKONYANGAI C"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "APETAI",
+                    "parishes": [
+                        {
+                            "name": "AUKOT",
+                            "villages": [
+                                "AGURURU A",
+                                "AGURURU B",
+                                "ALUPE A",
+                                "ALUPE B",
+                                "KANGINIMA A",
+                                "KANGINIMA B",
+                                "OKIPORO",
+                                "OPULE A",
+                                "OPULE B",
+                                "RARAK",
+                                "RARAKA-AUKOT"
+                            ]
+                        },
+                        {
+                            "name": "KALACHAI",
+                            "villages": [
+                                "AKIRIAMET",
+                                "ATAPARA A",
+                                "ATAPARA B",
+                                "KALACHAI A",
+                                "KALACHAI B",
+                                "KALACHAI C",
+                                "KAREU",
+                                "KATEKI",
+                                "KOGALA A",
+                                "KOGALA B",
+                                "RARAKA A",
+                                "RARAKA B"
+                            ]
+                        },
+                        {
+                            "name": "KOCHOGE",
+                            "villages": [
+                                "ADEREMA A",
+                                "ADEREMA B",
+                                "KATEKI",
+                                "KIBOKO",
+                                "KOCHOGE A",
+                                "KOCHOGE B",
+                                "OBURI A",
+                                "OBURI B",
+                                "OGIROI A",
+                                "OGIROI B"
+                            ]
+                        },
+                        {
+                            "name": "PETTA",
+                            "villages": [
+                                "KATEKI A",
+                                "KATEKI B",
+                                "KOKIMA A",
+                                "KOKIMA B",
+                                "OKIPORO",
+                                "PETTA A",
+                                "PETTA B",
+                                "RARAKA I",
+                                "RARAKA II"
+                            ]
+                        },
+                        {
+                            "name": "TOTOKIDWE",
+                            "villages": [
+                                "AGOGOMIT B",
+                                "AKURIKIT B",
+                                "NGELECHOM B",
+                                "TOTOKIDWE C",
+                                "TOTOKIDWE E"
+                            ]
+                        },
+                        {
+                            "name": "TOTOKODWE",
+                            "villages": [
+                                "AGOGOMIT A",
+                                "AKURIKIT A",
+                                "NGELECHOM A",
+                                "TOTOKIDWE A",
+                                "TOTOKIDWE B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MERIKIT",
+                    "parishes": [
+                        {
+                            "name": "AMURWO",
+                            "villages": [
+                                "AKAPU",
+                                "AMARWO TRIANGLE",
+                                "IPUREGE",
+                                "KACHOLIA",
+                                "KALUNGU",
+                                "MBOGO",
+                                "NANKATA"
+                            ]
+                        },
+                        {
+                            "name": "APOKOR",
+                            "villages": [
+                                "APOKOR SOUTH",
+                                "APOKOR SOUTH WEST",
+                                "APOKOR TRADING CENTRE",
+                                "ASINGE CENTRE",
+                                "ASINGE EAST",
+                                "ASINGE WEST"
+                            ]
+                        },
+                        {
+                            "name": "KACHINGA",
+                            "villages": [
+                                "AGURURU",
+                                "KACHINGA CENTRAL",
+                                "KACHINGA EAST",
+                                "KACHINGA NORTH",
+                                "KACHINGA NORTH EAST",
+                                "KACHINGA SOUTH",
+                                "KACHINGA WEST",
+                                "KARWOK",
+                                "MAGORO NORTH",
+                                "MAGORO SOUTH",
+                                "MERIKIT KENYA",
+                                "RAMOGI"
+                            ]
+                        },
+                        {
+                            "name": "MALIRI",
+                            "villages": [
+                                "ALUPE  A",
+                                "ALUPE  B",
+                                "AMONI   B",
+                                "AMONI  A",
+                                "AROWA   A",
+                                "AROWA  B",
+                                "AROWA  NORTH",
+                                "MALIRI  AGGE",
+                                "MALIRI  CENTRE A",
+                                "MALIRI  CENTRE B"
+                            ]
+                        },
+                        {
+                            "name": "MERIKIT",
+                            "villages": [
+                                "MEREKIT CENTRE",
+                                "OTIROK  WEST",
+                                "OTIROK EAST",
+                                "PARANGANG NORTH",
+                                "PARANGANG RUWA",
+                                "PARANGANG SOUTH",
+                                "SESEME - MUKUMERI",
+                                "SESEME CENTRAL",
+                                "SESEME NORTH CENTRAL",
+                                "SESEME SOUTH"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MOLO",
+                    "parishes": [
+                        {
+                            "name": "KIDOKO",
+                            "villages": [
+                                "ABWAL A",
+                                "ABWAL B",
+                                "AKADOT",
+                                "KARWOK",
+                                "KIDOKO EAST",
+                                "KIDOKO ROCK",
+                                "KIDOKO WEST"
+                            ]
+                        },
+                        {
+                            "name": "KIPANGOR",
+                            "villages": [
+                                "KIPANGOR A",
+                                "KIPANGOR B",
+                                "KIPANGOR C",
+                                "KIPANGOR D",
+                                "NYEMINYEM A",
+                                "NYEMINYEM B",
+                                "PAPAKOL EAST",
+                                "PAPAKOL WEST"
+                            ]
+                        },
+                        {
+                            "name": "MOLO",
+                            "villages": [
+                                "AKIRUKET",
+                                "AKISIM MOLO",
+                                "KARWOK",
+                                "MAIRO MBILI",
+                                "MOLO  I",
+                                "MORU A",
+                                "MORU B",
+                                "MORU C",
+                                "RARAKA",
+                                "STATION",
+                                "SURUT"
+                            ]
+                        },
+                        {
+                            "name": "TUBA",
+                            "villages": [
+                                "AGOGOMIT",
+                                "AKISIM  TUBA",
+                                "GINNERY",
+                                "KAMARINYANG",
+                                "KIPIRIO NORTH",
+                                "KIPIRIO SOUTH",
+                                "KIPORO",
+                                "MAGA I",
+                                "MAGA II",
+                                "ORAGO",
+                                "TUBA  CENTRAL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MUKUJU",
+                    "parishes": [
+                        {
+                            "name": "AKORET",
+                            "villages": [
+                                "AKORET A",
+                                "AKORET B",
+                                "AKWOROT II",
+                                "AKWOROT SOUTH",
+                                "MUKUJU A",
+                                "MUKUJU CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "AKWOROT",
+                            "villages": [
+                                "AKWOROT C",
+                                "AKWOROT EAST",
+                                "AKWOROT WEST"
+                            ]
+                        },
+                        {
+                            "name": "AKWOROTO",
+                            "villages": [
+                                "AKWOROT A",
+                                "AKWOROT B",
+                                "AKWOROT SOUTH WEST"
+                            ]
+                        },
+                        {
+                            "name": "ATIRI",
+                            "villages": [
+                                "ATIRI A",
+                                "ATIRI B",
+                                "ATIRI C",
+                                "ATIRI D",
+                                "ATIRI EAST",
+                                "ATIRI SOUTH",
+                                "ATIRI WEST"
+                            ]
+                        },
+                        {
+                            "name": "KAJARAU",
+                            "villages": [
+                                "KAJARAU  CENTRAL",
+                                "KAJARAU  EAST",
+                                "KAJARAU  NORHT EAST",
+                                "KAJARAU A",
+                                "KAJARAU B",
+                                "KAJARAU D",
+                                "KAJARAU II",
+                                "KAJARAU NORTH",
+                                "KAJARAU SOUTH",
+                                "KAJARAU WEST"
+                            ]
+                        },
+                        {
+                            "name": "MUKUJU",
+                            "villages": [
+                                "KASAYA SOUTH",
+                                "KASAYA WEST",
+                                "KOI A",
+                                "KOI B",
+                                "KURUKU A",
+                                "KURUKU B",
+                                "MUKUJU A",
+                                "MUKUJU CENTRAL",
+                                "MUKUJU CORE P.T.C",
+                                "MUKUJU D",
+                                "PUTIR"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "TORORO SOUTH COUNTY",
+            "sub_counties": [
+                {
+                    "name": "KALAIT",
+                    "parishes": [
+                        {
+                            "name": "AMONI",
+                            "villages": [
+                                "AKISIM",
+                                "AKOU-KETOM",
+                                "ATERAIT",
+                                "KAMENYA",
+                                "OPOPONGO",
+                                "OTEKWA"
+                            ]
+                        },
+                        {
+                            "name": "ANGOLOLO",
+                            "villages": [
+                                "ANGOLOLO A",
+                                "ANGOLOLO B",
+                                "KADANYA",
+                                "KAGULA",
+                                "KAKUYE",
+                                "KATAPALA",
+                                "OMIRIAI"
+                            ]
+                        },
+                        {
+                            "name": "KALAITI",
+                            "villages": [
+                                "ACHILET",
+                                "AGONGET",
+                                "ALECHO",
+                                "ALUPE A",
+                                "ALUPE B",
+                                "ANGOLOL",
+                                "AURIAT",
+                                "KESASAME",
+                                "KOPEE",
+                                "OBILAIP",
+                                "OCHOTO",
+                                "OPOLIA",
+                                "OSERE B"
+                            ]
+                        },
+                        {
+                            "name": "KODIKE",
+                            "villages": [
+                                "APOKOR",
+                                "ASINGE",
+                                "NYAMATUNGA",
+                                "OMAGORO A",
+                                "OMAGORO B"
+                            ]
+                        },
+                        {
+                            "name": "MORUKEBU",
+                            "villages": [
+                                "ATANGI",
+                                "KANGURA A",
+                                "KANGURA B",
+                                "KANGURA CENTRAL",
+                                "KANGURA EAST",
+                                "MORUKEBU A",
+                                "MORUKEBU B",
+                                "MORUKEBU CENTRAL",
+                                "OMEDOI",
+                                "OSERE A"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAYORO",
+                    "parishes": [
+                        {
+                            "name": "ABUR",
+                            "villages": [
+                                "UTRO B"
+                            ]
+                        },
+                        {
+                            "name": "ABURI",
+                            "villages": [
+                                "ABURI A",
+                                "ABURI B",
+                                "ABURI C",
+                                "ALLELES",
+                                "UTRO A",
+                                "UTRO TRADING CENTRE"
+                            ]
+                        },
+                        {
+                            "name": "KASIPODO",
+                            "villages": [
+                                "AGOLOTO A",
+                                "AGOLOTO B",
+                                "KARUWOKO",
+                                "KASIPODO A",
+                                "KASIPODO B",
+                                "KASIPODO CENTRAL",
+                                "MANAKOR A",
+                                "MANAKOR B"
+                            ]
+                        },
+                        {
+                            "name": "KAYORO",
+                            "villages": [
+                                "AGOLLA",
+                                "ASINGET A",
+                                "ASINGET B",
+                                "ASINGET C",
+                                "KAYORO A",
+                                "KAYORO B",
+                                "KAYORO C"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KWAPA",
+                    "parishes": [
+                        {
+                            "name": "ASINGE",
+                            "villages": [
+                                "AKIRIAMIS",
+                                "AKORET A",
+                                "AKORET B",
+                                "AKORET C",
+                                "APUWAI",
+                                "ASINGE  A",
+                                "ASINGE  B",
+                                "ASINGE III",
+                                "BORDER",
+                                "KOJIM A",
+                                "KOJIM B",
+                                "KOMOLI",
+                                "MAYEMBE",
+                                "OBURI BORDER",
+                                "OBURI GODOWN",
+                                "OGIROI A",
+                                "OGIROI B",
+                                "OGIROI C",
+                                "OGIROI GODOWN"
+                            ]
+                        },
+                        {
+                            "name": "KWAPA",
+                            "villages": [
+                                "ADEREMA",
+                                "AGURU",
+                                "AKADOT I",
+                                "AKADOT II",
+                                "AMAGORO",
+                                "APUWAI",
+                                "ATERAIT I",
+                                "ATERAIT II",
+                                "CHAFU",
+                                "CHEGEN CENTRAL",
+                                "CHEGEN I",
+                                "CHEGEN II",
+                                "CHEGEN III",
+                                "KABOSA GO DOWN",
+                                "KABOSA I",
+                                "KABOSA II",
+                                "KABOSA III",
+                                "KATEKI I",
+                                "KATEKI II",
+                                "KEKWENY",
+                                "KOMACHAR",
+                                "KOTENGEL"
+                            ]
+                        },
+                        {
+                            "name": "KWAPA TOWN BOARD",
+                            "villages": [
+                                "ADAMU",
+                                "KANYAKOR",
+                                "KWAPA CENTRAL",
+                                "KWAPA I",
+                                "KWAPA II",
+                                "KWAPA III"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MALABA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "AKOLODONG WARD",
+                            "villages": [
+                                "AKOLODONGO A",
+                                "AKOLODONGO B",
+                                "AKOLONDONG CENTRAL",
+                                "KATABOI A",
+                                "KATABOI B"
+                            ]
+                        },
+                        {
+                            "name": "AMAGORO WARD",
+                            "villages": [
+                                "AMAGORO A",
+                                "AMAGORO B",
+                                "AMAGORO CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "ASINGE WARD",
+                            "villages": [
+                                "AMONI \"A\"",
+                                "AMONI \"B\"",
+                                "ASINGE A",
+                                "ASINGE B"
+                            ]
+                        },
+                        {
+                            "name": "MALABA WARD",
+                            "villages": [
+                                "MALABA  EAST",
+                                "MALABA  NORTH",
+                                "MALABA  SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "OBORE WARD",
+                            "villages": [
+                                "OBORE  A",
+                                "OBORE B",
+                                "OBORE CENTRAL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MELLA",
+                    "parishes": [
+                        {
+                            "name": "APOKOR",
+                            "villages": [
+                                "AMAGORO",
+                                "AUTUTUN",
+                                "CORNER",
+                                "KADAPANY",
+                                "KAPUNGOIT A",
+                                "KAPUNGOIT B",
+                                "KESASAME",
+                                "KOMELAKO",
+                                "KOMOLO",
+                                "NYALAKOT",
+                                "NYAMATUNGA",
+                                "OBURI - APOKOR",
+                                "OTUKURI",
+                                "PEREJE"
+                            ]
+                        },
+                        {
+                            "name": "KINYII",
+                            "villages": [
+                                "KINYIL CENTRAL",
+                                "KINYIL EAST",
+                                "KINYIL NORTH",
+                                "KINYIL SOUTH",
+                                "KINYIL WEST"
+                            ]
+                        },
+                        {
+                            "name": "KOITANGIRO",
+                            "villages": [
+                                "ADUMAI",
+                                "ANGOLOLO NORTH",
+                                "ANGOLOLO SOUTH",
+                                "KOITANGIRO A",
+                                "KOITANGIRO B",
+                                "OKURET"
+                            ]
+                        },
+                        {
+                            "name": "MELLA",
+                            "villages": [
+                                "KADAMOCHE B",
+                                "KADOMOCHE A",
+                                "KATEK",
+                                "KOMOLO",
+                                "MELLA  A",
+                                "MELLA  B",
+                                "MELLA  CENTRAL",
+                                "OLD MELLA A",
+                                "OLD MELLA B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MORUKATIPE",
+                    "parishes": [
+                        {
+                            "name": "ANGOLOL",
+                            "villages": [
+                                "ALUPE",
+                                "AMONI",
+                                "ASINGE A",
+                                "ASINGE B",
+                                "ASINGE C",
+                                "KODIKE",
+                                "ONYUNYUR",
+                                "ORIYOI A",
+                                "ORIYOI B"
+                            ]
+                        },
+                        {
+                            "name": "APUTIRI",
+                            "villages": [
+                                "ANGOROM  SOUTH",
+                                "ANGOROM  WEST",
+                                "ANGOROM CENTRAL",
+                                "ANGOROM EAST",
+                                "ANGOROM NORTH",
+                                "ANGOROM NORTH WEST",
+                                "ANGOROM SOUTH EAST",
+                                "ANGOROM SOUTH WEST",
+                                "APUTIRI CENTRAL A",
+                                "APUTIRI CENTRAL B",
+                                "APUTIRI EAST A",
+                                "APUTIRI EAST B",
+                                "APUTIRI WEST"
+                            ]
+                        },
+                        {
+                            "name": "MORUKATIPE",
+                            "villages": [
+                                "ATERAIT A",
+                                "ATERAIT B",
+                                "ATERAIT C",
+                                "ATIPE",
+                                "MORUKATIPE CENTRAL",
+                                "MORUKATIPE EAST",
+                                "MORUKATIPE NORTH",
+                                "MORUKATIPE SOUTH",
+                                "MORUKATIPE WEST",
+                                "PRISONS"
+                            ]
+                        },
+                        {
+                            "name": "NYALAKOT",
+                            "villages": [
+                                "ADUMAI",
+                                "AMAGORO",
+                                "APOKOR",
+                                "EUDEYO",
+                                "KACHOMO",
+                                "KALALAN",
+                                "KAPIRI-BELAI",
+                                "MORUKATIPE",
+                                "NYALAKOT",
+                                "ORIYOI CENTRAL",
+                                "RARAKA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OSUKURU",
+                    "parishes": [
+                        {
+                            "name": "ABWANGET",
+                            "villages": [
+                                "ABWANGET",
+                                "AKABLIT",
+                                "ASURET",
+                                "NGELECHOM"
+                            ]
+                        },
+                        {
+                            "name": "AMAGORO",
+                            "villages": [
+                                "AMAGORO A",
+                                "AMAGORO B",
+                                "AMAGORO C",
+                                "BOKE A",
+                                "BOKE B",
+                                "OSIA LULIKOYO",
+                                "RAMOGI",
+                                "TENGORI"
+                            ]
+                        },
+                        {
+                            "name": "OSUKURU",
+                            "villages": [
+                                "AMAGORO C",
+                                "ANGOROM A",
+                                "ANGOROM B",
+                                "ASINGE A",
+                                "ASINGE B",
+                                "KOYUNE",
+                                "OSUKURU",
+                                "OSUKURU CORNER"
+                            ]
+                        },
+                        {
+                            "name": "TICAF",
+                            "villages": [
+                                "OPEDEDE",
+                                "TCI CAMP",
+                                "TICAF",
+                                "UCI CENTRE"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WEST BUDAMA COUNTY NORTH",
+            "sub_counties": [
+                {
+                    "name": "KATAJULA",
+                    "parishes": [
+                        {
+                            "name": "KATAJULA",
+                            "villages": [
+                                "ACHURURU",
+                                "ADIRIRI",
+                                "AKANDI",
+                                "AYILA",
+                                "MAGANGALA",
+                                "SON OGWANG",
+                                "WOLERA"
+                            ]
+                        },
+                        {
+                            "name": "MATINDI",
+                            "villages": [
+                                "MIKOME",
+                                "MUKAGANGA A",
+                                "MUKAGANGA B",
+                                "POLIECHA A",
+                                "POLIECHA B",
+                                "WUGO"
+                            ]
+                        },
+                        {
+                            "name": "MUKWANA",
+                            "villages": [
+                                "KIZINGA",
+                                "MATAWA",
+                                "MENGO",
+                                "MIKERA",
+                                "MUKWANA-KIJWALA",
+                                "MUKWANA-MORIWA",
+                                "PAKOSI",
+                                "RUDAGO",
+                                "TELE"
+                            ]
+                        },
+                        {
+                            "name": "PAGOYA",
+                            "villages": [
+                                "MITUNGA",
+                                "PAGOYA",
+                                "PAGOYA CENTRAL",
+                                "PAMISUYLWE A",
+                                "PAMISUYLWE B",
+                                "SIWA",
+                                "WIYOLA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KIREWA",
+                    "parishes": [
+                        {
+                            "name": "KATANDI",
+                            "villages": [
+                                "AKWEDI",
+                                "BUKUSI CENTRAL",
+                                "KATANDI A",
+                                "KATANDI B",
+                                "MAGEMBO A",
+                                "MAGEMBO B",
+                                "MWENGE CENTRAL",
+                                "MWENGE NORTH",
+                                "NYAGULO",
+                                "NYAKASUSA",
+                                "NYAMAYIGA A",
+                                "NYAMAYIGA B",
+                                "SELE NORTH",
+                                "SELE SOUTH",
+                                "TINDO  A",
+                                "TINDO  CENTRAL",
+                                "WIKUS CENTRAL",
+                                "WIKUS RURAL"
+                            ]
+                        },
+                        {
+                            "name": "KIREWA",
+                            "villages": [
+                                "ABARI A",
+                                "ABARI B",
+                                "ABARI CENTRAL",
+                                "AKOL",
+                                "AKOL EAST",
+                                "AKOL WEST",
+                                "BIRANGA A",
+                                "BIRANGA B",
+                                "IYOMYA A",
+                                "IYOMYA CENTRAL",
+                                "KIREWA",
+                                "NAMI",
+                                "NYAFUMBA A",
+                                "NYAFUMBA CENTRAL",
+                                "PANYALIECH B",
+                                "PANYALIECH CENTRAL",
+                                "SIMWENGI A",
+                                "SIMWENGI B"
+                            ]
+                        },
+                        {
+                            "name": "SENDA",
+                            "villages": [
+                                "NYAMBULIE A",
+                                "NYAMBULIE CENTRAL",
+                                "PAGUYUNI",
+                                "PAMANGODE",
+                                "PAMANYAGA",
+                                "PASIKULA",
+                                "PASKULA NORTH",
+                                "SENDA A",
+                                "SENDA B",
+                                "SENDA CENTRAL",
+                                "WANGKWODO"
+                            ]
+                        },
+                        {
+                            "name": "TINDO",
+                            "villages": [
+                                "AKWEDI",
+                                "KATANDI I",
+                                "KATANDI II",
+                                "MAGEMBO CENTRAL",
+                                "MAGEMBO WEST",
+                                "SELE NORTH A",
+                                "SELE SOUTH B",
+                                "TINDO A"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KISOKO",
+                    "parishes": [
+                        {
+                            "name": "GWARAGWARA",
+                            "villages": [
+                                "ABONGIT A",
+                                "ABONGIT B",
+                                "AWAYA",
+                                "CHUKULUK   A",
+                                "CHUKULUK   B",
+                                "GWARAGWARA CENTRAL",
+                                "MAGORO",
+                                "RULOWO",
+                                "RUTENGO"
+                            ]
+                        },
+                        {
+                            "name": "KISOKO",
+                            "villages": [
+                                "BENDO",
+                                "DIDA",
+                                "KISOKO CENTRAL",
+                                "KOI",
+                                "MORWA",
+                                "OLOBAI",
+                                "PAKAMU"
+                            ]
+                        },
+                        {
+                            "name": "MORIKISWA",
+                            "villages": [
+                                "OMWONYOLE",
+                                "OPALPAT",
+                                "PASAYA A",
+                                "PASAYA B",
+                                "PODAKA",
+                                "RUDAM",
+                                "RUKUL",
+                                "RULWA",
+                                "RUNGWING"
+                            ]
+                        },
+                        {
+                            "name": "PEI-PEI",
+                            "villages": [
+                                "KAKOLA A",
+                                "KAKOLA B",
+                                "MAKAUR",
+                                "PEI - PEI A",
+                                "PEIPEI B",
+                                "PILADO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAGONGERA",
+                    "parishes": [
+                        {
+                            "name": "MAUNDO",
+                            "villages": [
+                                "BIRANGA",
+                                "MAUNDO  SOUTH",
+                                "MAUNDO CENTRAL",
+                                "MAUNDO CENTRAL",
+                                "MAUNDO EAST",
+                                "MAUNDO NORTH",
+                                "MAUNDO WEST",
+                                "PUBONDO",
+                                "PUBONDO EAST",
+                                "WIDUNYI"
+                            ]
+                        },
+                        {
+                            "name": "NAMWAYA",
+                            "villages": [
+                                "KADEWERE",
+                                "KOYO",
+                                "KWOYO",
+                                "MORIWA",
+                                "NAMWAYA CENTRAL",
+                                "NAMWAYA EAST",
+                                "ODOPONYI",
+                                "OPADA-MWARA",
+                                "PAMBOGO",
+                                "PANYANDERE",
+                                "PANYIRENJA",
+                                "UNIVERSITY"
+                            ]
+                        },
+                        {
+                            "name": "OKWIRA",
+                            "villages": [
+                                "BIRANGA A",
+                                "LOLI",
+                                "NYANGANYA",
+                                "OKUTA",
+                                "OKUTA CENTRAL",
+                                "OKWIRA",
+                                "PALAS",
+                                "POMEDE",
+                                "ROCK MARKET",
+                                "RUKULI"
+                            ]
+                        },
+                        {
+                            "name": "POKONGO",
+                            "villages": [
+                                "BENDO",
+                                "KAGULU",
+                                "POKONGO  AMOR",
+                                "POKONGO  PENYI",
+                                "POKONGO  ROCK",
+                                "POKONGO  WEST",
+                                "POKONGO  WEST A",
+                                "POKONGO KWOYO",
+                                "POKONGO PENYI NORTH",
+                                "POKONGO PLAIN"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAGONGERA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "CENTRAL WARD",
+                            "villages": [
+                                "AWANYA",
+                                "POKWERO"
+                            ]
+                        },
+                        {
+                            "name": "EASTERN WARD",
+                            "villages": [
+                                "MAHANGA",
+                                "TAWO JWOK"
+                            ]
+                        },
+                        {
+                            "name": "NORTHERN WARD",
+                            "villages": [
+                                "CHALUMBA",
+                                "SESERA BENDO",
+                                "SESERA RAMOGI"
+                            ]
+                        },
+                        {
+                            "name": "SOUTHERN WARD",
+                            "villages": [
+                                "BULER",
+                                "KISUBI",
+                                "RUCHWA",
+                                "WERE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PAYA",
+                    "parishes": [
+                        {
+                            "name": "BARINYANGA",
+                            "villages": [
+                                "ALUKA",
+                                "ATAPARA  A",
+                                "ATAPARA  B",
+                                "BARINYANGA",
+                                "BUDAKA  NORTH",
+                                "BUDAKA  SOUTH",
+                                "KANGORI",
+                                "PAMINYUNYI",
+                                "POWAMIDIA",
+                                "PUPONO",
+                                "SENGO"
+                            ]
+                        },
+                        {
+                            "name": "NAWIRE",
+                            "villages": [
+                                "AGGE",
+                                "JIEP",
+                                "KANDI",
+                                "MAUNDO",
+                                "MIUSI",
+                                "NAWIRE CENTRAL",
+                                "NAWIRE NORTH",
+                                "NAWIRE SOUTH",
+                                "NYASIRENGE  EAST",
+                                "NYASIRENGE  WEST",
+                                "OPALIPATI",
+                                "PASULE  A",
+                                "PASULE  B",
+                                "PASULE  C",
+                                "PAYEDE",
+                                "PODWERA",
+                                "RAMOGI"
+                            ]
+                        },
+                        {
+                            "name": "PAYA",
+                            "villages": [
+                                "BIRANGA",
+                                "KABOSAN",
+                                "NYAKADERE",
+                                "NYAWIMBI",
+                                "PADULA",
+                                "PAMBAYA  EAST",
+                                "PAMBAYA  WEST",
+                                "PAMBEDI",
+                                "PARAGANG",
+                                "PAYA CENTRAL",
+                                "PAYA WEST",
+                                "SIKWALA",
+                                "SUGIDA"
+                            ]
+                        },
+                        {
+                            "name": "SERE",
+                            "villages": [
+                                "KISIA",
+                                "KISOKO",
+                                "LIWIRA",
+                                "MORIWA",
+                                "NYAKIRIGA",
+                                "NYANJATI",
+                                "OLAMA",
+                                "P'OPIO",
+                                "PATEWO",
+                                "SERE A",
+                                "SERE B",
+                                "SERE C"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PETTA",
+                    "parishes": [
+                        {
+                            "name": "MBULA",
+                            "villages": [
+                                "KATHOWA NORTH",
+                                "KATHOWA SOUTH",
+                                "KOMOLO",
+                                "MACHAR  EAST",
+                                "MACHAR  WEST",
+                                "MAKEKE NORTH",
+                                "MAKEKE SOUTH",
+                                "MBULA EAST",
+                                "MBULA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PAKOI",
+                            "villages": [
+                                "PAKOI A",
+                                "PAKOI B",
+                                "PAKOI C",
+                                "PARIMA NORTH",
+                                "PARIMA SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "PETTA",
+                            "villages": [
+                                "AYAGO A",
+                                "AYAGO B",
+                                "AYAGO C",
+                                "PETTA CENTRAL NORTH",
+                                "PETTA CENTRAL SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "RAMOGI",
+                            "villages": [
+                                "KANANG A",
+                                "KANANG B",
+                                "KANANG C",
+                                "MAKAUR  EAST",
+                                "MAKAUR  WEST",
+                                "MORIWA NORTH",
+                                "MORIWA SOUTH",
+                                "RAMOGI  EAST",
+                                "RAMOGI  WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SONI",
+                    "parishes": [
+                        {
+                            "name": "CHAWOLO",
+                            "villages": [
+                                "CHAWOLO",
+                                "CHAWOLO CENTRAL B",
+                                "IYOPOK A",
+                                "IYOPOK B",
+                                "KWOYO A",
+                                "KWOYO B",
+                                "MIJUNGE",
+                                "MIJUNGE SOUTH",
+                                "NYABANJA A",
+                                "NYABANJA CENTRAL",
+                                "NYAKASANA EAST",
+                                "NYAKASANA WEST",
+                                "WINYAKA A",
+                                "WINYAKA B"
+                            ]
+                        },
+                        {
+                            "name": "MIFUMI",
+                            "villages": [
+                                "KISERA A",
+                                "KISERA CENTRAL",
+                                "KISUN",
+                                "MIFUMI",
+                                "MIFUMI NORTH",
+                                "NGULIMO",
+                                "NYAMIYEMBA",
+                                "PAKITAKA",
+                                "PAKITAKA B"
+                            ]
+                        },
+                        {
+                            "name": "NAGOKE",
+                            "villages": [
+                                "BULALO",
+                                "KIWIRI",
+                                "MUKUWA",
+                                "NAGOKE",
+                                "NAGOKE B",
+                                "NYAKATOKE",
+                                "NYAKATOKE EAST",
+                                "NYAKATOKE WEST"
+                            ]
+                        },
+                        {
+                            "name": "SONI",
+                            "villages": [
+                                "ATARO",
+                                "DAGO",
+                                "IYOLWA",
+                                "JIEP",
+                                "LIYONGA",
+                                "LIYONGA CENTRAL",
+                                "ORUWA",
+                                "PORE",
+                                "SINDILA",
+                                "SONI KAINJA A",
+                                "SONI KAINJA B",
+                                "WAGUNGA",
+                                "WAGUNGA B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "SOPSOP",
+                    "parishes": [
+                        {
+                            "name": "NABOWA",
+                            "villages": [
+                                "NABOWA CENTRAL",
+                                "NABOWA NORTH",
+                                "NABOWA SOUTH",
+                                "SINGISI NORTH",
+                                "SINGISI SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "NAMWENDIA",
+                            "villages": [
+                                "BERE  CENTRAL",
+                                "BERE EAST",
+                                "BERE NORTH",
+                                "MULANDA",
+                                "MULANDA CENTRAL",
+                                "NAMWENDIA  EAST",
+                                "NAMWENDIA  WEST",
+                                "NAWEYO CENTRAL",
+                                "NAWEYO EAST",
+                                "NAWEYO WEST",
+                                "NYAMILELE"
+                            ]
+                        },
+                        {
+                            "name": "PER - PER",
+                            "villages": [
+                                "AGUMIT",
+                                "MARUK A",
+                                "PABALA  WEST",
+                                "PABALA EAST",
+                                "PER-PER  A",
+                                "PER-PER  B"
+                            ]
+                        },
+                        {
+                            "name": "SOP-SOP",
+                            "villages": [
+                                "BURIMWENGE",
+                                "KIKADHI NORTH",
+                                "KIKADHI SOUTH",
+                                "MARUK  ROCK",
+                                "MARUK B",
+                                "SOP-SOP NORTH",
+                                "SOP-SOP SOUTH"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "WEST BUDAMA COUNTY SOUTH",
+            "sub_counties": [
+                {
+                    "name": "IYOLWA",
+                    "parishes": [
+                        {
+                            "name": "OJILAI",
+                            "villages": [
+                                "BUMANDA A",
+                                "BUMANDA B",
+                                "BUMANDA C",
+                                "BUNGANGA A",
+                                "BUNGANGA B",
+                                "FUNGWE",
+                                "NAMAYUNI A",
+                                "NAMAYUNI B",
+                                "OWEERE A",
+                                "OWEERE B",
+                                "PATUMBU A",
+                                "PATUMBU B"
+                            ]
+                        },
+                        {
+                            "name": "POYEM",
+                            "villages": [
+                                "AUYO A",
+                                "AUYO B",
+                                "BENDO",
+                                "KIGURI",
+                                "NYAMILINDE A",
+                                "NYAMILINDE B",
+                                "NYEMERA  A",
+                                "NYEMERA  B",
+                                "OKWENGA",
+                                "POYEM A",
+                                "POYEM B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "IYOLWA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "GULE WARD",
+                            "villages": [
+                                "GULE A",
+                                "GULE B",
+                                "GULE C",
+                                "GULE CENTRAL",
+                                "LIGAGA"
+                            ]
+                        },
+                        {
+                            "name": "IYOLWA WARD",
+                            "villages": [
+                                "IYOLWA CENTRAL",
+                                "NAMBOGO  C",
+                                "POTI A",
+                                "POTI B",
+                                "POTI C"
+                            ]
+                        },
+                        {
+                            "name": "NAMBOGO WARD",
+                            "villages": [
+                                "NAMBOGO  A",
+                                "NAMBOGO CENTRAL",
+                                "NGETTA A",
+                                "NGETTA B",
+                                "NGETTA C",
+                                "PURONI"
+                            ]
+                        },
+                        {
+                            "name": "PABONE WARD",
+                            "villages": [
+                                "AKIPENET  A",
+                                "AKIPENET  B",
+                                "PABONE A",
+                                "PABONE B",
+                                "PABONE C",
+                                "PABONE CENTRAL",
+                                "PABONE D"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MAGOLA",
+                    "parishes": [
+                        {
+                            "name": "GULE",
+                            "villages": [
+                                "NAMBOGO  B",
+                                "NAMBOGO  D",
+                                "PABAS  A",
+                                "PABAS  B",
+                                "PAJANGANGO A",
+                                "PAJANGANGO B",
+                                "PAPADA A",
+                                "PAPADA B",
+                                "POMIELA A",
+                                "POMIELA B",
+                                "POSUNA A",
+                                "POSUNA B",
+                                "SEGERE A",
+                                "SEGERE B"
+                            ]
+                        },
+                        {
+                            "name": "MAGOLA",
+                            "villages": [
+                                "MAGOLA A",
+                                "MAGOLA B",
+                                "PAJABO A",
+                                "PAJABO B",
+                                "PALOTO  A",
+                                "PALOTO  B",
+                                "PIMORI",
+                                "POKATCH",
+                                "PONIARA",
+                                "POPANYI A",
+                                "POPANYI B"
+                            ]
+                        },
+                        {
+                            "name": "PAPOL",
+                            "villages": [
+                                "MAGORO A",
+                                "MAGORO B",
+                                "MALAWA  A",
+                                "MALAWA  B",
+                                "OSIA",
+                                "PAKAMALUNGI A",
+                                "PAKAMALUNGI B",
+                                "PAPOL A",
+                                "PAPOL B",
+                                "PAWAGWEWI A",
+                                "PAWAGWEWI B"
+                            ]
+                        },
+                        {
+                            "name": "POYAMERI",
+                            "villages": [
+                                "ASINGE",
+                                "PODUT  A",
+                                "PODUT  B",
+                                "RWANDA",
+                                "YOBOKE  A",
+                                "YOBOKE  B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MULANDA",
+                    "parishes": [
+                        {
+                            "name": "CHAWOLO",
+                            "villages": [
+                                "CHAWOLO A",
+                                "CHAWOLO B",
+                                "CHAWOLO CENTRAL  A",
+                                "CHAWOLO EAST",
+                                "SIRONGO A",
+                                "SIRONGO B",
+                                "SIRONGO CENTRAL",
+                                "SIRONGO EAST"
+                            ]
+                        },
+                        {
+                            "name": "KOROBUDI",
+                            "villages": [
+                                "KATENDA",
+                                "KOROBUDI A",
+                                "KOROBUDI B",
+                                "KOROBUDI CENTRAL",
+                                "KOROBUDI NORTH",
+                                "NYAMILIRO A",
+                                "NYAMILIRO B",
+                                "WIMBAGA",
+                                "WIMBAGA B"
+                            ]
+                        },
+                        {
+                            "name": "MULANDA",
+                            "villages": [
+                                "ATANGALA  B",
+                                "ATANGALA A",
+                                "AYAGO",
+                                "LOKOMWA",
+                                "LOKOMWA B",
+                                "MULANDA CENTRAL",
+                                "MULANDA STORE",
+                                "MULANDA STORE B",
+                                "NYASIGALA",
+                                "PAITA",
+                                "PAITA B",
+                                "PASIA",
+                                "POCHOWA",
+                                "POCHOWA NORTH"
+                            ]
+                        },
+                        {
+                            "name": "PASINDI",
+                            "villages": [
+                                "LOLI",
+                                "PANYAKENO",
+                                "PASINDI AMOR",
+                                "PASINDI AMOR CENTRAL",
+                                "PASINDI AMOR WEST",
+                                "PASINDI CENTRAL",
+                                "PASINDI ORUWA",
+                                "PASINDI ORUWA WEST",
+                                "POBWOKI",
+                                "POBWOKI SOUTH",
+                                "POTEDO",
+                                "POTEDO NORTH",
+                                "RAMOGI",
+                                "WILEGO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MWELLO",
+                    "parishes": [
+                        {
+                            "name": "AGUMIT",
+                            "villages": [
+                                "ABWEL EAST",
+                                "ABWEL WEST",
+                                "AGHEE",
+                                "AGUMIT",
+                                "BUSEMBATIA",
+                                "IYOPOK A",
+                                "IYOPOK B",
+                                "MAIRO PAWIRA NORTH",
+                                "MAIRO PAWIRO SOUTH",
+                                "RUGOT",
+                                "RUNGOLI"
+                            ]
+                        },
+                        {
+                            "name": "KISOTE",
+                            "villages": [
+                                "KANDI A",
+                                "KANDI B",
+                                "KANDI CENTRAL",
+                                "KIDIWA",
+                                "KIDIWA EAST",
+                                "KISOTE CENTRAL",
+                                "KISOTE EAST",
+                                "KISOTE NORTH",
+                                "KISOTE WEST"
+                            ]
+                        },
+                        {
+                            "name": "MIKIYA",
+                            "villages": [
+                                "AMOR",
+                                "AMOR A",
+                                "AMOR CENTRAL",
+                                "AMOR EAST",
+                                "AMOR NORTH",
+                                "AMOR WEST",
+                                "MIKIYA",
+                                "MIKIYA B",
+                                "PASULE",
+                                "RUCHWA"
+                            ]
+                        },
+                        {
+                            "name": "MWELLO",
+                            "villages": [
+                                "KOYO",
+                                "LAPA",
+                                "MWELLO A",
+                                "PAMARAKA EAST",
+                                "PAMARAKA NORTH",
+                                "PAMARAKA SOUTH",
+                                "PAMARAKA WEST",
+                                "PARACHAM EAST",
+                                "PARACHAM NORTH",
+                                "PARACHAM SOUTH",
+                                "PARACHAM WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NABUYOGA",
+                    "parishes": [
+                        {
+                            "name": "NAMWANGA",
+                            "villages": [
+                                "BUJWALA A",
+                                "BUJWALA B",
+                                "IYABARI",
+                                "MAGELO",
+                                "MAGOKHA A",
+                                "MAGOKHA B",
+                                "MUNYINYI A",
+                                "MUYINYI B",
+                                "NAMWANGA A",
+                                "NAMWANGA B",
+                                "NGOTA",
+                                "PAWIRA",
+                                "POMBELO"
+                            ]
+                        },
+                        {
+                            "name": "NYAMALOGO",
+                            "villages": [
+                                "GABA",
+                                "LWALA - POBONA  B",
+                                "LWALA - POBONA  C",
+                                "LWALA-POBONA   A",
+                                "MALAWA A",
+                                "MALAWA B",
+                                "MATAWA",
+                                "MIGANA",
+                                "MINEMBE",
+                                "NYAMALOGO",
+                                "NYAMALOGO B",
+                                "NYAMANDA",
+                                "SIWA   B",
+                                "SIWA  A",
+                                "SIWA C",
+                                "WICHAMA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NABUYOGA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "MIGANJA WARD",
+                            "villages": [
+                                "BENDO A",
+                                "BENDO B",
+                                "MIGANJA",
+                                "SENGO",
+                                "SOMBA",
+                                "YOKOLO"
+                            ]
+                        },
+                        {
+                            "name": "MUWAFU WARD",
+                            "villages": [
+                                "KYAGALA  A",
+                                "KYAGALA  B",
+                                "KYAGALA C",
+                                "MAHO A",
+                                "MAHO B",
+                                "OJILAI A",
+                                "OJILAI B",
+                                "SEGERO A",
+                                "SEGERO B"
+                            ]
+                        },
+                        {
+                            "name": "NABUYOGA WARD",
+                            "villages": [
+                                "MAWELE   A",
+                                "MAWELE   B",
+                                "MISASA",
+                                "MISASA B",
+                                "PA'KIDAMBA",
+                                "WAKASIK"
+                            ]
+                        },
+                        {
+                            "name": "PAWANGA WARD",
+                            "villages": [
+                                "KIYEYI",
+                                "MAGOLA-WEYI",
+                                "MATULA",
+                                "PAWANGA",
+                                "UMBWA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NYANGOLE",
+                    "parishes": [
+                        {
+                            "name": "ACHILET",
+                            "villages": [
+                                "ACHILET A",
+                                "ACHILET B",
+                                "ACHILET C",
+                                "ACHILET D",
+                                "ACHILET E"
+                            ]
+                        },
+                        {
+                            "name": "IYIKANGO",
+                            "villages": [
+                                "IYOKANGO",
+                                "MILE 5 TRADING CENTRE",
+                                "NYAKESI E1",
+                                "NYAKESI E2",
+                                "NYAKESI E3"
+                            ]
+                        },
+                        {
+                            "name": "NYAKESI",
+                            "villages": [
+                                "NYAKESI   A",
+                                "NYAKESI   B",
+                                "NYAKESI   C",
+                                "NYAKESI   CENTRAL",
+                                "NYAKESI   D"
+                            ]
+                        },
+                        {
+                            "name": "NYANGOLE",
+                            "villages": [
+                                "MAGURIA A",
+                                "MAGURIA B",
+                                "NYANGOLE A",
+                                "NYANGOLE B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OSIA",
+                    "parishes": [
+                        {
+                            "name": "KAGWARA",
+                            "villages": [
+                                "KAGWARA",
+                                "KAGWARA A",
+                                "KAGWARA B",
+                                "KAGWARA C",
+                                "P'OKWI"
+                            ]
+                        },
+                        {
+                            "name": "KATEREMA",
+                            "villages": [
+                                "KATEREMA A",
+                                "KATEREMA CENTRAL",
+                                "PAKANGEDA",
+                                "PO'BELLA"
+                            ]
+                        },
+                        {
+                            "name": "OSIA",
+                            "villages": [
+                                "KATEREMA B",
+                                "MAGORO A",
+                                "MAGORO B",
+                                "P'OBWINI"
+                            ]
+                        },
+                        {
+                            "name": "UMEME",
+                            "villages": [
+                                "ABURI",
+                                "ABURI CENTRAL",
+                                "KATEREMA CI",
+                                "KATEREMA CII",
+                                "KATEREMA CIII",
+                                "RUTELE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PAJWENDA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "AMOR WARD",
+                            "villages": [
+                                "AMOR GEE A",
+                                "AMOR GEE B",
+                                "KOI",
+                                "NYILOTHI",
+                                "PANYAKENO",
+                                "POKANGA",
+                                "POLEKO",
+                                "POLENGE",
+                                "POWINO A",
+                                "POWINO B",
+                                "RAMOGI"
+                            ]
+                        },
+                        {
+                            "name": "BIRA WARD",
+                            "villages": [
+                                "BIRA CENTRAL",
+                                "BIRA EAST",
+                                "BIRA NORTH",
+                                "BIRA WEST",
+                                "MAGORO A",
+                                "MAGORO B"
+                            ]
+                        },
+                        {
+                            "name": "PAJWENDA WARD",
+                            "villages": [
+                                "IYORIANG EAST",
+                                "PAJWENDA CENTRAL A",
+                                "PAJWENDA CENTRAL B",
+                                "PAJWENDA EAST",
+                                "PAJWENDA NORTH",
+                                "PAJWENDA WEST"
+                            ]
+                        },
+                        {
+                            "name": "PANYIRENJA WARD",
+                            "villages": [
+                                "IYORIANG  CENTRAL",
+                                "IYORIANG WEST",
+                                "PANYIRENJA A",
+                                "PANYIRENJA B",
+                                "PANYIRENJA EAST",
+                                "PANYIRENJA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RUBONGI",
+                    "parishes": [
+                        {
+                            "name": "KIDERA",
+                            "villages": [
+                                "AGOLA A",
+                                "AGOLA B",
+                                "KIDERA CENTRAL",
+                                "POJULO",
+                                "POTELA"
+                            ]
+                        },
+                        {
+                            "name": "PANYANGASI",
+                            "villages": [
+                                "KACHINGA",
+                                "PANYANGASI    A",
+                                "PANYANGASI    B",
+                                "PAPEL",
+                                "PULURO"
+                            ]
+                        },
+                        {
+                            "name": "RUBONGI",
+                            "villages": [
+                                "ATURUKUKU",
+                                "BARRACKS",
+                                "BENDO",
+                                "PULURO",
+                                "RUBONGI   A",
+                                "RUBONGI   B"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "TORORO"
+}

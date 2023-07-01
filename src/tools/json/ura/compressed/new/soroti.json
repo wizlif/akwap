@@ -1,0 +1,522 @@
+{
+  "name": "SOROTI",
+  "counties": [
+    {
+      "name": "DAKABELA",
+      "sub_counties": [
+        {
+          "name": "ARAPAI",
+          "parishes": [
+            {
+              "name": "AGIRIGIROI",
+              "villages": [
+                "ABILANGITI",
+                "ABATA",
+                "AGAYA",
+                "AGIRIGIROI",
+                "AMORODEKE",
+                "ASIKEI",
+                "LUZIRA",
+                "OKUNGURO",
+                "OLEGEI"
+              ]
+            },
+            {
+              "name": "ALOET",
+              "villages": [
+                "ABALANG",
+                "AKUM-ALOET",
+                "ALOET CENTRAL",
+                "ARAPAI AGRIC COLLEGE",
+                "TESO COLLEGE EAST",
+                "TESO COLLEGE WEST"
+              ]
+            },
+            { "name": "AMORU", "villages": ["AMORU", "ALURUGUN", "ARAPAI", "KANGETA", "ONYAKAI", "OMAGORO"] },
+            { "name": "ARABAKA", "villages": ["AKAIKAI", "AJIKDAK", "ARABAKA", "ODUKAI", "OGOLOI"] },
+            { "name": "ARAPAI", "villages": ["AGULE", "AWASI", "MUGANA", "OBITIO", "OBUTEI", "OJINGAI"] },
+            { "name": "DAKABELA", "villages": ["AMOTOT", "ALILIOI", "ARUBELA", "ARUSI", "ONYORAI", "OTUCHO", "TUKUM"] },
+            {
+              "name": "ODUDUI",
+              "villages": [
+                "AMINIT",
+                "ANGAI",
+                "ANGARO",
+                "ANGOSOROR",
+                "ATEN",
+                "MORUNGATUNY",
+                "ODUDUI",
+                "OLOCHO",
+                "OGORAI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KATINE",
+          "parishes": [
+            {
+              "name": "KATINE",
+              "villages": ["AJOBI", "AWIDYANG", "KATINE", "OMULAI", "OTAC", "OBIOL", "OLOCOI", "OMARIA I"]
+            },
+            {
+              "name": "MEROK",
+              "villages": [
+                "ABER",
+                "ABATA",
+                "AGORA",
+                "AGULE",
+                "APUTON",
+                "DOKOLO",
+                "MEROK",
+                "ORECOI",
+                "OJWINY",
+                "OLEL",
+                "OIMAI",
+                "OMOLOKONY"
+              ]
+            },
+            {
+              "name": "OCULOI",
+              "villages": [
+                "ACAM",
+                "ABARI A",
+                "ABARI B",
+                "AGAJA",
+                "AGULE",
+                "ADAMAI",
+                "AJONYI A",
+                "AJONYI B",
+                "AWIDIANG",
+                "AWACHA",
+                "OBYARAI A",
+                "OBYARAI B",
+                "OCHOLAI",
+                "OLANO A",
+                "OLANO B",
+                "OGUR",
+                "OJAGO",
+                "OMODOI"
+              ]
+            },
+            {
+              "name": "OJAMA",
+              "villages": [
+                "ABIA",
+                "ABARILELA",
+                "ASINGE",
+                "ATIRIR",
+                "ATIRIR TRADING CENTRE",
+                "OOMAI",
+                "ORIETA",
+                "OBALANGA",
+                "OJAMA"
+              ]
+            },
+            {
+              "name": "OJOM",
+              "villages": [
+                "AGORA",
+                "ALOET",
+                "ALUNGAR",
+                "ALUSAI",
+                "DAMASIKO",
+                "KAPALAMIO",
+                "MATALI",
+                "OYAMA",
+                "ONONGO",
+                "OBOCEI",
+                "OBONGOI",
+                "ODWONGAI",
+                "OMINIT",
+                "OJEMORUN"
+              ]
+            },
+            {
+              "name": "OLWELAI",
+              "villages": [
+                "ABILIPIIN",
+                "AGORA",
+                "AMORIKOT",
+                "AMUTUR",
+                "ALERE",
+                "KALELA",
+                "KADINYA",
+                "OBURITOK",
+                "OCORAI",
+                "ODERAI",
+                "OLWELAI",
+                "SAMUK",
+                "OGWOLO",
+                "OJANYA",
+                "OJIJI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TUBUR",
+          "parishes": [
+            {
+              "name": "ACHUNA",
+              "villages": ["ACHUNA", "AKURE A", "AKURE B", "CEELE A", "ONGURIO", "ODERAI", "OLUMOT"]
+            },
+            {
+              "name": "APARISA",
+              "villages": ["ABULE A", "ABULE B", "APARISA", "AROBA", "ODUKURUN", "OGORAI", "OMOCE"]
+            },
+            {
+              "name": "TUBUR",
+              "villages": ["AKOL", "AKUYA", "AWASI", "ORIETA A", "ORIETA B", "TUBUR", "TUBUR CENTRAL"]
+            },
+            { "name": "OBULEI", "villages": ["ABITIBIT", "APUTI", "ATACIA", "KELIM B", "KELIM C", "OBULEI"] },
+            { "name": "OGOLAI", "villages": ["ABEKO", "AGONGA", "AGORIKOCH", "AJAKU", "CEELE B", "CEELE C", "OGOLAI"] },
+            { "name": "PALAET", "villages": ["ANYALAI A", "ANYALAI B", "ANYALAI C", "KELIM A", "PALAET A", "PALAET B"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SOROTI",
+      "sub_counties": [
+        {
+          "name": "ASURET",
+          "parishes": [
+            {
+              "name": "ADACAR",
+              "villages": ["ADACAR", "AKISIM", "OMUKUNYO", "OTOITOI", "OKWENY", "OMAGORO I", "OMAGORO II"]
+            },
+            {
+              "name": "MUKURA",
+              "villages": [
+                "ABOLA",
+                "AGORA",
+                "ADALA",
+                "AJEPET",
+                "ASURET",
+                "MUKURA/ALERE",
+                "OWOONGA",
+                "OPELEPEL",
+                "OPOLAI",
+                "OREGIA",
+                "OCCUR",
+                "OKUNGURO",
+                "OLELEBUN"
+              ]
+            },
+            {
+              "name": "OBULE",
+              "villages": [
+                "ACANDIANG",
+                "AJERA I",
+                "AJERA II",
+                "ANGOROM/OBULE",
+                "ATENG",
+                "LIRA/OKALIS",
+                "ONYERAI",
+                "OTAABA",
+                "OCOMAI"
+              ]
+            },
+            {
+              "name": "OCOKICAN",
+              "villages": [
+                "ABOKET",
+                "APOKOR",
+                "APWOT",
+                "GWETOM",
+                "OWALAI",
+                "OSINAI",
+                "OCOKICAN CENTRAL",
+                "OKUNAI",
+                "OMODOI",
+                "OJAMA"
+              ]
+            },
+            {
+              "name": "OTATAI",
+              "villages": [
+                "AYAMA",
+                "OWOLO",
+                "OMULALA",
+                "ORAJAI",
+                "ORIMAI",
+                "OTATAI CENTRAL",
+                "OKIDOI",
+                "OBILAI",
+                "OBUTET",
+                "OCHERO",
+                "OLWA A",
+                "OLWA B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "GWERI",
+          "parishes": [
+            {
+              "name": "AUKOT",
+              "villages": ["AGULE", "AKISIM", "AKUJA", "AMUDA", "ARIET", "AUKOT", "KALER", "OSUGURO", "OKOOLEI"]
+            },
+            {
+              "name": "AWALIWAL",
+              "villages": [
+                "ABIYA",
+                "ABOKORO",
+                "AMOROTO A",
+                "AMOROTO B",
+                "AMORU",
+                "ARUBELA",
+                "ATOGWANG",
+                "AWALIWAL",
+                "DAMASIKO",
+                "ONUKAI",
+                "OKOLONGA",
+                "TAKARAMIAM"
+              ]
+            },
+            { "name": "AWOJA", "villages": ["ACABOI-ODUKURUN", "ANGANYA", "AWOJA", "ASINGE", "ONGESEBA", "OTIDONGA"] },
+            {
+              "name": "DOKOLO",
+              "villages": [
+                "ABELET",
+                "ABIYA",
+                "AGWARA",
+                "ACUMA",
+                "AKISIM",
+                "ANGARO A",
+                "ANGARO B",
+                "DOKOLO/TOSORO",
+                "MORUAPESUR",
+                "OOKAI",
+                "ONYAMAI",
+                "OBULETERA"
+              ]
+            },
+            { "name": "GWERI", "villages": ["AMODOIMA", "ALERE", "ANGOPET", "ANYIDI", "GWERI", "OPUCET", "OLELAI"] },
+            {
+              "name": "MUGENYA",
+              "villages": ["AKUYA", "AMUSIA I", "AMUSIA II", "MUGENYA", "ORAPADA", "TUKUM", "TELAMOT"]
+            }
+          ]
+        },
+        {
+          "name": "KAMUDA",
+          "parishes": [
+            {
+              "name": "AGORA",
+              "villages": [
+                "AGAMA",
+                "AGULE",
+                "AGUROI",
+                "AKEREI",
+                "AJUMULA",
+                "AMEN",
+                "APUTON",
+                "DOKOLO",
+                "OWALAI",
+                "OWILAI",
+                "OGERAI",
+                "OJIKAI"
+              ]
+            },
+            {
+              "name": "AMINIT",
+              "villages": [
+                "ALADOI",
+                "AMOTOT/AGULAMAIDO",
+                "AWONANGU",
+                "AWACA",
+                "AWASI",
+                "KAKITA",
+                "OWOLO",
+                "OYOMAI",
+                "ORINGAI",
+                "ONGORATOK",
+                "ONGUNAI",
+                "OSUDO",
+                "OBAK",
+                "OBUTAI",
+                "OKULAI",
+                "OLIMAI"
+              ]
+            },
+            {
+              "name": "KAMUDA",
+              "villages": [
+                "ADIL",
+                "AKISIM",
+                "APORO",
+                "ARARAK",
+                "AWINYI",
+                "ASUROI",
+                "ATEK",
+                "KAKERE",
+                "OURAI",
+                "OWOLO",
+                "OWORO",
+                "ONGWENGAI",
+                "OKIMAI",
+                "OBUJA",
+                "ODIMA",
+                "OLOBAI",
+                "OLWELAI"
+              ]
+            },
+            {
+              "name": "LALLE",
+              "villages": [
+                "ABUA",
+                "AGULE",
+                "AKOYO",
+                "ALERO",
+                "APUTON",
+                "KOKUMU",
+                "CHELLE",
+                "KALENGO",
+                "OWANGAI",
+                "OMUKURA",
+                "ORWADAI",
+                "OBAR",
+                "OKUDAI",
+                "OLUKEI",
+                "OMAGORO",
+                "OGWENGAI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SOROTI",
+          "parishes": [
+            { "name": "ACETGWEN", "villages": ["ACETGWEN", "OPIAI A", "OPIAI B", "ORWADAI", "ODUKURUN"] },
+            { "name": "AMEN", "villages": ["AMEN A", "AMEN B", "OBUKU", "ODERAI"] },
+            { "name": "OPUYO", "villages": ["ALAKI", "OWALEI", "OPIRO", "OMURON", "OMALERA A", "OMALERA B", "OMIRIO"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SOROTI MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "EASTERN",
+          "parishes": [
+            { "name": "AKISIM WARD", "villages": ["CELL 2", "CELL 3", "CELL 4", "CELL 5", "CELL I"] },
+            {
+              "name": "CENTRAL WARD",
+              "villages": [
+                "AGIP CELL",
+                "KENGERE CENTRAL",
+                "KENGERE EAST",
+                "KENGERE SOUTH",
+                "KENGERE WEST",
+                "CELL A",
+                "CELL B",
+                "CELL C",
+                "CELL D",
+                "CELL E",
+                "CELL F",
+                "CELL G",
+                "KIGANDANI CELL",
+                "TESO INN CELL"
+              ]
+            },
+            {
+              "name": "MORUAPESUR WARD",
+              "villages": [
+                "CENTRAL CELL C",
+                "MORUAPESUR CELL B",
+                "MORUAPESUR CELL D",
+                "OPEGEI CELL A",
+                "ODOKOLEN CELL E"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NORTHERN",
+          "parishes": [
+            {
+              "name": "CAMP SWAHILI WARD",
+              "villages": [
+                "A1 CELL",
+                "A2 CELL",
+                "A3 CELL",
+                "A4 CELL",
+                "A5 CELL",
+                "A6 CELL",
+                "A7/8 CELL",
+                "B1 CELL",
+                "B2/B3 CELL",
+                "B4/B5 CELL",
+                "B6/B7 CELL"
+              ]
+            },
+            {
+              "name": "KICHINJANJI WARD",
+              "villages": ["ALIABU CELL", "EAST CELL", "CENTRAL CELL", "WEST CELL", "USUK CELL"]
+            },
+            {
+              "name": "MADERA WARD",
+              "villages": [
+                "AMINIT CELL",
+                "AREGEREGO CELL",
+                "ASINGEI CELL",
+                "CENTRAL CELL",
+                "MAJENGO A CELL",
+                "MAJENGO B CELL",
+                "UCC SOROTI",
+                "OGASIA CELL"
+              ]
+            },
+            {
+              "name": "PIONEER WARD",
+              "villages": [
+                "HOSPITAL CELL",
+                "FLYING SCHOOL CELL",
+                "EJALU CELL",
+                "ENGWAU CELL",
+                "MADUDU CELL",
+                "MOROTO ROAD CELL",
+                "PIONEER CELL",
+                "SOROTI NURSES CELL"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WESTERN",
+          "parishes": [
+            {
+              "name": "NAKATUNYA WARD",
+              "villages": ["MALINGA CELL", "LUBIRI CELL", "NURSERY CELL", "WIRE CELL", "ODEKE CELL"]
+            },
+            {
+              "name": "SENIOR QUARTERS WARD",
+              "villages": [
+                "CELL A",
+                "CELL B",
+                "CELL C",
+                "CELL D",
+                "CELL E",
+                "CELL F",
+                "CELL G",
+                "CELL H",
+                "CELL I",
+                "CELL J",
+                "CELL K"
+              ]
+            },
+            { "name": "ODERAI/MAJENGO WARD", "villages": ["MAJENGO CELL", "ODERAI CELL"] },
+            {
+              "name": "PAMBA WARD",
+              "villages": ["KISENYI CELL", "LABOUR LINE CELL", "MUTUKULA CELL", "OLD AKISIM", "OLD MBALE CELL"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

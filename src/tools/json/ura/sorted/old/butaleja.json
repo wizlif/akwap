@@ -1,0 +1,926 @@
+{
+    "counties": [
+        {
+            "name": "BUNYOLE EAST COUNTY",
+            "sub_counties": [
+                {
+                    "name": "BUFUJJA-KACHONGA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUFUJJA WARD",
+                            "villages": [
+                                "BUFUJJA",
+                                "NALUHONJOHE",
+                                "NASOGO",
+                                "WAGERYA"
+                            ]
+                        },
+                        {
+                            "name": "BUGADUNYA WARD",
+                            "villages": [
+                                "BUGADUNYA",
+                                "KATO",
+                                "MUVULE"
+                            ]
+                        },
+                        {
+                            "name": "KACHONGA WARD",
+                            "villages": [
+                                "BUKEDI COLLEGE KACHONGA",
+                                "KACHONGA  A",
+                                "KACHONGA  B",
+                                "MIREMBE",
+                                "MUTUMBA"
+                            ]
+                        },
+                        {
+                            "name": "MUDODO WARD",
+                            "villages": [
+                                "BUBALI",
+                                "LUBANGA",
+                                "MAZIMASA B",
+                                "MUDODO"
+                            ]
+                        },
+                        {
+                            "name": "NEBBO WARD",
+                            "villages": [
+                                "LUHOLA",
+                                "NEBBO",
+                                "NERIMA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUTALEJA",
+                    "parishes": [
+                        {
+                            "name": "BUGOSA",
+                            "villages": [
+                                "BUGOSA",
+                                "BUMWAMI A",
+                                "BUMWAMI B",
+                                "BUNGHONYA",
+                                "NAMBUSULI"
+                            ]
+                        },
+                        {
+                            "name": "BUSIBIRA",
+                            "villages": [
+                                "BULIMBA",
+                                "BULYOLIRE",
+                                "BUNGHOMA",
+                                "BUSIBIRA A",
+                                "BUSIBIRA B",
+                                "NAMADETE"
+                            ]
+                        },
+                        {
+                            "name": "MABALE",
+                            "villages": [
+                                "BUTENGA",
+                                "GUBUGU",
+                                "MABALE A",
+                                "MABALE B",
+                                "MUGULU",
+                                "NAKADELE"
+                            ]
+                        },
+                        {
+                            "name": "MULANDU",
+                            "villages": [
+                                "BUGANGULA",
+                                "HIGUGO",
+                                "MULANDU",
+                                "NAHINGHANDE",
+                                "NAMUDAHA"
+                            ]
+                        },
+                        {
+                            "name": "NAKWASI",
+                            "villages": [
+                                "BUTESA A",
+                                "BUTESA B",
+                                "JABUSIBA",
+                                "KABUGOLI",
+                                "NAKWASI",
+                                "NAMBALE",
+                                "NYIRINYA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUTALEJA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUNGHAGI WARD",
+                            "villages": [
+                                "BUNGHAJI",
+                                "GAYAZA",
+                                "HINYAMATO",
+                                "KASUBI",
+                                "LERESI",
+                                "NALUSAGA",
+                                "NAMAHERE",
+                                "NANGOLO"
+                            ]
+                        },
+                        {
+                            "name": "BUTALEJA WARD",
+                            "villages": [
+                                "BUHEHE",
+                                "BUHOBE",
+                                "BULINDI",
+                                "BUSASI",
+                                "BUTALEJA",
+                                "LUNGHULE"
+                            ]
+                        },
+                        {
+                            "name": "HISEGA WARD",
+                            "villages": [
+                                "HISEGA",
+                                "NAHIGOMBE",
+                                "NAMADETE",
+                                "NAMUBI"
+                            ]
+                        },
+                        {
+                            "name": "LUJEHE WARD",
+                            "villages": [
+                                "BUTUNGA",
+                                "DOLODONDO",
+                                "LUJEHE",
+                                "NAMULEMU",
+                                "NYAWERA"
+                            ]
+                        },
+                        {
+                            "name": "NANYULU WARD",
+                            "villages": [
+                                "BAMBONE",
+                                "LUKANGHOLE",
+                                "NANYULU"
+                            ]
+                        },
+                        {
+                            "name": "SAGENDA WARD",
+                            "villages": [
+                                "HANJEHE",
+                                "SAGENDA  II",
+                                "SEGENDA  I"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "HIMUTU",
+                    "parishes": [
+                        {
+                            "name": "KAITI",
+                            "villages": [
+                                "HIMUTU",
+                                "KAITI",
+                                "KANGHIRIMA",
+                                "MAGAGA"
+                            ]
+                        },
+                        {
+                            "name": "KANGALABA",
+                            "villages": [
+                                "BUHITEGO",
+                                "BWIRYA",
+                                "KANGALABA",
+                                "NABIGO",
+                                "NALUSAGA",
+                                "NALUSAGA TOWNSHIP"
+                            ]
+                        },
+                        {
+                            "name": "KANYENYA",
+                            "villages": [
+                                "BUGWE",
+                                "KANYENYA",
+                                "KANYENYA B",
+                                "MASULULA",
+                                "MASULULA B"
+                            ]
+                        },
+                        {
+                            "name": "NAMULO",
+                            "villages": [
+                                "BUGULI",
+                                "MUNINGE",
+                                "NAMULO",
+                                "NANJERE"
+                            ]
+                        },
+                        {
+                            "name": "TINDI",
+                            "villages": [
+                                "BUBAGO",
+                                "DOHO",
+                                "MAHINDU",
+                                "MANAFA",
+                                "TINDI"
+                            ]
+                        },
+                        {
+                            "name": "WANGALE",
+                            "villages": [
+                                "BUHABAMBWE",
+                                "MAGENGERE",
+                                "NALUMA",
+                                "WANGALE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KACHONGA",
+                    "parishes": [
+                        {
+                            "name": "CHADONGO",
+                            "villages": [
+                                "BUSETA",
+                                "CHADONGO B",
+                                "KAVULE",
+                                "LUBANGA",
+                                "MAWANGA",
+                                "MBIKO",
+                                "NAMBOLE",
+                                "NAMUSITA",
+                                "NATALO",
+                                "NSYAMBYA",
+                                "SUPA",
+                                "TANGI"
+                            ]
+                        },
+                        {
+                            "name": "NAMAJJI",
+                            "villages": [
+                                "BUKAIRI",
+                                "NAMAFAFA A",
+                                "NAMAFAFA B"
+                            ]
+                        },
+                        {
+                            "name": "NAMAWA",
+                            "villages": [
+                                "BULUMBA",
+                                "HAGOLA",
+                                "MIREMBE",
+                                "MUKWANO",
+                                "MULAGO",
+                                "NABIGANDA C",
+                                "NAMATAALA",
+                                "NAMAWA  A",
+                                "NAMAWA  B",
+                                "NTINDA",
+                                "OTAHAJEHADAMBA"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNASA",
+                            "villages": [
+                                "BUMANGO",
+                                "DOHO HIBIRA A",
+                                "DOHO HIBIRA B",
+                                "DUNGHULI",
+                                "MUHULA  DOHO",
+                                "MUHULA  KAGONDO",
+                                "NAHIGOGOLA",
+                                "NAMUJUGUME"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MAZIMASA",
+                    "parishes": [
+                        {
+                            "name": "DOHO",
+                            "villages": [
+                                "DOHO A",
+                                "DOHO B",
+                                "KISUBI",
+                                "KOLI",
+                                "MAGUGU",
+                                "MUHUNGHWA",
+                                "MUHUYU",
+                                "NAMEHERE",
+                                "NAMUNASA",
+                                "WAPALA"
+                            ]
+                        },
+                        {
+                            "name": "KAPISA",
+                            "villages": [
+                                "KAPISA",
+                                "KAPISA CENTRAL",
+                                "MANAFA",
+                                "MUHOHO",
+                                "MUHUMBANYA",
+                                "NAHILIGA"
+                            ]
+                        },
+                        {
+                            "name": "LUBEMBE",
+                            "villages": [
+                                "BULOMI",
+                                "LUBEMBE",
+                                "MAGOHA",
+                                "NAHANJA",
+                                "NAHASALAGALA",
+                                "NALUHOOLA",
+                                "NAMATOOKE",
+                                "NANDEREMA"
+                            ]
+                        },
+                        {
+                            "name": "MAZIMASA",
+                            "villages": [
+                                "BUDIBA",
+                                "BUGALO",
+                                "BUGALO CENTRAL",
+                                "NAKABALE"
+                            ]
+                        },
+                        {
+                            "name": "MUYAGO",
+                            "villages": [
+                                "KAMPALA",
+                                "MIYAYA",
+                                "NAMUGONGO",
+                                "NAMUSERU",
+                                "SCHEME VIEW",
+                                "WEGGA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NABIGANDA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "NABIGANDA WARD",
+                            "villages": [
+                                "BUKAIRI",
+                                "MUHUYU",
+                                "NABIGANDA   B",
+                                "NABIGANDA  CENTRAL",
+                                "NABIGANDA ''A''",
+                                "NABIGANDA TOWNSHIP",
+                                "NAKAWA",
+                                "NAMAJJI A",
+                                "NAMAJJI B"
+                            ]
+                        },
+                        {
+                            "name": "NAKABI WARD",
+                            "villages": [
+                                "MAZIMASA \"A\"",
+                                "MAZIMASA CENTRAL",
+                                "NAKABI",
+                                "NAKABI CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "NAMPOLOGOMA WARD",
+                            "villages": [
+                                "GABA",
+                                "KYAUNI",
+                                "NAMPOLOGOMA CENTRAL",
+                                "NAMPOLOGOMA MAIN",
+                                "NAMUNASA",
+                                "TRIANGLE"
+                            ]
+                        },
+                        {
+                            "name": "NAMUNSWA WARD",
+                            "villages": [
+                                "BUSETA",
+                                "CHADONGO A",
+                                "GOMBO",
+                                "HAGOLA",
+                                "MIREMBE",
+                                "NABIGANDA  CENTRAL",
+                                "NABIGANDA C",
+                                "NABIGANDA UPPER",
+                                "SUPA",
+                                "TANGI"
+                            ]
+                        },
+                        {
+                            "name": "NAMUSERU WARD",
+                            "villages": [
+                                "KANGHANYI",
+                                "MUYAGO"
+                            ]
+                        },
+                        {
+                            "name": "NASEMENYE WARD",
+                            "villages": [
+                                "BUJOGO",
+                                "BUTAGWA",
+                                "KAPISA B TOWNSHIP",
+                                "MANAFA CENTRAL",
+                                "NAMBILI",
+                                "NASEMENYE",
+                                "NASEMENYE TOWNSHIP",
+                                "NEKULILE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAWEYO",
+                    "parishes": [
+                        {
+                            "name": "KACHEKERE",
+                            "villages": [
+                                "HAMERA",
+                                "KACHEKERE",
+                                "LUHOLA EAST",
+                                "LUHOLA WEST",
+                                "LWOBA",
+                                "NAKABAALE"
+                            ]
+                        },
+                        {
+                            "name": "KACHONGA",
+                            "villages": [
+                                "BUDIRA",
+                                "BUSANGISA",
+                                "KACHONGA",
+                                "MILEMBE",
+                                "NAMUGONGO",
+                                "NAMUKUKULU"
+                            ]
+                        },
+                        {
+                            "name": "KAITI",
+                            "villages": [
+                                "KAITI A",
+                                "KAITI B",
+                                "KAITI CENTRAL",
+                                "MPOLYABIGERE A",
+                                "MPOLYABIGERE B",
+                                "NAHAMYA  A",
+                                "NAHAMYA  B",
+                                "NAHAMYA CENTRAL",
+                                "NAKABAALE",
+                                "NAMATAALA",
+                                "NYANZA"
+                            ]
+                        },
+                        {
+                            "name": "NAMBALE",
+                            "villages": [
+                                "BULUBA",
+                                "BUYERELO",
+                                "MUYENGA",
+                                "NAMBALE"
+                            ]
+                        },
+                        {
+                            "name": "NASINYI",
+                            "villages": [
+                                "MALUKU A",
+                                "MALUKU B",
+                                "NAKASANGA",
+                                "NASINYI  A",
+                                "NASINYI  B",
+                                "NASINYI  CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "NAWEYO",
+                            "villages": [
+                                "HIGHLAND A",
+                                "HIGHLAND B",
+                                "KUWAITI A",
+                                "KUWAITI B",
+                                "MPOLYABIGERE",
+                                "MUTONGO",
+                                "NAWEYO A",
+                                "NAWEYO B"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "BUNYOLE WEST COUNTY",
+            "sub_counties": [
+                {
+                    "name": "BUDUMBA",
+                    "parishes": [
+                        {
+                            "name": "BUDUMBA",
+                            "villages": [
+                                "BUDUMBA",
+                                "DUMANGHALE",
+                                "NAMUJIBA",
+                                "NANJULI",
+                                "NAPINDO",
+                                "NASAGA"
+                            ]
+                        },
+                        {
+                            "name": "BUDUSU",
+                            "villages": [
+                                "BUDUSU",
+                                "BUHANGA",
+                                "DUMBU",
+                                "ERIGA",
+                                "HISOHO",
+                                "HYABALANGHI",
+                                "MANGHOMA",
+                                "MANGHUNDO"
+                            ]
+                        },
+                        {
+                            "name": "BUNAWALE",
+                            "villages": [
+                                "BUGOOLA",
+                                "BUHADANYA",
+                                "BUHWAYA",
+                                "BULINDA",
+                                "BUNAWALE",
+                                "BUWENGE",
+                                "GOMBE",
+                                "IRUNDU",
+                                "NAMALENYO",
+                                "NAWANDYO",
+                                "NAWONYA",
+                                "TAYIRO"
+                            ]
+                        },
+                        {
+                            "name": "BUNGHANGA",
+                            "villages": [
+                                "BUGOLOLA A",
+                                "BUGOLOLA B",
+                                "BUNGHANGA",
+                                "HAGAALO",
+                                "KOOLA",
+                                "LWAMBOGA"
+                            ]
+                        },
+                        {
+                            "name": "MABALE",
+                            "villages": [
+                                "BWENGE",
+                                "MABALE",
+                                "NABUYANJA",
+                                "NAMBIRI",
+                                "NATOOLI"
+                            ]
+                        },
+                        {
+                            "name": "MASANGHE",
+                            "villages": [
+                                "MASANGHE",
+                                "NANGHUNGA",
+                                "NAWANDAGALA",
+                                "TAMBALA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSABA",
+                    "parishes": [
+                        {
+                            "name": "BUSABA",
+                            "villages": [
+                                "BUBUHE",
+                                "BUDOBA",
+                                "NAMALE",
+                                "WIHALA"
+                            ]
+                        },
+                        {
+                            "name": "BUWIHULA",
+                            "villages": [
+                                "BUMWAMI A",
+                                "BUMWAMI B",
+                                "BUNGHOMA A",
+                                "BUNGHOMA B",
+                                "KANYENYA"
+                            ]
+                        },
+                        {
+                            "name": "MULAGI",
+                            "villages": [
+                                "HAGULU",
+                                "HAHOLA",
+                                "LWAMBOGA",
+                                "MULAGI",
+                                "MUSITU",
+                                "NAGONDO A",
+                                "NAGONDO B"
+                            ]
+                        },
+                        {
+                            "name": "MULANGA",
+                            "villages": [
+                                "BUFUMI",
+                                "BUGISA",
+                                "BUGOSA",
+                                "BUGWERA",
+                                "MULANGA",
+                                "MULISIA",
+                                "NAHAGULU A",
+                                "NAHAGULU B",
+                                "NAHALONDO",
+                                "NAMUTUMBA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSABA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUMWAMI",
+                            "villages": [
+                                "BUMWAMI A",
+                                "BUMWAMI B",
+                                "KIKALU",
+                                "NAKABALE",
+                                "WANYUNDU"
+                            ]
+                        },
+                        {
+                            "name": "BUSABA WARD",
+                            "villages": [
+                                "BUGISA",
+                                "BUSABA A",
+                                "BUSABA B",
+                                "BUWIHULA",
+                                "LUDODO",
+                                "MADUNGHA",
+                                "NDUBI"
+                            ]
+                        },
+                        {
+                            "name": "HALANGA WARD",
+                            "villages": [
+                                "BUSABA TOWNSHIP",
+                                "HALANGA",
+                                "KASULETA",
+                                "LUBANGA",
+                                "NADOME",
+                                "TRIANGLE"
+                            ]
+                        },
+                        {
+                            "name": "MWIHA",
+                            "villages": [
+                                "BUGABANIA",
+                                "BUGALI",
+                                "BUWIHULA",
+                                "BUYAMBI",
+                                "LUDODO",
+                                "MWIHA",
+                                "MWIHA CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "NAWINYOHA WARD",
+                            "villages": [
+                                "NABWINYOHA A",
+                                "NABWINYOHA B",
+                                "NASWA",
+                                "WANGA",
+                                "WANGA B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSABI",
+                    "parishes": [
+                        {
+                            "name": "BUGEGEGE",
+                            "villages": [
+                                "BUGEGEGE",
+                                "DUMBU",
+                                "FAGGA",
+                                "MAGOJE",
+                                "NAMANDA",
+                                "NAMUTU"
+                            ]
+                        },
+                        {
+                            "name": "BUSABI",
+                            "villages": [
+                                "BUBALI",
+                                "BUSABI",
+                                "LUBANGWE",
+                                "MAHUYU",
+                                "MALONGO",
+                                "NJOLI"
+                            ]
+                        },
+                        {
+                            "name": "BUWESA",
+                            "villages": [
+                                "BUBADA",
+                                "BUGANGU",
+                                "BUWESA",
+                                "LWANDA",
+                                "MASOLWA"
+                            ]
+                        },
+                        {
+                            "name": "HABIGA",
+                            "villages": [
+                                "HABIGA",
+                                "NAMUDUNYO",
+                                "NAMUSOLE"
+                            ]
+                        },
+                        {
+                            "name": "MALANGHA",
+                            "villages": [
+                                "BUGEGERE",
+                                "BULEGA",
+                                "MALANGHA",
+                                "MUHUYU",
+                                "NAMAKE"
+                            ]
+                        },
+                        {
+                            "name": "MANYAMYE",
+                            "villages": [
+                                "BULIRO",
+                                "MANYAMYE EAST",
+                                "MANYAMYE WEST",
+                                "MULERE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSOLWE",
+                    "parishes": [
+                        {
+                            "name": "BUBALYA",
+                            "villages": [
+                                "BUBALYA  NORTH",
+                                "BUBALYA  SOUTH",
+                                "BUHUMI",
+                                "NAMUNYAGWE CENTRAL",
+                                "NAMUNYAGWE WEST"
+                            ]
+                        },
+                        {
+                            "name": "BUHABEBA",
+                            "villages": [
+                                "BUDEMBE",
+                                "BUGONA",
+                                "BUHABEBA",
+                                "BUSONI",
+                                "HAMIRA",
+                                "MABALE",
+                                "NALUGUNJO",
+                                "SIHILO"
+                            ]
+                        },
+                        {
+                            "name": "BUNGHUMU",
+                            "villages": [
+                                "BUNGHUMU CENTRAL",
+                                "BUNGHUMU NORTH",
+                                "BUNGHUMU SOUTH",
+                                "BUSOKO-BUGHUMU",
+                                "MUGULU-BUGHUMU"
+                            ]
+                        },
+                        {
+                            "name": "MUGULU",
+                            "villages": [
+                                "MUGULU  CENTRAL",
+                                "MUGULU  MABALE",
+                                "MUGULU A",
+                                "MUGULU BUSOOKO",
+                                "MUGULU HISIRO",
+                                "NABADE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSOLWE TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUSOLWE CENTRAL WARD",
+                            "villages": [
+                                "BUSOLWE CENTRAL",
+                                "DUNDO",
+                                "NANDAHABI",
+                                "NAPEKERE NORTH",
+                                "NAPEKERE SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "BUSOLWE WARD",
+                            "villages": [
+                                "BUGAMWENGE",
+                                "BUKEDE",
+                                "BUSOLWE HOSP.",
+                                "BUSOLWE NORTH",
+                                "BUSOLWE SOUTH",
+                                "NAKWIGA"
+                            ]
+                        },
+                        {
+                            "name": "NAKWIGA WARD",
+                            "villages": [
+                                "HISIRO",
+                                "NABAGALI",
+                                "NAKWIGA - BUNGHUMU",
+                                "ZEBRA"
+                            ]
+                        },
+                        {
+                            "name": "NAWASU WARD",
+                            "villages": [
+                                "MABALE",
+                                "NAMUHUNGO",
+                                "NAMUTEGO",
+                                "NAWASU"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "NAWANJOFU",
+                    "parishes": [
+                        {
+                            "name": "BINGO",
+                            "villages": [
+                                "BAKUMA",
+                                "BINGO A",
+                                "BINGO B",
+                                "BUKALA",
+                                "HIGOYE",
+                                "HITUNGA",
+                                "NABAATU",
+                                "NAMADUMWE"
+                            ]
+                        },
+                        {
+                            "name": "BUBBINGE",
+                            "villages": [
+                                "BUBBINGE A",
+                                "BUBBINGE B",
+                                "HACHWALI",
+                                "HIRIGA",
+                                "NABALA A",
+                                "NABALA B",
+                                "NAWANJOFU",
+                                "WASU"
+                            ]
+                        },
+                        {
+                            "name": "BUGALO",
+                            "villages": [
+                                "BUHADYO",
+                                "BUHIGO A",
+                                "BUHIGO B",
+                                "KISENYI",
+                                "MADUNGHA",
+                                "NAHIBIRA A",
+                                "NALULYANGHOMBE",
+                                "NAWETAKA",
+                                "SOMBA A",
+                                "SOMBA B"
+                            ]
+                        },
+                        {
+                            "name": "MASANGHE",
+                            "villages": [
+                                "LWAMBOGA",
+                                "MASABA",
+                                "MASANGHE",
+                                "NABUYANJA",
+                                "NAMAHOHO",
+                                "NAWALU",
+                                "NEJJUNGU",
+                                "SUNI"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "BUTALEJA"
+}

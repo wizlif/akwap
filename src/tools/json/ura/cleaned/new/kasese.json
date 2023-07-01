@@ -1,0 +1,1813 @@
+{
+  "name": "KASESE",
+  "id": 35,
+  "counties": [
+    {
+      "name": "BUKONJO EAST",
+      "id": 371,
+      "sub_counties": [
+        {
+          "name": "KISINGA",
+          "id": 1579,
+          "parishes": [
+            {
+              "name": "KAGANDO",
+              "id": 2475,
+              "villages": [
+                { "name": "KIREMBO", "id": 28452 },
+                { "name": "KISANGA", "id": 28974 },
+                { "name": "RWEMBYO", "id": 54109 },
+                { "name": "SAAD MEM SEC. SCH", "id": 54812 },
+                { "name": "RWESORORO", "id": 54611 },
+                { "name": "KAMURULI", "id": 21622 },
+                { "name": "KAGANDO II", "id": 19626 },
+                { "name": "ST. JOHN SEMINARY KIBURARA", "id": 55809 }
+              ]
+            },
+            {
+              "name": "KAJWENGE",
+              "id": 2570,
+              "villages": [
+                { "name": "KAJWENGE T.C", "id": 20231 },
+                { "name": "KANYUGHUNYA", "id": 22371 },
+                { "name": "KAMUGHOBE II", "id": 21503 },
+                { "name": "LHUHWAHWA I", "id": 34108 },
+                { "name": "LHUHWAHWA II", "id": 34109 }
+              ]
+            },
+            {
+              "name": "NSENYI",
+              "id": 5902,
+              "villages": [
+                { "name": "BUZIRA", "id": 14283 },
+                { "name": "KIGHUTHU", "id": 26774 },
+                { "name": "KARAMBI", "id": 22882 },
+                { "name": "KALINGWE", "id": 21000 },
+                { "name": "MUGHENDE", "id": 39335 },
+                { "name": "NSENYI", "id": 45127 },
+                { "name": "NYAKAINA", "id": 46124 },
+                { "name": "ST. THERESA GIRLS S.S", "id": 55819 }
+              ]
+            },
+            {
+              "name": "NYABIRONGO",
+              "id": 5966,
+              "villages": [
+                { "name": "BUGHEMA", "id": 8322 },
+                { "name": "BUSINE", "id": 12579 },
+                { "name": "BUSYANGWA", "id": 12874 },
+                { "name": "KINYWANKOKO I", "id": 28270 },
+                { "name": "KINYWANKOKO II", "id": 28271 },
+                { "name": "RWENGUHYO II", "id": 54300 },
+                { "name": "KAMAHANGA", "id": 21215 },
+                { "name": "KAMUGHOBE I", "id": 21502 },
+                { "name": "NDANDU", "id": 44228 },
+                { "name": "NYABIRONGO CENTRAL", "id": 45586 },
+                { "name": "NYABIRONGO I", "id": 45587 },
+                { "name": "NYABIRONGO II", "id": 45588 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KISINGA TOWN COUNCIL",
+          "id": 368,
+          "parishes": [
+            {
+              "name": "KISINGA-KAGANDO TOWN BOARD",
+              "id": 3833,
+              "villages": [
+                { "name": "KISINGA T.C. I", "id": 29264 },
+                { "name": "KISINGA T.C. II", "id": 29265 },
+                { "name": "KATULU", "id": 24736 },
+                { "name": "RWENGUHYO I", "id": 54299 },
+                { "name": "KALERE", "id": 20952 },
+                { "name": "KAGANDO HOSPITAL", "id": 19623 },
+                { "name": "KAGANDO I", "id": 19624 },
+                { "name": "NGOLERANDI", "id": 44594 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KYARUMBA",
+          "id": 370,
+          "parishes": [
+            {
+              "name": "KABIRIZI",
+              "id": 2361,
+              "villages": [
+                { "name": "KILHAMBAIRO", "id": 27834 },
+                { "name": "KINYAMINAGHA", "id": 28172 },
+                { "name": "KIBISIRE-KIBWERA", "id": 26060 },
+                { "name": "KANYABUSOGHA", "id": 22099 },
+                { "name": "KARUJUMBA", "id": 23104 }
+              ]
+            },
+            {
+              "name": "KAGHEMA",
+              "id": 2493,
+              "villages": [
+                { "name": "KABINGO", "id": 18838 },
+                { "name": "KANYATSI I", "id": 22255 },
+                { "name": "KANYATSI II", "id": 22257 },
+                { "name": "KARWEMERA", "id": 23165 },
+                { "name": "KYARUMBA T.C.", "id": 32790 },
+                { "name": "KAGHEMA", "id": 19726 },
+                { "name": "MATHEMBE", "id": 37733 }
+              ]
+            },
+            {
+              "name": "KALONGE",
+              "id": 2707,
+              "villages": [
+                { "name": "BUTHALE I", "id": 13194 },
+                { "name": "BUTHALE II", "id": 13195 },
+                { "name": "KITABONA", "id": 29531 },
+                { "name": "KIBIRIGHA I", "id": 26025 },
+                { "name": "KIBIRIGHA II", "id": 26026 },
+                { "name": "KALONGE", "id": 21058 },
+                { "name": "KATALEBA", "id": 24160 }
+              ]
+            },
+            {
+              "name": "KIHUNGU",
+              "id": 3552,
+              "villages": [
+                { "name": "KIHUNGU", "id": 27140 },
+                { "name": "KAYEMBE", "id": 25182 },
+                { "name": "KATUMBA", "id": 24752 },
+                { "name": "KAMATHONDI", "id": 21286 },
+                { "name": "MILHANDO", "id": 38407 },
+                { "name": "NYAKEYA I", "id": 46473 },
+                { "name": "NYAKEYA II", "id": 46474 }
+              ]
+            },
+            {
+              "name": "KITABU",
+              "id": 3871,
+              "villages": [
+                { "name": "BUSWAGHA", "id": 12851 },
+                { "name": "KITABU", "id": 29541 },
+                { "name": "MUGHETE", "id": 39336 },
+                { "name": "NYAKABALE", "id": 45851 },
+                { "name": "NYAKAKINDO", "id": 46141 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KYONDO",
+          "id": 371,
+          "parishes": [
+            {
+              "name": "BUYAGHA",
+              "id": 1722,
+              "villages": [
+                { "name": "IHANURA", "id": 17474 },
+                { "name": "BUTHUNGI", "id": 13197 },
+                { "name": "KINYABISIKI", "id": 28136 },
+                { "name": "KANYENZE", "id": 22285 },
+                { "name": "KAJOROGHO", "id": 20182 },
+                { "name": "KYONDO", "id": 33406 }
+              ]
+            },
+            {
+              "name": "IBIMBO",
+              "id": 2152,
+              "villages": [
+                { "name": "BURUMBIKA", "id": 12071 },
+                { "name": "IBIMBO/ KYAMBITI", "id": 17291 },
+                { "name": "KISANGA", "id": 28973 },
+                { "name": "KALHUGHUTHU", "id": 20968 }
+              ]
+            },
+            {
+              "name": "KANYATSI",
+              "id": 2852,
+              "villages": [
+                { "name": "BWETHE", "id": 14516 },
+                { "name": "KIBATHE", "id": 25841 },
+                { "name": "KYAMUKUNGU", "id": 32385 },
+                { "name": "KASITHU", "id": 23798 },
+                { "name": "KAGHORWE", "id": 19729 },
+                { "name": "MUSASA", "id": 40069 }
+              ]
+            },
+            {
+              "name": "KASOKERO",
+              "id": 3102,
+              "villages": [
+                { "name": "BULIGHISA", "id": 10134 },
+                { "name": "KASEMIRE", "id": 23477 },
+                { "name": "KYANZABABIRI", "id": 32706 },
+                { "name": "KASOKERO", "id": 23836 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MAHANGO",
+          "id": 372,
+          "parishes": [
+            {
+              "name": "KYABWENGE",
+              "id": 4203,
+              "villages": [
+                { "name": "BUKUMBIA", "id": 9755 },
+                { "name": "BUTALIMULI", "id": 12956 },
+                { "name": "KAHOKYA", "id": 19992 },
+                { "name": "KYABWENGE", "id": 31768 },
+                { "name": "KABUKERO", "id": 19048 },
+                { "name": "MBULHAMASI", "id": 38165 }
+              ]
+            },
+            {
+              "name": "LHUHIRI",
+              "id": 4453,
+              "villages": [
+                { "name": "BUHANDIRO", "id": 8685 },
+                { "name": "KINYAMATHE I", "id": 28166 },
+                { "name": "KINYAMATHE II", "id": 28167 },
+                { "name": "KYAMUDUMA I", "id": 32319 },
+                { "name": "KYAMUDUMA II", "id": 32320 }
+              ]
+            },
+            {
+              "name": "MAHANGO",
+              "id": 4792,
+              "villages": [
+                { "name": "KIBIRI", "id": 26019 },
+                { "name": "KAKONE", "id": 20514 },
+                { "name": "KYEMPARA", "id": 33089 },
+                { "name": "MAHANGO", "id": 36743 },
+                { "name": "MATERE", "id": 37728 }
+              ]
+            },
+            {
+              "name": "NYAMUSULE",
+              "id": 6131,
+              "villages": [
+                { "name": "BULINDI", "id": 10195 },
+                { "name": "BURANDIA", "id": 11976 },
+                { "name": "BUTHALE", "id": 13193 },
+                { "name": "KIBALYA", "id": 25758 },
+                { "name": "KYAMBOGHO", "id": 32221 },
+                { "name": "NYAMUSULE", "id": 47077 },
+                { "name": "NYAMUTSWA", "id": 47083 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MUNKUNYU",
+          "id": 373,
+          "parishes": [
+            {
+              "name": "KABINGO",
+              "id": 2355,
+              "villages": [
+                { "name": "KABINGO", "id": 18836 },
+                { "name": "KILHAMBAYIRO", "id": 27835 },
+                { "name": "KIGHALE", "id": 26768 },
+                { "name": "KATHUBYA", "id": 24441 },
+                { "name": "KYEBISYHIRE", "id": 32935 },
+                { "name": "KANTALE", "id": 22050 },
+                { "name": "KATANDA I", "id": 24187 }
+              ]
+            },
+            {
+              "name": "KACUNGIRO",
+              "id": 2439,
+              "villages": [
+                { "name": "KEMANGO", "id": 25512 },
+                { "name": "KATHASENDA", "id": 24428 },
+                { "name": "KANYAMPARA I", "id": 22150 },
+                { "name": "KANYAMPARA II", "id": 22151 },
+                { "name": "KANYAMPARA T C", "id": 22152 },
+                { "name": "KANYATSI", "id": 22253 },
+                { "name": "KACUNGIRO", "id": 19398 },
+                { "name": "KASUNGU I", "id": 24019 },
+                { "name": "KASUNGU II", "id": 24021 }
+              ]
+            },
+            {
+              "name": "KINYAMASEKE",
+              "id": 3676,
+              "villages": [
+                { "name": "KINYAMASEKE II", "id": 28161 },
+                { "name": "KASOMORO II", "id": 23874 }
+              ]
+            },
+            {
+              "name": "KINYAMASEKE T.C",
+              "id": 3677,
+              "villages": [
+                { "name": "KINYAMASEKE I", "id": 28160 },
+                { "name": "KINYAMASEKE NORTH", "id": 28162 },
+                { "name": "KINYAMASEKE SOUTH", "id": 28163 }
+              ]
+            },
+            {
+              "name": "KITSUTSU",
+              "id": 3962,
+              "villages": [
+                { "name": "BUHIMBADELE", "id": 8756 },
+                { "name": "KITSUTSU I", "id": 30168 },
+                { "name": "KITSUTSU II", "id": 30169 },
+                { "name": "KASITHU", "id": 23800 },
+                { "name": "KYASERO II", "id": 32854 },
+                { "name": "KATANDA II", "id": 24192 },
+                { "name": "KYESERO I", "id": 33252 },
+                { "name": "NKUNYU I", "id": 44964 },
+                { "name": "NKUNYU II", "id": 44965 }
+              ]
+            },
+            {
+              "name": "NYAKATONZI",
+              "id": 6056,
+              "villages": [
+                { "name": "RWENGAJU", "id": 54265 },
+                { "name": "NYAMATUNGA I", "id": 46762 },
+                { "name": "NYAMATUNGA II", "id": 46763 },
+                { "name": "NYAMATUNGA III", "id": 46764 },
+                { "name": "NYAMATUNGA IV", "id": 46765 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKATONZI",
+          "id": 1450,
+          "parishes": [
+            {
+              "name": "KAMURULI",
+              "id": 2782,
+              "villages": [
+                { "name": "BWANIKA I", "id": 14372 },
+                { "name": "RWEMBURARA", "id": 54101 },
+                { "name": "KAMURULI LOWER", "id": 21623 },
+                { "name": "KAGONGO", "id": 19806 }
+              ]
+            },
+            {
+              "name": "KISASA",
+              "id": 3798,
+              "villages": [
+                { "name": "BUKANGARA", "id": 9117 },
+                { "name": "RWEHINGO", "id": 54009 },
+                { "name": "KYASENDA", "id": 32850 },
+                { "name": "MUHUMULE", "id": 39471 }
+              ]
+            },
+            {
+              "name": "MURUTI",
+              "id": 5194,
+              "villages": [
+                { "name": "KAKONJE I", "id": 20542 },
+                { "name": "KAKONJE II", "id": 20543 },
+                { "name": "MURUTI", "id": 40031 }
+              ]
+            },
+            {
+              "name": "NYAMUGASANI",
+              "id": 6123,
+              "villages": [
+                { "name": "ISAZI", "id": 17777 },
+                { "name": "NYAMUGASANI", "id": 47027 },
+                { "name": "RWENTUHA", "id": 54524 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUKONJO WEST",
+      "id": 369,
+      "sub_counties": [
+        {
+          "name": "BWERA",
+          "id": 365,
+          "parishes": [
+            {
+              "name": "BUNYISWA",
+              "id": 1430,
+              "villages": [
+                { "name": "BUNYISWA I", "id": 11868 },
+                { "name": "BUNYISWA II", "id": 11869 },
+                { "name": "KAKONE I", "id": 20515 }
+              ]
+            },
+            {
+              "name": "KYOGHA",
+              "id": 4375,
+              "villages": [
+                { "name": "IRUGHE", "id": 17739 },
+                { "name": "KANYASABU", "id": 22245 },
+                { "name": "KYOGHA CENTRAL I", "id": 33371 },
+                { "name": "KYOGHA CENTRAL II", "id": 33372 },
+                { "name": "KYOGHA SOUTH", "id": 33373 },
+                { "name": "NYAKIMASA I", "id": 46540 },
+                { "name": "NYAKIMASA II", "id": 46541 }
+              ]
+            },
+            {
+              "name": "KISAKA",
+              "id": 3787,
+              "villages": [
+                { "name": "KISAKA II", "id": 28923 },
+                { "name": "NYAMUGHONA I", "id": 47029 },
+                { "name": "NYAMUGHONA II", "id": 47030 },
+                { "name": "KYAMBOOMA", "id": 32248 },
+                { "name": "KASANGA", "id": 23369 },
+                { "name": "KASUNGU", "id": 24018 },
+                { "name": "MITIMUSANJU", "id": 38665 }
+              ]
+            },
+            {
+              "name": "RWENGUBA",
+              "id": 7024,
+              "villages": [
+                { "name": "KITAKOMBIA I", "id": 29595 },
+                { "name": "KITAKOMBIA II", "id": 29596 },
+                { "name": "RWENGUBA", "id": 54298 },
+                { "name": "KAKONE II", "id": 20516 },
+                { "name": "KARALIKE", "id": 22840 },
+                { "name": "KALEHE", "id": 20917 },
+                { "name": "NYAKABALE", "id": 45857 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "IHANDIRO",
+          "id": 366,
+          "parishes": [
+            {
+              "name": "BUBOTYO",
+              "id": 827,
+              "villages": [
+                { "name": "BUBOTYO", "id": 7686 },
+                { "name": "BULHAMBAIRI", "id": 10124 },
+                { "name": "BULIMATHO", "id": 10163 },
+                { "name": "IHANDIRO", "id": 17465 },
+                { "name": "KASINGIRI", "id": 23769 }
+              ]
+            },
+            {
+              "name": "IHANGO",
+              "id": 2176,
+              "villages": [
+                { "name": "BUHUNGAMUYAGHA I", "id": 8834 },
+                { "name": "BUHUNGAMUYAGHA II", "id": 8835 },
+                { "name": "IHANGO I", "id": 17466 },
+                { "name": "IHANGO II", "id": 17467 },
+                { "name": "KIBIRIGHA", "id": 26024 }
+              ]
+            },
+            {
+              "name": "BUHATIRO",
+              "id": 977,
+              "villages": [
+                { "name": "BUBALENGA", "id": 7520 },
+                { "name": "BULHUMBI", "id": 10125 },
+                { "name": "BUTOKOMA", "id": 13273 },
+                { "name": "KYAKASARA", "id": 31961 },
+                { "name": "KAMATSUKU", "id": 21290 },
+                { "name": "MUKIRA", "id": 39568 }
+              ]
+            },
+            {
+              "name": "KIHOKO",
+              "id": 3546,
+              "villages": [
+                { "name": "KIHOKO I", "id": 27076 },
+                { "name": "KIHOKO II", "id": 27078 },
+                { "name": "KIBISIRE", "id": 26057 }
+              ]
+            },
+            {
+              "name": "KIKYO",
+              "id": 3642,
+              "villages": [
+                { "name": "BUHAMBIA", "id": 8671 },
+                { "name": "BUHASA", "id": 8701 },
+                { "name": "BUSYANGWA", "id": 12872 },
+                { "name": "KIHONDO I", "id": 27088 },
+                { "name": "KIHONDO II", "id": 27089 },
+                { "name": "KATAMIRA", "id": 24183 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ISANGO",
+          "id": 1046,
+          "parishes": [
+            {
+              "name": "HARUKUNGU",
+              "id": 2131,
+              "villages": [
+                { "name": "HARUKUNGU CENTRAL", "id": 17163 },
+                { "name": "KITATURWA", "id": 29685 },
+                { "name": "RUKUNGU B", "id": 52997 }
+              ]
+            },
+            {
+              "name": "KAYEMBE",
+              "id": 3302,
+              "villages": [
+                { "name": "KAYEMBE I", "id": 25185 },
+                { "name": "KAYEMBE II", "id": 25186 },
+                { "name": "MUGHONGO", "id": 39337 }
+              ]
+            },
+            {
+              "name": "KABAFU",
+              "id": 2306,
+              "villages": [
+                { "name": "ISANGO I", "id": 17773 },
+                { "name": "ISANGO II", "id": 17774 },
+                { "name": "KABAFU I", "id": 18448 },
+                { "name": "KABAFU II", "id": 18449 }
+              ]
+            },
+            {
+              "name": "KAMUKUMBI",
+              "id": 2766,
+              "villages": [
+                { "name": "KANYATSI", "id": 22254 },
+                { "name": "KAMUKUMBI I", "id": 21557 },
+                { "name": "KAMUKUMBI II", "id": 21558 }
+              ]
+            },
+            {
+              "name": "KYEMPARA",
+              "id": 4338,
+              "villages": [
+                { "name": "KYEMPARA I", "id": 33090 },
+                { "name": "KYEMPARA II", "id": 33093 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KARAMBI",
+          "id": 1550,
+          "parishes": [
+            {
+              "name": "BIKUNYA",
+              "id": 756,
+              "villages": [
+                { "name": "BIKUNYA", "id": 7088 },
+                { "name": "KANYAMUNYU", "id": 22166 },
+                { "name": "KAKOGHA", "id": 20471 }
+              ]
+            },
+            {
+              "name": "BUHUNA",
+              "id": 991,
+              "villages": [
+                { "name": "BUHUNA I", "id": 8818 },
+                { "name": "BUHUNA II", "id": 8819 },
+                { "name": "KARAMBI T.CENTRE", "id": 22894 },
+                { "name": "KYAMUHAMIRA", "id": 32353 },
+                { "name": "NYAKAINA", "id": 46121 }
+              ]
+            },
+            {
+              "name": "KARAMBI",
+              "id": 2962,
+              "villages": [
+                { "name": "KARAMBI", "id": 22874 },
+                { "name": "KYASENDA I", "id": 32851 },
+                { "name": "KYASENDA II", "id": 32852 },
+                { "name": "MIRAMI I", "id": 38481 },
+                { "name": "MIRAMI II", "id": 38482 }
+              ]
+            },
+            {
+              "name": "KAMASASA",
+              "id": 2729,
+              "villages": [
+                { "name": "KYANDOBOKERYA", "id": 32511 },
+                { "name": "KAMASASA I", "id": 21271 },
+                { "name": "KAMASASA II", "id": 21272 },
+                { "name": "KAMBUKAMABWE I", "id": 21327 }
+              ]
+            },
+            {
+              "name": "KISOLHOLHO",
+              "id": 3841,
+              "villages": [
+                { "name": "IGOMBA", "id": 17415 },
+                { "name": "KIYONZO", "id": 30611 },
+                { "name": "KISANGA I", "id": 28982 },
+                { "name": "KISOLHOLHO I", "id": 29330 },
+                { "name": "KISOLHOLHO II", "id": 29331 }
+              ]
+            },
+            {
+              "name": "KITHUTI",
+              "id": 3924,
+              "villages": [
+                { "name": "KITHUTI I", "id": 29897 },
+                { "name": "KITHUTI II", "id": 29898 },
+                { "name": "KARUGHE", "id": 23087 },
+                { "name": "NYAKAHYA II", "id": 46117 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KITHOLU",
+          "id": 369,
+          "parishes": [
+            {
+              "name": "KANYATSI",
+              "id": 2851,
+              "villages": [
+                { "name": "KISABU I", "id": 28888 },
+                { "name": "KISABU II", "id": 28889 },
+                { "name": "KISABU III", "id": 28890 },
+                { "name": "KITHOMA T. C", "id": 29895 },
+                { "name": "KATHEMBO", "id": 24431 },
+                { "name": "KANYATSI I", "id": 22256 },
+                { "name": "KANYATSI II", "id": 22258 }
+              ]
+            },
+            {
+              "name": "KYABIKERE",
+              "id": 4192,
+              "villages": [
+                { "name": "BUHURUTHI", "id": 8843 },
+                { "name": "BULEMERA", "id": 10086 },
+                { "name": "IKOBERO", "id": 17536 },
+                { "name": "ISANGO", "id": 17772 },
+                { "name": "KIBISIRE", "id": 26059 },
+                { "name": "KAKINDO", "id": 20347 },
+                { "name": "KYABIKERE I", "id": 31702 },
+                { "name": "KYABIKERE II", "id": 31703 }
+              ]
+            },
+            {
+              "name": "KIRARO",
+              "id": 3705,
+              "villages": [
+                { "name": "BURANGWA", "id": 11980 },
+                { "name": "KIRARO", "id": 28380 },
+                { "name": "KISEBERE", "id": 29022 },
+                { "name": "KINONE", "id": 28082 },
+                { "name": "KASINGA", "id": 23765 }
+              ]
+            },
+            {
+              "name": "KITHOBIRA",
+              "id": 3921,
+              "villages": [
+                { "name": "KITHOBIRA", "id": 29892 },
+                { "name": "NKWEKWE", "id": 44988 }
+              ]
+            },
+            {
+              "name": "KITHOLU",
+              "id": 3922,
+              "villages": [
+                { "name": "BUSYANGWA", "id": 12873 },
+                { "name": "BWATSINGE", "id": 14407 },
+                { "name": "KITHOLU", "id": 29893 },
+                { "name": "NYAMUSULE", "id": 47076 },
+                { "name": "KABWE", "id": 19265 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MPONDWE/LHUBIRIHA TOWN COUNCIL",
+          "id": 1045,
+          "parishes": [
+            {
+              "name": "BWERA WARD",
+              "id": 1790,
+              "villages": [
+                { "name": "KIKWASO", "id": 27790 },
+                { "name": "CAR PARK", "id": 14756 },
+                { "name": "SAAD", "id": 54811 },
+                { "name": "KASERENGETHE I", "id": 23516 },
+                { "name": "KASERENGETHE II", "id": 23517 },
+                { "name": "KAGERA", "id": 19694 },
+                { "name": "RIVER MPONDWE", "id": 52372 }
+              ]
+            },
+            {
+              "name": "KABUYIRI WARD",
+              "id": 2398,
+              "villages": [
+                { "name": "KATHERO", "id": 24432 },
+                { "name": "KAMBUKAMABWE II", "id": 21328 },
+                { "name": "KABUYIRI I", "id": 19247 },
+                { "name": "LOWER CUSTOMS", "id": 34890 },
+                { "name": "UPPER CUSTOMS", "id": 57003 }
+              ]
+            },
+            {
+              "name": "KYAMBOGHO WARD",
+              "id": 4236,
+              "villages": [
+                { "name": "KYAMBOGHO I", "id": 32222 },
+                { "name": "KYAMBOGHO II", "id": 32223 }
+              ]
+            },
+            {
+              "name": "NYABUGANDO WARD",
+              "id": 5980,
+              "villages": [
+                { "name": "KABUYIRI II", "id": 19248 },
+                { "name": "NYABUGANDO I", "id": 45684 },
+                { "name": "NYABUGANDO II", "id": 45686 }
+              ]
+            },
+            {
+              "name": "NYAKAHYA WARD",
+              "id": 6023,
+              "villages": [
+                { "name": "NYAKAHYA I", "id": 46116 },
+                { "name": "SESELE", "id": 55129 }
+              ]
+            },
+            {
+              "name": "MPONDWE WARD",
+              "id": 5088,
+              "villages": [
+                { "name": "KYABOLOKYA I", "id": 31727 },
+                { "name": "KYABOLOKYA II", "id": 31728 },
+                { "name": "KYABOLOKYA III", "id": 31729 },
+                { "name": "NYABUTUNDU", "id": 45750 },
+                { "name": "NYAMAMBUKA I", "id": 46716 }
+              ]
+            },
+            {
+              "name": "RUSESE WARD",
+              "id": 6921,
+              "villages": [
+                { "name": "KIGHANDO", "id": 26769 },
+                { "name": "KALITUSI", "id": 21015 },
+                { "name": "KYANDULI I", "id": 32512 },
+                { "name": "KYANDULI II", "id": 32513 },
+                { "name": "RUSESE A", "id": 53124 },
+                { "name": "RUSESE B", "id": 53125 },
+                { "name": "RUKUNGU", "id": 52996 }
+              ]
+            },
+            {
+              "name": "NYAMAMBUKA WARD",
+              "id": 6093,
+              "villages": [
+                { "name": "KISAKA I", "id": 28922 },
+                { "name": "KYANZI", "id": 32709 },
+                { "name": "NYAMAMBUKA II", "id": 46717 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKIYUMBU",
+          "id": 374,
+          "parishes": [
+            {
+              "name": "BUKANGARA",
+              "id": 1023,
+              "villages": [
+                { "name": "BUKANGARA", "id": 9116 },
+                { "name": "KIKUMBI", "id": 27691 },
+                { "name": "KYAMINYAWANDI", "id": 32264 },
+                { "name": "NYAKIRANGO II", "id": 46554 }
+              ]
+            },
+            {
+              "name": "KATHOLU/KATOJO",
+              "id": 3194,
+              "villages": [
+                { "name": "BWENGO", "id": 14459 },
+                { "name": "KATHIKALI", "id": 24433 },
+                { "name": "KATHOLU", "id": 24437 },
+                { "name": "RWEHINGO", "id": 54008 },
+                { "name": "NYAKIRANGO I", "id": 46553 }
+              ]
+            },
+            {
+              "name": "KAYANJA",
+              "id": 3297,
+              "villages": [
+                { "name": "KITATURWA", "id": 29686 },
+                { "name": "KAYANJA", "id": 25144 }
+              ]
+            },
+            {
+              "name": "KAGHORWE",
+              "id": 2494,
+              "villages": [
+                { "name": "KAGHORWE I", "id": 19731 },
+                { "name": "KAGHORWE II", "id": 19732 },
+                { "name": "KAGHORWE III", "id": 19733 },
+                { "name": "KAGHORWE IV", "id": 19734 },
+                { "name": "MUSISIO", "id": 40144 },
+                { "name": "MUSYENENE I", "id": 40193 },
+                { "name": "MUSYENENE II", "id": 40194 },
+                { "name": "MUSYENENE III", "id": 40195 }
+              ]
+            },
+            {
+              "name": "LYAKIREMA",
+              "id": 4724,
+              "villages": [
+                { "name": "KABAGHOLE", "id": 18475 },
+                { "name": "KYABISORO I", "id": 31720 },
+                { "name": "KYABISORO II", "id": 31721 },
+                { "name": "KABWIRISOKE", "id": 19282 },
+                { "name": "LYAKIREMA I", "id": 36265 },
+                { "name": "LYAKIREMA II", "id": 36266 },
+                { "name": "NYAMIGHERA", "id": 46807 },
+                { "name": "NYAKASOJO", "id": 46310 }
+              ]
+            },
+            {
+              "name": "MUHINDI",
+              "id": 5132,
+              "villages": [
+                { "name": "BUSALYA", "id": 12171 },
+                { "name": "BUSAMBU", "id": 12196 },
+                { "name": "KIGHUTHU", "id": 26773 },
+                { "name": "MUHINDI", "id": 39454 }
+              ]
+            },
+            {
+              "name": "NYAKIYUMBU",
+              "id": 6082,
+              "villages": [
+                { "name": "NYAKABALE", "id": 45856 },
+                { "name": "NYAKIYUMBU I", "id": 46601 },
+                { "name": "NYAKIYUMBU II", "id": 46602 },
+                { "name": "NYAKIYUMBU III", "id": 46603 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUSONGORA NORTH",
+      "id": 389,
+      "sub_counties": [
+        {
+          "name": "BUGOYE",
+          "id": 375,
+          "parishes": [
+            {
+              "name": "BUGOYE",
+              "id": 953,
+              "villages": [
+                { "name": "BUGOYE", "id": 8551 },
+                { "name": "IBANDA I", "id": 17270 },
+                { "name": "IBANDA II", "id": 17272 },
+                { "name": "KIHARARA", "id": 27027 },
+                { "name": "KISAMBA I", "id": 28957 },
+                { "name": "KISAMBA II", "id": 28958 },
+                { "name": "KANYAMINIGHO", "id": 22141 },
+                { "name": "MIHUNGA", "id": 38354 },
+                { "name": "MIRIMBO", "id": 38515 },
+                { "name": "MURAMBA I", "id": 39935 },
+                { "name": "MURAMBA II", "id": 39936 },
+                { "name": "NYAKABUGHA", "id": 45913 },
+                { "name": "RWAKINGI IA", "id": 53637 },
+                { "name": "RWAKINGI IB", "id": 53638 },
+                { "name": "RUBONI", "id": 52547 }
+              ]
+            },
+            {
+              "name": "KATOOKE",
+              "id": 3228,
+              "villages": [
+                { "name": "KIHINDI", "id": 27059 },
+                { "name": "KIRONGO", "id": 28611 },
+                { "name": "KEMIHOKO I", "id": 25526 },
+                { "name": "KINYANGOYE", "id": 28184 },
+                { "name": "KATOOKE I", "id": 24627 },
+                { "name": "KATOOKE II", "id": 24628 },
+                { "name": "NYANGONGE", "id": 47173 },
+                { "name": "MAPATA", "id": 37327 },
+                { "name": "MULEHE", "id": 39731 }
+              ]
+            },
+            {
+              "name": "KIBIRIZI",
+              "id": 3400,
+              "villages": [
+                { "name": "BULINDIGURU TOP", "id": 10196 },
+                { "name": "IHANI", "id": 17468 },
+                { "name": "KIKOKERA", "id": 27501 },
+                { "name": "KIBIRIZI", "id": 26030 },
+                { "name": "KASANZI", "id": 23401 }
+              ]
+            },
+            {
+              "name": "MUHAMBO",
+              "id": 5130,
+              "villages": [
+                { "name": "BUNYANGONI", "id": 11825 },
+                { "name": "KATUMBA", "id": 24755 },
+                { "name": "MAGHOMA", "id": 36652 },
+                { "name": "MUHAMBO", "id": 39433 },
+                { "name": "NDUGUTHU EAST", "id": 44368 },
+                { "name": "NDUGUTHU WEST", "id": 44369 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUHUHIRA",
+          "id": 1103,
+          "parishes": [
+            {
+              "name": "BUGHENDERO",
+              "id": 913,
+              "villages": [
+                { "name": "BUGHENDERO", "id": 8323 },
+                { "name": "IBUNDA", "id": 17317 },
+                { "name": "BUTERA", "id": 13164 },
+                { "name": "BUTOHYO", "id": 13270 },
+                { "name": "KIBANDIA", "id": 25784 },
+                { "name": "KITHENGERA", "id": 29891 },
+                { "name": "KIBULYA", "id": 26162 }
+              ]
+            },
+            {
+              "name": "BUHUHIRA",
+              "id": 985,
+              "villages": [
+                { "name": "BUHUHIRA", "id": 8792 },
+                { "name": "ISUKA", "id": 17836 },
+                { "name": "KURUHE", "id": 31406 },
+                { "name": "KIGHARAMA", "id": 26770 },
+                { "name": "KASAMBYA A", "id": 23317 },
+                { "name": "KASAMBYA B", "id": 23326 },
+                { "name": "KYAPA", "id": 32711 },
+                { "name": "MINANA", "id": 38419 },
+                { "name": "NTUNGA", "id": 45415 }
+              ]
+            },
+            {
+              "name": "KITHOMA",
+              "id": 3923,
+              "villages": [
+                { "name": "KIKOKA", "id": 27500 },
+                { "name": "KITHOMA", "id": 29894 },
+                { "name": "KAHONDO", "id": 19997 }
+              ]
+            },
+            {
+              "name": "MUHUMUZA",
+              "id": 5136,
+              "villages": [
+                { "name": "KIHYO", "id": 27172 },
+                { "name": "MUHUMUZA", "id": 39475 },
+                { "name": "OMUKATHI", "id": 49922 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BWESUMBU",
+          "id": 1101,
+          "parishes": [
+            {
+              "name": "BWESUMBU",
+              "id": 1794,
+              "villages": [
+                { "name": "BWESUMBU II", "id": 14513 },
+                { "name": "KINYAMAGANA", "id": 28148 },
+                { "name": "KYEBULERA", "id": 32942 },
+                { "name": "KAGHANDO", "id": 19723 },
+                { "name": "MULINDA", "id": 39760 }
+              ]
+            },
+            {
+              "name": "BUNYAMURWA",
+              "id": 1419,
+              "villages": [
+                { "name": "BUNYAMURWA", "id": 11815 },
+                { "name": "BUNYAMURWA II", "id": 11816 },
+                { "name": "BWESUMBU I", "id": 14512 },
+                { "name": "KASANGA", "id": 23366 },
+                { "name": "KYOHO I", "id": 33380 },
+                { "name": "KYOHO II", "id": 33381 }
+              ]
+            },
+            {
+              "name": "KASWA",
+              "id": 3138,
+              "villages": [
+                { "name": "KIKONGE", "id": 27581 },
+                { "name": "KASWA I", "id": 24057 },
+                { "name": "KASWA II", "id": 24058 },
+                { "name": "NYAKISEWA", "id": 46562 }
+              ]
+            },
+            {
+              "name": "KASANGALI",
+              "id": 3028,
+              "villages": [
+                { "name": "BUHATI", "id": 8710 },
+                { "name": "KASANGALI A", "id": 23374 },
+                { "name": "KASANGALI B", "id": 23375 },
+                { "name": "RUHARA I", "id": 52817 },
+                { "name": "RUHARA II", "id": 52818 }
+              ]
+            },
+            {
+              "name": "MBATA",
+              "id": 4941,
+              "villages": [
+                { "name": "BUTWETSE", "id": 13413 },
+                { "name": "MAGHASA", "id": 36651 },
+                { "name": "MUKUMBA", "id": 39650 },
+                { "name": "MBATA", "id": 38092 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "HIMA TOWN COUNCIL",
+          "id": 1102,
+          "parishes": [
+            {
+              "name": "KENDAHI WARD",
+              "id": 3344,
+              "villages": [
+                { "name": "HABITANT", "id": 17054 },
+                { "name": "KENDAHI LOWER", "id": 25547 },
+                { "name": "KIKONZO", "id": 27626 },
+                { "name": "NYAGEREKA LOWER", "id": 45803 }
+              ]
+            },
+            {
+              "name": "KARUNGIBATI WARD",
+              "id": 2989,
+              "villages": [
+                { "name": "KINYAMWENGE", "id": 28181 },
+                { "name": "LOWER KARUNGIBATI", "id": 34892 },
+                { "name": "NYAKAKINDO", "id": 46139 },
+                { "name": "UPPER KARUNGIBATI", "id": 57005 }
+              ]
+            },
+            {
+              "name": "KISENYI WARD",
+              "id": 3812,
+              "villages": [
+                { "name": "KISENYI", "id": 29087 },
+                { "name": "KASOJO", "id": 23826 },
+                { "name": "MARKET SQUARE", "id": 37400 }
+              ]
+            },
+            {
+              "name": "MOWLEM WARD",
+              "id": 5067,
+              "villages": [
+                { "name": "KISANYARAZI", "id": 29003 },
+                { "name": "LOWER MOWLEM", "id": 34896 },
+                { "name": "UPPER MOWLEM", "id": 57012 }
+              ]
+            },
+            {
+              "name": "TOWN ZONE WARD",
+              "id": 7290,
+              "villages": [
+                { "name": "HIMA RESIDENTIAL CAMP", "id": 17190 },
+                { "name": "HIMA TOWN CENTRE", "id": 17191 },
+                { "name": "KIKONGO", "id": 27598 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KARUSANDARA",
+          "id": 376,
+          "parishes": [
+            {
+              "name": "KANAMBA",
+              "id": 2800,
+              "villages": [
+                { "name": "KANYATETE", "id": 22252 },
+                { "name": "KANAMBA", "id": 21782 },
+                { "name": "MUBUKU II", "id": 39233 },
+                { "name": "NGANDO", "id": 44482 }
+              ]
+            },
+            {
+              "name": "KIBUGA",
+              "id": 3415,
+              "villages": [
+                { "name": "KIKOGA", "id": 27497 },
+                { "name": "KIBUGA", "id": 26138 },
+                { "name": "NYABUBALE", "id": 45631 }
+              ]
+            },
+            {
+              "name": "KARUSANDARA",
+              "id": 2991,
+              "villages": [
+                { "name": "KABAKA", "id": 18497 },
+                { "name": "KIVENGENYI", "id": 30342 },
+                { "name": "KARUSANDARA", "id": 23146 },
+                { "name": "KABUGA", "id": 19007 },
+                { "name": "KABUKERO", "id": 19046 }
+              ]
+            },
+            {
+              "name": "KYALANGA",
+              "id": 4228,
+              "villages": [
+                { "name": "KINYAYOBYO", "id": 28214 },
+                { "name": "KYALANGA", "id": 32079 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KILEMBE",
+          "id": 379,
+          "parishes": [
+            {
+              "name": "BUNYANDIKU",
+              "id": 1422,
+              "villages": [
+                { "name": "BUKANGAMA", "id": 9112 },
+                { "name": "BUNYANDIKU", "id": 11822 },
+                { "name": "BUWATHA", "id": 13744 },
+                { "name": "KATULU", "id": 24735 },
+                { "name": "KYAMBOGHO", "id": 32219 }
+              ]
+            },
+            {
+              "name": "KIBANDAMA",
+              "id": 3371,
+              "villages": [
+                { "name": "BUHUNGA", "id": 8827 },
+                { "name": "BULIMI", "id": 10172 },
+                { "name": "KISANGA", "id": 28975 },
+                { "name": "KIBANDAMA", "id": 25776 },
+                { "name": "KIBANDAMA II", "id": 25777 },
+                { "name": "NGANGI", "id": 44492 }
+              ]
+            },
+            {
+              "name": "MBUNGA",
+              "id": 4960,
+              "villages": [
+                { "name": "KABWE", "id": 19266 },
+                { "name": "MBUNGA", "id": 38172 }
+              ]
+            },
+            {
+              "name": "NYAKAZINGA",
+              "id": 6062,
+              "villages": [
+                { "name": "BURAMA", "id": 11951 },
+                { "name": "KATIRI HILLS", "id": 24513 },
+                { "name": "MBURAKASAKA", "id": 38175 },
+                { "name": "NYAKAZINGA", "id": 46456 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KITSWAMBA",
+          "id": 1100,
+          "parishes": [
+            {
+              "name": "HIMA",
+              "id": 2136,
+              "villages": [
+                { "name": "IBUGA II", "id": 17307 },
+                { "name": "KENDAHI", "id": 25546 },
+                { "name": "KAYANJA I", "id": 25162 },
+                { "name": "KAYANJA II", "id": 25164 },
+                { "name": "NYANGEREKA", "id": 47160 },
+                { "name": "RUHITA", "id": 52838 },
+                { "name": "NKOKO", "id": 44824 }
+              ]
+            },
+            {
+              "name": "KIHYO",
+              "id": 3559,
+              "villages": [
+                { "name": "BUKANGAMA", "id": 9113 },
+                { "name": "KABIRA", "id": 18875 },
+                { "name": "KIHOGO", "id": 27066 },
+                { "name": "KIHYO", "id": 27171 },
+                { "name": "KISANGA", "id": 28977 },
+                { "name": "KINYABWAMBA", "id": 28139 },
+                { "name": "KINYABWAMBA LOWER", "id": 28140 },
+                { "name": "KIBISIRE", "id": 26058 },
+                { "name": "KAHEMBE", "id": 19963 },
+                { "name": "KALUMANGA", "id": 21104 },
+                { "name": "MOTOMOTO", "id": 38982 },
+                { "name": "MURAMBI II", "id": 39954 },
+                { "name": "MUZAHURA EAST", "id": 40435 },
+                { "name": "MUZAHURA WEST", "id": 40436 }
+              ]
+            },
+            {
+              "name": "KITSWAMBA",
+              "id": 3963,
+              "villages": [
+                { "name": "KIHOKO", "id": 27072 },
+                { "name": "KITSWAMBA I", "id": 30171 },
+                { "name": "KITSWAMBA II TC", "id": 30172 },
+                { "name": "NYANSEKE", "id": 47220 },
+                { "name": "KYANGWALE", "id": 32551 },
+                { "name": "MUHUMUZA", "id": 39474 },
+                { "name": "MURAMBI I", "id": 39951 },
+                { "name": "NYAKABALE", "id": 45852 },
+                { "name": "UPPER RUGENDABARA CENTRAL", "id": 57018 },
+                { "name": "UPPER RUGENDABARA I", "id": 57019 },
+                { "name": "UPPER RUGENDABARA II", "id": 57020 },
+                { "name": "SAYUNI", "id": 54947 }
+              ]
+            },
+            {
+              "name": "RUGENDABARA",
+              "id": 6869,
+              "villages": [
+                { "name": "BIGANDO", "id": 6968 },
+                { "name": "BLOCK A I", "id": 7330 },
+                { "name": "BLOCK A II", "id": 7331 },
+                { "name": "BLOCK B", "id": 7333 },
+                { "name": "BLOCK C I", "id": 7335 },
+                { "name": "BLOCK C II", "id": 7336 },
+                { "name": "BURAMBIRA T/C", "id": 11972 },
+                { "name": "IBUGA", "id": 17306 },
+                { "name": "KIREILE", "id": 28409 },
+                { "name": "KIKONGO", "id": 27597 },
+                { "name": "KINEMBE", "id": 28026 },
+                { "name": "RWANGEYA", "id": 53848 },
+                { "name": "MURWAHARI", "id": 40035 },
+                { "name": "RUGENDABARA T.C.", "id": 52729 },
+                { "name": "SIKIRYAMUBA", "id": 55402 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KYABARUNGIRA",
+          "id": 385,
+          "parishes": [
+            {
+              "name": "KARAMBI",
+              "id": 2963,
+              "villages": [
+                { "name": "KABATUNDA II", "id": 18715 },
+                { "name": "KARAMBI", "id": 22875 },
+                { "name": "KAMBEHO", "id": 21308 }
+              ]
+            },
+            {
+              "name": "KABATUNDA",
+              "id": 2334,
+              "villages": [
+                { "name": "BUSIBI", "id": 12477 },
+                { "name": "KABATUNDA I", "id": 18714 },
+                { "name": "KALHUBULHA", "id": 20967 },
+                { "name": "KYANZANGA", "id": 32708 },
+                { "name": "MABWE", "id": 36484 },
+                { "name": "SOSO", "id": 55655 }
+              ]
+            },
+            {
+              "name": "KYABARUNGIRA",
+              "id": 4184,
+              "villages": [
+                { "name": "KABAGAGA", "id": 18456 },
+                { "name": "KYABARUNGIRA I", "id": 31640 },
+                { "name": "KYABARUNGIRA II", "id": 31641 },
+                { "name": "KITHWA", "id": 29899 },
+                { "name": "KAGHORWE", "id": 19730 }
+              ]
+            },
+            {
+              "name": "KIRABAHO",
+              "id": 3694,
+              "villages": [
+                { "name": "BUTSWA", "id": 13349 },
+                { "name": "KIRABAHO A", "id": 28307 },
+                { "name": "KIRABAHO B", "id": 28308 },
+                { "name": "KISUSUTHI", "id": 29454 },
+                { "name": "KIBIRIRI", "id": 26029 },
+                { "name": "KASITHU", "id": 23799 }
+              ]
+            },
+            {
+              "name": "RWESANDE",
+              "id": 7049,
+              "villages": [
+                { "name": "KEMIKONDE", "id": 25529 },
+                { "name": "RWESANDE I", "id": 54593 },
+                { "name": "RWESANDE II", "id": 54594 },
+                { "name": "KYONDO", "id": 33415 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LAKE KABATORO TOWN COUNCIL",
+          "id": 384,
+          "parishes": [
+            {
+              "name": "KIGANDA WARD",
+              "id": 3478,
+              "villages": [
+                { "name": "MWARO", "id": 40501 },
+                { "name": "TOWN CENTRE", "id": 56705 }
+              ]
+            },
+            {
+              "name": "KYAKITALE WARD",
+              "id": 4224,
+              "villages": [
+                { "name": "RWENJUBU LOWER", "id": 54334 },
+                { "name": "RWENJUBU UPPER", "id": 54335 },
+                { "name": "KYAKITALE A", "id": 32058 },
+                { "name": "KYAKITALE B", "id": 32059 },
+                { "name": "KYARUKARA A", "id": 32771 },
+                { "name": "KYARUKARA B", "id": 32772 }
+              ]
+            },
+            {
+              "name": "TOP HILL WARD",
+              "id": 7279,
+              "villages": [
+                { "name": "KAKONI", "id": 20531 },
+                { "name": "TOP HILL", "id": 56657 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LAKE KATWE",
+          "id": 383,
+          "parishes": [
+            {
+              "name": "HAMUKUNGU",
+              "id": 2127,
+              "villages": [
+                { "name": "HAMUKUNGU (A)", "id": 17130 },
+                { "name": "HAMUKUNGU (B)", "id": 17131 }
+              ]
+            },
+            {
+              "name": "BUSUNGA",
+              "id": 1573,
+              "villages": [
+                { "name": "BUSUNGA", "id": 12790 },
+                { "name": "RWAMATE", "id": 53721 }
+              ]
+            },
+            {
+              "name": "KATUNGURU",
+              "id": 3246,
+              "villages": [
+                { "name": "KIBATI", "id": 25842 },
+                { "name": "KASUBI", "id": 23957 }
+              ]
+            },
+            {
+              "name": "KASENYI",
+              "id": 3050,
+              "villages": [
+                { "name": "KIGABO", "id": 26547 },
+                { "name": "MWARO", "id": 40500 }
+              ]
+            },
+            {
+              "name": "KABIRIZI",
+              "id": 2362,
+              "villages": [
+                { "name": "KABIRIZI STORE", "id": 18917 },
+                { "name": "RWENTUTU", "id": 54539 }
+              ]
+            },
+            {
+              "name": "KAHOKYA",
+              "id": 2528,
+              "villages": [
+                { "name": "KIKORONGO", "id": 27649 },
+                { "name": "KINYATEKE", "id": 28213 },
+                { "name": "KAHOKYA", "id": 19990 },
+                { "name": "KALHAMIA", "id": 20965 },
+                { "name": "RWEBIHUNGU", "id": 53951 },
+                { "name": "MURAMBI I", "id": 39950 },
+                { "name": "MURAMBI II", "id": 39953 }
+              ]
+            },
+            {
+              "name": "MWEYA",
+              "id": 5261,
+              "villages": [
+                { "name": "MWEYA LOWER", "id": 40542 },
+                { "name": "MWEYA UPPER", "id": 40543 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MALIBA",
+          "id": 380,
+          "parishes": [
+            {
+              "name": "BIKONE",
+              "id": 752,
+              "villages": [
+                { "name": "BIKONE", "id": 7074 },
+                { "name": "BUHUNGA I", "id": 8831 },
+                { "name": "BUHUNGA II", "id": 8833 },
+                { "name": "ISENGERA", "id": 17791 },
+                { "name": "KATINDO", "id": 24503 },
+                { "name": "KAKINDO", "id": 20336 },
+                { "name": "KYAGABU", "id": 31785 },
+                { "name": "KYAHUNDU", "id": 31803 },
+                { "name": "KYANIKA", "id": 32560 },
+                { "name": "KYANYA", "id": 32663 },
+                { "name": "NYAMBUKO", "id": 46787 }
+              ]
+            },
+            {
+              "name": "ISULE",
+              "id": 2234,
+              "villages": [
+                { "name": "ISULE", "id": 17838 },
+                { "name": "BWATO", "id": 14405 },
+                { "name": "KIHINDI", "id": 27057 },
+                { "name": "KITOKO", "id": 30012 },
+                { "name": "KYABIKUHA", "id": 31706 },
+                { "name": "KALHONGE", "id": 20966 },
+                { "name": "KAMABWE", "id": 21202 },
+                { "name": "KATABUKENENE", "id": 24093 },
+                { "name": "MUWERO", "id": 40385 }
+              ]
+            },
+            {
+              "name": "BUHUNGA",
+              "id": 994,
+              "villages": [
+                { "name": "BULYANDEKE", "id": 10487 },
+                { "name": "KIBOTA", "id": 26122 },
+                { "name": "KIBUMBA", "id": 26163 },
+                { "name": "NYANGERE", "id": 47159 },
+                { "name": "KYANJIMA", "id": 32591 },
+                { "name": "KYARUGOMOKA", "id": 32745 },
+                { "name": "MPUMURO", "id": 39164 },
+                { "name": "MALIBA I", "id": 37120 },
+                { "name": "MALIBA II", "id": 37121 },
+                { "name": "NYARUKUNGU", "id": 47424 }
+              ]
+            },
+            {
+              "name": "KATEBE",
+              "id": 3173,
+              "villages": [
+                { "name": "KIHYO", "id": 27170 },
+                { "name": "KIBISIRE", "id": 26056 },
+                { "name": "KATEBE I", "id": 24269 },
+                { "name": "KATEBE II", "id": 24270 }
+              ]
+            },
+            {
+              "name": "KISANGA",
+              "id": 3792,
+              "villages": [
+                { "name": "KIREMBERI", "id": 28450 },
+                { "name": "KISANGA", "id": 28978 },
+                { "name": "KITHULI", "id": 29896 },
+                { "name": "KAGHANDO", "id": 19724 },
+                { "name": "SINAI", "id": 55457 }
+              ]
+            },
+            {
+              "name": "NYABISUSU",
+              "id": 5969,
+              "villages": [
+                { "name": "KIRULI I A", "id": 28662 },
+                { "name": "KIRULI I B", "id": 28663 },
+                { "name": "KYANDALE", "id": 32501 },
+                { "name": "NYABISUSI", "id": 45602 }
+              ]
+            },
+            {
+              "name": "MUBUKU",
+              "id": 5107,
+              "villages": [
+                { "name": "IZINGA", "id": 17976 },
+                { "name": "KISOJO", "id": 29316 },
+                { "name": "BWIZIBWERA", "id": 14615 },
+                { "name": "KIGANDO", "id": 26613 },
+                { "name": "KASUNGWA", "id": 24024 },
+                { "name": "MUBUKU CENTRAL", "id": 39232 },
+                { "name": "MUBUKU LOWER", "id": 39234 },
+                { "name": "MUBUKU PRISON", "id": 39235 },
+                { "name": "MUBUKU UPPER", "id": 39236 }
+              ]
+            },
+            {
+              "name": "NYANGORONGO",
+              "id": 6143,
+              "villages": [
+                { "name": "BUHWEZA", "id": 8850 },
+                { "name": "NYANGORONGO", "id": 47181 },
+                { "name": "KASAKA", "id": 23251 },
+                { "name": "KABUYIRI", "id": 19246 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MUHOKYA",
+          "id": 381,
+          "parishes": [
+            {
+              "name": "KIBIRI",
+              "id": 3399,
+              "villages": [
+                { "name": "BUSARA", "id": 12269 },
+                { "name": "KIBIRI", "id": 26018 },
+                { "name": "RWEBITOKE", "id": 53985 },
+                { "name": "KYAMIZA", "id": 32272 }
+              ]
+            },
+            {
+              "name": "KAHENDERO",
+              "id": 2525,
+              "villages": [
+                { "name": "BWENANULE", "id": 14449 },
+                { "name": "KAHENDERO I", "id": 19970 },
+                { "name": "KAHENDERO II", "id": 19971 },
+                { "name": "LYEMUBUZA", "id": 36303 }
+              ]
+            },
+            {
+              "name": "KIREMBE",
+              "id": 3716,
+              "villages": [
+                { "name": "BIBWE", "id": 6945 },
+                { "name": "KABUKERO", "id": 19047 },
+                { "name": "RWEBIHUNGU", "id": 53952 }
+              ]
+            },
+            {
+              "name": "MUHOKYA",
+              "id": 5135,
+              "villages": [
+                { "name": "KISONGORA", "id": 29357 },
+                { "name": "MUHOKYA T. CENTRE", "id": 39459 },
+                { "name": "RUTOKE", "id": 53304 }
+              ]
+            },
+            {
+              "name": "NYAMIRAMI",
+              "id": 6108,
+              "villages": [
+                { "name": "KITABU", "id": 29542 },
+                { "name": "NYAMIRAMI", "id": 46865 },
+                { "name": "KYAMBOGHO", "id": 32220 },
+                { "name": "KYAPA", "id": 32714 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RUKOKI",
+          "id": 382,
+          "parishes": [
+            {
+              "name": "BUHANGHURA",
+              "id": 973,
+              "villages": [
+                { "name": "BUGHALITSA", "id": 8320 },
+                { "name": "BUHAGHURA", "id": 8662 },
+                { "name": "BUHAGHURA II CATHOLIC", "id": 8663 },
+                { "name": "KAPOKO", "id": 22660 },
+                { "name": "KARONGO", "id": 23040 },
+                { "name": "MISIKA I", "id": 38595 },
+                { "name": "NYABIBWA", "id": 45532 }
+              ]
+            },
+            {
+              "name": "KIGORO I",
+              "id": 3512,
+              "villages": [
+                { "name": "KIBOLHU", "id": 26080 },
+                { "name": "KABUGHABUGHA", "id": 19022 },
+                { "name": "KASIKA", "id": 23747 },
+                { "name": "NYISANGO", "id": 47624 }
+              ]
+            },
+            {
+              "name": "NYAKABINGO I",
+              "id": 6006,
+              "villages": [
+                { "name": "KYAMUKOKA", "id": 32374 },
+                { "name": "KYAPA", "id": 32713 },
+                { "name": "NYAKASOJO UPPER", "id": 46312 },
+                { "name": "NYAKABINGO", "id": 45887 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KASESE MUNICIPALITY",
+      "id": 193,
+      "sub_counties": [
+        {
+          "name": "BULEMBIA DIVISION",
+          "id": 1176,
+          "parishes": [
+            {
+              "name": "KATIRI WARD",
+              "id": 3212,
+              "villages": [
+                { "name": "BULEMBIA", "id": 10080 },
+                { "name": "KATIRI", "id": 24512 },
+                { "name": "KANYARUBOGHA", "id": 22241 }
+              ]
+            },
+            {
+              "name": "KYANJUKI WARD",
+              "id": 4282,
+              "villages": [
+                { "name": "KYANJUKI", "id": 32599 },
+                { "name": "MASULE A", "id": 37651 },
+                { "name": "MASULE B", "id": 37652 }
+              ]
+            },
+            {
+              "name": "NYAKABINGO III WARD",
+              "id": 6008,
+              "villages": [
+                { "name": "KATONZI", "id": 24610 },
+                { "name": "NYAKASOJO LOWER", "id": 46311 }
+              ]
+            },
+            {
+              "name": "NAMUHUGA WARD",
+              "id": 5566,
+              "villages": [
+                { "name": "NAMUHUGA N. EAST", "id": 43050 },
+                { "name": "NAMUHUGA N. WEST", "id": 43051 },
+                { "name": "NAMUHUGA SOUTH", "id": 43052 },
+                { "name": "ROAD-BARRIER", "id": 52376 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CENTRAL DIVISION",
+          "id": 1563,
+          "parishes": [
+            {
+              "name": "BASE CAMP WARD",
+              "id": 708,
+              "villages": [
+                { "name": "LOWER BASE CAMP", "id": 34888 },
+                { "name": "UPPER BASE CAMP", "id": 56997 }
+              ]
+            },
+            {
+              "name": "KAMAIBA WARD",
+              "id": 2725,
+              "villages": [
+                { "name": "KILEMBE QUARTERS", "id": 27833 },
+                { "name": "KAMAIBA LOWER CENTRAL", "id": 21217 },
+                { "name": "KAMAIBA MAIN", "id": 21218 },
+                { "name": "KAMAIBA UPPER CENTRAL", "id": 21219 }
+              ]
+            },
+            {
+              "name": "KIREMBE WARD",
+              "id": 3718,
+              "villages": [
+                { "name": "KIREMBE", "id": 28444 },
+                { "name": "KAHOKYA", "id": 19991 }
+              ]
+            },
+            {
+              "name": "NYAKABINGO II WARD",
+              "id": 6007,
+              "villages": [
+                { "name": "KYAMINYOKU", "id": 32265 },
+                { "name": "KYANZUKI", "id": 32710 },
+                { "name": "KATADOBA", "id": 24099 }
+              ]
+            },
+            {
+              "name": "RAILWAY WARD",
+              "id": 6815,
+              "villages": [
+                { "name": "KIDOODO", "id": 26425 },
+                { "name": "KIKONJO", "id": 27615 },
+                { "name": "RAILWAY", "id": 52238 }
+              ]
+            },
+            {
+              "name": "TOWN CENTRE WARD",
+              "id": 7286,
+              "villages": [
+                { "name": "NYAKATONZI", "id": 46386 },
+                { "name": "TOWN CENTRE", "id": 56706 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAMWAMBA DIVISION",
+          "id": 1177,
+          "parishes": [
+            {
+              "name": "KANYANGEYA WARD",
+              "id": 2840,
+              "villages": [
+                { "name": "KANYANGEYA", "id": 22189 },
+                { "name": "KAMULIKWIZI", "id": 21592 },
+                { "name": "SALUTI A", "id": 54879 },
+                { "name": "SALUTI B", "id": 54880 }
+              ]
+            },
+            {
+              "name": "KIHARA WARD",
+              "id": 3540,
+              "villages": [
+                { "name": "KIHARA", "id": 27025 },
+                { "name": "MISIKA II", "id": 38596 }
+              ]
+            },
+            {
+              "name": "KISANGA WARD",
+              "id": 3793,
+              "villages": [
+                { "name": "KISANGA A", "id": 28980 },
+                { "name": "KISANGA B", "id": 28981 }
+              ]
+            },
+            {
+              "name": "NYAKASANGA I WARD",
+              "id": 6034,
+              "villages": [
+                { "name": "KIZUNGU", "id": 30747 },
+                { "name": "KISAGAZI", "id": 28904 },
+                { "name": "KITORO", "id": 30139 },
+                { "name": "NYAMWAMBA EAST", "id": 47087 },
+                { "name": "NYAMWAMBA WEST", "id": 47088 },
+                { "name": "MUMBUZI", "id": 39818 },
+                { "name": "UMOJA", "id": 56976 }
+              ]
+            },
+            {
+              "name": "NYAKASANGA III WARD",
+              "id": 6035,
+              "villages": [
+                { "name": "NYAKASANGA LOWER", "id": 46253 },
+                { "name": "NYAKASANGA UPPER", "id": 46254 },
+                { "name": "NYAKASANGA WEST", "id": 46255 }
+              ]
+            },
+            {
+              "name": "RUKOOKI WARD",
+              "id": 6905,
+              "villages": [
+                { "name": "KIGORO II", "id": 26870 },
+                { "name": "KIHARA ROAD", "id": 27026 },
+                { "name": "KEMIHOKO II", "id": 25527 },
+                { "name": "KOGERE", "id": 30842 },
+                { "name": "MWARO", "id": 40504 },
+                { "name": "RUKOOKI", "id": 52967 }
+              ]
+            },
+            {
+              "name": "SCHEME WARD",
+              "id": 7093,
+              "villages": [
+                { "name": "KIZUNGU", "id": 30748 },
+                { "name": "KYONDO", "id": 33416 },
+                { "name": "PHASE IA", "id": 51931 },
+                { "name": "PHASE IB", "id": 51932 },
+                { "name": "PHASE II", "id": 51933 },
+                { "name": "SEBWE", "id": 54975 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

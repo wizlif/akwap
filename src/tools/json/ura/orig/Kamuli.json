@@ -1,0 +1,1338 @@
+{
+  "name": "Kamuli",
+  "id": 32,
+  "counties": [
+    {
+      "name": "Bugabula north",
+      "id": 363,
+      "sub_counties": [
+        {
+          "name": "Balawoli",
+          "id": 334,
+          "parishes": [
+            {
+              "name": "Balawoli",
+              "id": 660,
+              "villages": [
+                { "name": "Balawoli t/centre", "id": 6232 },
+                { "name": "Bugaya", "id": 8256 },
+                { "name": "Bugobi", "id": 8386 },
+                { "name": "Bugoobe", "id": 8529 },
+                { "name": "Bugweri", "id": 8649 },
+                { "name": "Bukaibaale", "id": 9006 },
+                { "name": "Bukitimbo", "id": 9522 },
+                { "name": "Bunangwe", "id": 11425 },
+                { "name": "Busana", "id": 12210 },
+                { "name": "Buyima", "id": 14110 },
+                { "name": "Bwase", "id": 14388 }
+              ]
+            },
+            {
+              "name": "Kawaga",
+              "id": 3270,
+              "villages": [
+                { "name": "Bugaga", "id": 8099 },
+                { "name": "Budhatemwa", "id": 7860 },
+                { "name": "Bugoobi", "id": 8532 },
+                { "name": "Buguwa i", "id": 8615 },
+                { "name": "Buguwa ii", "id": 8616 },
+                { "name": "Busaama", "id": 12104 },
+                { "name": "Busuubo", "id": 12813 },
+                { "name": "Butalage i", "id": 12936 },
+                { "name": "Butalage ii", "id": 12937 },
+                { "name": "Butimbito", "id": 13216 },
+                { "name": "Butooli", "id": 13293 },
+                { "name": "Kirangiira", "id": 28362 }
+              ]
+            },
+            {
+              "name": "Kibuye",
+              "id": 3428,
+              "villages": [
+                { "name": "Bandali", "id": 6305 },
+                { "name": "Bukalapya", "id": 9036 },
+                { "name": "Buwaiswa", "id": 13509 },
+                { "name": "Bwase", "id": 14393 },
+                { "name": "Nabitalo a", "id": 40824 },
+                { "name": "Nabitalo b", "id": 40825 }
+              ]
+            },
+            {
+              "name": "Kasolwe",
+              "id": 3108,
+              "villages": [
+                { "name": "Buganza", "id": 8185 },
+                { "name": "Bugoobi i", "id": 8533 },
+                { "name": "Bugoobi ii", "id": 8534 },
+                { "name": "Bugulu", "id": 8571 },
+                { "name": "Bulimira", "id": 10173 },
+                { "name": "Bulagala a", "id": 9905 },
+                { "name": "Bulagala b", "id": 9906 },
+                { "name": "Bulasse", "id": 10022 },
+                { "name": "Busagira", "id": 12142 },
+                { "name": "Bususwa", "id": 12803 },
+                { "name": "Butuula", "id": 13401 },
+                { "name": "Buyima", "id": 14113 },
+                { "name": "Kadholwe", "id": 19465 }
+              ]
+            },
+            {
+              "name": "Kagumba",
+              "id": 2515,
+              "villages": [
+                { "name": "Buduuma", "id": 7990 },
+                { "name": "Bugaaga", "id": 8052 },
+                { "name": "Bulemezi", "id": 10090 },
+                { "name": "Bulinda", "id": 10181 },
+                { "name": "Bulaala", "id": 9889 },
+                { "name": "Isagaziirya", "id": 17763 },
+                { "name": "Dembe", "id": 15556 },
+                { "name": "Mawembe", "id": 37868 },
+                { "name": "Nambaale", "id": 42720 }
+              ]
+            },
+            {
+              "name": "Kiige",
+              "id": 3560,
+              "villages": [
+                { "name": "Bugaga", "id": 8100 },
+                { "name": "Bugobi", "id": 8393 },
+                { "name": "Bukabeto", "id": 8968 },
+                { "name": "Busamo", "id": 12201 },
+                { "name": "Bunhimpi", "id": 11756 },
+                { "name": "Bunnamanda", "id": 11773 },
+                { "name": "Busige", "id": 12493 },
+                { "name": "Busongole", "id": 12707 },
+                { "name": "Butyama", "id": 13419 }
+              ]
+            },
+            {
+              "name": "Namaira",
+              "id": 5482,
+              "villages": [
+                { "name": "Bugaya/budiikubera", "id": 8266 },
+                { "name": "Bulumaga/buteira", "id": 10353 },
+                { "name": "Bunhampogo/buganza", "id": 11754 },
+                { "name": "Butoigo/bulwiire", "id": 13271 },
+                { "name": "Buwalankamba", "id": 13536 },
+                { "name": "Buwaya/budongo", "id": 13762 },
+                { "name": "Buwempasa", "id": 13801 }
+              ]
+            },
+            {
+              "name": "Nabulezi",
+              "id": 5315,
+              "villages": [
+                { "name": "Bubode", "id": 7652 },
+                { "name": "Bubyaasi", "id": 7769 },
+                { "name": "Bukaaya", "id": 8956 },
+                { "name": "Bulondo", "id": 10273 },
+                { "name": "Bunyanha", "id": 11830 },
+                { "name": "Busige", "id": 12496 },
+                { "name": "Butante", "id": 13012 },
+                { "name": "Buvumbi", "id": 13436 },
+                { "name": "Bwase", "id": 14395 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nabwigulu",
+          "id": 339,
+          "parishes": [
+            {
+              "name": "Namunyingi",
+              "id": 5591,
+              "villages": [
+                { "name": "Bugaga i", "id": 8106 },
+                { "name": "Bugaga ii", "id": 8107 },
+                { "name": "Bulondo i", "id": 10282 },
+                { "name": "Bulondo ii", "id": 10283 },
+                { "name": "Bukwanga", "id": 9838 },
+                { "name": "Bulangiira", "id": 10000 },
+                { "name": "Bususwa", "id": 12805 },
+                { "name": "Nawambale", "id": 44018 }
+              ]
+            },
+            {
+              "name": "Nabirumba i",
+              "id": 5290,
+              "villages": [
+                { "name": "Bunakaboko", "id": 11138 },
+                { "name": "Busana", "id": 12211 },
+                { "name": "Bwoko", "id": 14631 },
+                { "name": "Bwoziira", "id": 14654 }
+              ]
+            },
+            {
+              "name": "Nabirumba ii",
+              "id": 5291,
+              "villages": [
+                { "name": "Bugonde", "id": 8490 },
+                { "name": "Bukalu", "id": 9064 },
+                { "name": "Buluta", "id": 10410 },
+                { "name": "Butwale", "id": 13412 }
+              ]
+            },
+            {
+              "name": "Nabwigulu",
+              "id": 5334,
+              "villages": [
+                { "name": "Buduuli", "id": 7987 },
+                { "name": "Bugaya", "id": 8260 },
+                { "name": "Bulondo", "id": 10274 },
+                { "name": "Bulanda", "id": 9980 },
+                { "name": "Bunono", "id": 11786 },
+                { "name": "Busuyi", "id": 12837 },
+                { "name": "Busikwe", "id": 12531 },
+                { "name": "Buwanzu", "id": 13709 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Namasagali",
+          "id": 340,
+          "parishes": [
+            {
+              "name": "Bwiiza",
+              "id": 1802,
+              "villages": [
+                { "name": "Bufumbiro", "id": 8019 },
+                { "name": "Bubiriki/bukawole", "id": 7629 },
+                { "name": "Bugulu/bulimira", "id": 8572 },
+                { "name": "Bugumbya", "id": 8592 },
+                { "name": "Bukaabi", "id": 8945 },
+                { "name": "Bukaaya/buwerya", "id": 8959 },
+                { "name": "Bulimira a", "id": 10174 },
+                { "name": "Bunabiryo/bulimira", "id": 11061 },
+                { "name": "Bususwa/bulimira", "id": 12809 },
+                { "name": "Buyego/bunangwe", "id": 14063 },
+                { "name": "Buyengere", "id": 14081 },
+                { "name": "Kakindu", "id": 20369 },
+                { "name": "Kasiimwe", "id": 23738 }
+              ]
+            },
+            {
+              "name": "Kasozi",
+              "id": 3114,
+              "villages": [
+                { "name": "Bugaga", "id": 8098 },
+                { "name": "Buganza", "id": 8186 },
+                { "name": "Bugobi", "id": 8391 },
+                { "name": "Bugole", "id": 8423 },
+                { "name": "Bubooka", "id": 7682 },
+                { "name": "Bubuuza", "id": 7736 },
+                { "name": "Bulungu", "id": 10394 },
+                { "name": "Bukwanga/bumbya", "id": 9841 },
+                { "name": "Bunangwe", "id": 11433 },
+                { "name": "Busaano", "id": 12113 },
+                { "name": "Busige", "id": 12491 },
+                { "name": "Buyala", "id": 13996 },
+                { "name": "Mengo", "id": 38234 }
+              ]
+            },
+            {
+              "name": "Kisaikye",
+              "id": 3786,
+              "villages": [
+                { "name": "Kisaikye a", "id": 28914 },
+                { "name": "Kisaikye b", "id": 28915 },
+                { "name": "Kisaikye c", "id": 28916 },
+                { "name": "Kavule f", "id": 24937 },
+                { "name": "Kavule a", "id": 24928 },
+                { "name": "Kavule b", "id": 24931 },
+                { "name": "Kavule c", "id": 24933 },
+                { "name": "Kavule d", "id": 24935 },
+                { "name": "Kavule e", "id": 24936 },
+                { "name": "Kadungu", "id": 19508 },
+                { "name": "Kadungu b", "id": 19509 },
+                { "name": "Nansololo a", "id": 43574 },
+                { "name": "Nansololo b", "id": 43575 },
+                { "name": "Nansololo c", "id": 43576 },
+                { "name": "Nansololo d", "id": 43577 }
+              ]
+            },
+            {
+              "name": "Namasagali",
+              "id": 5500,
+              "villages": [
+                { "name": "Kabaganda", "id": 18462 },
+                { "name": "Kabanyoro", "id": 18622 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bugabula south",
+      "id": 364,
+      "sub_counties": [
+        {
+          "name": "Bulopa",
+          "id": 335,
+          "parishes": [
+            {
+              "name": "Bukutu",
+              "id": 1125,
+              "villages": [
+                { "name": "Butale", "id": 12942 },
+                { "name": "Butasaga", "id": 13036 },
+                { "name": "Butonti", "id": 13286 },
+                { "name": "Buzidolo i", "id": 14258 },
+                { "name": "Buzidolo ii", "id": 14259 },
+                { "name": "Gabula", "id": 16255 },
+                { "name": "Nakyeya", "id": 42048 }
+              ]
+            },
+            {
+              "name": "Bulopa",
+              "id": 1173,
+              "villages": [
+                { "name": "Bugwala", "id": 8626 },
+                { "name": "Bukaliku", "id": 9060 },
+                { "name": "Bulondo/bukaibale", "id": 10288 },
+                { "name": "Bulopa town", "id": 10304 },
+                { "name": "Busobya", "id": 12657 },
+                { "name": "Bususwa", "id": 12801 },
+                { "name": "Itembe", "id": 17884 },
+                { "name": "Buyemba", "id": 14065 },
+                { "name": "Buyima", "id": 14111 },
+                { "name": "Buyobo", "id": 14154 }
+              ]
+            },
+            {
+              "name": "Mpakitoni",
+              "id": 5070,
+              "villages": [
+                { "name": "Bunabi", "id": 11048 },
+                { "name": "Butekanga", "id": 13113 },
+                { "name": "Buwongolya", "id": 13913 },
+                { "name": "Buwoya", "id": 13925 },
+                { "name": "Kabanda i", "id": 18585 },
+                { "name": "Kabanda ii", "id": 18586 },
+                { "name": "Mpakitonyi", "id": 39008 },
+                { "name": "Mukoka", "id": 39593 },
+                { "name": "Tasaga", "id": 56107 }
+              ]
+            },
+            {
+              "name": "Nagamuli",
+              "id": 5340,
+              "villages": [
+                { "name": "Buganza", "id": 8191 },
+                { "name": "Bugobi i", "id": 8400 },
+                { "name": "Bugobi ii", "id": 8401 },
+                { "name": "Bugwano", "id": 8633 },
+                { "name": "Bupiina/bukaya", "id": 11921 },
+                { "name": "Butuba", "id": 13363 },
+                { "name": "Buwande", "id": 13618 },
+                { "name": "Buyima/bwebya", "id": 14118 }
+              ]
+            },
+            {
+              "name": "Nagwenyi",
+              "id": 5347,
+              "villages": [
+                { "name": "Buganza", "id": 8192 },
+                { "name": "Bugwano", "id": 8634 },
+                { "name": "Bukaibale", "id": 9007 },
+                { "name": "Bunangwe", "id": 11435 },
+                { "name": "Buyego", "id": 14059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Butansi",
+          "id": 336,
+          "parishes": [
+            {
+              "name": "Butansi",
+              "id": 1591,
+              "villages": [
+                { "name": "Bugaya ii", "id": 8264 },
+                { "name": "Bugombya", "id": 8467 },
+                { "name": "Bubogo", "id": 7655 },
+                { "name": "Buluke", "id": 10337 },
+                { "name": "Bulunga", "id": 10389 },
+                { "name": "Bulondo", "id": 10268 },
+                { "name": "Busuuyi", "id": 12824 },
+                { "name": "Busiige", "id": 12509 },
+                { "name": "Kiwungu trading centre", "id": 30506 },
+                { "name": "Ntansi", "id": 45305 }
+              ]
+            },
+            {
+              "name": "Bugeywa",
+              "id": 911,
+              "villages": [
+                { "name": "Bugaluka", "id": 8134 },
+                { "name": "Bukaaya", "id": 8953 },
+                { "name": "Bulongo", "id": 10291 },
+                { "name": "Bukuluba", "id": 9744 },
+                { "name": "Buleebi", "id": 10044 },
+                { "name": "Buleeta", "id": 10050 },
+                { "name": "Busaamo", "id": 12106 },
+                { "name": "Busuulu", "id": 12819 },
+                { "name": "Busuuyi", "id": 12822 },
+                { "name": "Butatyama", "id": 13046 },
+                { "name": "Buyooga", "id": 14192 },
+                { "name": "Bwooga", "id": 14644 }
+              ]
+            },
+            {
+              "name": "Naluwoli",
+              "id": 5466,
+              "villages": [
+                { "name": "Abutannula", "id": 551 },
+                { "name": "Agaliawamu", "id": 1485 },
+                { "name": "Bakusekamaja", "id": 6220 },
+                { "name": "Butegere", "id": 13105 },
+                { "name": "Eziiraalengera", "id": 16175 },
+                { "name": "Kibumbainhebyo", "id": 26166 },
+                { "name": "Kyebajatobona", "id": 32916 },
+                { "name": "Kantu", "id": 22067 },
+                { "name": "Naluwoli t/centre", "id": 42205 },
+                { "name": "Namayandha", "id": 42681 },
+                { "name": "Tibasiima", "id": 56527 },
+                { "name": "Tibwamulala", "id": 56528 },
+                { "name": "Tugezzeku", "id": 56780 },
+                { "name": "Twabakoberanga", "id": 56890 },
+                { "name": "Tweyambe", "id": 56905 }
+              ]
+            },
+            {
+              "name": "Naibowa",
+              "id": 5349,
+              "villages": [
+                { "name": "Bufeesa", "id": 7995 },
+                { "name": "Bubaadha", "id": 7479 },
+                { "name": "Bukaaya", "id": 8957 },
+                { "name": "Bulyampanda", "id": 10479 },
+                { "name": "Bulondo", "id": 10275 },
+                { "name": "Bunyoola", "id": 11891 },
+                { "name": "Busuuyi", "id": 12828 },
+                { "name": "Butimbo", "id": 13224 },
+                { "name": "Bwigaliro", "id": 14550 },
+                { "name": "Bwigule", "id": 14554 },
+                { "name": "Mugulusi", "id": 39404 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kitayunjwa",
+          "id": 338,
+          "parishes": [
+            {
+              "name": "Budhatemwa",
+              "id": 853,
+              "villages": [
+                { "name": "Bugongo/bubwiire", "id": 8514 },
+                { "name": "Bukaakula", "id": 8947 },
+                { "name": "Bulondo/bugabo", "id": 10287 },
+                { "name": "Bulangiira", "id": 9999 },
+                { "name": "Bunangwe/buyobo", "id": 11441 },
+                { "name": "Busibe", "id": 12474 },
+                { "name": "Busubo/bugaga", "id": 12758 },
+                { "name": "Buyego", "id": 14057 },
+                { "name": "Namaira rural", "id": 42354 }
+              ]
+            },
+            {
+              "name": "Buganza",
+              "id": 898,
+              "villages": [
+                { "name": "Bugaga/buganza", "id": 8110 },
+                { "name": "Bubambwe", "id": 7537 },
+                { "name": "Budaudi", "id": 7832 },
+                { "name": "Bulizi", "id": 10216 },
+                { "name": "Bulasse", "id": 10021 },
+                { "name": "Bumwena", "id": 11016 },
+                { "name": "Busubo/buyanda", "id": 12759 },
+                { "name": "Ekivaebulaya", "id": 15979 }
+              ]
+            },
+            {
+              "name": "Butende",
+              "id": 1610,
+              "villages": [
+                { "name": "Budongo", "id": 7949 },
+                { "name": "Bubanda", "id": 7541 },
+                { "name": "Bubeeyo", "id": 7587 },
+                { "name": "Bubyale", "id": 7770 },
+                { "name": "Bugulusi", "id": 8582 },
+                { "name": "Bukamira", "id": 9082 },
+                { "name": "Buleri", "id": 10119 },
+                { "name": "Buliira", "id": 10147 },
+                { "name": "Bulondo", "id": 10269 },
+                { "name": "Bukundhuba", "id": 9771 },
+                { "name": "Bunadhomi", "id": 11118 },
+                { "name": "Bunaganyi", "id": 11126 },
+                { "name": "Busooma", "id": 12719 },
+                { "name": "Nsiima", "id": 45173 }
+              ]
+            },
+            {
+              "name": "Kitayunjwa",
+              "id": 3892,
+              "villages": [
+                { "name": "Bugaga/bugobe", "id": 8111 },
+                { "name": "Buboira/bubbupi", "id": 7658 },
+                { "name": "Buboka/bugobi", "id": 7659 },
+                { "name": "Budiba", "id": 7894 },
+                { "name": "Bugwanti", "id": 8635 },
+                { "name": "Bukafiika", "id": 8989 },
+                { "name": "Bunandolo", "id": 11389 },
+                { "name": "Bunangwe/buyuka", "id": 11442 },
+                { "name": "Busikwe/bulimira", "id": 12538 },
+                { "name": "Buwabale", "id": 13455 },
+                { "name": "Bwebya/bulondo", "id": 14425 },
+                { "name": "Mwesigwa", "id": 40539 },
+                { "name": "Mpanga", "id": 39032 },
+                { "name": "Mugezi-talemwa", "id": 39331 },
+                { "name": "Nkuumamirimo", "id": 44975 }
+              ]
+            },
+            {
+              "name": "Namaganda",
+              "id": 5478,
+              "villages": [
+                { "name": "Buganza", "id": 8193 },
+                { "name": "Budhugu", "id": 7880 },
+                { "name": "Bulinda", "id": 10183 },
+                { "name": "Bukosiya", "id": 9700 },
+                { "name": "Bukula", "id": 9739 },
+                { "name": "Bunangwe", "id": 11437 },
+                { "name": "Busuuyi", "id": 12829 },
+                { "name": "Buwaalo", "id": 13452 },
+                { "name": "Butooli", "id": 13295 },
+                { "name": "Buwate", "id": 13743 }
+              ]
+            },
+            {
+              "name": "Namisambya i",
+              "id": 5544,
+              "villages": [
+                { "name": "Bugulere", "id": 8568 },
+                { "name": "Bulegeya", "id": 10065 },
+                { "name": "Bukwanga/bukubembe", "id": 9840 },
+                { "name": "Bulaire", "id": 9917 },
+                { "name": "Bumyuka", "id": 11025 },
+                { "name": "Bunafu", "id": 11120 },
+                { "name": "Buwaya/buyakobo", "id": 13763 },
+                { "name": "Buwendha", "id": 13808 },
+                { "name": "Buyonga", "id": 14185 },
+                { "name": "Bwase/bugobwe", "id": 14399 },
+                { "name": "Maluulu", "id": 37200 }
+              ]
+            },
+            {
+              "name": "Nawango",
+              "id": 5692,
+              "villages": [
+                { "name": "Bugaya", "id": 8261 },
+                { "name": "Bugogolo", "id": 8422 },
+                { "name": "Bujemusi", "id": 8882 },
+                { "name": "Bukasala", "id": 9164 },
+                { "name": "Bulonda", "id": 10257 },
+                { "name": "Buloyi", "id": 10311 },
+                { "name": "Bulagala", "id": 9904 },
+                { "name": "Bunangwe", "id": 11438 },
+                { "name": "Bunakatwe", "id": 11151 },
+                { "name": "Busutagaine", "id": 12810 },
+                { "name": "Busuuyi", "id": 12830 },
+                { "name": "Butagaya", "id": 12914 },
+                { "name": "Buwaaya", "id": 13454 },
+                { "name": "Buziiko", "id": 14267 },
+                { "name": "Walubo", "id": 57338 }
+              ]
+            },
+            {
+              "name": "Nawansaso",
+              "id": 5697,
+              "villages": [
+                { "name": "Budolo/budhasi", "id": 7936 },
+                { "name": "Bugombe", "id": 8462 },
+                { "name": "Bugombe/busanga", "id": 8463 },
+                { "name": "Budhasi", "id": 7859 },
+                { "name": "Busalamu/bukasolo", "id": 12169 },
+                { "name": "Busole/bwavule", "id": 12678 },
+                { "name": "Buwaibale", "id": 13499 },
+                { "name": "Buwaya/bwavula", "id": 13764 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Namwendwa",
+          "id": 341,
+          "parishes": [
+            {
+              "name": "Isingo",
+              "id": 2233,
+              "villages": [
+                { "name": "Bugaga", "id": 8096 },
+                { "name": "Bugobi", "id": 8390 },
+                { "name": "Buluuya", "id": 10424 },
+                { "name": "Butogonyha", "id": 13264 },
+                { "name": "Butooke-busambwa", "id": 13289 },
+                { "name": "Isingo b.", "id": 17819 }
+              ]
+            },
+            {
+              "name": "Bugondha",
+              "id": 939,
+              "villages": [
+                { "name": "Bufuuwa", "id": 8049 },
+                { "name": "Bubogo", "id": 7653 },
+                { "name": "Bugoobi", "id": 8531 },
+                { "name": "Buluba", "id": 10312 },
+                { "name": "Bukwanga", "id": 9836 },
+                { "name": "Bunaireka", "id": 11137 },
+                { "name": "Busikwe", "id": 12525 },
+                { "name": "Butaga", "id": 12904 },
+                { "name": "Bususwa", "id": 12800 },
+                { "name": "Kayembe", "id": 25175 }
+              ]
+            },
+            {
+              "name": "Bulange",
+              "id": 1145,
+              "villages": [
+                { "name": "Bulondo", "id": 10265 },
+                { "name": "Bulange central", "id": 9997 },
+                { "name": "Busuuyi", "id": 12823 },
+                { "name": "Butaaya", "id": 12889 },
+                { "name": "Buwolomera", "id": 13894 },
+                { "name": "Kitimbo", "id": 29915 },
+                { "name": "Ndali", "id": 44220 }
+              ]
+            },
+            {
+              "name": "Bulogo",
+              "id": 1168,
+              "villages": [
+                { "name": "Bugabudieri", "id": 8076 },
+                { "name": "Bugaga mafudu", "id": 8108 },
+                { "name": "Bugaga-", "id": 8109 },
+                { "name": "Bughongho", "id": 8326 },
+                { "name": "Bubigita", "id": 7611 },
+                { "name": "Bubiro", "id": 7631 },
+                { "name": "Bugwano", "id": 8632 },
+                { "name": "Bukagenyha", "id": 8998 },
+                { "name": "Bulondo", "id": 10266 },
+                { "name": "Bulangira", "id": 10003 },
+                { "name": "Butuba", "id": 13362 },
+                { "name": "Butyabule", "id": 13414 },
+                { "name": "Dembe", "id": 15553 }
+              ]
+            },
+            {
+              "name": "Kidiki",
+              "id": 3456,
+              "villages": [
+                { "name": "Bugobi", "id": 8392 },
+                { "name": "Bulungu", "id": 10395 },
+                { "name": "Bulyango", "id": 10492 },
+                { "name": "Bulondo", "id": 10270 },
+                { "name": "Bukwaalu", "id": 9819 },
+                { "name": "Busaakwa", "id": 12096 },
+                { "name": "Busimba", "id": 12555 },
+                { "name": "Buvu", "id": 13429 },
+                { "name": "Buyomba", "id": 14174 }
+              ]
+            },
+            {
+              "name": "Kyeeya",
+              "id": 4326,
+              "villages": [
+                { "name": "Agalyawamu", "id": 1491 },
+                { "name": "Bugemye", "id": 8295 },
+                { "name": "Bugobi", "id": 8394 },
+                { "name": "Bubiro", "id": 7634 },
+                { "name": "Bunabugo", "id": 11068 },
+                { "name": "Busuubo", "id": 12814 },
+                { "name": "Busuuyi", "id": 12825 },
+                { "name": "Butogo", "id": 13259 },
+                { "name": "Buwanga", "id": 13639 },
+                { "name": "Bwaguusa a", "id": 14320 },
+                { "name": "Bwaguusa b", "id": 14321 },
+                { "name": "Katono", "id": 24602 }
+              ]
+            },
+            {
+              "name": "Makoka",
+              "id": 4814,
+              "villages": [
+                { "name": "Bubbupi", "id": 7584 },
+                { "name": "Bukende", "id": 9247 },
+                { "name": "Buguma", "id": 8584 },
+                { "name": "Bukampala", "id": 9084 },
+                { "name": "Bukantu", "id": 9127 },
+                { "name": "Bukapiso", "id": 9134 },
+                { "name": "Bulondo", "id": 10271 },
+                { "name": "Bukyabita", "id": 9859 },
+                { "name": "Buniavu", "id": 11759 },
+                { "name": "Butamirike", "id": 12979 },
+                { "name": "Butege", "id": 13102 },
+                { "name": "Butimbito", "id": 13217 },
+                { "name": "Bwasse", "id": 14404 },
+                { "name": "Lugundhu", "id": 35187 }
+              ]
+            },
+            {
+              "name": "Kinu",
+              "id": 3674,
+              "villages": [
+                { "name": "Bubwana/bubanda", "id": 7752 },
+                { "name": "Bukooma/bunyirwa", "id": 9669 },
+                { "name": "Bukoose/bukyala", "id": 9676 },
+                { "name": "Bunangwe-buyuuka", "id": 11440 },
+                { "name": "Bunama-bugweri", "id": 11194 },
+                { "name": "Bunyirwa", "id": 11867 },
+                { "name": "Busuuyi-bubanda", "id": 12831 },
+                { "name": "Busuuyi-bunyirwa b", "id": 12832 }
+              ]
+            },
+            {
+              "name": "Ndalike",
+              "id": 5725,
+              "villages": [
+                { "name": "Budumba", "id": 7978 },
+                { "name": "Busiri", "id": 12616 },
+                { "name": "Buyuba", "id": 14202 },
+                { "name": "Kiseege", "id": 29027 },
+                { "name": "Kawolera", "id": 25026 },
+                { "name": "Ndalike t/c", "id": 44221 },
+                { "name": "Nambaale", "id": 42721 }
+              ]
+            },
+            {
+              "name": "Namwendwa",
+              "id": 5612,
+              "villages": [
+                { "name": "Bugole", "id": 8424 },
+                { "name": "Bukafuga a", "id": 8990 },
+                { "name": "Bukafuga b", "id": 8991 },
+                { "name": "Busejja", "id": 12300 },
+                { "name": "Green zone", "id": 16899 },
+                { "name": "Busuubo", "id": 12816 },
+                { "name": "Busooko", "id": 12714 },
+                { "name": "Industrial", "id": 17627 },
+                { "name": "Buyingo", "id": 14129 },
+                { "name": "Mission", "id": 38623 },
+                { "name": "Market zone (town)", "id": 37409 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Buzaaya",
+      "id": 61,
+      "sub_counties": [
+        {
+          "name": "Kisozi",
+          "id": 343,
+          "parishes": [
+            {
+              "name": "Buteme",
+              "id": 1606,
+              "villages": [
+                { "name": "Bububuli", "id": 7688 },
+                { "name": "Bugwala north", "id": 8627 },
+                { "name": "Bugwala south", "id": 8628 },
+                { "name": "Buteme a", "id": 13129 },
+                { "name": "Buteme b", "id": 13130 },
+                { "name": "Kawule east", "id": 25077 }
+              ]
+            },
+            {
+              "name": "Kakira",
+              "id": 2600,
+              "villages": [
+                { "name": "Bugobi east", "id": 8399 },
+                { "name": "Bugobi west", "id": 8402 },
+                { "name": "Buwanuka", "id": 13678 },
+                { "name": "Buyima", "id": 14112 },
+                { "name": "Buyomba", "id": 14172 },
+                { "name": "Kirangira", "id": 28365 },
+                { "name": "Kawule west", "id": 25078 }
+              ]
+            },
+            {
+              "name": "Kakunyu",
+              "id": 2627,
+              "villages": [
+                { "name": "Bukaaya", "id": 8955 },
+                { "name": "Bulubandi", "id": 10323 },
+                { "name": "Bulamuka", "id": 9975 },
+                { "name": "Busige/budhugu", "id": 12499 },
+                { "name": "Bwandho/namitego", "id": 14359 }
+              ]
+            },
+            {
+              "name": "Lwanyama",
+              "id": 4700,
+              "villages": [
+                { "name": "Bupiina", "id": 11920 },
+                { "name": "Kiseege", "id": 29025 },
+                { "name": "Kalembe a", "id": 20926 },
+                { "name": "Kalembe b", "id": 20927 },
+                { "name": "Lugada", "id": 35073 },
+                { "name": "Lwanyama t.c", "id": 36074 },
+                { "name": "Nkolongo", "id": 44849 }
+              ]
+            },
+            {
+              "name": "Magogo",
+              "id": 4782,
+              "villages": [
+                { "name": "Bukwalu", "id": 9830 },
+                { "name": "Busanga a", "id": 12227 },
+                { "name": "Busanga b", "id": 12228 },
+                { "name": "Busanga central", "id": 12229 },
+                { "name": "Bwase", "id": 14394 }
+              ]
+            },
+            {
+              "name": "Kisozi",
+              "id": 3848,
+              "villages": [
+                { "name": "Budoda", "id": 7934 },
+                { "name": "Bubago", "id": 7506 },
+                { "name": "Busige", "id": 12494 },
+                { "name": "Ikaaba", "id": 17518 },
+                { "name": "Isimba/nabukidi", "id": 17813 },
+                { "name": "Kisozi centre", "id": 29402 },
+                { "name": "Kisozi east", "id": 29403 },
+                { "name": "Kisozi north", "id": 29404 },
+                { "name": "Kisozi south", "id": 29405 },
+                { "name": "Naikesa", "id": 41278 },
+                { "name": "Nabyama", "id": 41109 },
+                { "name": "Namatovu", "id": 42630 }
+              ]
+            },
+            {
+              "name": "Kiyunga",
+              "id": 4032,
+              "villages": [
+                { "name": "Buduuli/bubaale", "id": 7989 },
+                { "name": "Bugaga/busanga", "id": 8112 },
+                { "name": "Bukiika/bukooyo", "id": 9432 },
+                { "name": "Bukaaya i", "id": 8958 },
+                { "name": "Bulondo/bubooka", "id": 10286 },
+                { "name": "Bulangira/bukoose", "id": 10015 },
+                { "name": "Busuuyi/buyuuka i", "id": 12833 },
+                { "name": "Butadiba/bukaaya ii", "id": 12903 },
+                { "name": "Buyuuka ii", "id": 14229 },
+                { "name": "Bwase/buseeta", "id": 14400 }
+              ]
+            },
+            {
+              "name": "Namaganda",
+              "id": 5477,
+              "villages": [
+                { "name": "Bubwege", "id": 7758 },
+                { "name": "Bugwanga", "id": 8631 },
+                { "name": "Bukasa", "id": 9154 },
+                { "name": "Buliiso", "id": 10149 },
+                { "name": "Bukyatifu", "id": 9871 },
+                { "name": "Buzimbye", "id": 14273 }
+              ]
+            },
+            {
+              "name": "Nankandulo",
+              "id": 5629,
+              "villages": [
+                { "name": "Buluba", "id": 10318 },
+                { "name": "Bulangira", "id": 10009 },
+                { "name": "Bumegere", "id": 10761 },
+                { "name": "Nabukidi", "id": 40942 },
+                { "name": "Nakaato", "id": 41323 },
+                { "name": "Namalumba", "id": 42483 },
+                { "name": "Nankandulo t.c", "id": 43511 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mbulamuti",
+          "id": 344,
+          "parishes": [
+            {
+              "name": "Bugondha",
+              "id": 938,
+              "villages": [
+                { "name": "Bugondha", "id": 8491 },
+                { "name": "Kigulungudhi", "id": 26908 },
+                { "name": "Kiswa", "id": 29471 },
+                { "name": "Kawera", "id": 25005 },
+                { "name": "Kasana", "id": 23343 },
+                { "name": "Nabamba", "id": 40646 },
+                { "name": "Mukokotokwa", "id": 39600 },
+                { "name": "Nawampiti", "id": 44037 }
+              ]
+            },
+            {
+              "name": "Buluya",
+              "id": 1196,
+              "villages": [
+                { "name": "Bugaga", "id": 8095 },
+                { "name": "Bugobi", "id": 8387 },
+                { "name": "Bugwaivubusige", "id": 8625 },
+                { "name": "Bulwasira", "id": 10453 },
+                { "name": "Bulondo", "id": 10267 },
+                { "name": "Bukose", "id": 9688 },
+                { "name": "Bulangira", "id": 10004 },
+                { "name": "Butamwa", "id": 12983 },
+                { "name": "Buyima/bubogo", "id": 14117 },
+                { "name": "Buzalabulwa", "id": 14236 },
+                { "name": "Kiwanhi", "id": 30418 }
+              ]
+            },
+            {
+              "name": "Kiyunga",
+              "id": 4033,
+              "villages": [
+                { "name": "Bugabala/buwambidhi", "id": 8059 },
+                { "name": "Bukiirye/buwadamu", "id": 9435 },
+                { "name": "Bukambe", "id": 9078 },
+                { "name": "Bukofu/bukumbi", "id": 9565 },
+                { "name": "Bukose", "id": 9691 },
+                { "name": "Busano/bulukaire", "id": 12254 },
+                { "name": "Busuyi/bukapiti", "id": 12838 },
+                { "name": "Busibe/budutu", "id": 12475 },
+                { "name": "Buwolooma", "id": 13898 },
+                { "name": "Buyeeru/busalirwe", "id": 14055 },
+                { "name": "Nabitama/mutengu", "id": 40828 }
+              ]
+            },
+            {
+              "name": "Mbulamuti",
+              "id": 4959,
+              "villages": [
+                { "name": "Bufaki", "id": 7994 },
+                { "name": "Budhamuli", "id": 7856 },
+                { "name": "Bunhenha", "id": 11755 },
+                { "name": "Bunyongola/bugole", "id": 11885 },
+                { "name": "Busuula", "id": 12818 },
+                { "name": "Busuuyi", "id": 12827 },
+                { "name": "Busiima", "id": 12512 },
+                { "name": "Busobya", "id": 12659 },
+                { "name": "Buwanhanha a", "id": 13674 },
+                { "name": "Buwanhanha b", "id": 13675 },
+                { "name": "Bwebya", "id": 14424 },
+                { "name": "Nakalanga", "id": 41418 },
+                { "name": "Mbulamuti town", "id": 38163 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Namwendwa",
+          "id": 1546,
+          "parishes": [
+            {
+              "name": "Buwoya",
+              "id": 1709,
+              "villages": [
+                { "name": "Budiima", "id": 7914 },
+                { "name": "Budubuli", "id": 7959 },
+                { "name": "Bufumba", "id": 8013 },
+                { "name": "Buladha", "id": 9896 },
+                { "name": "Busuuwa", "id": 12821 },
+                { "name": "Buwande", "id": 13614 },
+                { "name": "Buyemba", "id": 14067 }
+              ]
+            },
+            {
+              "name": "Bugulumbya",
+              "id": 958,
+              "villages": [
+                { "name": "Budhule", "id": 7882 },
+                { "name": "Bukose/bugobi", "id": 9696 },
+                { "name": "Bukwalu", "id": 9829 },
+                { "name": "Bulangira", "id": 10001 },
+                { "name": "Bulawa", "id": 10027 },
+                { "name": "Busuubo", "id": 12812 },
+                { "name": "Busobya", "id": 12656 },
+                { "name": "Butekanga", "id": 13112 },
+                { "name": "Katanuni t/centre", "id": 24220 },
+                { "name": "Wakisima", "id": 57309 }
+              ]
+            },
+            {
+              "name": "Busandha",
+              "id": 1496,
+              "villages": [
+                { "name": "Baluboinewa", "id": 6252 },
+                { "name": "Budwiga", "id": 7993 },
+                { "name": "Bugobi", "id": 8389 },
+                { "name": "Bubogo", "id": 7654 },
+                { "name": "Bugulusi", "id": 8581 },
+                { "name": "Bugumpe", "id": 8593 },
+                { "name": "Bukanaku a", "id": 9094 },
+                { "name": "Bukanaku b", "id": 9095 },
+                { "name": "Bukapere a", "id": 9132 },
+                { "name": "Bukapere b", "id": 9133 },
+                { "name": "Bukasa", "id": 9145 },
+                { "name": "Bukula", "id": 9736 },
+                { "name": "Bukyonza a", "id": 9885 },
+                { "name": "Bukyonza b", "id": 9886 },
+                { "name": "Bulanda", "id": 9979 },
+                { "name": "Busandha t/centre", "id": 12221 },
+                { "name": "Butagule", "id": 12917 },
+                { "name": "Butomasi", "id": 13277 },
+                { "name": "Butuuma", "id": 13402 },
+                { "name": "Butyabule", "id": 13415 },
+                { "name": "Buwanga", "id": 13633 },
+                { "name": "Kasambira central", "id": 23270 },
+                { "name": "Lukubamutwe", "id": 35349 }
+              ]
+            },
+            {
+              "name": "Nakibungulya",
+              "id": 5417,
+              "villages": [
+                { "name": "Bugema", "id": 8285 },
+                { "name": "Bubanga", "id": 7551 },
+                { "name": "Bukamwami", "id": 9091 },
+                { "name": "Bulondo", "id": 10276 },
+                { "name": "Busuubo", "id": 12815 },
+                { "name": "Buswaigira", "id": 12853 },
+                { "name": "Butabuza", "id": 12900 },
+                { "name": "Busobya", "id": 12660 },
+                { "name": "Butambula", "id": 12974 },
+                { "name": "Buwaya", "id": 13760 },
+                { "name": "Buyima", "id": 14115 },
+                { "name": "Buyomba", "id": 14175 },
+                { "name": "Nnume", "id": 45007 }
+              ]
+            },
+            {
+              "name": "Nawanende",
+              "id": 5689,
+              "villages": [
+                { "name": "Bugogolo", "id": 8421 },
+                { "name": "Buluse", "id": 10408 },
+                { "name": "Bukose", "id": 9692 },
+                { "name": "Busiwa", "id": 12647 },
+                { "name": "Busubo", "id": 12755 },
+                { "name": "Butefula", "id": 13090 },
+                { "name": "Nabirama", "id": 40783 },
+                { "name": "Mugulusi", "id": 39405 },
+                { "name": "Nankuni", "id": 43535 }
+              ]
+            },
+            {
+              "name": "Nawangoma",
+              "id": 5694,
+              "villages": [
+                { "name": "Budubirwa", "id": 7958 },
+                { "name": "Isinwa", "id": 17821 },
+                { "name": "Buwaya", "id": 13761 },
+                { "name": "Buyimbira", "id": 14119 },
+                { "name": "Kirangira/bukubembe", "id": 28373 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nawanyago",
+          "id": 345,
+          "parishes": [
+            {
+              "name": "Bupadhengo",
+              "id": 1434,
+              "villages": [
+                { "name": "Bugobi", "id": 8388 },
+                { "name": "Bukaaya", "id": 8954 },
+                { "name": "Bukula", "id": 9735 },
+                { "name": "Bukyonda", "id": 9884 },
+                { "name": "Busabo", "id": 12129 },
+                { "name": "Kaako", "id": 18327 },
+                { "name": "Kirolo", "id": 28592 },
+                { "name": "Nakabaale a", "id": 41326 },
+                { "name": "Nakabaale b", "id": 41328 }
+              ]
+            },
+            {
+              "name": "Nawantumbi",
+              "id": 5700,
+              "villages": [
+                { "name": "Bugaga a", "id": 8102 },
+                { "name": "Bugaga b", "id": 8104 },
+                { "name": "Bubambwe", "id": 7538 },
+                { "name": "Bulondo a", "id": 10280 },
+                { "name": "Bulondo b", "id": 10281 },
+                { "name": "Bukwanga", "id": 9839 },
+                { "name": "Busedhe a", "id": 12281 },
+                { "name": "Busedhe b", "id": 12282 },
+                { "name": "Busige", "id": 12498 },
+                { "name": "Buwabira", "id": 13457 },
+                { "name": "Buwaguma", "id": 13498 },
+                { "name": "Buyobo", "id": 14155 },
+                { "name": "Buyuka", "id": 14208 },
+                { "name": "Bwase", "id": 14397 }
+              ]
+            },
+            {
+              "name": "Nawanyago",
+              "id": 5701,
+              "villages": [
+                { "name": "Block a", "id": 7328 },
+                { "name": "Block b", "id": 7332 },
+                { "name": "Block c", "id": 7334 },
+                { "name": "Block d", "id": 7337 },
+                { "name": "Bubirizi", "id": 7630 },
+                { "name": "Buddudu", "id": 7840 },
+                { "name": "Bukulube", "id": 9745 },
+                { "name": "Busiiti", "id": 12518 },
+                { "name": "Busimbe", "id": 12559 },
+                { "name": "Busuli a", "id": 12774 },
+                { "name": "Busuli b", "id": 12775 },
+                { "name": "Buwaibale a", "id": 13500 },
+                { "name": "Buwaibale b", "id": 13501 },
+                { "name": "Igumyamwoyo", "id": 17445 },
+                { "name": "Buwango", "id": 13656 },
+                { "name": "Nalimawa", "id": 42070 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wankole",
+          "id": 346,
+          "parishes": [
+            {
+              "name": "Lulyambuzi",
+              "id": 4625,
+              "villages": [
+                { "name": "Buganda", "id": 8151 },
+                { "name": "Bugobi a", "id": 8396 },
+                { "name": "Bugobi b", "id": 8398 },
+                { "name": "Budhubirwa", "id": 7876 },
+                { "name": "Bukubembe east", "id": 9722 },
+                { "name": "Bukubembe west", "id": 9723 },
+                { "name": "Bunabala", "id": 11036 },
+                { "name": "Busena", "id": 12320 },
+                { "name": "Butimbwa a", "id": 13228 },
+                { "name": "Butimbwa b", "id": 13230 },
+                { "name": "Lulyambuzi central", "id": 35442 },
+                { "name": "Lutebe a", "id": 35663 },
+                { "name": "Lutebe b", "id": 35664 }
+              ]
+            },
+            {
+              "name": "Luzinga",
+              "id": 4669,
+              "villages": [
+                { "name": "Bubaale a", "id": 7483 },
+                { "name": "Bubaale b", "id": 7484 },
+                { "name": "Bukitimbo", "id": 9523 },
+                { "name": "Bulangira east", "id": 10011 },
+                { "name": "Bulangira north", "id": 10012 },
+                { "name": "Bulangira south", "id": 10013 },
+                { "name": "Bulangira west", "id": 10014 },
+                { "name": "Ginnery zone", "id": 16674 },
+                { "name": "Buyima", "id": 14114 },
+                { "name": "Kidhogwa a", "id": 26387 },
+                { "name": "Kidhogwa b", "id": 26388 },
+                { "name": "Nabeta-bulangira", "id": 40672 },
+                { "name": "Nabeta-bulawa", "id": 40673 },
+                { "name": "Nagwere", "id": 41241 },
+                { "name": "Luzinga central", "id": 35832 }
+              ]
+            },
+            {
+              "name": "Wankole",
+              "id": 7387,
+              "villages": [
+                { "name": "Bugolo east", "id": 8429 },
+                { "name": "Bugolo west", "id": 8432 },
+                { "name": "Bukasa a", "id": 9158 },
+                { "name": "Bukasa b", "id": 9160 },
+                { "name": "Bukitimbo", "id": 9524 },
+                { "name": "Bukutira east", "id": 9797 },
+                { "name": "Bukutira west", "id": 9798 },
+                { "name": "Busikwe a", "id": 12534 },
+                { "name": "Busikwe b", "id": 12537 },
+                { "name": "Butimbito i a", "id": 13219 },
+                { "name": "Butimbito i b", "id": 13220 },
+                { "name": "Butimbito ii a", "id": 13221 },
+                { "name": "Butimbito ii b", "id": 13222 },
+                { "name": "Buwumbwe", "id": 13946 },
+                { "name": "Buyeru a", "id": 14091 },
+                { "name": "Buyeru b", "id": 14092 },
+                { "name": "Nawandyo central", "id": 44057 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kamuli municipality",
+      "id": 417,
+      "sub_counties": [
+        {
+          "name": "North division",
+          "id": 1515,
+          "parishes": [
+            {
+              "name": "Buwanume",
+              "id": 1675,
+              "villages": [
+                { "name": "Bubbito", "id": 7579 },
+                { "name": "Bugulete", "id": 8569 },
+                { "name": "Bukaina", "id": 9008 },
+                { "name": "Bukatambula", "id": 9180 },
+                { "name": "Bulyoko", "id": 10519 },
+                { "name": "Bukyemba", "id": 9877 },
+                { "name": "Busanga", "id": 12224 },
+                { "name": "Bunyole", "id": 11874 },
+                { "name": "Buteeze", "id": 13088 },
+                { "name": "Buyengere", "id": 14080 },
+                { "name": "Kyamuluya", "id": 32404 }
+              ]
+            },
+            {
+              "name": "Kasoigo ward",
+              "id": 3100,
+              "villages": [
+                { "name": "Bukabale", "id": 8965 },
+                { "name": "Bukapere", "id": 9131 },
+                { "name": "Bukolobe", "id": 9582 },
+                { "name": "Busoigo", "id": 12671 },
+                { "name": "Buwenge mpya", "id": 13810 },
+                { "name": "Gabula-kitimbo", "id": 16258 },
+                { "name": "Water supply", "id": 57611 }
+              ]
+            },
+            {
+              "name": "Kamuli - sabawali",
+              "id": 2774,
+              "villages": [
+                { "name": "Bukwenge", "id": 9852 },
+                { "name": "Bunangwe", "id": 11432 },
+                { "name": "Busakwa/butonda", "id": 12161 },
+                { "name": "Buyomba", "id": 14173 },
+                { "name": "Kiwolera", "id": 30464 }
+              ]
+            },
+            {
+              "name": "Namisambya ii",
+              "id": 5545,
+              "villages": [
+                { "name": "Bubbale", "id": 7573 },
+                { "name": "Budhudhu", "id": 7879 },
+                { "name": "Bugulumaire", "id": 8577 },
+                { "name": "Bulema", "id": 10075 },
+                { "name": "Bulwamaza", "id": 10439 },
+                { "name": "Bulondo", "id": 10277 },
+                { "name": "Bukyerimba", "id": 9878 },
+                { "name": "Busige", "id": 12497 },
+                { "name": "Butadiba", "id": 12902 },
+                { "name": "Buterimire", "id": 13182 },
+                { "name": "Bwibuka", "id": 14548 },
+                { "name": "Bweebya", "id": 14426 },
+                { "name": "Nakasedhere", "id": 41492 }
+              ]
+            },
+            {
+              "name": "Muwebwa ward",
+              "id": 5239,
+              "villages": [
+                { "name": "Adams", "id": 1114 },
+                { "name": "Bunangwe", "id": 11434 },
+                { "name": "Buwebwa", "id": 13783 },
+                { "name": "Lufulandizi.", "id": 35060 },
+                { "name": "Mutibwa", "id": 40257 },
+                { "name": "U.c.b.", "id": 56929 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "South division",
+          "id": 1516,
+          "parishes": [
+            {
+              "name": "Busota",
+              "id": 1562,
+              "villages": [
+                { "name": "Alowooza", "id": 3302 },
+                { "name": "Asadhawaire", "id": 5142 },
+                { "name": "Bugondha", "id": 8492 },
+                { "name": "Bulamya", "id": 9978 },
+                { "name": "Bulangira", "id": 10005 },
+                { "name": "Bunangwe", "id": 11428 },
+                { "name": "Gutti", "id": 16984 },
+                { "name": "Butaama", "id": 12884 },
+                { "name": "Butabala", "id": 12892 },
+                { "name": "Busota", "id": 12729 },
+                { "name": "Butimba", "id": 13211 },
+                { "name": "Bwese", "id": 14507 },
+                { "name": "Bwambala", "id": 14340 },
+                { "name": "Kabukye t/centre", "id": 19064 },
+                { "name": "Nanvunano", "id": 43609 }
+              ]
+            },
+            {
+              "name": "Kamuli-namwenda",
+              "id": 2776,
+              "villages": [
+                { "name": "Bufumba", "id": 8015 },
+                { "name": "Budhumbula", "id": 7883 },
+                { "name": "Bukaaye", "id": 8960 },
+                { "name": "Bulindi", "id": 10194 },
+                { "name": "Busanga", "id": 12225 },
+                { "name": "Buwudha", "id": 13929 },
+                { "name": "Buwalala", "id": 13535 }
+              ]
+            },
+            {
+              "name": "Mandwa ward",
+              "id": 4848,
+              "villages": [
+                { "name": "Industrial area", "id": 17634 },
+                { "name": "Mutekanga", "id": 40240 },
+                { "name": "Soroti", "id": 55644 }
+              ]
+            },
+            {
+              "name": "Nakulyaku",
+              "id": 5435,
+              "villages": [
+                { "name": "Bulongo", "id": 10297 },
+                { "name": "Busiba", "id": 12471 },
+                { "name": "Busubo", "id": 12754 },
+                { "name": "Butekanga", "id": 13114 },
+                { "name": "Buyimbo", "id": 14120 },
+                { "name": "Kulingo", "id": 31310 },
+                { "name": "Kananage a", "id": 21793 },
+                { "name": "Kananage b", "id": 21794 }
+              ]
+            },
+            {
+              "name": "Mulamba ward",
+              "id": 5161,
+              "villages": [
+                { "name": "Denning", "id": 15571 },
+                { "name": "Nabikamba", "id": 40732 },
+                { "name": "Mukasa", "id": 39527 },
+                { "name": "Mulamba", "id": 39710 },
+                { "name": "Saza", "id": 54950 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

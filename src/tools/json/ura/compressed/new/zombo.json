@@ -1,0 +1,1020 @@
+{
+  "name": "ZOMBO",
+  "counties": [
+    {
+      "name": "OKORO",
+      "sub_counties": [
+        {
+          "name": "ABANGA",
+          "parishes": [
+            {
+              "name": "ASINA",
+              "villages": [
+                "ACHU",
+                "AKWERALI",
+                "ANDHI",
+                "ANGENJA",
+                "ANYARA",
+                "ASINA",
+                "KAKIRA",
+                "OYARO",
+                "PANYANGO",
+                "ORENGO",
+                "SANGI"
+              ]
+            },
+            {
+              "name": "SER",
+              "villages": [
+                "ABIBAREM",
+                "ACANA",
+                "ALICUDU",
+                "GIRA",
+                "GOT LANDI",
+                "JUPALOZA",
+                "JUPUJURU",
+                "LEDA",
+                "MENGO",
+                "PADEA",
+                "PAMITU",
+                "PAVUR",
+                "OPANO",
+                "NYOKA",
+                "OBAYU",
+                "SERR"
+              ]
+            },
+            {
+              "name": "THANGA",
+              "villages": [
+                "AKA",
+                "ARUMUKENG",
+                "ANYIKU",
+                "AYUDA",
+                "GIRA",
+                "GODUROMBO",
+                "CULAMUK",
+                "MALARA",
+                "LARI",
+                "NYAGAK",
+                "ONYEBU",
+                "RODU",
+                "THANGA"
+              ]
+            },
+            {
+              "name": "PAKADHA",
+              "villages": [
+                "ALENGU",
+                "AWUJU",
+                "BENDE",
+                "IMME",
+                "KARALONY",
+                "MALARA",
+                "MUNZI",
+                "NGMBANG",
+                "PAKADHA T/CENTRE",
+                "ULLU",
+                "ODARLEMBE",
+                "ODUK"
+              ]
+            },
+            {
+              "name": "PAMITU",
+              "villages": [
+                "ABANGO",
+                "AMWONYO",
+                "ALENGUKUMA",
+                "ALUKA",
+                "ARINGO",
+                "ONYONO",
+                "OPENJO",
+                "SIMU",
+                "OKEMU",
+                "ODARLEMBE",
+                "OMBEKA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ATHUMA",
+          "parishes": [
+            { "name": "ABAJI", "villages": ["AGANYI", "AJWINJIRI", "ARIWA", "JUPLA", "PALWO"] },
+            {
+              "name": "OLYEKO",
+              "villages": [
+                "AGANYI",
+                "ALUDA",
+                "ALUKA",
+                "ARIKPA CENTRAL",
+                "ARINGA",
+                "ANJAT",
+                "AYIBU",
+                "ATHUMA",
+                "ATURA",
+                "ATYENDA CENTRAL",
+                "ATYENDA CORNER",
+                "GOMBIRI",
+                "CULAMUK",
+                "CYETHDHIANG",
+                "KATHANGA",
+                "LEWE",
+                "MAWA",
+                "NGIRA",
+                "PAKIA/PALWO",
+                "RABU",
+                "ZULUME",
+                "ODUK",
+                "OGONJU"
+              ]
+            },
+            {
+              "name": "PATEK",
+              "villages": [
+                "AFOYOPAYONDARA",
+                "AFOYOPAYONDARA WEST",
+                "AKOTH",
+                "AKUNU",
+                "AMBAKI",
+                "BILIMITI",
+                "GOLOSI",
+                "GUMIA",
+                "JUDA",
+                "KELLE",
+                "KOLOLO",
+                "KAWA",
+                "SONGEA",
+                "OBOTH",
+                "OCUNGULIR",
+                "OCWALO",
+                "OKWALO",
+                "ODUK",
+                "SAMBA",
+                "OJIGU"
+              ]
+            },
+            { "name": "ZULUME", "villages": ["ABADHU", "ABAYO", "UCOL", "UPANO", "OLALO"] }
+          ]
+        },
+        {
+          "name": "JANGOKORO",
+          "parishes": [
+            {
+              "name": "AFUDA",
+              "villages": [
+                "ALALA",
+                "ARUA",
+                "ANGOLIERO",
+                "ANYADHA EAST",
+                "ANYADHA WEST",
+                "AWONGU",
+                "ATEGO",
+                "CANA",
+                "GBALIA",
+                "NGMBANGMBA",
+                "NGUTHE",
+                "PARONYA",
+                "PEGI",
+                "OGALO",
+                "OMOKU"
+              ]
+            },
+            {
+              "name": "CONGAMBE",
+              "villages": [
+                "AKOKORO",
+                "AKWANYU",
+                "AKWERALI",
+                "ARAGU",
+                "CONGAMBE",
+                "NYAMBIRI",
+                "MANZI",
+                "MUGOMERE",
+                "LUMA",
+                "NYAGAK",
+                "UTHORU",
+                "VIRRA"
+              ]
+            },
+            {
+              "name": "DINDO",
+              "villages": [
+                "ABUDJA",
+                "ADHINGI",
+                "AKURAMBE",
+                "AZIRI",
+                "CANONGIO",
+                "LENJU",
+                "LIMU",
+                "LUBIYA",
+                "NZENZE",
+                "ULARO",
+                "WABEYO",
+                "OGENGO"
+              ]
+            },
+            {
+              "name": "JUPADINDO",
+              "villages": [
+                "ACHU",
+                "ADHINGI",
+                "AKURAMBE",
+                "AKWIOKUMA",
+                "AJIGU",
+                "AMOGI",
+                "ALLO",
+                "AZIRI",
+                "AWANGKWAR",
+                "JUBBA",
+                "KELLE",
+                "LENJU",
+                "LIMU",
+                "LAIMO",
+                "LARI",
+                "OYEKO",
+                "OMVA",
+                "RIBBE",
+                "OBEKI",
+                "OCOL",
+                "OLYEKO"
+              ]
+            },
+            { "name": "LEDA", "villages": ["ANYONGO", "OMIO", "OMOIRIRE"] },
+            {
+              "name": "YADA",
+              "villages": [
+                "ADUWA",
+                "AMUDA",
+                "ALERO",
+                "AYABU",
+                "DEKOMBE",
+                "LELLO",
+                "NGMBURINI",
+                "PAVUR",
+                "NYATIGO",
+                "NZANI",
+                "UJEBU",
+                "OGWARONEN"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAPEA",
+          "parishes": [
+            {
+              "name": "ABEJU",
+              "villages": [
+                "AREJU EAST",
+                "AREJU WEST",
+                "ATHUMA",
+                "JUPAKONJA",
+                "LANYI",
+                "PADYERE",
+                "NGIA",
+                "RINGI EAST",
+                "RINGI WEST",
+                "ROLA",
+                "TENGO"
+              ]
+            },
+            {
+              "name": "MUNDHEL",
+              "villages": [
+                "AJJA",
+                "ANGABA LOWER",
+                "ANGABA UPPER",
+                "ATHELE",
+                "ATHELE NYAGAK",
+                "GORO",
+                "PATEK EAST",
+                "PATEK WEST",
+                "OGUTA"
+              ]
+            },
+            {
+              "name": "OMBILA",
+              "villages": [
+                "AJEI CENTRAL",
+                "ALENGO",
+                "ALENGO LARI",
+                "ALUKA",
+                "JALUDONGO",
+                "LARI LUL",
+                "OVURU KAMBI",
+                "YABWENGI",
+                "THATHA"
+              ]
+            },
+            {
+              "name": "OSOYE",
+              "villages": ["AFERE", "AGWOK", "AJERE", "JUPANYADHA", "KALAGOJU", "PAPOGA", "RADA", "YUGU"]
+            },
+            {
+              "name": "OYEYO",
+              "villages": [
+                "AGORE EAST",
+                "AGORE WEST",
+                "AGUNYI",
+                "ACORO",
+                "AKWANJI LOWER",
+                "AKWANJI UPPER",
+                "ALEGU",
+                "AJIGU",
+                "GOMANDRI",
+                "GUNA",
+                "NYAPEA COLLEGE",
+                "NYARAMBE",
+                "MISSION CENTRE",
+                "LUL",
+                "MATHAWELLE",
+                "PELELE",
+                "ZIWA",
+                "ZUNGIDA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PAIDHA",
+          "parishes": [
+            {
+              "name": "AMEI",
+              "villages": [
+                "AGUNYI",
+                "ANDHAMBE",
+                "ALINDI",
+                "AVONO CENTRAL",
+                "AVONO LOWER",
+                "AVONO-AGADA",
+                "KULIGAMBA",
+                "NYADIEL",
+                "NJAO",
+                "ORANGU"
+              ]
+            },
+            {
+              "name": "CANA",
+              "villages": [
+                "AGENGO",
+                "AMBABANEN",
+                "AMISSI",
+                "AYWAYO",
+                "JUPUMWOCO - PAMBO",
+                "KPELEKPETHE",
+                "CHANA NGANO",
+                "OWENJE",
+                "ONDWONG",
+                "ORYEO",
+                "OLYEKO",
+                "OLYEKO PAMBO",
+                "OGURUWI"
+              ]
+            },
+            {
+              "name": "KAYA",
+              "villages": [
+                "AMBAKI",
+                "ARUMUKENG",
+                "GUNGURU",
+                "KELLE",
+                "LIEN DOLO",
+                "MALIRI",
+                "PAKOLO",
+                "NAMTHIN",
+                "THATHA"
+              ]
+            },
+            {
+              "name": "OTHEKO",
+              "villages": [
+                "ARISSI",
+                "ANYOLA",
+                "AWENDUKEY",
+                "JUPANEKA",
+                "JUPANGALI LOWER",
+                "JUPANGALI UPPER",
+                "LABORA",
+                "OYORO",
+                "ORUKU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PAIDHA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "CENTRAL WARD",
+              "villages": ["ALENGO KUMA", "ANYONG", "AWINJIRI", "KOLOLO", "KAWA", "MVULE", "SOLIA"]
+            },
+            {
+              "name": "DWONGA WARD",
+              "villages": [
+                "ABIRA",
+                "ALUKA",
+                "ARINGO",
+                "AWUSANI",
+                "JUPUJURU",
+                "KAYA THEYAU",
+                "MVUGU",
+                "MEIRA",
+                "NDARO",
+                "PAIDHA T.T.C",
+                "THUNGU"
+              ]
+            },
+            {
+              "name": "NYIBOLA WARD",
+              "villages": ["JUPANDIKA EAST", "JUPANYONDO EAST", "JUPANYONDO WEST", "UVURUYINDI"]
+            },
+            { "name": "OMUA WARD", "villages": ["ABONGO", "CORAMARA", "ENTEBBE", "MACWERE", "MAWA", "OBOTH"] },
+            {
+              "name": "OTURGANG WARD",
+              "villages": [
+                "ARUTHA",
+                "AWINI",
+                "AUTHA",
+                "BEDKUWEDU",
+                "GIRA",
+                "JUPANDIKA WEST",
+                "JUPATHOMBU",
+                "MISSION",
+                "MBRAZU",
+                "OWIRO",
+                "THENDHE",
+                "WACACUNGA"
+              ]
+            },
+            { "name": "ZINGILI WARD", "villages": ["AKIR", "ARINDIMA", "CULAMUK", "RUKIDI", "ZINGILI"] }
+          ]
+        },
+        {
+          "name": "ZOMBO TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "ABIRA EAST WARD",
+              "villages": [
+                "ABIBAREM",
+                "ATHUMA",
+                "GOTLAU",
+                "GUNGURU",
+                "CUMU",
+                "CANA",
+                "OWOPE",
+                "OTHEYOLEMBE",
+                "ZOMBO EAST",
+                "ODARUJU",
+                "OLAMKULE"
+              ]
+            },
+            {
+              "name": "ABIRA WEST WARD",
+              "villages": [
+                "ABONGO",
+                "ACAMUKECH",
+                "AGURE",
+                "AMBASI",
+                "ANGENJA",
+                "ALIZA",
+                "ANGULE",
+                "ATYENDA EAST",
+                "AWANYA",
+                "GOT - LAJWAYA",
+                "KAROMBO",
+                "MOLUJEI",
+                "MATHURUMBE",
+                "MAWA",
+                "PALANYAK",
+                "RIKU",
+                "ZOMBO WEST",
+                "OBIMO",
+                "OKONGO",
+                "ODUK",
+                "TANGALA"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ORA",
+      "sub_counties": [
+        {
+          "name": "AKAA",
+          "parishes": [
+            {
+              "name": "ABANGA",
+              "villages": [
+                "AGAWA",
+                "AGULU",
+                "AKOR",
+                "ALEJU",
+                "ASADA",
+                "ANJAT",
+                "GWOKNYERI",
+                "JUPAWANO",
+                "CULA",
+                "TIDO",
+                "OCWANYO",
+                "OLLU"
+              ]
+            },
+            {
+              "name": "AMUDA",
+              "villages": [
+                "AJIGU",
+                "AKAA",
+                "AMBUZA",
+                "AMWONYO",
+                "AWOBIA",
+                "KAMPALA",
+                "NENKUWENGI",
+                "PADYERE",
+                "PAYIBE",
+                "ORIU",
+                "SINA"
+              ]
+            },
+            {
+              "name": "AYAKA",
+              "villages": [
+                "AKUNUKUMA",
+                "AKAA",
+                "AYAKA CENTRAL",
+                "ATHEJU EAST",
+                "ATHEJU WEST",
+                "JUPANGAU EAST",
+                "JUPANGAU WEST",
+                "NYARKA",
+                "MAWA",
+                "MAWA EAST",
+                "MBUNYA",
+                "OMOYO",
+                "OMOYO EAST",
+                "YIMA",
+                "OMIYO"
+              ]
+            },
+            {
+              "name": "JUPAMATHO",
+              "villages": [
+                "ACORO",
+                "AKWERALI",
+                "ALEGU",
+                "AJUSI",
+                "ARWINYU",
+                "GOLAJU",
+                "COPE CENTRE",
+                "MAWA",
+                "OYEYO",
+                "OLALO",
+                "OLLU CENTRAL"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALANGI",
+          "parishes": [
+            {
+              "name": "AMBELE",
+              "villages": [
+                "AKWERALI",
+                "APODHURWA",
+                "BALIA",
+                "AWARANGI",
+                "KOROMOJO",
+                "OZORISE",
+                "ODHOKIRE",
+                "OGOO",
+                "OLYEKO"
+              ]
+            },
+            {
+              "name": "ANGAR",
+              "villages": [
+                "ANGASI",
+                "ANGYERANGO",
+                "AWANG",
+                "BONGO - ACEI",
+                "KPELE",
+                "CULA",
+                "LYANGA",
+                "MOI",
+                "LUNGURU",
+                "TANGALA"
+              ]
+            },
+            {
+              "name": "GAMBA",
+              "villages": [
+                "AGBANDIRU",
+                "AMERI",
+                "AMERI - BIDONG",
+                "ANDHAKA",
+                "APORANZU",
+                "ANIZA",
+                "AWUSONZI",
+                "AZIRI",
+                "AVOGIRA",
+                "GODUNYONA",
+                "JOBE",
+                "KUMIRA",
+                "EDURU",
+                "KAMPALA",
+                "ZONGO",
+                "OMOGO"
+              ]
+            },
+            {
+              "name": "NDARA",
+              "villages": [
+                "ABUKOMU",
+                "AKESI",
+                "AKURU",
+                "ANDHIMANDHI",
+                "ARINGA",
+                "ANYOLA - LOWER",
+                "AVOO",
+                "GOLOSI",
+                "JUPAKOPU",
+                "JUPANDUKILA",
+                "KARUMBA",
+                "LOGU",
+                "NDARA",
+                "NDAVULA",
+                "ORUSI"
+              ]
+            },
+            {
+              "name": "PASAI",
+              "villages": [
+                "ABALASOMA",
+                "ALANGI",
+                "ANGASI",
+                "AZINDA",
+                "AVULELO",
+                "BARUNZE",
+                "KOSOGO",
+                "KOLLAS",
+                "KULIMAU",
+                "NYARAMBE",
+                "NYANDIMA",
+                "MOKORI",
+                "MALAGA",
+                "NDIA",
+                "NDILI",
+                "THUVU",
+                "SONZI",
+                "OLLI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ATYAK",
+          "parishes": [
+            {
+              "name": "ANGOL",
+              "villages": ["ABILAMBE", "AGORO", "ADONGU", "AKWANJI", "AMURUPII", "ALLA", "DHURUDHURU", "OMOYO", "UGUDU"]
+            },
+            {
+              "name": "ANYOLA",
+              "villages": [
+                "ABALATEI",
+                "ALEJO",
+                "AJENGIRA",
+                "ANGALARACH",
+                "ALENDE JAGI",
+                "ALOKE",
+                "APALALA",
+                "ANYOLA CENTRE",
+                "AYANGA",
+                "KARALONY",
+                "NYANDIMA",
+                "NAGURU",
+                "NAKASEKE",
+                "PACEN",
+                "NGONGO",
+                "ORANGO",
+                "NYAWIR",
+                "YILL",
+                "YOTHU",
+                "OKIYO",
+                "OMBACI",
+                "OJAYO"
+              ]
+            },
+            {
+              "name": "OGUSI",
+              "villages": [
+                "ABEJU CENTRE",
+                "AKWERALI",
+                "AJIGU",
+                "KAWA",
+                "PADWOR-NGIA",
+                "PADWOR-RUBANGA",
+                "PADWOR/ORAA",
+                "PATHENJU",
+                "OSENEMONDO",
+                "WINAM",
+                "YAMU CENTRE",
+                "UPENJU"
+              ]
+            },
+            {
+              "name": "PAMACH",
+              "villages": [
+                "AMURU",
+                "KATHELKO",
+                "NYAMULIA",
+                "NAKASEKE",
+                "NDINGNDING",
+                "NYAKADHOGI",
+                "OPOBU",
+                "ORYANG",
+                "OLARO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KANGO",
+          "parishes": [
+            {
+              "name": "ALUBE",
+              "villages": [
+                "AMBAO",
+                "ARAKA",
+                "AVARI",
+                "MARINI",
+                "LUKU BIBIA",
+                "MUNDUDE",
+                "MBALE",
+                "OSUKO",
+                "ZAMBA",
+                "OFAKA"
+              ]
+            },
+            {
+              "name": "OLIRI",
+              "villages": [
+                "ACHORO",
+                "ALIVU",
+                "ANYAKAKU",
+                "AWINDIRI",
+                "AZAU",
+                "EROKO",
+                "EZOO",
+                "MVULI",
+                "NGALADEI",
+                "PAKIA",
+                "NUNU",
+                "VURRA",
+                "ODORIA"
+              ]
+            },
+            {
+              "name": "OMUA",
+              "villages": [
+                "ALENGO",
+                "BILIKOT",
+                "JUPATHWON",
+                "PAKWALA ADIGA",
+                "PAKWALA ULIDU",
+                "PAWO OMBILA",
+                "THANGIRINYA",
+                "THONGU",
+                "YIKWA",
+                "SOKONZI",
+                "VURRA UMBILA"
+              ]
+            },
+            {
+              "name": "PADUBA",
+              "villages": [
+                "AROKOSI",
+                "ARU",
+                "ARUMVA",
+                "AWUSI",
+                "JUPAJALANGU",
+                "KAWULU",
+                "LUA",
+                "OWATHO",
+                "OYECO",
+                "ONDREKO",
+                "OSAO",
+                "THULI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WARR",
+          "parishes": [
+            {
+              "name": "AFFERE",
+              "villages": [
+                "AWORA UPPER",
+                "AWORALUL",
+                "JUPATHOI EAST",
+                "JUPATHOI WEST",
+                "PADERE ANYIKU",
+                "RUVUKA",
+                "REJI",
+                "OBAYO",
+                "UDUGU",
+                "OLAYO",
+                "OLOYO AMURA",
+                "WARR AFERE",
+                "WARR ALUKA"
+              ]
+            },
+            {
+              "name": "JULOKA",
+              "villages": [
+                "ALAKALA",
+                "ANGENJA",
+                "JUPAGULUKONGO",
+                "JUPAJALAURE",
+                "JUPAKERUNGA",
+                "JUPAMEU",
+                "JUPAVOLU",
+                "JUPUJUKU",
+                "JUPUKUNGU",
+                "JUPULOYU",
+                "KELLE",
+                "LWALA",
+                "PARIEMA",
+                "UMBAVU",
+                "WARR OFFAKA",
+                "WARR T/CENTRE"
+              ]
+            },
+            { "name": "NGIRA", "villages": ["AKWERALI", "PAWO ZAMBA", "OLEDERE"] },
+            {
+              "name": "OMUA LOWER",
+              "villages": [
+                "AFULAO",
+                "ATYEROKUMA",
+                "LEULAO",
+                "MNGBELE",
+                "MONKWEROCOO",
+                "NGIRA",
+                "PAKWALA OMOL",
+                "PAMWODU",
+                "PAWOANYORISI",
+                "PAWOZAMBA"
+              ]
+            },
+            {
+              "name": "PAGEI",
+              "villages": [
+                "ACER",
+                "AKWERALI",
+                "ANGIA",
+                "ALLI",
+                "AYUKPA",
+                "NYAMUYENGA",
+                "NGUME",
+                "PANGA",
+                "THONGA",
+                "SOKUSOKU"
+              ]
+            },
+            {
+              "name": "PAKIA",
+              "villages": [
+                "AGENGO",
+                "ACIRO",
+                "ACULANDING",
+                "AYIDA",
+                "AZI",
+                "AVOR",
+                "BINDU",
+                "GOT LAU",
+                "JUPUJUKU",
+                "NYAMOLA",
+                "MINGA",
+                "ORYANG",
+                "OLOO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ZEU",
+          "parishes": [
+            {
+              "name": "LENDU",
+              "villages": [
+                "AFWODHA",
+                "ANDHOSI",
+                "KEME",
+                "FOREST STATION",
+                "GBURU",
+                "LEWE EAST",
+                "LEWE WEST",
+                "MURUKU LOWER",
+                "MURUKU UPPER",
+                "NGERENGERE",
+                "NYATEBE",
+                "SINDA EAST",
+                "SINDA WEST",
+                "THERU",
+                "ZEGUTHE",
+                "OLALO",
+                "OJIEBU"
+              ]
+            },
+            {
+              "name": "LORR CENTRAL",
+              "villages": [
+                "AFUTHE",
+                "ALENGO",
+                "ANYU",
+                "AYII GUNA",
+                "AYII WEST",
+                "GIRUBATHE",
+                "GURUPIMA",
+                "KELE",
+                "NYAPEA",
+                "LORR ORAA",
+                "NGARU",
+                "WIAMUR",
+                "THATHA VILLE",
+                "ZINA EAST",
+                "ZINA WEST",
+                "OBIYA"
+              ]
+            },
+            {
+              "name": "KIGEZI",
+              "villages": [
+                "ACWERA",
+                "ALENGO",
+                "APIKU",
+                "ARWINYI",
+                "ANYAVU",
+                "JUPANGIRA",
+                "DEI",
+                "CANANYIRA",
+                "LEWE",
+                "LEY",
+                "MATHANJU",
+                "NDRINYI",
+                "PAJUR",
+                "PAKWACH",
+                "PANGANG",
+                "OCWALO",
+                "OCWANYU"
+              ]
+            },
+            {
+              "name": "OMOYO",
+              "villages": [
+                "ANGENJA",
+                "AREJU",
+                "ANGURU",
+                "AWIA MUNGU",
+                "AYUMBI",
+                "MENZE",
+                "NGUME",
+                "THURUMBU",
+                "SONGOLI",
+                "OGONJU",
+                "OMBAKALI"
+              ]
+            },
+            {
+              "name": "PAPOGA",
+              "villages": [
+                "AMOR",
+                "AMUNZE",
+                "ARAA HILL",
+                "ATONG",
+                "GIIRA",
+                "ENTEBBE",
+                "KATERA",
+                "MOLEM",
+                "PADUBA",
+                "PADYERE",
+                "PANYANGO",
+                "ONYEBU",
+                "TENGO",
+                "ZALE CENTRE",
+                "UYARU ACADA LOWER",
+                "UYARU ACADA UPPER",
+                "OLALU",
+                "OLYEKO - AMBE"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

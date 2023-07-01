@@ -1,0 +1,102 @@
+{
+  "name": "NGORA",
+  "counties": [
+    {
+      "name": "NGORA",
+      "sub_counties": [
+        {
+          "name": "KAPIR",
+          "parishes": [
+            { "name": "ABATAI", "villages": ["ABATAI", "AGULE"] },
+            { "name": "AGIRIGIROI", "villages": ["AGIRIGIROI", "OJAE"] },
+            { "name": "AGULE", "villages": ["AGULE", "OJAM"] },
+            { "name": "AJELO", "villages": ["AJELO", "ATUTUR"] },
+            { "name": "AJESA", "villages": ["AGOGOMIT", "AJESA"] },
+            { "name": "AJUKET", "villages": ["AJUKET", "OBWANGAI"] },
+            { "name": "AKARUKEI", "villages": ["AKARUKEI", "OLET"] },
+            { "name": "AKISIM", "villages": ["AKISIM", "AIDI"] },
+            { "name": "ATAPAR", "villages": ["AGULE", "ATAPAR"] },
+            { "name": "KAPIR", "villages": ["ATIIRA", "KAPIR"] },
+            { "name": "KOKONG", "villages": ["KOKONG", "KOMOLO"] },
+            { "name": "KOLOIN", "villages": ["KOLOIN", "OCODIO"] },
+            { "name": "OLUWA", "villages": ["OBOSAI", "OLUWA"] },
+            { "name": "OMIITO", "villages": ["KAKOR", "OMITTO"] },
+            { "name": "OMURIANA", "villages": ["AMUKURAT", "OMURIANA"] },
+            { "name": "ORISAI", "villages": ["AJESA", "ORISAI"] }
+          ]
+        },
+        {
+          "name": "KOBUIN",
+          "parishes": [
+            { "name": "ACIISA", "villages": ["ACIISA", "OKAJAKA"] },
+            { "name": "AGULE", "villages": ["AGULE", "NYAGUO"] },
+            { "name": "AKARUKEI", "villages": ["AKARUKEI", "OSUNGE"] },
+            { "name": "ATOOT", "villages": ["AGULE", "ATOOT"] },
+            { "name": "KADERUN", "villages": ["KOSIM", "KADERUN"] },
+            { "name": "KADOK", "villages": ["AJESA", "KADOK"] },
+            { "name": "KALENGO", "villages": ["KALENGO", "OKITO"] },
+            { "name": "KOBUIN", "villages": ["JUWAI", "KOBUIN"] },
+            { "name": "KOCOCWA", "villages": ["KOCOCWA", "OLUPE"] },
+            { "name": "KODIKE", "villages": ["APUJAN", "KODIKE"] },
+            { "name": "KOILE", "villages": ["KOILE", "MORU-ALIGOI"] },
+            { "name": "POKOR", "villages": ["AGURUR", "POKOR"] },
+            { "name": "TILLING", "villages": ["GAWA", "TILLING"] },
+            { "name": "OJUKAI", "villages": ["KOMOLO", "OJUKAI"] },
+            { "name": "OKAPEL", "villages": ["OKAPEL", "OCEEREN"] },
+            { "name": "OLUKANGOR", "villages": ["OKIPITOK", "OLUKANGOR"] },
+            { "name": "OMOO", "villages": ["OMOO", "OJOGOL"] },
+            { "name": "OPOT", "villages": ["KAKODA", "OPOT"] },
+            { "name": "OSWARA", "villages": ["KALIINA", "OSWARA"] }
+          ]
+        },
+        {
+          "name": "MUKURA",
+          "parishes": [
+            { "name": "ADUL", "villages": ["ADUL", "RAPAD"] },
+            { "name": "AGOGOMIT", "villages": ["AGOGOMIT", "LIBIA"] },
+            { "name": "AJELUK", "villages": ["ADOKAR", "AJELUK"] },
+            { "name": "AKUBUI", "villages": ["AKUBUI", "OKWANGAI"] },
+            { "name": "ARIET", "villages": ["AKEIT", "ARIET", "PUNA", "OBUR"] },
+            { "name": "KEES", "villages": ["KEES", "YUDAYA"] },
+            { "name": "KALER", "villages": ["APUWAI", "KALER"] },
+            { "name": "KAMODOKIMA", "villages": ["KAMODOKIMA", "OGIRIAI"] },
+            { "name": "MADOCH", "villages": ["MADOCH", "ORAPADA"] },
+            { "name": "KOKODU", "villages": ["KOKODU", "OLILIM"] },
+            { "name": "KUMEL", "villages": ["KUMEL", "NAMASAGALI"] },
+            { "name": "MORUKAKISE", "villages": ["MORUKAKISE", "OKOMION"] },
+            { "name": "MUKURA", "villages": ["MUKURA", "OLUROI"] },
+            { "name": "OKUNGURO", "villages": ["DOYORO", "OKUNGURO"] }
+          ]
+        },
+        {
+          "name": "NGORA",
+          "parishes": [
+            { "name": "AGU", "villages": ["AGU", "ORIT"] },
+            { "name": "ANGOD", "villages": ["ANGOD", "OGIRIGIROI"] },
+            { "name": "APAMA", "villages": ["AKERO", "APAMA"] },
+            { "name": "KALENGO", "villages": ["AGOLITOM", "KALENGO"] },
+            { "name": "KOPEGE", "villages": ["AGULE", "OPEGE"] },
+            { "name": "NGORA", "villages": ["KEES", "NGORA"] },
+            { "name": "TIDIDIEK", "villages": ["TIDIDIEK", "OKOROM"] },
+            { "name": "NYAMONGO", "villages": ["NYAMONGO", "OLEDAI"] },
+            { "name": "ODWARAT", "villages": ["GALILAYA", "ODWARAT"] },
+            { "name": "OMADITOK", "villages": ["OPELU", "OMADITOK"] },
+            { "name": "OTETEEN", "villages": ["OSIRU", "OTETEEN"] }
+          ]
+        },
+        {
+          "name": "NGORA TOWN COUNCIL",
+          "parishes": [
+            { "name": "EASTERN WARD", "villages": ["KABAKULI", "KOBUKU", "KACHINGA", "OKISIMO"] },
+            {
+              "name": "NORTHERN WARD",
+              "villages": ["AKOROI", "KOMODO", "NGORA INS. COMP A", "NGORA INS. COMP B", "NGORA INS. COMP C"]
+            },
+            { "name": "SOUTHERN WARD", "villages": ["KOBUIN", "KONYILA", "NGORA TOWNSHIP A", "NGORA TOWNSHIP B"] },
+            { "name": "WESTERN WARD", "villages": ["OSIGIRIA", "ST. ALOYSIUS A", "ST. ALOYSIUS B", "OKOBOI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1050 @@
+{
+  "name": "ISINGIRO",
+  "counties": [
+    {
+      "name": "BUKANGA",
+      "sub_counties": [
+        {
+          "name": "ENDINZI",
+          "parishes": [
+            {
+              "name": "BUSHEKA",
+              "villages": ["BUSHEKA", "EKINAZI", "KAMWEMA A", "KAGAAGA", "RWAMBAGA", "MUGUGU", "MATARA", "NTUURA"]
+            },
+            {
+              "name": "KIKOBA",
+              "villages": [
+                "KABARONGO",
+                "KIKOBA A",
+                "KIKOBA B",
+                "EKITOKA",
+                "KAMAAYA A",
+                "KAMAAYA B",
+                "KAMAAYA C",
+                "KATANGA A",
+                "KATANGA B"
+              ]
+            },
+            {
+              "name": "NYABYONDO",
+              "villages": ["EKIYONZA", "NYANJA", "KASHOGA", "KAMUZINZI", "MPIKYE", "NYABYONDO", "OBUNAZI"]
+            },
+            { "name": "RUKUNGIRI", "villages": ["AKATOOMA", "RWAKAKORE", "RUTUNGA", "RUKUNGIRI"] },
+            {
+              "name": "RWANJOGYERA",
+              "villages": [
+                "RWENKUBA A",
+                "RWENKUBA B",
+                "KARERABAANA",
+                "RWAKISHAYAYA",
+                "RWANJOGYERA A",
+                "RWANJOGYERA B",
+                "RWANJOGYERA C",
+                "RWAKASASIRA",
+                "RWAKASASIRA B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ENDINZI TOWN COUNCIL",
+          "parishes": [
+            { "name": "ENDIINZI", "villages": ["BIREZI", "ENGORORA", "SAANO A", "SAANO B", "ORUBARE"] },
+            {
+              "name": "ENDIINZI TOWN BOARD",
+              "villages": ["ENDIINZI A", "ENDIINZI B", "KYARUGAJU A", "KYARUGAJU B", "KYARUGAJU C", "NYAKAKONI"]
+            }
+          ]
+        },
+        {
+          "name": "KAKAMBA",
+          "parishes": [
+            { "name": "BURUMBA", "villages": ["BURUMBA", "KABASHAIJA", "RWENSHAMA", "KARAMA"] },
+            { "name": "KASHENYI", "villages": ["KABATANGARE", "KEMIKOKOMA", "KAKIRARA", "KASHENYI", "NYAKIBINGO"] },
+            {
+              "name": "KAKAMBA",
+              "villages": [
+                "IZO",
+                "KABASHERWE",
+                "KABEGARAMIRE",
+                "KAKIRARA",
+                "KASUSANO",
+                "RUKANDU",
+                "NYAKAGO",
+                "RURONGO A",
+                "RURONGO B"
+              ]
+            },
+            { "name": "NTENGA", "villages": ["KAKABAMBA", "KATYAZO B", "NTENGA A", "NTENGA B", "NTENGA C"] },
+            { "name": "RURONGO", "villages": ["BIHANGA", "KAGANDO", "KAGERA", "RURONGO A", "RURONGO B"] }
+          ]
+        },
+        {
+          "name": "KASHUMBA",
+          "parishes": [
+            {
+              "name": "KANKINGI",
+              "villages": ["JURU", "KABATAMBA", "KABIRIZI", "KAZYA", "KITYAZA", "KASHOJWA", "KANKINGI", "RUKINGA"]
+            },
+            { "name": "KASHARIRA", "villages": ["KIRIIMA", "KEMINAZI", "KABURA I", "KASHARIRA", "RUMURI"] },
+            {
+              "name": "KASHUMBA",
+              "villages": ["BURAMA", "BYENYI", "KASHUMBA", "KAGANGO", "RUBARE", "RUBOMBO", "NYARUTI"]
+            },
+            {
+              "name": "KIGARAGARA",
+              "villages": [
+                "BUSHUNGWE",
+                "KITANDA",
+                "KIGARAGARA A",
+                "KIGARAGARA B",
+                "KYAKAHURA",
+                "KARORA A",
+                "KARORA B",
+                "KAMISHWA",
+                "KASHESHE",
+                "KAGAARA",
+                "NTENGA A",
+                "NTENGA B",
+                "NTENGA C"
+              ]
+            },
+            {
+              "name": "MUREMA",
+              "villages": ["KIGANDO", "KITEREDE", "KABURA II", "MUREMA A", "MUREMA B", "MUREMA CENTRAL"]
+            },
+            {
+              "name": "RUSHWA",
+              "villages": [
+                "KIYENJE",
+                "RWENJERU",
+                "KATYAZO",
+                "KYABIBABI",
+                "RWAMACUMU A",
+                "RWAMACUMU B",
+                "NYAKABINGO A",
+                "NYAKABINGO B",
+                "RUSHWA",
+                "NTUNGAMO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MBAARE",
+          "parishes": [
+            {
+              "name": "BURIGI",
+              "villages": ["BUBAREBWERA", "BURIGI A", "BURIGI CENTRAL", "BURIGI I", "BURIGI II", "RWENSHEBASHESHE"]
+            },
+            {
+              "name": "KIHANDA",
+              "villages": [
+                "ISHUNGA",
+                "KIHANDA CENTRAL",
+                "KIREBAREBA",
+                "KIBEBA",
+                "KIVIGA",
+                "RWENSHEKYE",
+                "KASHARARA A",
+                "KASHARARA B",
+                "KYARUKORONGO",
+                "MISHENYI A",
+                "MISHENYI B",
+                "RUTANGA"
+              ]
+            },
+            {
+              "name": "KYABAHESI",
+              "villages": [
+                "BAHIIGI A",
+                "BAHIIGI B",
+                "KAZIIZI A",
+                "KAZIIZI B",
+                "KIKOMA",
+                "KYABAHESI A",
+                "KYABAHESI B",
+                "KATOJO CENTRAL",
+                "KATOJO I",
+                "KATOJO II",
+                "KATAHOOKA",
+                "RWABAHINDA"
+              ]
+            },
+            {
+              "name": "NSHORORO",
+              "villages": [
+                "BUGANGO I",
+                "BUGANGO II",
+                "BUJUBWE",
+                "KIKOKWA",
+                "KAHUNGYE",
+                "MBARE I",
+                "MBARE II",
+                "NSHORORO"
+              ]
+            },
+            {
+              "name": "RUTEETE",
+              "villages": ["BUBAREBWERA", "KEMPARA", "RWENGWE", "RUTEETE A", "RUTEETE B", "RUTEETE C"]
+            },
+            {
+              "name": "NYAMARUNGI",
+              "villages": [
+                "BUHUNGA I",
+                "BURUNGA II",
+                "BWIZI",
+                "NYAMARUNGI A",
+                "NYAMARUNGI B",
+                "NYAMARUNGI CENTRAL",
+                "OBUGAAGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NGARAMA",
+          "parishes": [
+            {
+              "name": "BURUNGAMO",
+              "villages": [
+                "BIZEERA",
+                "KIBENGO I",
+                "KIBENGO II",
+                "RWEBINYATSI",
+                "RWOBUYANGAZA",
+                "KYAKABINDI CENTRAL",
+                "KYAKABINDI EAST",
+                "KYAKABINDI NORTH",
+                "KYAKABINDI SOUTH",
+                "KYAKABINDI WEST",
+                "KYAKAYANDA",
+                "RWAKABWOHE"
+              ]
+            },
+            {
+              "name": "KABAARE",
+              "villages": [
+                "BIHARWE",
+                "BUSHENYI",
+                "ISHOZI",
+                "KABAARE",
+                "KYAJUNGU",
+                "KAREREMA",
+                "KYAMBURARA",
+                "KAMUTINDA",
+                "MITOOMA",
+                "RUGANDO",
+                "NGANDO"
+              ]
+            },
+            {
+              "name": "KAGAAGA",
+              "villages": [
+                "BUKORE",
+                "KATUNGAMO",
+                "RWENSHEKYE EAST",
+                "RWENSHEKYE WEST",
+                "KYANDERA",
+                "KAGAAGA A",
+                "KAGAAGA B",
+                "RUMEYA"
+              ]
+            },
+            {
+              "name": "NGARAMA",
+              "villages": [
+                "KIGURI",
+                "KIMURI",
+                "KISHOJO",
+                "KIGANDO",
+                "KAYENJE",
+                "KAKARAKARE",
+                "KATYAZO",
+                "KYAKASHANA",
+                "NYANONGO",
+                "RUGOROGORO",
+                "RUHIIRA",
+                "RWABAGANGA",
+                "RWAKABANO",
+                "RUKONO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RUGAAGA",
+          "parishes": [
+            {
+              "name": "KASHOJWA",
+              "villages": ["KAZUURA", "KIRETWA", "KAROKARUNGI", "KASHOJWA", "KASHWINA A", "KASHWINA B"]
+            },
+            {
+              "name": "KABAARE",
+              "villages": [
+                "KABARE I",
+                "KABARE II",
+                "KIKUNYU A",
+                "KIKUNYU B",
+                "KAJUMBURA",
+                "NYAMIYONGA",
+                "KASHENYI",
+                "KAFUMBA",
+                "RUHANGA"
+              ]
+            },
+            {
+              "name": "KYAMPANGO",
+              "villages": [
+                "KEIKOBE",
+                "KAHEGA",
+                "KAKIIKA",
+                "KYAMPANGO A",
+                "KYAMPANGO B",
+                "KYANYANDA",
+                "KANIKWA",
+                "RUGAAGA",
+                "NDAYIGA",
+                "NYAKAZIBA"
+              ]
+            },
+            {
+              "name": "KYARUBAMBURA",
+              "villages": [
+                "BIRUNDUMA",
+                "KITOOMA",
+                "KATOKYE",
+                "RWENTURAGARA",
+                "KYAMUTURA",
+                "KABUHEMBE",
+                "KASHAMBYA",
+                "RUKUUBA"
+              ]
+            },
+            {
+              "name": "KIRYABURO",
+              "villages": [
+                "BURURUMA I",
+                "BURURUMA II",
+                "KABAARE",
+                "KIRYABURO A",
+                "KIRYABURO B",
+                "RWANKAKIRE",
+                "RWAKINONO"
+              ]
+            },
+            {
+              "name": "NYABUBAARE",
+              "villages": [
+                "KIJUBWE",
+                "KIGAZI",
+                "RWEMBEBA",
+                "KATUNTU",
+                "RWENTURAGARA",
+                "KASHARE",
+                "RUTUNGA",
+                "NYABUBAARE"
+              ]
+            },
+            {
+              "name": "RWANGABO",
+              "villages": [
+                "KEIBARYE",
+                "KIIJU",
+                "KEMENGO",
+                "KAHIMA",
+                "KATOOMA",
+                "KAITAGURA",
+                "RWENDEZI",
+                "KYAMUGASHA",
+                "KAGANDO A",
+                "KAGANDO B",
+                "RWANGABO A",
+                "RWANGABO B",
+                "NTUNGAMO",
+                "NYARUHUZI A",
+                "NYARUHUZI B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RUSHASHA",
+          "parishes": [
+            { "name": "IHUNGA", "villages": ["KENDOBO", "KINAMI", "KISUURA", "KYEMBOGO", "RUBINGO"] },
+            {
+              "name": "MIRAMBIRO",
+              "villages": [
+                "KABAHARA",
+                "KABAZANA",
+                "KIYENJE",
+                "KASHASHA",
+                "KABWERA",
+                "MISYERA",
+                "RUHOOKO A",
+                "RUHOOKO B"
+              ]
+            },
+            {
+              "name": "RUSHASHA",
+              "villages": ["EKIRINDA", "NYANGA", "KARUNGA", "KAMUTIGANZI", "NDAYANJOJO", "RUSHASHA"]
+            },
+            {
+              "name": "RWANTAHA",
+              "villages": [
+                "KYABUZARE",
+                "RWANTAHA A",
+                "RWANTAHA B",
+                "RWANTAHA C",
+                "RWABARIMIRIZI A",
+                "RWABARIMIRIZI B",
+                "NYUNGU"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ISINGIRO NORTH",
+      "sub_counties": [
+        {
+          "name": "BIRERE",
+          "parishes": [
+            {
+              "name": "KASAANA",
+              "villages": [
+                "KIBOONA I",
+                "KIBOONA II",
+                "KASAANA I",
+                "KASAANA II",
+                "MPAMBAZI",
+                "RUGARAMA",
+                "NYABUZIBA",
+                "RUKOMA",
+                "NYAKIBARE"
+              ]
+            },
+            { "name": "KAHENDA", "villages": ["KITOOHA", "KAHENDA I", "KAHENDA II", "NDARAGI", "NSIIKA", "RUBEYA"] },
+            {
+              "name": "KYERA",
+              "villages": ["KITOOMA I", "KITOOMA II", "RWENCWERA I", "RWENCWERA II", "KASHENYI", "KYERA I", "KYERA II"]
+            },
+            { "name": "KIKOKWA", "villages": ["BIRERE", "KIKOKWA II", "RWEIZIRINGIRO I", "MIKONOIGANA", "RWAKIRURI"] },
+            {
+              "name": "KISHURO",
+              "villages": [
+                "BUTENGA I",
+                "BUTENGA II",
+                "KABAARE I",
+                "KABAARE II",
+                "KISHURO",
+                "KAMAKISA",
+                "NYABWESHONGOZA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ISINGIRO TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "KAMURI WARD",
+              "villages": [
+                "BUHEIGOORE",
+                "KABARE",
+                "KIGYENDE",
+                "KIKUTSI",
+                "RWEMBWA",
+                "RWENDAMA",
+                "RWENGIRI",
+                "RWENTONGORE",
+                "KYARWAMUTAMBARA",
+                "RUHIMBO"
+              ]
+            },
+            {
+              "name": "KYABISHAHO WARD",
+              "villages": [
+                "AKATAFFAARI",
+                "KIKOONA",
+                "KIGANDO",
+                "KANYERERE",
+                "KYABISHAHO",
+                "KAKINGA",
+                "KACUNUZI",
+                "RUBWEIJANA"
+              ]
+            },
+            {
+              "name": "MABONA WARD",
+              "villages": [
+                "KIBINGO",
+                "KIGARAMA",
+                "KIBWERA CENTRAL",
+                "KYABIRUKWA",
+                "KYAMUDIMA",
+                "KYEIHENDA",
+                "MABONA",
+                "MAHWA",
+                "MAKIRO",
+                "MBAARE",
+                "NYAKABANGA"
+              ]
+            },
+            {
+              "name": "RWEKUBO WARD",
+              "villages": [
+                "ISHOOZI",
+                "KAYONZA",
+                "KAYONZA CENTRAL",
+                "RWEKUBO",
+                "KAHIRIMBI",
+                "KAJURUNGUTSI",
+                "KATWENGYE",
+                "RWENKUBA",
+                "KAKUNYU",
+                "KYAKASHANA",
+                "MISIRIRA"
+              ]
+            },
+            {
+              "name": "RWETANGO",
+              "villages": [
+                "BUSHENGA",
+                "HUMURA",
+                "IGAYAZA",
+                "KABINGO CENTRAL",
+                "KABINGO II",
+                "KAHARO",
+                "RYAMIHINI",
+                "KYAMUSYOKA",
+                "MASHA",
+                "NYAKISHARARA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KABEREBERE TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "KABEREBERE EAST WARD",
+              "villages": [
+                "AKATEETE",
+                "KABEREBERE I",
+                "KABEREBERE II",
+                "KABIRIZI",
+                "KIKOKWA I",
+                "RWEIZIRINGIRO II",
+                "KYABUTOOTO",
+                "KYENYANGI",
+                "RUTSYA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KABINGO",
+          "parishes": [
+            {
+              "name": "KATEMBE",
+              "villages": ["BITOOMA", "KATEMBE", "KATEMBE CENTRAL", "KATARAKA", "MPORORO", "RWABASHANDURA"]
+            },
+            {
+              "name": "KAGARAMA",
+              "villages": [
+                "AMAKUKURU",
+                "KABIBI A",
+                "KABIBI B",
+                "KEITABIKYERE",
+                "KICWEKANO",
+                "KAGARAMA",
+                "MUHUNGA",
+                "RUGAARA",
+                "RWAKASHAKA"
+              ]
+            },
+            {
+              "name": "KYABINUNGA",
+              "villages": [
+                "BUNGURA A",
+                "BUNGURA B",
+                "KITURA A",
+                "KITURA B",
+                "KYABINUNGA A",
+                "KYABINUNGA B",
+                "RWANYAKIHANGA",
+                "MBAARE",
+                "RUKONO"
+              ]
+            },
+            {
+              "name": "KYARUGAAJU",
+              "villages": [
+                "KAYONZA",
+                "KYABWEMI",
+                "KYARUGAJU",
+                "KYARUGAMBA",
+                "KACOMBEKA",
+                "KAGAMBA",
+                "KAGOGO",
+                "NYAKAGYERA",
+                "RUBIRA"
+              ]
+            },
+            {
+              "name": "KYEIRUMBA",
+              "villages": ["KABAGABE", "BYARUHA I", "BYARUHA II", "KYEMPARA II", "NYABUGANDO", "RUGARA"]
+            },
+            {
+              "name": "NYAKIGYERA",
+              "villages": [
+                "BURARA I",
+                "BURARA II",
+                "BWANGA I",
+                "BWANGA II",
+                "KYEBIKARA",
+                "KYEMPARA I",
+                "RUGAAGA",
+                "NYAKIBARE",
+                "NYAKABUNGO",
+                "RUSHAYO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KABUYANDA",
+          "parishes": [
+            {
+              "name": "KANYWAMAIZI",
+              "villages": [
+                "KAGOTO I",
+                "KAGOTO II",
+                "NYAMIYAGA",
+                "KANYWAMAIZI I",
+                "KANYWAMAIZI II",
+                "KANYWAMAIZI III",
+                "KANYWAMAIZI IV",
+                "MUHANGA",
+                "RWABYEMERA"
+              ]
+            },
+            {
+              "name": "KABUGU",
+              "villages": [
+                "KABESHEKYERE",
+                "KIGABAGABA I",
+                "KIGABAGABA II",
+                "EKISINGA",
+                "RWEMANGO",
+                "RWENDONGO",
+                "KABUGU I",
+                "KABUGU II",
+                "MISHOROSHOZI",
+                "PARAGONI"
+              ]
+            },
+            {
+              "name": "KAGARA",
+              "villages": ["BWENGYERERE", "KYAMAZINGA I", "KYAMAZINGA II", "KAGARA I", "KAGARA II", "RUBAGANO"]
+            },
+            {
+              "name": "RWAKAKWENDA",
+              "villages": [
+                "AKATOOMA",
+                "BUTERANIRO",
+                "ITAARE",
+                "KATOOMA",
+                "KARWENYI",
+                "KASHARIRA",
+                "RUKIIRI",
+                "RWAKAKWENDA",
+                "RUTOOMA",
+                "NYARUHANGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KABUYANDA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "CENTRAL WARD",
+              "villages": ["AKATENSANI", "KAARO I", "KAARO III", "KABUYANDA", "KABUYANDA T/C", "RUTOOMA"]
+            },
+            {
+              "name": "IRYANGO WARD",
+              "villages": ["IRYANGO", "KINYARA I", "KINYARA II", "KIGARAMA", "NYAMPIKYE I", "RYABOONA", "KASHAKA"]
+            },
+            {
+              "name": "KISYORO WARD",
+              "villages": ["AKATEMBO", "BUGARAMA II", "KISYORO II", "RWEMBWERA II", "NYAMPIKYE II", "NDAANI"]
+            },
+            {
+              "name": "NORTHERN WARD",
+              "villages": ["BUGARAMA I", "KAARO II", "KISYORO I", "KISYORO III", "RWEMBWERA I"]
+            }
+          ]
+        },
+        {
+          "name": "KIKAGATE",
+          "parishes": [
+            {
+              "name": "KAJAHO",
+              "villages": [
+                "BUSHEKA",
+                "KAJAAHO",
+                "KAJAHO CENTRAL",
+                "RWAMURUNGA",
+                "RWANGYENYA",
+                "RUTOOMA",
+                "RUBIRIZI",
+                "OBUNAZI"
+              ]
+            },
+            {
+              "name": "KAMUBEIZI",
+              "villages": [
+                "BURAMBIRA",
+                "KIBAARE",
+                "KANYINYA",
+                "KAROKARUNGI",
+                "NYAMWERAMBIKO",
+                "KAMUBEIZI",
+                "KATANZI",
+                "MIRAMA",
+                "NYABUGANDO",
+                "RUGARAMA",
+                "NYAKABUNGO",
+                "NYAKAMURI"
+              ]
+            },
+            {
+              "name": "KYEZIMBIRE",
+              "villages": [
+                "KEIZIBATE",
+                "KISHARIRA",
+                "ENONKO",
+                "RWENANURA",
+                "KYAMUSHAIJA",
+                "KYEMPITSI",
+                "RWAKIJUMA",
+                "RUSHARIRA",
+                "NYAKAGYERA"
+              ]
+            },
+            {
+              "name": "KIKAGATE TOWN BOARD",
+              "villages": [
+                "BWENTARE",
+                "KIKAGATE BOARDER CELL",
+                "KITEZO",
+                "RWENKUBA",
+                "KATANGA",
+                "KYEZIMBIRE",
+                "NYAKAYOJO",
+                "NYARUBUNGO"
+              ]
+            },
+            { "name": "NTUNDU", "villages": ["KAGUNGA", "KABUMBA", "MBARARA II", "RUJUBUKA", "RUTARE", "NYEIHITA"] },
+            {
+              "name": "NYABUSHENYI",
+              "villages": [
+                "KIRUHURA",
+                "NYAMWERAMBIKO",
+                "KASHARIRA",
+                "KYIGARAMA",
+                "MURAZAGYE",
+                "NYABUSHENYI CELL",
+                "NYABUSHENYI CENTRAL",
+                "NYARUBUNGO"
+              ]
+            },
+            {
+              "name": "RUYANGA",
+              "villages": [
+                "BURAMBIRA",
+                "KIHANDE",
+                "KIGANDO",
+                "KATOJO",
+                "KASHARIRA",
+                "KYEHUNA",
+                "RUYANGA",
+                "RUYONZA",
+                "RUNONI"
+              ]
+            },
+            {
+              "name": "RWAMWIJUKA",
+              "villages": [
+                "BUBAARE",
+                "KIGANDO",
+                "RWEMIZO",
+                "KABURARA",
+                "KASHARIRA",
+                "KAMWOSYA",
+                "RWAMWIJUKA",
+                "RUYONZA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MASHA",
+          "parishes": [
+            {
+              "name": "KABAARE",
+              "villages": [
+                "KABAARE I",
+                "KABAARE II",
+                "KABAARE III",
+                "KABAARE IV",
+                "KABAARE V",
+                "KABAARE VI",
+                "KABAARE VII"
+              ]
+            },
+            {
+              "name": "NYAKAKONI",
+              "villages": [
+                "RWEMBOGO",
+                "MASHA",
+                "OMUKABAARE",
+                "NYAKAKONI A",
+                "NYAKAKONI B",
+                "NYAKAKONI C",
+                "NYAKASHARARA"
+              ]
+            },
+            {
+              "name": "RUKUUBA",
+              "villages": ["RWENDEZI", "KAKUTO A", "KAKUTO B", "RWENSHEBASHEBE", "NYAMABARE", "RUKUUBA"]
+            },
+            {
+              "name": "RWETANGO",
+              "villages": [
+                "RWENFUNJO",
+                "RWENYANGA",
+                "KYAMUGURUMA",
+                "RWETANGO A",
+                "RWETANGO B",
+                "KYARWANSHASHURA",
+                "KYEKYAKIRE",
+                "NYAKAHITA"
+              ]
+            },
+            {
+              "name": "NYAMITSINDO",
+              "villages": ["BUYOJWA", "NYAMITANGA", "NYAMITSINDO", "KAKYEKA", "NYABUSHOZI", "RWAKAHUNDE", "RUMURI"]
+            },
+            {
+              "name": "NYARUBUNGO",
+              "villages": [
+                "AKAFUNDA",
+                "IGYEREKA",
+                "KATEREERA",
+                "RWENGANDO",
+                "RUYONZA",
+                "OMUKABARE",
+                "NYARUBUNGO I",
+                "NYARUBUNGO II"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKITUNDA",
+          "parishes": [
+            {
+              "name": "BUGONGI",
+              "villages": [
+                "BUGONGI I",
+                "BUGONGI II",
+                "KAMIRANJOGYERA I",
+                "KAMIRANJOGYERA II",
+                "KYEFURWE",
+                "RWANYINAMAGANGURE I",
+                "RWANYINAMAGANGURE II",
+                "OMUKABALE",
+                "OMUKANARA",
+                "OMUKIHANGIRE",
+                "OMUKIHIMBA",
+                "OMUKINAZI",
+                "TOWN CELL",
+                "NYARUHANGA",
+                "NYARUSHANJE"
+              ]
+            },
+            {
+              "name": "KAMUBEIZI",
+              "villages": [
+                "KABESHEKYERE",
+                "KIFUMBIRA",
+                "KIBUBA",
+                "KAGORORA",
+                "KATOJO",
+                "NYAMIYAGA",
+                "KATUKUNDANE",
+                "KARO - KARUNGI",
+                "KASHAKI",
+                "KAMUBEIZI",
+                "KASHARIRA",
+                "KASHENYI",
+                "KYARUGOONZA",
+                "KAGARAMA",
+                "KANANI",
+                "NYAMIRAMA",
+                "RWACECE",
+                "NYAKABUNGO",
+                "RUSHOROZA"
+              ]
+            },
+            {
+              "name": "KIHIIHI",
+              "villages": [
+                "KIHIIHI CENTRAL",
+                "KIHIIHI I",
+                "KIHIIHI II",
+                "KIHIIHI TOWN",
+                "KEINA",
+                "KYAAYA",
+                "KITURO",
+                "RWEKISHOJWA I",
+                "RWEKISHOJWA II",
+                "RWEMBOGO",
+                "RWEMONDO",
+                "NYANDAMA",
+                "NYANJA-ETAGYERA I",
+                "NYANJA-ETAGYERA II",
+                "NYANJA-ETAGYERA III",
+                "MIRAMBIRO",
+                "MBARE",
+                "NYAKABUNGO"
+              ]
+            },
+            {
+              "name": "NTUNGU",
+              "villages": [
+                "BIRARA",
+                "ISHINGISHA",
+                "KEINA I",
+                "KEINA II",
+                "KIMBUGU",
+                "KITOJO",
+                "KYANDARO",
+                "KYANYAKAHIMBI I",
+                "KYANYAKAHIMBI II",
+                "KASHARIRA",
+                "MAHAAMA",
+                "MAJU",
+                "RUGOROGORO",
+                "NYAKAHANDAGAZI",
+                "OMUKATOOMA",
+                "OMUKITOOMA",
+                "NTUNGU CENTRAL",
+                "NTUNGU TRADING CENTRE",
+                "NTUNGU WEST",
+                "OMURWERERE"
+              ]
+            },
+            {
+              "name": "NYAKARAMBI",
+              "villages": [
+                "KEITANYONYI",
+                "NYANGOROGORO",
+                "KABUGU",
+                "MBURAMAIZI",
+                "RUGAZI",
+                "NYAKABUNGO",
+                "OMUBUSHAMI",
+                "OMUKINIIKA I",
+                "OMUKINIKA II",
+                "OMUNONKO",
+                "OMURUTOOMA",
+                "NYAKARAMBI I",
+                "NYAKARAMBI II"
+              ]
+            },
+            {
+              "name": "MIGYERA",
+              "villages": [
+                "KAGONGI I",
+                "KAGONGI II",
+                "MIGYERA CENTRAL",
+                "MIGYERA I",
+                "MIGYERA II",
+                "RWAKIBEZI I",
+                "RWAKIBEZI II"
+              ]
+            },
+            {
+              "name": "RUHIRA",
+              "villages": [
+                "KABARE",
+                "KISHENYI I",
+                "KISHENYI II",
+                "KAHURWA I",
+                "KAHURWA II",
+                "KANYERERE",
+                "KARUNDI I",
+                "KARUNDI II",
+                "RUGONGI I",
+                "RUGONGI II",
+                "RUHIIRA II",
+                "RUHIRA I",
+                "NGOMA CELL",
+                "NYAKAMURI I",
+                "NYAKAMURI II",
+                "OMWICWAMBA",
+                "TOWN CELL"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAMUYANJA",
+          "parishes": [
+            { "name": "IBUMBA", "villages": ["IBUMBA", "IJUGANGOMA", "KAYONZA", "KYAKAZOOBA", "KYANZA", "KAMUTUMO"] },
+            { "name": "KATANOGA", "villages": ["BUHARWE", "KATANOGA", "RWANYINEKIHANDA", "RUHAMA", "RUYONZA"] },
+            { "name": "KIGYENDWA", "villages": ["KIGYENDWA", "KISHURO", "RWEKITOOMA", "RUGARAMA", "RWAKANYONYI"] },
+            {
+              "name": "NYAMUYANJA",
+              "villages": [
+                "KIIHWA",
+                "RWENKUBA",
+                "KARUTANGA",
+                "NYAKIBARE I",
+                "NYAKIBARE II",
+                "RWAKANYONYI",
+                "NYAKISHENSHERO",
+                "TWAMAGONDO",
+                "NYARWASHAMA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "RUBOROGOTA",
+          "parishes": [
+            {
+              "name": "KARAMA",
+              "villages": ["IBINJA I", "KIBINGO I", "KIBINGO II", "KIGANDO", "KARAMA I", "KARAMA II", "KAGARAMA"]
+            },
+            {
+              "name": "KYAMUSONI",
+              "villages": ["KIHIHI", "KAHAMA", "KYAMUSONI", "KABUMBA", "KAGANDO", "RUZINGA", "RUKUREIJO"]
+            },
+            { "name": "NSHENYI", "villages": ["BUGARIKA", "KAGERA", "NYABUGANDO", "NSHENYI"] },
+            { "name": "RUBOROGOTA", "villages": ["KABATANGARE", "KIBABO", "MPOMA I", "MPOMA II", "RUBOROGOTA I"] },
+            {
+              "name": "RWANGUNGA",
+              "villages": ["BIBUNGO", "IBINJA II", "KAHORORO", "KATUNGURU", "KAGABAGABA", "RWANGUNGA"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

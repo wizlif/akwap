@@ -1,0 +1,608 @@
+{
+  "name": "ADJUMANI",
+  "id": 2,
+  "counties": [
+    {
+      "name": "ADJUMANI EAST",
+      "id": 349,
+      "sub_counties": [
+        {
+          "name": "ARINYAPI",
+          "id": 1139,
+          "parishes": [
+            {
+              "name": "ARASI",
+              "id": 515,
+              "villages": [
+                { "name": "ELEMA", "id": 15999 },
+                { "name": "ORIANGWA", "id": 50567 },
+                { "name": "OLIHWI", "id": 49406 },
+                { "name": "OLOBOO", "id": 49468 }
+              ]
+            },
+            {
+              "name": "ELEGU",
+              "id": 1983,
+              "villages": [
+                { "name": "KIBIRA", "id": 26004 },
+                { "name": "ELEGU CENTRAL", "id": 15996 },
+                { "name": "LODUDRIEPKA", "id": 34342 },
+                { "name": "MELEKWE", "id": 38224 }
+              ]
+            },
+            {
+              "name": "ITUJI",
+              "id": 2249,
+              "villages": [
+                { "name": "ITOASI EAST", "id": 17902 },
+                { "name": "ITOASI WEST", "id": 17903 },
+                { "name": "MADULU NORTH", "id": 36555 },
+                { "name": "MADULU SOUTH", "id": 36556 },
+                { "name": "ORWENYI", "id": 50740 }
+              ]
+            },
+            {
+              "name": "LIRI",
+              "id": 4469,
+              "villages": [
+                { "name": "OVUVU EAST", "id": 51063 },
+                { "name": "OVUVU WEST", "id": 51064 },
+                { "name": "PAMAJUA", "id": 51593 },
+                { "name": "OGOLO NORTH", "id": 48580 },
+                { "name": "OGOLO SOUTH", "id": 48581 }
+              ]
+            },
+            {
+              "name": "ZINYINI",
+              "id": 7472,
+              "villages": [
+                { "name": "PASIKORO", "id": 51774 },
+                { "name": "ONIAZO", "id": 50217 },
+                { "name": "NZOLOKWE", "id": 47698 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DZAIPI",
+          "id": 8,
+          "parishes": [
+            {
+              "name": "ADIDI",
+              "id": 116,
+              "villages": [
+                { "name": "ADIDI CENTRAL", "id": 1175 },
+                { "name": "MARINDI", "id": 37371 },
+                { "name": "ORWANYI", "id": 50738 },
+                { "name": "SUKARI", "id": 55877 }
+              ]
+            },
+            {
+              "name": "AJUGOPI",
+              "id": 204,
+              "villages": [
+                { "name": "JURUMINI EAST", "id": 18278 },
+                { "name": "JURUMINI WEST", "id": 18279 },
+                { "name": "EGGE", "id": 15911 },
+                { "name": "MAIACIKU", "id": 36785 },
+                { "name": "RINGA", "id": 52360 }
+              ]
+            },
+            {
+              "name": "LOGOANGWA",
+              "id": 4488,
+              "villages": [
+                { "name": "ABOKI", "id": 323 },
+                { "name": "BARI", "id": 6577 },
+                { "name": "MOKOLO-YORO", "id": 38753 },
+                { "name": "PAGIRINYA", "id": 51390 },
+                { "name": "PAWINYO", "id": 51847 },
+                { "name": "OBU", "id": 47949 }
+              ]
+            },
+            {
+              "name": "MGBERE",
+              "id": 4977,
+              "villages": [
+                { "name": "DZAIPI CENTRAL", "id": 15853 },
+                { "name": "LEYIA", "id": 34105 },
+                { "name": "SILILI", "id": 55420 }
+              ]
+            },
+            {
+              "name": "MINIKI",
+              "id": 5003,
+              "villages": [
+                { "name": "ANGWARAPI EAST", "id": 4227 },
+                { "name": "ANGWARAPI WEST", "id": 4228 },
+                { "name": "MINIKI CENTRAL", "id": 38434 },
+                { "name": "ONIGO", "id": 50224 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ITIRIKWA",
+          "id": 1138,
+          "parishes": [
+            {
+              "name": "BARATUKU",
+              "id": 687,
+              "villages": [
+                { "name": "OZUGO EAST", "id": 51261 },
+                { "name": "OZUGO WEST", "id": 51262 },
+                { "name": "ONINYARA", "id": 50233 }
+              ]
+            },
+            {
+              "name": "ITIRIKWA",
+              "id": 2244,
+              "villages": [
+                { "name": "AJERI", "id": 2017 },
+                { "name": "AJERI CENTRAL", "id": 2019 },
+                { "name": "APENI", "id": 4573 }
+              ]
+            },
+            {
+              "name": "KOLIDIDI",
+              "id": 4090,
+              "villages": [
+                { "name": "KOLIDIDI CENTRAL", "id": 30930 },
+                { "name": "EJUNYA", "id": 15931 },
+                { "name": "LUKWARA", "id": 35384 }
+              ]
+            },
+            {
+              "name": "MUNGULA",
+              "id": 5180,
+              "villages": [
+                { "name": "ALIWARA", "id": 3216 },
+                { "name": "PAKWINYA", "id": 51530 },
+                { "name": "ORUNGWAA", "id": 50700 }
+              ]
+            },
+            {
+              "name": "ODU",
+              "id": 6265,
+              "villages": [
+                { "name": "KWOMA", "id": 31504 },
+                { "name": "KALUMATIOLI", "id": 21105 },
+                { "name": "TANYAKA", "id": 56082 }
+              ]
+            },
+            {
+              "name": "ZOKA",
+              "id": 7474,
+              "villages": [
+                { "name": "GBAYI", "id": 16493 },
+                { "name": "ZOKA CENTRAL", "id": 58107 },
+                { "name": "OLWI", "id": 49590 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OFUA",
+          "id": 9,
+          "parishes": [
+            {
+              "name": "BACERE",
+              "id": 650,
+              "villages": [
+                { "name": "ALUPIZINZURU", "id": 3369 },
+                { "name": "BACERE", "id": 6161 },
+                { "name": "KUREKU EAST", "id": 31394 }
+              ]
+            },
+            {
+              "name": "ILINYI",
+              "id": 2192,
+              "villages": [
+                { "name": "MIRIEYI CENTRAL", "id": 38512 },
+                { "name": "MAZAANGWA", "id": 38006 },
+                { "name": "OPIO", "id": 50410 }
+              ]
+            },
+            {
+              "name": "SUBBE",
+              "id": 7192,
+              "villages": [
+                { "name": "ALIABABA", "id": 3031 },
+                { "name": "KUREKU WEST", "id": 31395 },
+                { "name": "SUBBE CENTRAL", "id": 55845 }
+              ]
+            },
+            {
+              "name": "TIANYU",
+              "id": 7258,
+              "villages": [
+                { "name": "MIRIEYI", "id": 38511 },
+                { "name": "TIANYU CENTRAL", "id": 56522 },
+                { "name": "TIANYU NORTH", "id": 56523 }
+              ]
+            },
+            {
+              "name": "OFUA CENTRAL",
+              "id": 6274,
+              "villages": [
+                { "name": "AYIWALA", "id": 6051 },
+                { "name": "GURU GURU", "id": 16972 },
+                { "name": "KOLOLO", "id": 30958 }
+              ]
+            },
+            {
+              "name": "OPI",
+              "id": 6507,
+              "villages": [
+                { "name": "AWINDIRI CENTRAL", "id": 5789 },
+                { "name": "AWINDIRI WEST", "id": 5790 },
+                { "name": "KOGWE", "id": 30849 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PAKELE",
+          "id": 10,
+          "parishes": [
+            {
+              "name": "BOROLI",
+              "id": 800,
+              "villages": [
+                { "name": "AMURU", "id": 3874 },
+                { "name": "BOROLI CENTRAL", "id": 7446 },
+                { "name": "LIRIA", "id": 34199 }
+              ]
+            },
+            {
+              "name": "FUDA",
+              "id": 2019,
+              "villages": [
+                { "name": "FUDA CENTRAL", "id": 16213 },
+                { "name": "LEANGURU", "id": 33998 },
+                { "name": "ODRAJI", "id": 48366 }
+              ]
+            },
+            {
+              "name": "IBIBIAWORO",
+              "id": 2151,
+              "villages": [
+                { "name": "IBIBIAWORO", "id": 17289 },
+                { "name": "PADIGA", "id": 51332 },
+                { "name": "UKUTULU", "id": 56961 }
+              ]
+            },
+            {
+              "name": "LEWA",
+              "id": 4452,
+              "villages": [
+                { "name": "AYILO", "id": 6008 },
+                { "name": "LEWA CENTRAL", "id": 34098 },
+                { "name": "OKAWA", "id": 48898 }
+              ]
+            },
+            {
+              "name": "MELIADERI",
+              "id": 4966,
+              "villages": [
+                { "name": "MUNDRUANGWA", "id": 39851 },
+                { "name": "PALUGA", "id": 51581 },
+                { "name": "OLIA", "id": 49391 }
+              ]
+            },
+            {
+              "name": "MELIJO",
+              "id": 4967,
+              "villages": [
+                { "name": "GONYILAA", "id": 16822 },
+                { "name": "MALOBU", "id": 37145 },
+                { "name": "MELIJO", "id": 38226 }
+              ]
+            },
+            {
+              "name": "NYIVURA",
+              "id": 6199,
+              "villages": [
+                { "name": "MELIADERI", "id": 38225 },
+                { "name": "TIOLIO", "id": 56568 },
+                { "name": "OJIGO", "id": 48772 }
+              ]
+            },
+            {
+              "name": "PAKELE TOWN BOARD",
+              "id": 6655,
+              "villages": [
+                { "name": "ATABOO CENTRAL A", "id": 5216 },
+                { "name": "ATABOO CENTRAL B", "id": 5217 },
+                { "name": "KERELU", "id": 25606 }
+              ]
+            },
+            {
+              "name": "PERECI",
+              "id": 6758,
+              "villages": [
+                { "name": "AMELO", "id": 3578 },
+                { "name": "MAANYALWA", "id": 36319 },
+                { "name": "MARINYO", "id": 37381 },
+                { "name": "PALANYUA", "id": 51549 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ADJUMANI WEST",
+      "id": 350,
+      "sub_counties": [
+        {
+          "name": "ADJUMANI TOWN COUNCIL",
+          "id": 11,
+          "parishes": [
+            {
+              "name": "BIYAYA WARD",
+              "id": 782,
+              "villages": [
+                { "name": "ABIRICAKU", "id": 284 },
+                { "name": "BIYAYA", "id": 7314 },
+                { "name": "KAROKO", "id": 23030 },
+                { "name": "MINIA EAST", "id": 38431 },
+                { "name": "MINIA WEST", "id": 38432 },
+                { "name": "ODRUEYI", "id": 48400 }
+              ]
+            },
+            {
+              "name": "CENTRAL WARD",
+              "id": 1832,
+              "villages": [
+                { "name": "FORUA", "id": 16211 },
+                { "name": "CENTRAL I", "id": 14874 },
+                { "name": "CENTRAL II", "id": 14877 },
+                { "name": "MOLUKPWODA", "id": 38782 },
+                { "name": "MGBERE", "id": 38282 }
+              ]
+            },
+            {
+              "name": "CESIA WARD",
+              "id": 1861,
+              "villages": [
+                { "name": "MOCOPE", "id": 38733 },
+                { "name": "LAJOPI CESIA", "id": 33636 },
+                { "name": "LAJOPI-GINNERY", "id": 33637 },
+                { "name": "PAKONDO", "id": 51513 },
+                { "name": "PARIDI", "id": 51739 },
+                { "name": "PATUA", "id": 51811 },
+                { "name": "PAVURAGA", "id": 51832 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ADROPI",
+          "id": 6,
+          "parishes": [
+            {
+              "name": "ESIA",
+              "id": 2002,
+              "villages": [
+                { "name": "ESIA CENTRAL", "id": 16123 },
+                { "name": "GBALA", "id": 16485 },
+                { "name": "ENDREBANVUKU EAST", "id": 16050 },
+                { "name": "ENDREBANVUKU WEST", "id": 16051 },
+                { "name": "MARINYO", "id": 37380 }
+              ]
+            },
+            {
+              "name": "LAJOPI",
+              "id": 4404,
+              "villages": [
+                { "name": "MOKOLO EAST", "id": 38751 },
+                { "name": "MOKOLO WEST", "id": 38752 },
+                { "name": "RENDE", "id": 52329 }
+              ]
+            },
+            {
+              "name": "OBILOKONG",
+              "id": 6217,
+              "villages": [
+                { "name": "MOYINYA", "id": 38989 },
+                { "name": "ONINYARA", "id": 50234 },
+                { "name": "OBILOKONG", "id": 47848 },
+                { "name": "OBILOKONG WEST", "id": 47849 }
+              ]
+            },
+            {
+              "name": "OPENZINZI",
+              "id": 6504,
+              "villages": [
+                { "name": "AGOSUSU", "id": 1653 },
+                { "name": "OPENZINZI CENTRAL", "id": 50389 },
+                { "name": "PRISON", "id": 52102 },
+                { "name": "OBURE", "id": 48000 },
+                { "name": "TAMANA", "id": 56048 }
+              ]
+            },
+            {
+              "name": "PALEMO",
+              "id": 6672,
+              "villages": [
+                { "name": "ANZOO", "id": 4423 },
+                { "name": "KOZEIZA EAST", "id": 31235 },
+                { "name": "KOZEIZA WEST", "id": 31236 },
+                { "name": "DERI", "id": 15576 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CIFORO",
+          "id": 7,
+          "parishes": [
+            {
+              "name": "AGOJO",
+              "id": 157,
+              "villages": [
+                { "name": "AGOJO", "id": 1591 },
+                { "name": "DUBA", "id": 15777 },
+                { "name": "EBIAMGBA", "id": 15867 },
+                { "name": "MARILA", "id": 37367 }
+              ]
+            },
+            {
+              "name": "LOA",
+              "id": 4471,
+              "villages": [
+                { "name": "LIRI", "id": 34193 },
+                { "name": "LOA", "id": 34218 },
+                { "name": "LORI", "id": 34804 },
+                { "name": "NYIBANA", "id": 47593 },
+                { "name": "OBUGO", "id": 47956 }
+              ]
+            },
+            {
+              "name": "MUGI",
+              "id": 5115,
+              "villages": [
+                { "name": "CIFORO CENTRAL", "id": 15300 },
+                { "name": "MOCOPE", "id": 38734 },
+                { "name": "ONIGO", "id": 50225 },
+                { "name": "TOLORO", "id": 56618 }
+              ]
+            },
+            {
+              "name": "OKANGALI",
+              "id": 6315,
+              "villages": [
+                { "name": "KABAOLI", "id": 18624 },
+                { "name": "KOBO", "id": 30781 },
+                { "name": "FOROHWA", "id": 16210 },
+                { "name": "PANYAWE", "id": 51684 },
+                { "name": "OKANGALI CENTRAL", "id": 48863 },
+                { "name": "OGBORO", "id": 48520 }
+              ]
+            },
+            {
+              "name": "OPEJO",
+              "id": 6502,
+              "villages": [
+                { "name": "AGALI", "id": 1480 },
+                { "name": "DUBAJU", "id": 15780 },
+                { "name": "ERAJI", "id": 16099 },
+                { "name": "OPEJO", "id": 50379 },
+                { "name": "RAMOGI", "id": 52263 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PACHARA",
+          "id": 1141,
+          "parishes": [
+            {
+              "name": "ALERE",
+              "id": 300,
+              "villages": [
+                { "name": "AJUJO", "id": 2110 },
+                { "name": "KALAMAIRO", "id": 20848 },
+                { "name": "ROBIDIRE", "id": 52378 },
+                { "name": "OGUJEBE", "id": 48633 }
+              ]
+            },
+            {
+              "name": "JIHWA",
+              "id": 2272,
+              "villages": [
+                { "name": "ASISI", "id": 5192 },
+                { "name": "MIJALE", "id": 38360 },
+                { "name": "MUKONO", "id": 39617 },
+                { "name": "NYEU", "id": 47592 }
+              ]
+            },
+            {
+              "name": "MARINDI",
+              "id": 4857,
+              "villages": [
+                { "name": "ELEUHWE", "id": 16003 },
+                { "name": "MARINDI CENTRAL", "id": 37372 },
+                { "name": "RASSIA", "id": 52306 },
+                { "name": "RASSIA WEST", "id": 52307 },
+                { "name": "OLOBO", "id": 49466 }
+              ]
+            },
+            {
+              "name": "UNNA",
+              "id": 7320,
+              "villages": [
+                { "name": "AGOJO/NYANIMACI", "id": 1592 },
+                { "name": "UDERU", "id": 56941 },
+                { "name": "UNNA CENTRAL", "id": 56986 }
+              ]
+            },
+            {
+              "name": "OMI",
+              "id": 6440,
+              "villages": [
+                { "name": "ARRA CENTRAL", "id": 5030 },
+                { "name": "ARRA WEST", "id": 5031 },
+                { "name": "TANGANYIKA", "id": 56061 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UKUSIJONI",
+          "id": 1140,
+          "parishes": [
+            {
+              "name": "AYIRI",
+              "id": 639,
+              "villages": [
+                { "name": "AYIRI CENTRAL", "id": 6025 },
+                { "name": "BIKERI", "id": 7058 },
+                { "name": "KULUKULU", "id": 31338 },
+                { "name": "ERIBAKU", "id": 16113 }
+              ]
+            },
+            {
+              "name": "GULINYA",
+              "id": 2098,
+              "villages": [
+                { "name": "AJIFORO", "id": 2040 },
+                { "name": "ALURUNYA", "id": 3372 },
+                { "name": "GULINYA CENTRAL", "id": 16928 }
+              ]
+            },
+            {
+              "name": "MAAJI",
+              "id": 4730,
+              "villages": [
+                { "name": "MAAJI CENTRAL", "id": 36311 },
+                { "name": "RUBANGABINI", "id": 52478 },
+                { "name": "SINYANYA", "id": 55489 },
+                { "name": "TINDIRI", "id": 56561 }
+              ]
+            },
+            {
+              "name": "KIRABA",
+              "id": 3692,
+              "villages": [
+                { "name": "ATURA", "id": 5489 },
+                { "name": "KIRABA CENTRAL", "id": 28304 },
+                { "name": "NDELE", "id": 44286 }
+              ]
+            },
+            {
+              "name": "PAYARU",
+              "id": 6750,
+              "villages": [
+                { "name": "PAYARU", "id": 51858 },
+                { "name": "SODOGO", "id": 55583 },
+                { "name": "ODRANGA", "id": 48369 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

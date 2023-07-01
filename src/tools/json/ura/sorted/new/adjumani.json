@@ -1,0 +1,541 @@
+{
+    "counties": [
+        {
+            "name": "ADJUMANI EAST",
+            "sub_counties": [
+                {
+                    "name": "ARINYAPI",
+                    "parishes": [
+                        {
+                            "name": "ARASI",
+                            "villages": [
+                                "ELEMA",
+                                "OLIHWI",
+                                "OLOBOO",
+                                "ORIANGWA"
+                            ]
+                        },
+                        {
+                            "name": "ELEGU",
+                            "villages": [
+                                "ELEGU CENTRAL",
+                                "KIBIRA",
+                                "LODUDRIEPKA",
+                                "MELEKWE"
+                            ]
+                        },
+                        {
+                            "name": "ITUJI",
+                            "villages": [
+                                "ITOASI EAST",
+                                "ITOASI WEST",
+                                "MADULU NORTH",
+                                "MADULU SOUTH",
+                                "ORWENYI"
+                            ]
+                        },
+                        {
+                            "name": "LIRI",
+                            "villages": [
+                                "OGOLO NORTH",
+                                "OGOLO SOUTH",
+                                "OVUVU EAST",
+                                "OVUVU WEST",
+                                "PAMAJUA"
+                            ]
+                        },
+                        {
+                            "name": "ZINYINI",
+                            "villages": [
+                                "NZOLOKWE",
+                                "ONIAZO",
+                                "PASIKORO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "DZAIPI",
+                    "parishes": [
+                        {
+                            "name": "ADIDI",
+                            "villages": [
+                                "ADIDI CENTRAL",
+                                "MARINDI",
+                                "ORWANYI",
+                                "SUKARI"
+                            ]
+                        },
+                        {
+                            "name": "AJUGOPI",
+                            "villages": [
+                                "EGGE",
+                                "JURUMINI EAST",
+                                "JURUMINI WEST",
+                                "MAIACIKU",
+                                "RINGA"
+                            ]
+                        },
+                        {
+                            "name": "LOGOANGWA",
+                            "villages": [
+                                "ABOKI",
+                                "BARI",
+                                "MOKOLO-YORO",
+                                "OBU",
+                                "PAGIRINYA",
+                                "PAWINYO"
+                            ]
+                        },
+                        {
+                            "name": "MGBERE",
+                            "villages": [
+                                "DZAIPI CENTRAL",
+                                "LEYIA",
+                                "SILILI"
+                            ]
+                        },
+                        {
+                            "name": "MINIKI",
+                            "villages": [
+                                "ANGWARAPI EAST",
+                                "ANGWARAPI WEST",
+                                "MINIKI CENTRAL",
+                                "ONIGO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ITIRIKWA",
+                    "parishes": [
+                        {
+                            "name": "BARATUKU",
+                            "villages": [
+                                "ONINYARA",
+                                "OZUGO EAST",
+                                "OZUGO WEST"
+                            ]
+                        },
+                        {
+                            "name": "ITIRIKWA",
+                            "villages": [
+                                "AJERI",
+                                "AJERI CENTRAL",
+                                "APENI"
+                            ]
+                        },
+                        {
+                            "name": "KOLIDIDI",
+                            "villages": [
+                                "EJUNYA",
+                                "KOLIDIDI CENTRAL",
+                                "LUKWARA"
+                            ]
+                        },
+                        {
+                            "name": "MUNGULA",
+                            "villages": [
+                                "ALIWARA",
+                                "ORUNGWAA",
+                                "PAKWINYA"
+                            ]
+                        },
+                        {
+                            "name": "ODU",
+                            "villages": [
+                                "KALUMATIOLI",
+                                "KWOMA",
+                                "TANYAKA"
+                            ]
+                        },
+                        {
+                            "name": "ZOKA",
+                            "villages": [
+                                "GBAYI",
+                                "OLWI",
+                                "ZOKA CENTRAL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "OFUA",
+                    "parishes": [
+                        {
+                            "name": "BACERE",
+                            "villages": [
+                                "ALUPIZINZURU",
+                                "BACERE",
+                                "KUREKU EAST"
+                            ]
+                        },
+                        {
+                            "name": "ILINYI",
+                            "villages": [
+                                "MAZAANGWA",
+                                "MIRIEYI CENTRAL",
+                                "OPIO"
+                            ]
+                        },
+                        {
+                            "name": "OFUA CENTRAL",
+                            "villages": [
+                                "AYIWALA",
+                                "GURU GURU",
+                                "KOLOLO"
+                            ]
+                        },
+                        {
+                            "name": "OPI",
+                            "villages": [
+                                "AWINDIRI CENTRAL",
+                                "AWINDIRI WEST",
+                                "KOGWE"
+                            ]
+                        },
+                        {
+                            "name": "SUBBE",
+                            "villages": [
+                                "ALIABABA",
+                                "KUREKU WEST",
+                                "SUBBE CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "TIANYU",
+                            "villages": [
+                                "MIRIEYI",
+                                "TIANYU CENTRAL",
+                                "TIANYU NORTH"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PAKELE",
+                    "parishes": [
+                        {
+                            "name": "BOROLI",
+                            "villages": [
+                                "AMURU",
+                                "BOROLI CENTRAL",
+                                "LIRIA"
+                            ]
+                        },
+                        {
+                            "name": "FUDA",
+                            "villages": [
+                                "FUDA CENTRAL",
+                                "LEANGURU",
+                                "ODRAJI"
+                            ]
+                        },
+                        {
+                            "name": "IBIBIAWORO",
+                            "villages": [
+                                "IBIBIAWORO",
+                                "PADIGA",
+                                "UKUTULU"
+                            ]
+                        },
+                        {
+                            "name": "LEWA",
+                            "villages": [
+                                "AYILO",
+                                "LEWA CENTRAL",
+                                "OKAWA"
+                            ]
+                        },
+                        {
+                            "name": "MELIADERI",
+                            "villages": [
+                                "MUNDRUANGWA",
+                                "OLIA",
+                                "PALUGA"
+                            ]
+                        },
+                        {
+                            "name": "MELIJO",
+                            "villages": [
+                                "GONYILAA",
+                                "MALOBU",
+                                "MELIJO"
+                            ]
+                        },
+                        {
+                            "name": "NYIVURA",
+                            "villages": [
+                                "MELIADERI",
+                                "OJIGO",
+                                "TIOLIO"
+                            ]
+                        },
+                        {
+                            "name": "PAKELE TOWN BOARD",
+                            "villages": [
+                                "ATABOO CENTRAL A",
+                                "ATABOO CENTRAL B",
+                                "KERELU"
+                            ]
+                        },
+                        {
+                            "name": "PERECI",
+                            "villages": [
+                                "AMELO",
+                                "MAANYALWA",
+                                "MARINYO",
+                                "PALANYUA"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "ADJUMANI WEST",
+            "sub_counties": [
+                {
+                    "name": "ADJUMANI TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BIYAYA WARD",
+                            "villages": [
+                                "ABIRICAKU",
+                                "BIYAYA",
+                                "KAROKO",
+                                "MINIA EAST",
+                                "MINIA WEST",
+                                "ODRUEYI"
+                            ]
+                        },
+                        {
+                            "name": "CENTRAL WARD",
+                            "villages": [
+                                "CENTRAL I",
+                                "CENTRAL II",
+                                "FORUA",
+                                "MGBERE",
+                                "MOLUKPWODA"
+                            ]
+                        },
+                        {
+                            "name": "CESIA WARD",
+                            "villages": [
+                                "LAJOPI CESIA",
+                                "LAJOPI-GINNERY",
+                                "MOCOPE",
+                                "PAKONDO",
+                                "PARIDI",
+                                "PATUA",
+                                "PAVURAGA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ADROPI",
+                    "parishes": [
+                        {
+                            "name": "ESIA",
+                            "villages": [
+                                "ENDREBANVUKU EAST",
+                                "ENDREBANVUKU WEST",
+                                "ESIA CENTRAL",
+                                "GBALA",
+                                "MARINYO"
+                            ]
+                        },
+                        {
+                            "name": "LAJOPI",
+                            "villages": [
+                                "MOKOLO EAST",
+                                "MOKOLO WEST",
+                                "RENDE"
+                            ]
+                        },
+                        {
+                            "name": "OBILOKONG",
+                            "villages": [
+                                "MOYINYA",
+                                "OBILOKONG",
+                                "OBILOKONG WEST",
+                                "ONINYARA"
+                            ]
+                        },
+                        {
+                            "name": "OPENZINZI",
+                            "villages": [
+                                "AGOSUSU",
+                                "OBURE",
+                                "OPENZINZI CENTRAL",
+                                "PRISON",
+                                "TAMANA"
+                            ]
+                        },
+                        {
+                            "name": "PALEMO",
+                            "villages": [
+                                "ANZOO",
+                                "DERI",
+                                "KOZEIZA EAST",
+                                "KOZEIZA WEST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CIFORO",
+                    "parishes": [
+                        {
+                            "name": "AGOJO",
+                            "villages": [
+                                "AGOJO",
+                                "DUBA",
+                                "EBIAMGBA",
+                                "MARILA"
+                            ]
+                        },
+                        {
+                            "name": "LOA",
+                            "villages": [
+                                "LIRI",
+                                "LOA",
+                                "LORI",
+                                "NYIBANA",
+                                "OBUGO"
+                            ]
+                        },
+                        {
+                            "name": "MUGI",
+                            "villages": [
+                                "CIFORO CENTRAL",
+                                "MOCOPE",
+                                "ONIGO",
+                                "TOLORO"
+                            ]
+                        },
+                        {
+                            "name": "OKANGALI",
+                            "villages": [
+                                "FOROHWA",
+                                "KABAOLI",
+                                "KOBO",
+                                "OGBORO",
+                                "OKANGALI CENTRAL",
+                                "PANYAWE"
+                            ]
+                        },
+                        {
+                            "name": "OPEJO",
+                            "villages": [
+                                "AGALI",
+                                "DUBAJU",
+                                "ERAJI",
+                                "OPEJO",
+                                "RAMOGI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PACHARA",
+                    "parishes": [
+                        {
+                            "name": "ALERE",
+                            "villages": [
+                                "AJUJO",
+                                "KALAMAIRO",
+                                "OGUJEBE",
+                                "ROBIDIRE"
+                            ]
+                        },
+                        {
+                            "name": "JIHWA",
+                            "villages": [
+                                "ASISI",
+                                "MIJALE",
+                                "MUKONO",
+                                "NYEU"
+                            ]
+                        },
+                        {
+                            "name": "MARINDI",
+                            "villages": [
+                                "ELEUHWE",
+                                "MARINDI CENTRAL",
+                                "OLOBO",
+                                "RASSIA",
+                                "RASSIA WEST"
+                            ]
+                        },
+                        {
+                            "name": "OMI",
+                            "villages": [
+                                "ARRA CENTRAL",
+                                "ARRA WEST",
+                                "TANGANYIKA"
+                            ]
+                        },
+                        {
+                            "name": "UNNA",
+                            "villages": [
+                                "AGOJO/NYANIMACI",
+                                "UDERU",
+                                "UNNA CENTRAL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "UKUSIJONI",
+                    "parishes": [
+                        {
+                            "name": "AYIRI",
+                            "villages": [
+                                "AYIRI CENTRAL",
+                                "BIKERI",
+                                "ERIBAKU",
+                                "KULUKULU"
+                            ]
+                        },
+                        {
+                            "name": "GULINYA",
+                            "villages": [
+                                "AJIFORO",
+                                "ALURUNYA",
+                                "GULINYA CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "KIRABA",
+                            "villages": [
+                                "ATURA",
+                                "KIRABA CENTRAL",
+                                "NDELE"
+                            ]
+                        },
+                        {
+                            "name": "MAAJI",
+                            "villages": [
+                                "MAAJI CENTRAL",
+                                "RUBANGABINI",
+                                "SINYANYA",
+                                "TINDIRI"
+                            ]
+                        },
+                        {
+                            "name": "PAYARU",
+                            "villages": [
+                                "ODRANGA",
+                                "PAYARU",
+                                "SODOGO"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "ADJUMANI"
+}

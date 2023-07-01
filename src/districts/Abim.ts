@@ -924,5 +924,5 @@ export default {
         },
       ],
     },
-  ],
+  ],  
 } as District;

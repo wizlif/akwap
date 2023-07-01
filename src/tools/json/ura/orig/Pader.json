@@ -1,0 +1,974 @@
+{
+  "name": "Pader",
+  "id": 72,
+  "counties": [
+    {
+      "name": "Aruu",
+      "id": 140,
+      "sub_counties": [
+        {
+          "name": "Awere",
+          "id": 829,
+          "parishes": [
+            {
+              "name": "Bolo",
+              "id": 789,
+              "villages": [
+                { "name": "Agweng", "id": 1837 },
+                { "name": "Agweng north", "id": 1857 },
+                { "name": "Agweng west", "id": 1860 },
+                { "name": "Ayom", "id": 6062 },
+                { "name": "Ayom central", "id": 6064 },
+                { "name": "Ayom west", "id": 6068 },
+                { "name": "Got olal", "id": 16870 },
+                { "name": "Juk lebi central", "id": 18143 },
+                { "name": "Juk lebi west", "id": 18144 },
+                { "name": "Nyanya", "id": 47253 },
+                { "name": "Lamach central", "id": 33731 },
+                { "name": "Lamach north", "id": 33732 },
+                { "name": "Lamach south", "id": 33733 },
+                { "name": "Lamach west", "id": 33734 },
+                { "name": "Laming", "id": 33768 },
+                { "name": "Langole", "id": 33834 },
+                { "name": "Langole b", "id": 33836 },
+                { "name": "Lapeta east", "id": 33882 },
+                { "name": "Lapeta west", "id": 33883 },
+                { "name": "Lapetta central", "id": 33884 },
+                { "name": "Olamkara", "id": 49258 }
+              ]
+            },
+            {
+              "name": "Angole",
+              "id": 438,
+              "villages": [
+                { "name": "Aluny", "id": 3353 },
+                { "name": "Angole laroo", "id": 4140 },
+                { "name": "Atede central", "id": 5276 },
+                { "name": "Atede east", "id": 5278 },
+                { "name": "Atede west", "id": 5280 },
+                { "name": "Atede wigweng", "id": 5281 },
+                { "name": "Lutini central", "id": 35696 },
+                { "name": "Lutini east", "id": 35697 },
+                { "name": "Lutini west", "id": 35698 },
+                { "name": "Lamina pur", "id": 33764 },
+                { "name": "Latek east", "id": 33928 },
+                { "name": "Latek west", "id": 33929 },
+                { "name": "Latira east", "id": 33941 },
+                { "name": "Latira west", "id": 33942 },
+                { "name": "Paikat agengo", "id": 51415 },
+                { "name": "Paikat akidi", "id": 51416 },
+                { "name": "Obic east", "id": 47839 },
+                { "name": "Obic west", "id": 47840 }
+              ]
+            },
+            {
+              "name": "Lagile",
+              "id": 4400,
+              "villages": [
+                { "name": "Akol-too", "id": 2485 },
+                { "name": "Bolo dago", "id": 7374 },
+                { "name": "Bolo dam", "id": 7375 },
+                { "name": "Bolo dam west", "id": 7376 },
+                { "name": "Bolo wigweng", "id": 7378 },
+                { "name": "Gweng lik", "id": 17020 },
+                { "name": "Canbeno", "id": 14749 },
+                { "name": "Canbeno b", "id": 14750 },
+                { "name": "Lukor", "id": 35340 },
+                { "name": "Lukwor ojuu", "id": 35389 },
+                { "name": "Laluruku", "id": 33722 },
+                { "name": "Laminbaca", "id": 33767 },
+                { "name": "Parwech lukee", "id": 51761 },
+                { "name": "Parwech lukee east", "id": 51762 },
+                { "name": "Wii kweyo", "id": 57745 },
+                { "name": "Wiraa", "id": 57816 },
+                { "name": "Obolokome", "id": 47913 },
+                { "name": "Oloko tum", "id": 49486 }
+              ]
+            },
+            {
+              "name": "Rackoko",
+              "id": 6811,
+              "villages": [
+                { "name": "Atup", "id": 5486 },
+                { "name": "Bolo opette", "id": 7377 },
+                { "name": "Lunyiri east", "id": 35521 },
+                { "name": "Lunyiri west", "id": 35522 },
+                { "name": "Laliya laroo", "id": 33711 },
+                { "name": "Rackoko a", "id": 52226 },
+                { "name": "Rackoko b", "id": 52227 },
+                { "name": "Tiktik", "id": 56549 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ogom",
+          "id": 989,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Aluka east", "id": 3326 },
+                { "name": "Aluka west", "id": 3329 },
+                { "name": "Bar odyek", "id": 6421 },
+                { "name": "Coorom east", "id": 15364 },
+                { "name": "Coorom west", "id": 15365 },
+                { "name": "Dago dwong", "id": 15453 },
+                { "name": "Labaka", "id": 33441 },
+                { "name": "Lapina buru puk", "id": 33888 },
+                { "name": "Pago", "id": 51391 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Agum wii gweng", "id": 1734 },
+                { "name": "Amyel", "id": 3923 },
+                { "name": "Aringo dyang", "id": 4948 },
+                { "name": "Keyo rom", "id": 25647 },
+                { "name": "Gang bar", "id": 16351 },
+                { "name": "Misciri", "id": 38557 },
+                { "name": "Loyo cak", "id": 34913 },
+                { "name": "Lapina bar dyang", "id": 33887 },
+                { "name": "Lapina tebung", "id": 33889 },
+                { "name": "Too kodo", "id": 56645 },
+                { "name": "Nyong", "id": 47645 },
+                { "name": "Olam central", "id": 49251 },
+                { "name": "Te-adwoki", "id": 56165 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Amat gira", "id": 3518 },
+                { "name": "Owele", "id": 51105 },
+                { "name": "Yitoduny east", "id": 57963 },
+                { "name": "Yitoduny west", "id": 57964 },
+                { "name": "Ogeng north", "id": 48530 },
+                { "name": "Te - lela east", "id": 56117 },
+                { "name": "Te-lela west", "id": 56202 },
+                { "name": "Telela central", "id": 56375 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pader",
+          "id": 831,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pader town council",
+          "id": 844,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Puranga",
+          "id": 834,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aruu north",
+      "id": 355,
+      "sub_counties": [
+        {
+          "name": "Awere",
+          "id": 829,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ogom",
+          "id": 989,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pader",
+          "id": 831,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pader town council",
+          "id": 844,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Puranga",
+          "id": 834,
+          "parishes": [
+            {
+              "name": "Kal angore",
+              "id": 2650,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Pukor",
+              "id": 6796,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Ogom",
+              "id": 6286,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            },
+            {
+              "name": "Otong",
+              "id": 6573,
+              "villages": [
+                { "name": "Acano central", "id": 704 },
+                { "name": "Acano east", "id": 705 },
+                { "name": "Acano west", "id": 706 },
+                { "name": "Gabadin", "id": 16239 },
+                { "name": "Kiteny central", "id": 29824 },
+                { "name": "Kiteny west", "id": 29825 },
+                { "name": "Lacinga central", "id": 33539 },
+                { "name": "Lacinga north", "id": 33540 },
+                { "name": "Lacinga south", "id": 33541 },
+                { "name": "Luzira", "id": 35841 },
+                { "name": "Lapeny", "id": 33872 },
+                { "name": "Otumpili central", "id": 50994 },
+                { "name": "Otumpili north", "id": 50999 },
+                { "name": "Otumpili south", "id": 51002 },
+                { "name": "Wi raa east", "id": 57680 },
+                { "name": "Wiraa west", "id": 57817 },
+                { "name": "Vietnam", "id": 57059 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

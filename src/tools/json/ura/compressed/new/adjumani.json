@@ -1,0 +1,128 @@
+{
+  "name": "ADJUMANI",
+  "counties": [
+    {
+      "name": "ADJUMANI EAST",
+      "sub_counties": [
+        {
+          "name": "ARINYAPI",
+          "parishes": [
+            { "name": "ARASI", "villages": ["ELEMA", "ORIANGWA", "OLIHWI", "OLOBOO"] },
+            { "name": "ELEGU", "villages": ["KIBIRA", "ELEGU CENTRAL", "LODUDRIEPKA", "MELEKWE"] },
+            { "name": "ITUJI", "villages": ["ITOASI EAST", "ITOASI WEST", "MADULU NORTH", "MADULU SOUTH", "ORWENYI"] },
+            { "name": "LIRI", "villages": ["OVUVU EAST", "OVUVU WEST", "PAMAJUA", "OGOLO NORTH", "OGOLO SOUTH"] },
+            { "name": "ZINYINI", "villages": ["PASIKORO", "ONIAZO", "NZOLOKWE"] }
+          ]
+        },
+        {
+          "name": "DZAIPI",
+          "parishes": [
+            { "name": "ADIDI", "villages": ["ADIDI CENTRAL", "MARINDI", "ORWANYI", "SUKARI"] },
+            { "name": "AJUGOPI", "villages": ["JURUMINI EAST", "JURUMINI WEST", "EGGE", "MAIACIKU", "RINGA"] },
+            { "name": "LOGOANGWA", "villages": ["ABOKI", "BARI", "MOKOLO-YORO", "PAGIRINYA", "PAWINYO", "OBU"] },
+            { "name": "MGBERE", "villages": ["DZAIPI CENTRAL", "LEYIA", "SILILI"] },
+            { "name": "MINIKI", "villages": ["ANGWARAPI EAST", "ANGWARAPI WEST", "MINIKI CENTRAL", "ONIGO"] }
+          ]
+        },
+        {
+          "name": "ITIRIKWA",
+          "parishes": [
+            { "name": "BARATUKU", "villages": ["OZUGO EAST", "OZUGO WEST", "ONINYARA"] },
+            { "name": "ITIRIKWA", "villages": ["AJERI", "AJERI CENTRAL", "APENI"] },
+            { "name": "KOLIDIDI", "villages": ["KOLIDIDI CENTRAL", "EJUNYA", "LUKWARA"] },
+            { "name": "MUNGULA", "villages": ["ALIWARA", "PAKWINYA", "ORUNGWAA"] },
+            { "name": "ODU", "villages": ["KWOMA", "KALUMATIOLI", "TANYAKA"] },
+            { "name": "ZOKA", "villages": ["GBAYI", "ZOKA CENTRAL", "OLWI"] }
+          ]
+        },
+        {
+          "name": "OFUA",
+          "parishes": [
+            { "name": "BACERE", "villages": ["ALUPIZINZURU", "BACERE", "KUREKU EAST"] },
+            { "name": "ILINYI", "villages": ["MIRIEYI CENTRAL", "MAZAANGWA", "OPIO"] },
+            { "name": "SUBBE", "villages": ["ALIABABA", "KUREKU WEST", "SUBBE CENTRAL"] },
+            { "name": "TIANYU", "villages": ["MIRIEYI", "TIANYU CENTRAL", "TIANYU NORTH"] },
+            { "name": "OFUA CENTRAL", "villages": ["AYIWALA", "GURU GURU", "KOLOLO"] },
+            { "name": "OPI", "villages": ["AWINDIRI CENTRAL", "AWINDIRI WEST", "KOGWE"] }
+          ]
+        },
+        {
+          "name": "PAKELE",
+          "parishes": [
+            { "name": "BOROLI", "villages": ["AMURU", "BOROLI CENTRAL", "LIRIA"] },
+            { "name": "FUDA", "villages": ["FUDA CENTRAL", "LEANGURU", "ODRAJI"] },
+            { "name": "IBIBIAWORO", "villages": ["IBIBIAWORO", "PADIGA", "UKUTULU"] },
+            { "name": "LEWA", "villages": ["AYILO", "LEWA CENTRAL", "OKAWA"] },
+            { "name": "MELIADERI", "villages": ["MUNDRUANGWA", "PALUGA", "OLIA"] },
+            { "name": "MELIJO", "villages": ["GONYILAA", "MALOBU", "MELIJO"] },
+            { "name": "NYIVURA", "villages": ["MELIADERI", "TIOLIO", "OJIGO"] },
+            { "name": "PAKELE TOWN BOARD", "villages": ["ATABOO CENTRAL A", "ATABOO CENTRAL B", "KERELU"] },
+            { "name": "PERECI", "villages": ["AMELO", "MAANYALWA", "MARINYO", "PALANYUA"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ADJUMANI WEST",
+      "sub_counties": [
+        {
+          "name": "ADJUMANI TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BIYAYA WARD",
+              "villages": ["ABIRICAKU", "BIYAYA", "KAROKO", "MINIA EAST", "MINIA WEST", "ODRUEYI"]
+            },
+            { "name": "CENTRAL WARD", "villages": ["FORUA", "CENTRAL I", "CENTRAL II", "MOLUKPWODA", "MGBERE"] },
+            {
+              "name": "CESIA WARD",
+              "villages": ["MOCOPE", "LAJOPI CESIA", "LAJOPI-GINNERY", "PAKONDO", "PARIDI", "PATUA", "PAVURAGA"]
+            }
+          ]
+        },
+        {
+          "name": "ADROPI",
+          "parishes": [
+            {
+              "name": "ESIA",
+              "villages": ["ESIA CENTRAL", "GBALA", "ENDREBANVUKU EAST", "ENDREBANVUKU WEST", "MARINYO"]
+            },
+            { "name": "LAJOPI", "villages": ["MOKOLO EAST", "MOKOLO WEST", "RENDE"] },
+            { "name": "OBILOKONG", "villages": ["MOYINYA", "ONINYARA", "OBILOKONG", "OBILOKONG WEST"] },
+            { "name": "OPENZINZI", "villages": ["AGOSUSU", "OPENZINZI CENTRAL", "PRISON", "OBURE", "TAMANA"] },
+            { "name": "PALEMO", "villages": ["ANZOO", "KOZEIZA EAST", "KOZEIZA WEST", "DERI"] }
+          ]
+        },
+        {
+          "name": "CIFORO",
+          "parishes": [
+            { "name": "AGOJO", "villages": ["AGOJO", "DUBA", "EBIAMGBA", "MARILA"] },
+            { "name": "LOA", "villages": ["LIRI", "LOA", "LORI", "NYIBANA", "OBUGO"] },
+            { "name": "MUGI", "villages": ["CIFORO CENTRAL", "MOCOPE", "ONIGO", "TOLORO"] },
+            { "name": "OKANGALI", "villages": ["KABAOLI", "KOBO", "FOROHWA", "PANYAWE", "OKANGALI CENTRAL", "OGBORO"] },
+            { "name": "OPEJO", "villages": ["AGALI", "DUBAJU", "ERAJI", "OPEJO", "RAMOGI"] }
+          ]
+        },
+        {
+          "name": "PACHARA",
+          "parishes": [
+            { "name": "ALERE", "villages": ["AJUJO", "KALAMAIRO", "ROBIDIRE", "OGUJEBE"] },
+            { "name": "JIHWA", "villages": ["ASISI", "MIJALE", "MUKONO", "NYEU"] },
+            { "name": "MARINDI", "villages": ["ELEUHWE", "MARINDI CENTRAL", "RASSIA", "RASSIA WEST", "OLOBO"] },
+            { "name": "UNNA", "villages": ["AGOJO/NYANIMACI", "UDERU", "UNNA CENTRAL"] },
+            { "name": "OMI", "villages": ["ARRA CENTRAL", "ARRA WEST", "TANGANYIKA"] }
+          ]
+        },
+        {
+          "name": "UKUSIJONI",
+          "parishes": [
+            { "name": "AYIRI", "villages": ["AYIRI CENTRAL", "BIKERI", "KULUKULU", "ERIBAKU"] },
+            { "name": "GULINYA", "villages": ["AJIFORO", "ALURUNYA", "GULINYA CENTRAL"] },
+            { "name": "MAAJI", "villages": ["MAAJI CENTRAL", "RUBANGABINI", "SINYANYA", "TINDIRI"] },
+            { "name": "KIRABA", "villages": ["ATURA", "KIRABA CENTRAL", "NDELE"] },
+            { "name": "PAYARU", "villages": ["PAYARU", "SODOGO", "ODRANGA"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

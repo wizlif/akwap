@@ -1,0 +1,286 @@
+{
+  "name": "Amuru",
+  "id": 5,
+  "counties": [
+    {
+      "name": "Kilak north",
+      "id": 433,
+      "sub_counties": [
+        {
+          "name": "Atiak",
+          "id": 28,
+          "parishes": [
+            {
+              "name": "Bibia",
+              "id": 730,
+              "villages": [
+                { "name": "Bibia east", "id": 6936 },
+                { "name": "Bibia west", "id": 6937 }
+              ]
+            },
+            {
+              "name": "Kal(atiak)",
+              "id": 2651,
+              "villages": [
+                { "name": "Kal east", "id": 20748 },
+                { "name": "Kal west", "id": 20749 }
+              ]
+            },
+            { "name": "Pupwonya", "id": 6805, "villages": [{ "name": "Pupwonya south", "id": 52178 }] },
+            {
+              "name": "Okidi",
+              "id": 6325,
+              "villages": [
+                { "name": "Okidi north", "id": 48961 },
+                { "name": "Okidi south", "id": 48962 }
+              ]
+            },
+            {
+              "name": "Pacilo",
+              "id": 6615,
+              "villages": [
+                { "name": "Pacilo east", "id": 51314 },
+                { "name": "Pacilo west", "id": 51315 }
+              ]
+            },
+            {
+              "name": "Palukere",
+              "id": 6677,
+              "villages": [
+                { "name": "Palukere west", "id": 51582 },
+                { "name": "Palukereeast", "id": 51583 }
+              ]
+            },
+            {
+              "name": "Parwaca",
+              "id": 6729,
+              "villages": [
+                { "name": "Agoro", "id": 1643 },
+                { "name": "Pabwono", "id": 51298 }
+              ]
+            },
+            {
+              "name": "Pawel",
+              "id": 6744,
+              "villages": [
+                { "name": "Pawel kal", "id": 51842 },
+                { "name": "Pukumu", "id": 52144 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pabbo",
+          "id": 29,
+          "parishes": [
+            {
+              "name": "Gaya",
+              "id": 2044,
+              "villages": [
+                { "name": "Paomo", "id": 51700 },
+                { "name": "Pukwany", "id": 52147 }
+              ]
+            },
+            {
+              "name": "Kal",
+              "id": 2642,
+              "villages": [
+                { "name": "Centre", "id": 14899 },
+                { "name": "Oguru", "id": 48648 }
+              ]
+            },
+            {
+              "name": "Labala",
+              "id": 4386,
+              "villages": [
+                { "name": "Adara", "id": 1118 },
+                { "name": "Apaa", "id": 4467 },
+                { "name": "Olinga", "id": 49436 }
+              ]
+            },
+            {
+              "name": "Pogo",
+              "id": 6772,
+              "villages": [
+                { "name": "Ceri", "id": 14905 },
+                { "name": "Otorokome", "id": 50961 },
+                { "name": "Okuture", "id": 49144 }
+              ]
+            },
+            {
+              "name": "Palwong",
+              "id": 6682,
+              "villages": [
+                { "name": "Katikati a", "id": 24488 },
+                { "name": "Katikati b", "id": 24489 },
+                { "name": "Pakuma", "id": 51521 }
+              ]
+            },
+            {
+              "name": "Parubanga",
+              "id": 6727,
+              "villages": [
+                { "name": "Abera", "id": 178 },
+                { "name": "Perecu", "id": 51919 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kilak south",
+      "id": 434,
+      "sub_counties": [
+        {
+          "name": "Amuru",
+          "id": 27,
+          "parishes": [
+            {
+              "name": "Acwera",
+              "id": 97,
+              "villages": [
+                { "name": "Oberabic", "id": 47822 },
+                { "name": "Teddi", "id": 56279 }
+              ]
+            },
+            {
+              "name": "Toro",
+              "id": 7281,
+              "villages": [
+                { "name": "Kal", "id": 20741 },
+                { "name": "Turdakatuba", "id": 56870 }
+              ]
+            },
+            {
+              "name": "Okunged",
+              "id": 6349,
+              "villages": [
+                { "name": "Abongo", "id": 376 },
+                { "name": "Acodo", "id": 860 }
+              ]
+            },
+            { "name": "Pagak", "id": 6624, "villages": [{ "name": "Labongo gali", "id": 33471 }] },
+            { "name": "Pailyec", "id": 6641, "villages": [{ "name": "Reckiceke", "id": 52319 }] },
+            {
+              "name": "Pamuca",
+              "id": 6697,
+              "villages": [
+                { "name": "Layamo", "id": 33981 },
+                { "name": "Ogali", "id": 48503 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Amuru town council",
+          "id": 31,
+          "parishes": [
+            {
+              "name": "Amoyokoma ward",
+              "id": 390,
+              "villages": [
+                { "name": "Atiti", "id": 5422 },
+                { "name": "Kigoli", "id": 26807 }
+              ]
+            },
+            {
+              "name": "Lujoro ward",
+              "id": 4608,
+              "villages": [
+                { "name": "Nen caro", "id": 44419 },
+                { "name": "Opo lacen", "id": 50434 }
+              ]
+            },
+            {
+              "name": "Pogi ward",
+              "id": 6771,
+              "villages": [
+                { "name": "Abongodyang", "id": 409 },
+                { "name": "Labila om", "id": 33453 }
+              ]
+            },
+            {
+              "name": "Otwee ward",
+              "id": 6583,
+              "villages": [
+                { "name": "Cindi", "id": 15306 },
+                { "name": "Ower", "id": 51115 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lamogi",
+          "id": 30,
+          "parishes": [
+            {
+              "name": "Agwaryugi",
+              "id": 178,
+              "villages": [
+                { "name": "Abyee", "id": 599 },
+                { "name": "Jimo", "id": 18072 }
+              ]
+            },
+            {
+              "name": "Coke",
+              "id": 1915,
+              "villages": [
+                { "name": "Lamola", "id": 33803 },
+                { "name": "Odur", "id": 48447 }
+              ]
+            },
+            {
+              "name": "Giragira",
+              "id": 2068,
+              "villages": [
+                { "name": "Ayila", "id": 5994 },
+                { "name": "Opok", "id": 50437 }
+              ]
+            },
+            {
+              "name": "Guruguru",
+              "id": 2104,
+              "villages": [
+                { "name": "Amora", "id": 3770 },
+                { "name": "Otici", "id": 50902 }
+              ]
+            },
+            {
+              "name": "Lacor",
+              "id": 4398,
+              "villages": [
+                { "name": "Lwala kwar", "id": 35942 },
+                { "name": "Pukure", "id": 52145 }
+              ]
+            },
+            {
+              "name": "Obbo",
+              "id": 6213,
+              "villages": [
+                { "name": "Akwar", "id": 2704 },
+                { "name": "Apotokitoo", "id": 4686 }
+              ]
+            },
+            {
+              "name": "Pagoro",
+              "id": 6631,
+              "villages": [
+                { "name": "Coo rom", "id": 15356 },
+                { "name": "Kal", "id": 20740 }
+              ]
+            },
+            {
+              "name": "Palema",
+              "id": 6671,
+              "villages": [
+                { "name": "Amilobo", "id": 3625 },
+                { "name": "Pakiri", "id": 51503 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

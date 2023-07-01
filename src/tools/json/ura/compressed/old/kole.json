@@ -1,0 +1,832 @@
+{
+  "name": "KOLE",
+  "counties": [
+    {
+      "name": "KOLE NORTH COUNTY",
+      "sub_counties": [
+        {
+          "name": "ABOKE",
+          "parishes": [
+            {
+              "name": "APACH",
+              "villages": [
+                "ABIL A",
+                "ABIL B",
+                "ADYANG OPIRO 'A'",
+                "ADYANG OPIRO 'B'",
+                "AGWATA TEK",
+                "AGWET",
+                "ALIK MOLA",
+                "AMUGE",
+                "APAT AYIKA",
+                "AYAI 'A'",
+                "AYAI 'B'",
+                "AYI DERO LONGO",
+                "BAR MOGO",
+                "BAR OWAK 'A'",
+                "BAR OWAK 'B'",
+                "BAR ROMO",
+                "BAR YAO 'A'",
+                "BAR YAO 'B'",
+                "BARLWALA",
+                "OBANGA KONYA",
+                "OBELOWER",
+                "OGAM KATI",
+                "OKOKO 'A'",
+                "OKOKO SAFI",
+                "OLIDURU",
+                "TELELA 'A'",
+                "TELELA 'B'",
+                "WOROMITE"
+              ]
+            },
+            {
+              "name": "APURU",
+              "villages": [
+                "ABONGODERO HILL",
+                "ABWOR",
+                "ACET DYEL",
+                "ADAG ACAE",
+                "AMWONYA",
+                "ANYANGOMIT",
+                "APURU ILELA",
+                "ARWOT PE RIBERE",
+                "ATEK IGWALI",
+                "OLEPO",
+                "OLI-AOLA",
+                "OYIMA",
+                "PUKICA"
+              ]
+            },
+            {
+              "name": "OPETA",
+              "villages": [
+                "ABAKO",
+                "ACOTO",
+                "ADAKTARO",
+                "AGUNG",
+                "AGWENO OLWOKO WELO",
+                "AJAKA",
+                "AJUBI",
+                "AKAOIDEBE",
+                "AKUTIGUDU",
+                "ALEM",
+                "AMUKU AYET",
+                "BAR CIK",
+                "BAR DYEL",
+                "BAR IBATI",
+                "BAR NYANG",
+                "BAR ODIR",
+                "BAR ODYEK",
+                "BE-IOKO",
+                "BEDIWORO",
+                "MAT IMED IKITI",
+                "OGWANG OLO WELO",
+                "ONGINY HIGHLAND",
+                "OPETA 'A'",
+                "ROC-PACO",
+                "WII-DAM"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ABOKE TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "AKWIRIDIDI WARD",
+              "villages": [
+                "ABOKE HIGH SCH.",
+                "ABUNG GENGA",
+                "ABUTO CILO",
+                "ACEKE LAT",
+                "ACO PE CEMO IMON",
+                "ACUNGU LYEC 'A'",
+                "ACUNGU LYEC 'B'",
+                "ACWE ANYIRA",
+                "AKAIDEBE 'A'",
+                "AKAIDEBE 'B'",
+                "AMUKUGUNGU",
+                "AROMONYONGO",
+                "BAR AWENO",
+                "BAR ICOC",
+                "CUNGACIKI",
+                "DAGAYELA",
+                "IMATO",
+                "KWERI IKWERI",
+                "OCOKCAN A",
+                "OCOKCAN B",
+                "OKELOCONY",
+                "OYETOLEYI A",
+                "OYETOLEYI B",
+                "TE ABOLO",
+                "TE ILWA",
+                "WANG LOBO",
+                "WIP PIP"
+              ]
+            },
+            {
+              "name": "AWEINGWEC WARD",
+              "villages": [
+                "ABOKE H/C",
+                "ACEKELEYE",
+                "ACERO A",
+                "ACERO B",
+                "ALYAT A",
+                "ALYAT B",
+                "ARAO A",
+                "ARAO B",
+                "AWEINGWEC B",
+                "AWELE",
+                "WIRAO"
+              ]
+            },
+            {
+              "name": "EASTERN WARD",
+              "villages": [
+                "ADAG ANII",
+                "AMAT MIT",
+                "APALA",
+                "ATEK ADWONG",
+                "AWEE IBURA",
+                "BAR IGWERI",
+                "BAR LWALA",
+                "IWANYO IKENG",
+                "PACO PE TOO APE",
+                "TE-IPIE",
+                "TE-ORYANG"
+              ]
+            },
+            {
+              "name": "OGWANGACUMA WARD",
+              "villages": [
+                "ACULBANYA A",
+                "ACULBANYA B",
+                "ATEK",
+                "CORNER MOWLEM",
+                "LOKA LAGA A",
+                "LOKA LAGA B",
+                "OMOLO",
+                "TE-OKOLE",
+                "TEOWAK"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALITO",
+          "parishes": [
+            { "name": "ALITO", "villages": ["AKUKI", "ANAM OKUN", "BAR-RWOT A", "TE-AGUNGA"] },
+            {
+              "name": "AMUGE",
+              "villages": [
+                "ABAK ALITO",
+                "ABAK CENTRAL",
+                "ABAR WINYO",
+                "AGOMA",
+                "AGWENGOTOP",
+                "AKWERI",
+                "ALYATO",
+                "AMUGE A",
+                "AMUGE B",
+                "ATON",
+                "BUNG",
+                "OCERE",
+                "PAR ANYIM",
+                "TEE EME"
+              ]
+            },
+            {
+              "name": "APALA",
+              "villages": [
+                "ACANKADO A",
+                "ACANKADO B",
+                "ADOKINGEI",
+                "ADYEL A",
+                "ADYEL B",
+                "AGWENOTONGO WELO",
+                "ANGULI",
+                "ATINGO DOGA",
+                "ATOP",
+                "BAR PII ADWONG",
+                "BAR PII ATIDI",
+                "IRAM",
+                "JINJA",
+                "LOCKEN",
+                "OBUBU",
+                "OMITO A",
+                "OMITO B",
+                "PALA  TAI"
+              ]
+            },
+            {
+              "name": "APIIOGURO",
+              "villages": [
+                "ABONGOIMAKI",
+                "ADAGANII",
+                "APIIOGURO",
+                "BARAKERE",
+                "BARNOT",
+                "BARONAN",
+                "KWOGWA",
+                "ONYWAL A",
+                "ONYWAL B",
+                "OWAKA",
+                "TEKULO",
+                "WELOWE",
+                "WOREKENI"
+              ]
+            },
+            {
+              "name": "AYALA-OYA",
+              "villages": [
+                "ABAKO  DIP",
+                "ABAKO 'A'",
+                "ABEDO BER",
+                "ABIM CENTER",
+                "ABIM NORTH",
+                "ACANOJER",
+                "ALEM",
+                "AMON",
+                "BAR GIL",
+                "ODYEK PE ILANG",
+                "OGONYOLAO",
+                "OTIKOKIN",
+                "WIPIP"
+              ]
+            },
+            {
+              "name": "BARONGIN",
+              "villages": [
+                "AKAIDEBE",
+                "ALIT",
+                "APURU",
+                "AWURU",
+                "AYILE",
+                "GICEM",
+                "ONYUT CENTRE",
+                "ORUPU",
+                "OTIRI",
+                "TE-OPOK"
+              ]
+            },
+            {
+              "name": "OTKWACH",
+              "villages": [
+                "ABWAL",
+                "ADUKE",
+                "ALONGOWEE",
+                "AWAKA DUNY",
+                "AYITATWON",
+                "LWALA",
+                "OCOR",
+                "OLIPA",
+                "TE-LELA",
+                "TE-OWAK"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALITO TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "AKOR WARD",
+              "villages": [
+                "ABOLONENO",
+                "ABUNG GENGA",
+                "ACANOWEE",
+                "AMINTATO A",
+                "AMINTATO B",
+                "ANYONOMAC",
+                "AWATNGWENINO",
+                "BAR APWO",
+                "OTKWAC AMALO",
+                "TEGWENG"
+              ]
+            },
+            {
+              "name": "BUA-ATYENO WARD",
+              "villages": [
+                "ABONGO COO",
+                "ALITO TRADING CENTRE",
+                "APIT PE DAA",
+                "BARONGIN",
+                "ENTEBBE",
+                "FOREST RESERVE",
+                "MI WAA ANYIM",
+                "ODOKAMIDO",
+                "OLYET",
+                "TE-DAM"
+              ]
+            },
+            {
+              "name": "OWANI ADILO WARD",
+              "villages": [
+                "ABURA",
+                "ACANDYEL",
+                "ADYELOMWODO",
+                "ALILO",
+                "ANENOBER A",
+                "ANENOBER B",
+                "BAR RWOT B",
+                "OTYANG",
+                "TE-YAO",
+                "WII ADU"
+              ]
+            },
+            {
+              "name": "TEKIDI WARD",
+              "villages": [
+                "AJALIGADO",
+                "ANEKAPIRI",
+                "APENA OONY",
+                "BAR OYELE",
+                "DOG GUDU",
+                "ODURE",
+                "TE KIDI",
+                "TE KWORO A",
+                "TE-KWORO B",
+                "WIGWENG"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OKWERODOT",
+          "parishes": [
+            {
+              "name": "ABONG JOK",
+              "villages": [
+                "ABOLO NENO",
+                "ABONGO-PAPA",
+                "ACOO TEDO A",
+                "ACOO TEDO B",
+                "ADAG-ANYWAR",
+                "ALAKE",
+                "APII",
+                "APIT TYE IPOLO",
+                "OGWEO A",
+                "OGWEO B",
+                "WORO MITE"
+              ]
+            },
+            {
+              "name": "ADEL-LOGO",
+              "villages": [
+                "ABUKA 'A'",
+                "ABUKA 'B'",
+                "ACAKE-TE-KULU",
+                "AJIDA BORDER",
+                "AJOK AWELO",
+                "ALEGE",
+                "AWOBE ODE 'A'",
+                "AWOBE ODE 'B'",
+                "BAR OPIRO",
+                "BAR PUNU",
+                "BARILEC",
+                "ETENG",
+                "LAII",
+                "LELA MUNU",
+                "ODONG PE YAMO",
+                "TE OKUTO",
+                "TE-OCOL"
+              ]
+            },
+            {
+              "name": "AYAMO",
+              "villages": [
+                "ALEKOLIL",
+                "AROADYANG",
+                "AYAMO A",
+                "AYAMO B",
+                "BAR ODWONG TC",
+                "BARONGER",
+                "GWOK WI ATINIWAYA",
+                "LELA OMIA",
+                "OBANGA OLEKA",
+                "OKUNAYAI",
+                "ORUNI A",
+                "ORUNI B",
+                "TELELA",
+                "WITIM"
+              ]
+            },
+            {
+              "name": "AYARA",
+              "villages": [
+                "ABOLOWO",
+                "ADAG ANII",
+                "AJUK A",
+                "AJUK B",
+                "AYARA CENTRAL",
+                "AYIA CAI",
+                "BAR ABOLO",
+                "BAR ODWONG 'A'",
+                "BAR ODWONG 'B'",
+                "BAR-OPENO",
+                "LWALA",
+                "ORIB CING",
+                "TE ITEK"
+              ]
+            },
+            {
+              "name": "LELAKOT",
+              "villages": [
+                "ADAK ATARO",
+                "ADENGAWIC",
+                "ADILI 'A'",
+                "ADILI 'B'",
+                "ALANGA CONER",
+                "ALONGO YITE BIT",
+                "ANENO BER",
+                "AWIRO",
+                "BARADUU",
+                "DULA A",
+                "DULA B",
+                "LELA OOLA",
+                "LELAKOT",
+                "LELAOCIKA",
+                "OLENG OBIR"
+              ]
+            },
+            {
+              "name": "LWALA",
+              "villages": [
+                "ACANMWOL",
+                "AKENA",
+                "AKENA B",
+                "ALYEC A",
+                "ALYEC B",
+                "AMIA BIL",
+                "AMOLI",
+                "AWILI",
+                "AYILE A",
+                "AYILE B",
+                "BAR ODYEK",
+                "BAR-LONYO",
+                "LWALA A",
+                "LWALA B",
+                "OGABI",
+                "OMEROGWENO A",
+                "OMEROGWENO B",
+                "TE-OPOK A",
+                "TE-OPOK B",
+                "WORE KENI"
+              ]
+            },
+            {
+              "name": "OBUTU",
+              "villages": [
+                "ABOLOOWO",
+                "ALANGO",
+                "BAR IBULE A",
+                "BAR IBULE B",
+                "BAR IBULE CENTRE",
+                "OBUTU CENTRE",
+                "OBUTU CORNER",
+                "TE OBIA B",
+                "TE-OBIA A"
+              ]
+            },
+            {
+              "name": "OKWERODOT",
+              "villages": [
+                "ABONGO JOK",
+                "ACAEOGIK",
+                "ACO OTEDO",
+                "ADAG ANII",
+                "ADOG-MON-MIO",
+                "ADYEL ODEO",
+                "AGOGA",
+                "KAKIRA",
+                "ONGURA",
+                "TE-OPOK",
+                "TEYAO"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KOLE SOUTH COUNTY",
+      "sub_counties": [
+        {
+          "name": "AKALO",
+          "parishes": [
+            {
+              "name": "ABELI",
+              "villages": [
+                "ACUNG APENYI",
+                "ALWALA",
+                "APUTI",
+                "AWELO",
+                "AWIE OLAL",
+                "BUNG ABUNGA",
+                "BUNG ODYEK",
+                "IREDA",
+                "LORO",
+                "ODEO",
+                "OTUTA"
+              ]
+            },
+            {
+              "name": "BAR-AKALO",
+              "villages": [
+                "ABIBUTI",
+                "ABOLOKOMA",
+                "ADAKINGO",
+                "ADWILA",
+                "ADWIR",
+                "AGERINONO",
+                "AMOMTOO",
+                "APARANGO",
+                "BAROWO",
+                "OJUKILWALA",
+                "OROC"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AKALO TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "EASTERN A WARD",
+              "villages": [
+                "ACANPII",
+                "AJOK OWEO",
+                "AKURIDEN",
+                "AKURILUBA",
+                "BAR ALIRO",
+                "BAR ILWA",
+                "IGEL",
+                "OPIRA",
+                "OWEO",
+                "WITIM"
+              ]
+            },
+            {
+              "name": "EASTERN B WARD",
+              "villages": [
+                "ABEDIWORO",
+                "ALIK IMALO",
+                "ALIK IPING",
+                "ATILEM",
+                "BAR OPOK",
+                "OCAN OYERE",
+                "OWANGODYANG A",
+                "OWANGODYANG B"
+              ]
+            },
+            {
+              "name": "WESTERN A WARD",
+              "villages": [
+                "ADYEDA",
+                "AKURA",
+                "ALIRI",
+                "AROBI",
+                "BAR IBU",
+                "BARAJET",
+                "BARDOK OCULI",
+                "OBELA",
+                "OKUT",
+                "OLAYA"
+              ]
+            },
+            {
+              "name": "WESTERN B WARD",
+              "villages": [
+                "ADAGANI",
+                "AJODYATA",
+                "AKAIDEBE",
+                "AKEK",
+                "DIIBADI",
+                "OTWON IMALO",
+                "OTWON PINY",
+                "OWALO IMALO",
+                "OWALO IPINY",
+                "TEAMAGA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AYER",
+          "parishes": [
+            {
+              "name": "ABUR",
+              "villages": [
+                "ABIROPOO",
+                "ABUGE",
+                "ABUR WARD",
+                "ADWIL",
+                "AERONYERO",
+                "AGWEA",
+                "ANYWAL",
+                "APURIPARO",
+                "AWEKI"
+              ]
+            },
+            {
+              "name": "ALEMI",
+              "villages": [
+                "ABAKO",
+                "ABILONINO",
+                "ABUKU A",
+                "ABUKU B",
+                "ALEGE",
+                "ATEK B",
+                "BAR-ODUGU",
+                "BAR-OPUU",
+                "OBENY",
+                "TE KIDI"
+              ]
+            },
+            {
+              "name": "ILERA",
+              "villages": [
+                "AKOO",
+                "APALA",
+                "BAROBER",
+                "BUNG",
+                "KONA",
+                "LELA",
+                "OBUTU",
+                "OKABO",
+                "OMUNGO",
+                "OTANGULA",
+                "WIGWENG"
+              ]
+            },
+            {
+              "name": "LWALA",
+              "villages": [
+                "ABELI",
+                "ABILONINO",
+                "AKWANYCINGI",
+                "AKWOO",
+                "ALUBI",
+                "ANOTO-CAO",
+                "APARANGO",
+                "ATIMONING",
+                "BARDYEL",
+                "IJUMARA",
+                "NYAMKERE",
+                "RAO",
+                "TE-OPOK"
+              ]
+            },
+            { "name": "OKWOR", "villages": ["ADITAURO", "ALIP", "ATEK 'A'"] },
+            {
+              "name": "TELELA",
+              "villages": [
+                "ABOLONYERO",
+                "AMOLA",
+                "AMWA",
+                "APALA",
+                "ATEK",
+                "BARAMINDYANG WARD",
+                "BUNG",
+                "KULUYAGO",
+                "LEYE",
+                "OBELE",
+                "OKAR",
+                "OYETOLEYI",
+                "PWD NO.2"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BALA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "EASTERN A WARD",
+              "villages": [
+                "ACATO BUNG",
+                "ANYONGO PIDA",
+                "ANYONGO TUPINY",
+                "ATINAACEL",
+                "ONOO",
+                "OPUGU",
+                "TE ABOLO",
+                "TEORYANG A",
+                "TEORYANG B",
+                "TETUGU"
+              ]
+            },
+            {
+              "name": "EASTERN B WARD",
+              "villages": [
+                "ABIECE",
+                "ABONGO RWOT",
+                "ACATO GUDU",
+                "ATOKIMEDI",
+                "BARDYANG",
+                "CENG",
+                "DOG TANGI",
+                "LOOYOCENG",
+                "WICERE",
+                "WIGWENG B"
+              ]
+            },
+            {
+              "name": "WESTERN A WARD",
+              "villages": [
+                "ABONGWEN",
+                "AGWENG A",
+                "AUMIDANI",
+                "CANOMONANINO",
+                "LOBO LOBO",
+                "OLAI",
+                "OLIL",
+                "OWITI",
+                "TE CAMBIA A",
+                "TE KEO"
+              ]
+            },
+            {
+              "name": "WESTERN B WARD",
+              "villages": [
+                "AKURI OKOK",
+                "APONGIMALO",
+                "BAR ADURI",
+                "BAR OPU",
+                "DOG GUDO",
+                "OCAI BUNGTE",
+                "TECAMBIA B",
+                "TEIBULE",
+                "WIGWENG A"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BALLA",
+          "parishes": [
+            {
+              "name": "AGEGE",
+              "villages": ["ABILONINO", "AGEGELELA", "AGWEI", "AKECA", "ALEM", "APELO", "AROMONGA", "BARMOLA", "ORWOMA"]
+            },
+            {
+              "name": "AMOILELA",
+              "villages": ["ABALOKARA", "ADIM", "AMII", "AMOILELA", "DOG DAM", "DOGIKORE", "OCODONYOR"]
+            },
+            {
+              "name": "ANGIC",
+              "villages": [
+                "ADWONGOTINGO",
+                "AKWOO",
+                "ALEBERE",
+                "ALELEBANYA",
+                "ALELEBANYA - WIGWENG",
+                "ANGIC",
+                "ANGIC UPPER CENTRE",
+                "ATWOL",
+                "OLIMO",
+                "TEOPOK"
+              ]
+            },
+            {
+              "name": "AUMI",
+              "villages": ["ABANGOLAM", "ADAGWOO", "ADU ODYEK", "APAK", "ATINGTWO", "IJUMARA", "INGAINGA", "OGEDI"]
+            },
+            { "name": "BALLA", "villages": ["ANYONGO CENTRAL", "ANYONGO-OGENGO"] },
+            {
+              "name": "OMOLADYANG",
+              "villages": [
+                "ACANPANY",
+                "APARANGO",
+                "APARANGWEN",
+                "APONGIMALO",
+                "ATIRA",
+                "AYATNINO",
+                "OKELLOKIZA",
+                "OMATOLONGO",
+                "OMOLODYANG DANI",
+                "TEYAO"
+              ]
+            },
+            { "name": "OMUGE", "villages": ["ADWILA", "ARWOT LANGO", "BAR", "BUNG", "EDUKA", "ILERA", "TEOBIA"] },
+            { "name": "OMWARA", "villages": ["ANYANGACOTO", "AWINYWOO", "ONYANY"] }
+          ]
+        },
+        {
+          "name": "KOLE TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "EASTERN WARD",
+              "villages": ["AKAIDEBE", "ATEK", "AYER", "AYITODUNY 'B'", "BUNG", "OUKA", "PWD NO.3", "WIGWENG"]
+            },
+            {
+              "name": "WESTERN WARD",
+              "villages": ["ALEGE", "ATIGOMER", "AYITODUNY 'A'", "BANYA", "K.C.C", "OMUKU", "TE-AKWAR", "TEATIT"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "name": "KIRYANDONGO",
+  "counties": [
+    {
+      "name": "KIBANDA NORTH",
+      "sub_counties": [
+        {
+          "name": "BWEYALE TOWN COUNCIL",
+          "parishes": [
+            { "name": "CENTRAL WARD", "villages": ["ADAGWOO", "BWEYALE", "KICWABUNGINGO", "NYAMUSASA"] },
+            { "name": "SOUTHERN WARD", "villages": ["PANYADOLI", "NYAKADOT", "SIRIBA"] }
+          ]
+        },
+        {
+          "name": "KIRYANDONGO",
+          "parishes": [
+            {
+              "name": "KICHWABUGINGO",
+              "villages": [
+                "KIOGOMA I",
+                "KIOGOMA II",
+                "CHOPELWOR",
+                "KYABAHULU",
+                "KISONA",
+                "KITWANGA",
+                "KATULIKIRE",
+                "KARUNGU I",
+                "KARUNGU II",
+                "KANABA",
+                "POCHENG",
+                "OPOK I",
+                "OPOK II",
+                "NYINGA I",
+                "NYINGA II"
+              ]
+            },
+            {
+              "name": "KYANKENDE",
+              "villages": [
+                "BUNYAMA",
+                "KIHURA",
+                "KIJUNE",
+                "KIRWALA",
+                "KISUNGA II",
+                "KISWEKA",
+                "KIBIMBYA",
+                "KIGAYA",
+                "KAHARA",
+                "KARAGALYA",
+                "SABASABA",
+                "KYANKENDE",
+                "KYANKULU",
+                "MOMBI",
+                "KYESIMBWA",
+                "TUGO",
+                "SAMBYA"
+              ]
+            },
+            {
+              "name": "KIKUBE",
+              "villages": [
+                "KIROKO I",
+                "KIROKO II",
+                "KISEKURA",
+                "KINYOMOZI",
+                "KISUNGA",
+                "KITALEEBA",
+                "DYANG",
+                "KALANGALA",
+                "KALWALA",
+                "KYEMBERA",
+                "MIRIMA",
+                "MAHONGE",
+                "MASAMBA",
+                "NYAKATAAMA",
+                "NYABUKONI",
+                "NYAKAGANDO",
+                "RUNYANYA",
+                "NYAKAKINDO",
+                "NYABIISO"
+              ]
+            },
+            {
+              "name": "KITWARA",
+              "villages": [
+                "KABONYI",
+                "KIRONGOLO",
+                "KOOKI",
+                "KIRYAMPUNGULA",
+                "KIKUNGULU",
+                "KITONGOZI",
+                "KITWARA",
+                "NYAMUNTENDE",
+                "KAKOOGE",
+                "KAPUNDO",
+                "KYAMAKUBAGI",
+                "KYANSANYI",
+                "KAMUSENENE",
+                "KANKOBA",
+                "NDOYO",
+                "TECWA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIRYANDONGO TOWN COUNCIL",
+          "parishes": [
+            { "name": "NORTHERN WARD", "villages": ["KIRYANDONGO I", "KISOROSORO", "MUKONOGUMU"] },
+            { "name": "SOUTHERN WARD", "villages": ["KIRYANDONGO II", "KIKUUBE", "KYAKALYABE", "KAROKARUNGI"] }
+          ]
+        },
+        {
+          "name": "MUTUNDA",
+          "parishes": [
+            {
+              "name": "DIIMA",
+              "villages": [
+                "ABINDO A",
+                "ABINDO B",
+                "ALENGO",
+                "AWOO",
+                "AYUDA",
+                "BEDMOT",
+                "BAR ODUGU",
+                "GWARA 2",
+                "GWARA 3",
+                "GWARA I",
+                "DIIMA A",
+                "DIIMA B",
+                "DIIMA HANGA",
+                "KARUMA",
+                "PA-LEE",
+                "PII-AKEYO",
+                "OKWECHE",
+                "OGENGO A",
+                "OGENGO B",
+                "TE-YAGO"
+              ]
+            },
+            {
+              "name": "KAKWOKO",
+              "villages": [
+                "ISUNGA",
+                "KIRULI",
+                "KIKONGE",
+                "KIMOGORO A",
+                "KIMOGORO B",
+                "KISURA",
+                "KAWITI",
+                "KITINA",
+                "KAJEBE",
+                "KASANJA A",
+                "KASANJA B",
+                "MUTUNDA A",
+                "MUTUNDA B",
+                "PANYADOLI A",
+                "PANYADOLI B",
+                "NYAKAGWENG",
+                "POPARA EAST"
+              ]
+            },
+            {
+              "name": "NYAMAHASA",
+              "villages": [
+                "ALARO-OGWAL-WOO",
+                "ALARO-TINGA",
+                "ALERO A",
+                "ALERO B",
+                "ALERO C",
+                "ALERO D",
+                "ALILA",
+                "FUNGUA MACHO",
+                "LATWORO",
+                "LAVOR-ONGUR A",
+                "LAVOR-ONGUR B",
+                "LAVOR-ONGUR C",
+                "LABOKE - KOLOLO",
+                "LABOKE - PACWACH",
+                "LABOKE HANGA",
+                "NYAMAHASA A",
+                "NYAMAHASA B",
+                "NANDA",
+                "NANDA A",
+                "NANDA B",
+                "NANDA GAME",
+                "POPARA WEST",
+                "TENAM A",
+                "TENAM B",
+                "TE-LABOKE"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KIBANDA SOUTH",
+      "sub_counties": [
+        {
+          "name": "KIGUMBA",
+          "parishes": [
+            {
+              "name": "KIGUMBA",
+              "villages": [
+                "KIDIDIMA",
+                "CO-OP COLLEGE",
+                "KINAGIRANA",
+                "KIBYAMA",
+                "KYAKIBANGA",
+                "KYAMUGENYI",
+                "KYEGANYWA I",
+                "KYEGANYWA II",
+                "KATAMARWA",
+                "RWAMUDOPYO",
+                "MPUMWE",
+                "RWABIGARAGARA",
+                "NYAKIBETE I",
+                "NYAKIBETE II",
+                "RWAKAYATA"
+              ]
+            },
+            {
+              "name": "KIIGYA",
+              "villages": [
+                "BUHOMOZI",
+                "JEEJA I",
+                "JEEJA II",
+                "KIIGYA",
+                "KIRULI",
+                "KIKOOBA",
+                "KINYARA I",
+                "KINYARA II",
+                "KIGENGERE",
+                "KADUKU I",
+                "KADUKU II",
+                "KADUKU III",
+                "NYAMA I",
+                "NYAMA II",
+                "TITI"
+              ]
+            },
+            {
+              "name": "MBOIRA",
+              "villages": [
+                "APODORWA",
+                "HANGA",
+                "IRANDA",
+                "KEMENZU",
+                "KIKUNYA",
+                "KIFURUTA I",
+                "KIFURUTA II",
+                "KIFURUTA III",
+                "KYAKAKUNGULU",
+                "LAVORONGUR",
+                "MBOIRA I",
+                "MBOIRA II",
+                "NYAKATITI",
+                "NYAKABALE",
+                "NKWENDA I",
+                "NKWENDA II"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIGUMBA TOWN COUNCIL",
+          "parishes": [
+            { "name": "WARD A", "villages": ["KIGUMBA I", "KIBURAMATU", "NYAKATUGO"] },
+            { "name": "WARD B", "villages": ["KIGUMBA II", "KIGARAGARA", "KABUKYE"] },
+            { "name": "WARD C", "villages": ["KIHURA I", "KIHURA II", "KITWANGA"] }
+          ]
+        },
+        {
+          "name": "MASINDI PORT",
+          "parishes": [
+            {
+              "name": "KADUKU",
+              "villages": ["KINYONGA I", "KINYONGA II", "KITALEBA", "KATUGO", "KADUKU I", "KADUKU II", "WAKISANYI"]
+            },
+            {
+              "name": "WAIBANGO",
+              "villages": ["KIRYANSEKA", "KIMIOKA", "KITUKUZA", "RWENKUNYI", "NAMILYANGO", "WAIBANGO"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "name": "GULU",
+  "counties": [
+    {
+      "name": "ASWA",
+      "sub_counties": [
+        {
+          "name": "AWACH",
+          "parishes": [
+            { "name": "GWENGDIYA", "villages": ["BURCORO", "PAGEYA", "PAROMO", "PUGWENYI"] },
+            { "name": "PUKONY", "villages": ["LABAN", "OGURU"] },
+            { "name": "PADUNY", "villages": ["LATWONG", "PAROMO", "PAYUTA"] },
+            { "name": "PAIBONA", "villages": ["AYWERI", "BOLIPII", "GEM", "TUGU"] }
+          ]
+        },
+        {
+          "name": "BUNGATIRA",
+          "parishes": [
+            { "name": "AGONGA", "villages": ["LAYIK", "OWAK", "TWONOKUN"] },
+            { "name": "ATIABAR", "villages": ["AYAC", "CETKANA", "RWOTOBILO", "PANYIKWORO"] },
+            { "name": "LALIYA", "villages": ["BWOBO", "DWOL", "LAWIYADUL", "OGURU"] },
+            { "name": "LAROO", "villages": ["PAGEYA", "OBIYA"] },
+            { "name": "PUNENA", "villages": ["LUKODI", "LAGWINY"] },
+            { "name": "OITINO", "villages": ["KATIKATI", "OTURULOYA", "PAMINANO"] },
+            { "name": "PABWO", "villages": ["KULUKENO", "PAMINMEL"] }
+          ]
+        },
+        {
+          "name": "PAICHO",
+          "parishes": [
+            { "name": "KAL-ALII", "villages": ["LAKWELA", "LALWORO", "LAMINTO", "TE OLAM"] },
+            { "name": "KALUMU", "villages": ["ACUTOMER", "ARUT CENTRAL", "ANYOMOTWON", "CORNER", "KICEKE"] },
+            { "name": "OMEL", "villages": ["OMEL A", "OMEL B"] },
+            { "name": "PAGIK", "villages": ["AJANYI", "BOKEBER", "BURA", "DWERE"] }
+          ]
+        },
+        {
+          "name": "PALARO",
+          "parishes": [
+            { "name": "LABWORUMOR", "villages": ["AGORO", "AWALABORO", "PATWOL"] },
+            { "name": "MEDE", "villages": ["MEDE CENTRE", "ONGEDO", "OROKO"] },
+            { "name": "OWALO", "villages": ["KITENY", "LUGORE", "POKOGALI"] }
+          ]
+        },
+        {
+          "name": "PATIKO",
+          "parishes": [
+            { "name": "KAL", "villages": ["ANYADWE", "PAJA", "PATALIRA", "OMOTI"] },
+            { "name": "PUGWENYI", "villages": ["ADAK", "AWOO-NYIM", "RWOTOBILO"] },
+            { "name": "PAWEL", "villages": ["AKWI", "ANGANY", "TULALIYA", "TELADWONG"] }
+          ]
+        },
+        {
+          "name": "UNYAMA",
+          "parishes": [
+            { "name": "ANGAYA", "villages": ["COOPIL", "LOYOBOO"] },
+            { "name": "UNYAMA", "villages": ["GULU PTC", "UNYAMA A", "UNYAMA B", "OGURU"] },
+            { "name": "ODING", "villages": ["AGUNG", "ATEDE", "KOMER", "LABONGOGUR", "PABIT", "ODING"] },
+            {
+              "name": "PAKWELO",
+              "villages": ["AKONYIBEDO", "AJUKU", "KINENE", "LAPETA", "NGOM ROM", "PONGDWONGO", "TEPWOYO"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GULU MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "BAR-DEGE",
+          "parishes": [
+            { "name": "BAR-DEGE", "villages": ["AIR FIELD", "MICAN", "NEGRI", "TE-DAM"] },
+            { "name": "FOR GOD", "villages": ["ST. JOSEPH", "OBIYA EAST", "OBIYA WEST"] },
+            { "name": "KANYAGOGA", "villages": ["GREEN VALLEY", "KANYAGOGA A", "KANYAGOGA B", "KANYAGOGA C"] },
+            { "name": "KASUBI", "villages": ["GOWAN S QUARTERS", "KEYI A", "KEYI B", "KASUBI CENTRAL"] }
+          ]
+        },
+        {
+          "name": "LAROO",
+          "parishes": [
+            { "name": "AGWEE", "villages": ["AGWEE", "HIGHLAND", "LIMU MEDICAL FLAT"] },
+            {
+              "name": "IRIAGA",
+              "villages": ["IRIAGA CENTRAL", "IRIAGA EAST", "IRIAGA LALIYA", "BWONAGWENO", "SENIOR QUARTERS"]
+            },
+            { "name": "QUEENS AVENUE", "villages": ["AWERE", "HOLY ROSARY", "QUEEN S"] },
+            { "name": "PECE PRISONS", "villages": ["FOREST", "LUKUNG", "PECE PRISON"] }
+          ]
+        },
+        {
+          "name": "LAYIBI",
+          "parishes": [
+            { "name": "LIBRARY", "villages": ["INDUSTRIAL AREA", "LIBRARY", "PRISON BARRACKS"] },
+            { "name": "KIROMBE", "villages": ["ALOKOLUM", "KIROMBE CUSTOM", "PABBO"] },
+            { "name": "TECHO", "villages": ["GODOWN", "CUSTOM CORNER", "WIILAYIBI", "TECHO"] },
+            { "name": "PATUDA", "villages": ["BWOBO", "LACOR CENTRE", "WII AWARANGA"] }
+          ]
+        },
+        {
+          "name": "PECE",
+          "parishes": [
+            { "name": "LABOURLINE", "villages": ["BUS PARK A", "BUS PARK B", "BUS PARK C", "NAKASERO", "LABOURLINE"] },
+            { "name": "TEGWANA", "villages": ["AYWEE", "CUBU A & B", "LAYIBI CENTRAL", "LAYIBI CENTRE A & B"] },
+            { "name": "VANGUARD", "villages": ["COMMERCIAL ROAD", "POLICE BARRACKS", "VANGUARD", "SCHOOL ROAD"] },
+            { "name": "PAWEL", "villages": ["CUBU ACOYO", "PAWEL CENTRAL", "PUDYEK"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

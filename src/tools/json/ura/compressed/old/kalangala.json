@@ -1,0 +1,113 @@
+{
+  "name": "KALANGALA",
+  "counties": [
+    {
+      "name": "BUJUMBA COUNTY",
+      "sub_counties": [
+        {
+          "name": "BUJUMBA",
+          "parishes": [
+            { "name": "BUJUMBA", "villages": ["BUJUMBA/BUYOGA", "BUSWA", "KIBANGA/BULIGO", "KULUGULU"] },
+            {
+              "name": "BUNYAMA",
+              "villages": ["BUBEMBE", "BUNYAMA/KAGOONYA", "BUYIGI", "KISUJJU", "KIVUNZA", "LWABASWA"]
+            },
+            { "name": "BWENDERO", "villages": ["BUYIRI", "BWENDERO", "BWEZA/DDAJJE", "MALANGA/KAAZI", "MUKALANGA"] },
+            { "name": "MULABANA", "villages": ["BUDA/MABIGO", "KASAMBA", "LWABALEGA", "MULABANA", "NAKATIBA"] }
+          ]
+        },
+        {
+          "name": "KALANGALA TOWN COUNCIL",
+          "parishes": [
+            { "name": "KALANGALA A WARD", "villages": ["BUGGALA", "KIBANGA"] },
+            { "name": "KALANGALA B WARD", "villages": ["KALANGALA", "KANYOGOGA", "KIZZI", "LUTOBOKA", "MWEENA"] }
+          ]
+        },
+        {
+          "name": "MUGOYE",
+          "parishes": [
+            {
+              "name": "BBETA",
+              "villages": ["BBETA", "BBUNGO", "KASEKULO", "KIBAALE", "KIKWAYU", "MULOLE", "MUTAMBALA", "SENERO"]
+            },
+            { "name": "KAGULUBE", "villages": ["BUGOMA", "KAGULUBE", "KIBANGA", "LUSOZI/BUZIGA", "MABOGA"] },
+            {
+              "name": "KAYUNGA",
+              "villages": ["BUMANGI", "BUSANGA", "BUYINDI/NATETE", "KIZIRA", "KYABWIMA-KASENYI", "NJOGA"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KYAMUSWA COUNTY",
+      "sub_counties": [
+        {
+          "name": "BUBEKE",
+          "parishes": [
+            {
+              "name": "BUBEKE",
+              "villages": ["BULEGA/NAMISOKE", "BUYANGE", "KANDE", "LWAZI-BUBEKE", "MISISI", "NKESE"]
+            },
+            { "name": "JAANA", "villages": ["KIKU", "LWAZI-JAANA", "NALUKANDUDE"] }
+          ]
+        },
+        {
+          "name": "BUFUMIRA",
+          "parishes": [
+            {
+              "name": "BUFUMIRA",
+              "villages": [
+                "BUFUMIRA",
+                "BUGABA",
+                "BUWUNGE",
+                "BUYOVU",
+                "KYANKOLOKOLO",
+                "LULINDI",
+                "LWAMAYIBA",
+                "MUKAKA",
+                "SSEMAWUNDO"
+              ]
+            },
+            {
+              "name": "LULAMBA",
+              "villages": [
+                "BANDA",
+                "BUGOBE",
+                "KAAYA",
+                "KACHANGA",
+                "KAFUNABUSOLO",
+                "KAGOONYA",
+                "KAMMESE",
+                "KITOBO",
+                "LUWUNGULU",
+                "MISONZI",
+                "SSERINYA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KYAMUSWA",
+          "parishes": [
+            { "name": "BUWANGA", "villages": ["BUSWAGA", "BUWANGA", "LWANABATYA", "NTUWA/BUNJAZI"] },
+            { "name": "BUZINGO", "villages": ["BUWAZI", "BUZINGO", "KISABA", "NAKIBANGA"] }
+          ]
+        },
+        {
+          "name": "MAZINGA",
+          "parishes": [
+            {
+              "name": "BUGGALA",
+              "villages": ["BUSINDI", "GGUNGA", "KACUNGWA", "KATOOKE", "KIRUGU", "MIRINDI", "MIYANA", "NKOSE"]
+            },
+            {
+              "name": "BUTULUME",
+              "villages": ["BUTULUME", "KACHANGA", "KYESERWA", "LUJAABWA", "MAWALA/FUNVE", "NGABO"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

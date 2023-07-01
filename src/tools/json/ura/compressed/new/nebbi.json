@@ -1,0 +1,610 @@
+{
+  "name": "NEBBI",
+  "counties": [
+    {
+      "name": "NEBBI MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "ABINDU DIVISION",
+          "parishes": [
+            { "name": "ABINDU WARD", "villages": ["ABINDU", "ACER", "ANGIR", "AYEI GOTNYANGO", "OMOYO LOWER"] },
+            {
+              "name": "NEBBI HILL WARD",
+              "villages": ["AJOGA NYAOBODHO", "ALENGO", "ALUKA", "ARUMUKENG", "NDURU", "YAOKECHA"]
+            },
+            { "name": "NYACARA WARD", "villages": ["AKESI", "CANANYIRA", "KASUKU", "MAKOR", "OKEYO", "OLYEKO"] }
+          ]
+        },
+        {
+          "name": "CENTRAL DIVISION",
+          "parishes": [
+            {
+              "name": "CENTRAL ZONE WARD",
+              "villages": ["BOMA", "HOSPITAL LOWER", "HOSPITAL UPPER", "OPANO", "RIVER VIEW", "ROCK VIEW"]
+            },
+            { "name": "JUKIYA HILL WARD", "villages": ["ADUKU", "ALEGO CENTRAL", "JUBA", "LENGCONGI", "OLYEKO"] },
+            {
+              "name": "NAMTHIN WARD",
+              "villages": ["PAIDHA NAMTHIN", "PAWONG PIDA", "PUBIDHI AYABU LOWER", "PUBIDHI AYABU UPPER"]
+            }
+          ]
+        },
+        {
+          "name": "THATHA DIVISION",
+          "parishes": [
+            { "name": "FOREST WARD", "villages": ["AFERE", "LAJJI", "ONJUKU LOWER", "ONJUKU UPPER", "ORYANG"] },
+            {
+              "name": "NAMRWODHO WARD",
+              "villages": ["AYILA HILL", "NYAMGAM LOWER", "NYAMGAM UPPER", "NAMRWODHO", "OCEGO CENTRAL"]
+            },
+            { "name": "THATHA WARD", "villages": ["ATIDU", "JUPANJAU", "PUBIDHI FUNDU", "THATHA"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PADYERE",
+      "sub_counties": [
+        {
+          "name": "AKWORO",
+          "parishes": [
+            {
+              "name": "KASATU (ANGABA)",
+              "villages": [
+                "ADISA",
+                "AKURU",
+                "ARODI",
+                "AYAU",
+                "NYANGARA",
+                "KASATO MARKET SQUARE",
+                "KASATU CENTRAL",
+                "LANGO",
+                "NYAFUL"
+              ]
+            },
+            {
+              "name": "KITUNA",
+              "villages": [
+                "ANGOWANG",
+                "AYUGI",
+                "JUPALEI",
+                "KABANGO",
+                "NYARIKINI",
+                "KAMPALA",
+                "LUGA",
+                "ORYERE",
+                "VUNGALEY",
+                "ODHIRO"
+              ]
+            },
+            {
+              "name": "MURUSI",
+              "villages": [
+                "GOT LEMBE",
+                "NYAPANY",
+                "NYAMUWEDA",
+                "MUNDURIEMA",
+                "MURUMBI",
+                "MURUSI CENTRAL",
+                "PONGO",
+                "SIRINGMBA",
+                "OLANDO"
+              ]
+            },
+            {
+              "name": "RERU",
+              "villages": ["AKURU", "AKWORO", "ALIWA", "GOT ANYONGA", "ITH", "NYARONDWONG", "RERO CENTRAL", "OGUTA"]
+            },
+            {
+              "name": "ONDIER",
+              "villages": ["BITI", "BITI OLANDU", "MULYANGA", "PARWE", "OMVOR", "OTADO", "NYARUNDIER"]
+            },
+            {
+              "name": "PAKOLO",
+              "villages": ["ADWOGOFUA", "GILO", "MUNEKO", "PAKOLO CENTRAL", "PALANGO", "NYATABU", "OBAT", "SEKO"]
+            }
+          ]
+        },
+        {
+          "name": "ATEGO",
+          "parishes": [
+            {
+              "name": "PAMINYA LOWER",
+              "villages": [
+                "AKWECIRA",
+                "AMVOL",
+                "AYILLA",
+                "GILO",
+                "MBARO AKABA",
+                "MBARO AKANGA",
+                "PADUK",
+                "ONDWONG",
+                "OKONGO"
+              ]
+            },
+            {
+              "name": "PAMINYA UPPER",
+              "villages": [
+                "ADUKADU",
+                "AJENGIRA",
+                "AJODHO",
+                "AKADO",
+                "AZZII",
+                "PADYERE",
+                "NJAO",
+                "ONGOLO",
+                "NYAYAMU",
+                "OKEMO EAST",
+                "OKEMO WEST",
+                "OKPALA"
+              ]
+            },
+            {
+              "name": "PAMORA UPPER",
+              "villages": ["AKEU", "AJOK", "ANDIKANDI", "ARINGO", "AYOMBIRA", "AVURAU", "WELLE", "OBOKO"]
+            }
+          ]
+        },
+        {
+          "name": "ERUSSI",
+          "parishes": [
+            {
+              "name": "ABONGO",
+              "villages": [
+                "ALALA",
+                "AJOK",
+                "AROKA",
+                "OTWAGO",
+                "OTWAGO EAST",
+                "OWICH",
+                "NGEYO",
+                "TENGO",
+                "YALU",
+                "OBIA",
+                "OGOMBO"
+              ]
+            },
+            {
+              "name": "PACHAKA",
+              "villages": [
+                "AGWECHI LOWER",
+                "AGWECHI UPPER",
+                "AKPOYA",
+                "AMINZI",
+                "KUBI",
+                "OMUNDA",
+                "RAJOM CENTRAL",
+                "RAJOM NORTH",
+                "ORIWO ACWERA I",
+                "ORIWO ACWERA II",
+                "ONGMBONGA",
+                "NZIRI EAST",
+                "NZIRI WEST",
+                "OGONJU"
+              ]
+            },
+            {
+              "name": "PADOLO",
+              "villages": [
+                "AMELENJU",
+                "ATIDO",
+                "JUPAZUBA",
+                "JUPUTHWOL",
+                "KOTHONGOLA",
+                "OYIKO",
+                "PADOLO CENTRAL",
+                "PULAKA",
+                "ORIWO ACWERA A",
+                "RAMOGI",
+                "ORYANG",
+                "NYEKA KURA",
+                "OLENY T/CENTRE"
+              ]
+            },
+            {
+              "name": "PAJUR",
+              "villages": [
+                "ADRA",
+                "ANJULE",
+                "ATHELE",
+                "GOSI",
+                "KONDO",
+                "KANDHE",
+                "MAMBI",
+                "NYAMIA",
+                "NYAMIA LOWER",
+                "NDING-NDING",
+                "NDIWINI",
+                "RUMBA"
+              ]
+            },
+            {
+              "name": "PAYERA",
+              "villages": [
+                "ADEIRA",
+                "JUPAGENI LOWER",
+                "JUPAGENI UPPER",
+                "JUPUGETA LOWER",
+                "JUPUGETA UPPER",
+                "JUPUKWOKI EAST",
+                "MADI LOWER",
+                "MADI UPPER",
+                "PAJOK"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KUCWINY",
+          "parishes": [
+            {
+              "name": "ACWERA",
+              "villages": [
+                "ACWERA",
+                "ALALA LOWER",
+                "ALALA UPPER",
+                "AKABA T/CENTRE",
+                "ANDHINGI",
+                "ARUM",
+                "GOT ALI",
+                "GUL",
+                "JUPASASA",
+                "NYARAKWACHA",
+                "PANGIDHO/JUPARWOTH",
+                "PAWO ACWERA",
+                "OPEDIHRE",
+                "NYARUGALU"
+              ]
+            },
+            {
+              "name": "LEE",
+              "villages": [
+                "ARUNGMBELE",
+                "JUFURUNGA",
+                "JUPALA CENTRE",
+                "JUPALA NAMIREMBE",
+                "DAGA - AGORO",
+                "DENDRU",
+                "LEE",
+                "LURA",
+                "NDIMA",
+                "ORYEJU",
+                "OSIGU-MVORE",
+                "TYENDMANDIRI"
+              ]
+            },
+            {
+              "name": "MVURA",
+              "villages": [
+                "AMOGO",
+                "ASSILI",
+                "GOT ATUM",
+                "GOT LANDI",
+                "GOT MOYO",
+                "KOMKECH T/CENTRE",
+                "NYAMUTAR",
+                "LOC - JUDONGO",
+                "PADANYO",
+                "PAPOGA",
+                "PANYALUM",
+                "ORANGO",
+                "WIDYANGA",
+                "OLOKO",
+                "OMOL"
+              ]
+            },
+            {
+              "name": "RAMOGI",
+              "villages": [
+                "ACANA",
+                "ABORADI",
+                "ALIGORO",
+                "GOT - ACIKO",
+                "JUPUGWANG THEGOT",
+                "CUNGA LWOKI",
+                "KUCWINY CENTRE",
+                "KULUGOMA",
+                "NYAMUKINDU",
+                "PARABONGO",
+                "RATUK",
+                "VUTHULURU"
+              ]
+            },
+            {
+              "name": "UDUKA",
+              "villages": [
+                "ACAK",
+                "AWARADI",
+                "JUPARWOTH",
+                "JUPUKEI NORTH",
+                "JUPUKEI SOUTH",
+                "MAMBA CENTRE",
+                "MAMBA-BOMA",
+                "OYUTHU",
+                "WIMAMBA",
+                "THOLONY",
+                "VUNGA NGU",
+                "ODUKA"
+              ]
+            },
+            {
+              "name": "VURR",
+              "villages": [
+                "AKANYO T/CENTRE",
+                "ALUKA CENTRAL",
+                "ALUKA LOWER",
+                "ARINGA",
+                "ANYINGA",
+                "AWARADI",
+                "JUPABILA",
+                "JUPASONGA",
+                "JUPUCAMA",
+                "KULE KULE NORTH",
+                "KULE KULE SOUTH",
+                "FUALWONGA",
+                "PANGIDHU",
+                "OCELO",
+                "VURR LEE"
+              ]
+            },
+            {
+              "name": "OLAGO",
+              "villages": [
+                "AGWOK CENTRE",
+                "AGWOK GO-DOWN",
+                "ACWERA FOREST",
+                "ATHYERO KUMA",
+                "JUPALEJA",
+                "JUPAMARINDI",
+                "JUPAMORO",
+                "JUPANZEI",
+                "JUPUKEI UPPER",
+                "JUPUPIO",
+                "JUPURYEMA",
+                "CWALAO",
+                "CANA NYAGAYA",
+                "THIDWER",
+                "OBIA",
+                "OLAGO ANYOLA",
+                "OLAGO UPPER"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NDHEW",
+          "parishes": [
+            {
+              "name": "ABAR EAST",
+              "villages": ["ABAKRA", "AYANYONGA", "JALAKECH", "OJWER", "OKEBBU", "ZEU", "OBIA", "OMAYOKUME"]
+            },
+            {
+              "name": "ABAR WEST",
+              "villages": [
+                "AGULE",
+                "AMBERE",
+                "AWU",
+                "NYANGUKI",
+                "LAWARA",
+                "LENGI",
+                "NGUTHE",
+                "PALEY EAST",
+                "PALEY WEST",
+                "PALYEC",
+                "PALYECH CENTRAL",
+                "OMOYO CENTRE",
+                "OMOYO NORTH"
+              ]
+            },
+            {
+              "name": "ADOLO",
+              "villages": [
+                "AKEU",
+                "ALENG LOWER",
+                "ALENG UPPER",
+                "ANOSI",
+                "MESSI CENTRAL",
+                "MESSI LOWER",
+                "MESSI UPPER",
+                "OWICH",
+                "PARWATH",
+                "PUKANGA EAST",
+                "PUKANGA WEST",
+                "VUK PAMACH",
+                "TANGNA"
+              ]
+            },
+            {
+              "name": "OWEKO",
+              "villages": [
+                "ARYEGO",
+                "JUPALANGA",
+                "JUPALEY",
+                "OWEKO CENTRE",
+                "PADILA",
+                "PARWATH/AKWECIRA",
+                "PAYERA AYEI",
+                "PAYERA OKIO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NEBBI",
+          "parishes": [
+            {
+              "name": "JUPANGIRA",
+              "villages": ["BOMA EAST", "BOMA WEST", "JUPACHORA", "JUPATHOMBU", "JUPUDONGO", "JUPURYEK", "JUPUYIK"]
+            },
+            {
+              "name": "KALOWANG",
+              "villages": [
+                "ANJAU/OMBANYA",
+                "GAMBA/ANDHUKE",
+                "MORO CENTRAL",
+                "OWINYOPYELO TRADE CENTRE",
+                "PAJUKWI",
+                "NJERU",
+                "PALEO/ANIBU",
+                "PATEK/PAKUCUR",
+                "NYAKAGEI/JUPARWOTH",
+                "ODHURE",
+                "OMBARA ATYAK"
+              ]
+            },
+            {
+              "name": "KOCH",
+              "villages": [
+                "ALWALA",
+                "ALYEKRA",
+                "AYUU",
+                "KOCH CENTRAL",
+                "KUMBU",
+                "FUDHU",
+                "PANYABONGO",
+                "NYAKAMANA",
+                "ORYANG",
+                "OKEYA"
+              ]
+            },
+            {
+              "name": "PAWONG",
+              "villages": ["JUPAKENO", "JUPAMAGWAR", "JUPUKOK", "JUPUNGO", "KEI", "PARIKO", "PATONGO", "OBIA"]
+            }
+          ]
+        },
+        {
+          "name": "NYARAVUR",
+          "parishes": [
+            {
+              "name": "ANGAL LOWER",
+              "villages": ["ANGAL AYILA", "BABU EAST", "KWIYO", "KYERA", "ONGWIYAMO", "OLYEKO NORTH", "OLYEKO SOUTH"]
+            },
+            {
+              "name": "ANGAL UPPER",
+              "villages": ["BABU WEST", "ATAR EAST", "GUTE NORTH", "GUTE SOUTH", "NYAPUPII", "ZAGA ZAGA"]
+            },
+            {
+              "name": "MBARO EAST",
+              "villages": [
+                "ACIBO",
+                "AKWORO",
+                "ALWALA EAST",
+                "JUPAKENO",
+                "NYARAVUR TRADING CENTRE A",
+                "NYARAVUR TRADING CENTRE B",
+                "NYARAVUR TRADING CENTRE C",
+                "PARYEMA",
+                "OMVORO",
+                "REST CAMP",
+                "WARATHUM"
+              ]
+            },
+            {
+              "name": "MBARO WEST",
+              "villages": ["AGENO", "ALONGO", "ALWALA WEST", "LELANGANG", "PABELLO", "PAGORO", "PAGOT", "OJWANG"]
+            },
+            {
+              "name": "PAMORA LOWER",
+              "villages": [
+                "ABIA",
+                "AGONDA",
+                "AKURU BRIDGE NORTH",
+                "AKURU BRIDGE SOUTH",
+                "AKWANJI",
+                "ALUKA",
+                "APOLLA",
+                "ATAR WEST",
+                "BITI",
+                "GIRA",
+                "CENTRE WEST",
+                "PAVUNDE",
+                "NYONGU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PAROMBO",
+          "parishes": [
+            {
+              "name": "PULUM",
+              "villages": ["ALALA", "ALIEKRA", "ANJAT", "BONGO", "NYAMOLA", "THETHO", "UDUK", "OKWORO CENTRAL"]
+            },
+            {
+              "name": "OSSI EAST",
+              "villages": [
+                "ALEGO EAST",
+                "ALEGO WEST",
+                "ANYANG",
+                "ATEGO LOWER",
+                "ATEGO UPPER",
+                "PANGA NORTH",
+                "PANGA SOUTH"
+              ]
+            },
+            {
+              "name": "OSSI WEST",
+              "villages": ["ALEO", "BABU", "JUPUKIDI", "JUPUNDENG", "LUBINGA", "OWENJO", "PAZONGO", "THILAL"]
+            },
+            {
+              "name": "PADEL NORTH",
+              "villages": [
+                "APOLA",
+                "JAGI EAST",
+                "JAGI WEST",
+                "PAMITU CENTRAL",
+                "PAMITU MATUTU",
+                "PATAKA CENTRAL",
+                "PATAKA ONDIER"
+              ]
+            },
+            {
+              "name": "PADEL SOUTH",
+              "villages": [
+                "PADOLO LOWER",
+                "PADOLO UPPER",
+                "PAMITU WEST",
+                "PENJI MESSI",
+                "PENJI ORYANG EAST",
+                "PENJI ORYANG WEST",
+                "NYATHUM"
+              ]
+            },
+            {
+              "name": "PAGWATA",
+              "villages": [
+                "ACHANA",
+                "ANGOJI",
+                "ATIDO",
+                "JUPUDEBA",
+                "JUPUKOK",
+                "NDROSI",
+                "PADWAR",
+                "OBIA",
+                "VUK LOWER",
+                "VUK UPPER"
+              ]
+            },
+            { "name": "PANGERE", "villages": ["ALALA", "ATIDO", "GWII", "NYAKAGEI", "OGWAR BOMBO"] },
+            {
+              "name": "PARWO",
+              "villages": [
+                "ALALA EAST",
+                "ALALA WEST",
+                "JUPANGUMA",
+                "JUPUKUMU",
+                "NYAROGALO CENTRAL",
+                "NYAROGALO LOWER",
+                "NYAROGALO UPPER",
+                "MARKET SQUARE",
+                "PARWO CENTRAL",
+                "THATHA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

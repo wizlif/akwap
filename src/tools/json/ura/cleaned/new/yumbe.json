@@ -1,0 +1,1326 @@
+{
+  "name": "YUMBE",
+  "id": 81,
+  "counties": [
+    {
+      "name": "ARINGA",
+      "id": 163,
+      "sub_counties": [
+        {
+          "name": "APO",
+          "id": 970,
+          "parishes": [
+            {
+              "name": "ACHOLI",
+              "id": 82,
+              "villages": [
+                { "name": "AGONGA", "id": 1613 },
+                { "name": "KOZINGA", "id": 31237 },
+                { "name": "DRIAMBU", "id": 15763 },
+                { "name": "PIAJO", "id": 51940 },
+                { "name": "NANJERE", "id": 43497 },
+                { "name": "RONI", "id": 52421 },
+                { "name": "WOROWORO", "id": 57861 }
+              ]
+            },
+            {
+              "name": "ARANGA",
+              "id": 511,
+              "villages": [
+                { "name": "ALIBA", "id": 3041 },
+                { "name": "AUPI", "id": 5554 },
+                { "name": "GILA", "id": 16645 },
+                { "name": "IBILE", "id": 17290 },
+                { "name": "YAMBURA", "id": 57893 }
+              ]
+            },
+            {
+              "name": "ARIA",
+              "id": 518,
+              "villages": [
+                { "name": "KISIMUA", "id": 29247 },
+                { "name": "KONDIBA", "id": 31057 },
+                { "name": "LANJUA", "id": 33841 },
+                { "name": "ORIBA", "id": 50574 },
+                { "name": "OKUKUA", "id": 49092 }
+              ]
+            },
+            {
+              "name": "ARINGA",
+              "id": 529,
+              "villages": [
+                { "name": "ANGUA", "id": 4200 },
+                { "name": "BANIKA", "id": 6329 },
+                { "name": "LOKO", "id": 34494 },
+                { "name": "ODUJO", "id": 48415 },
+                { "name": "OLUGOFE", "id": 49524 }
+              ]
+            },
+            {
+              "name": "KERILA",
+              "id": 3350,
+              "villages": [
+                { "name": "ANAFIO", "id": 3926 },
+                { "name": "KENA", "id": 25544 },
+                { "name": "CENTRAL", "id": 14834 },
+                { "name": "ELEKE", "id": 15997 },
+                { "name": "OGUJABE", "id": 48632 },
+                { "name": "WADADA", "id": 57230 }
+              ]
+            },
+            {
+              "name": "YETA",
+              "id": 7454,
+              "villages": [
+                { "name": "APINIKA", "id": 4616 },
+                { "name": "ANGUWIRA", "id": 4223 },
+                { "name": "KOWONGA", "id": 31228 },
+                { "name": "GIBO", "id": 16610 },
+                { "name": "LOBENGA", "id": 34232 }
+              ]
+            },
+            {
+              "name": "ORINZI",
+              "id": 6531,
+              "villages": [
+                { "name": "INYANGA", "id": 17657 },
+                { "name": "IRABIA", "id": 17674 },
+                { "name": "LOGOA", "id": 34360 },
+                { "name": "ROBU", "id": 52380 }
+              ]
+            },
+            {
+              "name": "PENA",
+              "id": 6756,
+              "villages": [
+                { "name": "AFFA", "id": 1455 },
+                { "name": "AWIJIA", "id": 5765 },
+                { "name": "FATAHA", "id": 16191 },
+                { "name": "MODICHA", "id": 38737 },
+                { "name": "OMBA", "id": 49675 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KOCHI",
+          "id": 983,
+          "parishes": [
+            {
+              "name": "GOBORO",
+              "id": 2073,
+              "villages": [
+                { "name": "BAMURE", "id": 6278 },
+                { "name": "LOBANGA", "id": 34223 },
+                { "name": "MALANGA", "id": 37091 },
+                { "name": "MARU", "id": 37426 }
+              ]
+            },
+            {
+              "name": "LIMIDIA",
+              "id": 4463,
+              "villages": [
+                { "name": "AINGA", "id": 1938 },
+                { "name": "GOBIRI", "id": 16711 },
+                { "name": "JUBA", "id": 18127 },
+                { "name": "KOLOLO", "id": 30950 },
+                { "name": "GADANIA", "id": 16267 },
+                { "name": "NARAVULE", "id": 43727 }
+              ]
+            },
+            {
+              "name": "LOKPE",
+              "id": 4510,
+              "villages": [
+                { "name": "ARIWA", "id": 4984 },
+                { "name": "MASAKA", "id": 37479 },
+                { "name": "MURERE", "id": 39981 },
+                { "name": "POINT K", "id": 51998 },
+                { "name": "UMBECHI", "id": 56969 }
+              ]
+            },
+            {
+              "name": "LOMBE",
+              "id": 4523,
+              "villages": [
+                { "name": "ALIODRANUSI", "id": 3151 },
+                { "name": "GBOROGBOROCHU", "id": 16509 },
+                { "name": "NYAMNYAM", "id": 46999 },
+                { "name": "LEWA A", "id": 34096 },
+                { "name": "LEWA B", "id": 34097 },
+                { "name": "NYAWA", "id": 47538 }
+              ]
+            },
+            {
+              "name": "KOCHI",
+              "id": 4062,
+              "villages": [
+                { "name": "AKANDE", "id": 2256 },
+                { "name": "KEGBURU", "id": 25444 },
+                { "name": "KULIANARO", "id": 31305 },
+                { "name": "LENGA", "id": 34073 },
+                { "name": "NABARA", "id": 40648 },
+                { "name": "LOILI", "id": 34390 },
+                { "name": "LOOLO EAST", "id": 34728 },
+                { "name": "LOOLO WEST", "id": 34729 },
+                { "name": "PURE", "id": 52185 }
+              ]
+            },
+            {
+              "name": "YAYARI",
+              "id": 7450,
+              "villages": [
+                { "name": "ALABA", "id": 2770 },
+                { "name": "KELAA", "id": 25497 },
+                { "name": "KOKA", "id": 30872 },
+                { "name": "CHAMANIKUA", "id": 14922 },
+                { "name": "LOJIA", "id": 34398 },
+                { "name": "MOLONDO", "id": 38780 },
+                { "name": "LOKOPIO", "id": 34525 },
+                { "name": "NGAKUA", "id": 44465 }
+              ]
+            },
+            {
+              "name": "OKOI",
+              "id": 6336,
+              "villages": [
+                { "name": "ANANGA", "id": 3954 },
+                { "name": "GURUNGA", "id": 16979 },
+                { "name": "JOBOROGO", "id": 18105 },
+                { "name": "KALAMGBA", "id": 20860 },
+                { "name": "MORICHA", "id": 38820 },
+                { "name": "OKOI", "id": 49007 },
+                { "name": "OCHOGANDI", "id": 48119 }
+              ]
+            },
+            {
+              "name": "OMBACHI",
+              "id": 6425,
+              "villages": [
+                { "name": "ABENIKA", "id": 167 },
+                { "name": "GIRONGA", "id": 16683 },
+                { "name": "KORO", "id": 31155 },
+                { "name": "KOGBO", "id": 30841 },
+                { "name": "LORI", "id": 34805 },
+                { "name": "OCHE", "id": 48114 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KULULU",
+          "id": 986,
+          "parishes": [
+            {
+              "name": "ALIAPI",
+              "id": 304,
+              "villages": [
+                { "name": "ANJEMARA", "id": 4267 },
+                { "name": "KECHURU", "id": 25434 },
+                { "name": "ONJIRI", "id": 50244 },
+                { "name": "NARAGALA", "id": 43726 },
+                { "name": "YEREGODE", "id": 57938 }
+              ]
+            },
+            {
+              "name": "EWAFA",
+              "id": 2010,
+              "villages": [
+                { "name": "CHUNIA", "id": 15280 },
+                { "name": "KULULU", "id": 31341 },
+                { "name": "KAMUKA", "id": 21528 },
+                { "name": "MILINGA", "id": 38411 },
+                { "name": "OYANGA", "id": 51175 }
+              ]
+            },
+            {
+              "name": "GEYA",
+              "id": 2059,
+              "villages": [
+                { "name": "ALELINGA", "id": 2944 },
+                { "name": "ALIBA", "id": 3043 },
+                { "name": "ANIKURU", "id": 4243 },
+                { "name": "BIKICHIA", "id": 7059 },
+                { "name": "GOROA", "id": 16842 },
+                { "name": "GOVULE", "id": 16885 },
+                { "name": "KULAWIRI", "id": 31300 },
+                { "name": "NAKADE", "id": 41376 },
+                { "name": "UJJI EAST", "id": 56955 },
+                { "name": "UJJI WEST", "id": 56956 }
+              ]
+            },
+            {
+              "name": "LOMUNGA",
+              "id": 4532,
+              "villages": [
+                { "name": "ANAFIO", "id": 3927 },
+                { "name": "ALIBA", "id": 3044 },
+                { "name": "BURA", "id": 11932 },
+                { "name": "JOTRENGA", "id": 18116 },
+                { "name": "KIRILO", "id": 28521 },
+                { "name": "KAULE", "id": 24895 },
+                { "name": "TOKURO", "id": 56613 },
+                { "name": "OBO-MIRI", "id": 47877 },
+                { "name": "UPALIGO", "id": 56990 },
+                { "name": "WARAKA", "id": 57581 }
+              ]
+            },
+            {
+              "name": "KOMGBE",
+              "id": 4102,
+              "villages": [
+                { "name": "KULACHA", "id": 31293 },
+                { "name": "DONGOLOTO", "id": 15729 },
+                { "name": "DRADRANGA", "id": 15749 },
+                { "name": "LIMU", "id": 34155 },
+                { "name": "UMVUZOKU", "id": 56979 },
+                { "name": "UNIGANGA", "id": 56980 }
+              ]
+            },
+            {
+              "name": "MEROBA",
+              "id": 4973,
+              "villages": [
+                { "name": "BOMBO", "id": 7395 },
+                { "name": "DUKURENGA", "id": 15797 },
+                { "name": "MEROBA", "id": 38264 },
+                { "name": "LANJUA", "id": 33842 },
+                { "name": "WAKA", "id": 57280 }
+              ]
+            },
+            {
+              "name": "OJINGA",
+              "id": 6309,
+              "villages": [
+                { "name": "ALOSIO", "id": 3298 },
+                { "name": "BOKI", "id": 7361 },
+                { "name": "GILLA", "id": 16653 },
+                { "name": "KENIA", "id": 25570 },
+                { "name": "DOBEKE", "id": 15629 },
+                { "name": "OJINGA", "id": 48786 }
+              ]
+            },
+            {
+              "name": "YOYO",
+              "id": 7460,
+              "villages": [
+                { "name": "AMBIA", "id": 3562 },
+                { "name": "ALUNGA", "id": 3344 },
+                { "name": "JOMOROGO", "id": 18112 },
+                { "name": "KORO", "id": 31156 },
+                { "name": "LUZIRA", "id": 35843 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KURU",
+          "id": 966,
+          "parishes": [
+            {
+              "name": "ALINGA",
+              "id": 312,
+              "villages": [
+                { "name": "ALINGA", "id": 3133 },
+                { "name": "GOBIRI-KOCHO", "id": 16713 },
+                { "name": "KEMERU", "id": 25521 },
+                { "name": "ELEKILE", "id": 15998 },
+                { "name": "MILIA", "id": 38408 }
+              ]
+            },
+            {
+              "name": "GOJURU",
+              "id": 2077,
+              "villages": [
+                { "name": "JABALA", "id": 17987 },
+                { "name": "KURU", "id": 31404 },
+                { "name": "KOLOLO", "id": 30943 },
+                { "name": "LOLORONGA", "id": 34598 },
+                { "name": "TRITRI", "id": 56729 },
+                { "name": "OBONGA", "id": 47917 }
+              ]
+            },
+            {
+              "name": "IMVENGA",
+              "id": 2195,
+              "villages": [
+                { "name": "AMBAYO", "id": 3554 },
+                { "name": "AMANIRI", "id": 3507 },
+                { "name": "IMVENGA", "id": 17611 },
+                { "name": "KUYUNGA", "id": 31442 },
+                { "name": "GARUBE", "id": 16398 },
+                { "name": "LANGI", "id": 33819 },
+                { "name": "LANGI WEST", "id": 33820 }
+              ]
+            },
+            {
+              "name": "LIBUA",
+              "id": 4456,
+              "villages": [
+                { "name": "AUNGA", "id": 5549 },
+                { "name": "IDACHE", "id": 17328 },
+                { "name": "CHUNABE", "id": 15278 },
+                { "name": "LIBUA", "id": 34118 },
+                { "name": "NACHUA", "id": 41143 }
+              ]
+            },
+            {
+              "name": "MECHU",
+              "id": 4963,
+              "villages": [
+                { "name": "ACHIBA", "id": 791 },
+                { "name": "MECHU", "id": 38197 },
+                { "name": "PANYUME", "id": 51698 },
+                { "name": "RAMADAH", "id": 52257 },
+                { "name": "TOMBERE", "id": 56624 }
+              ]
+            },
+            {
+              "name": "RENDA",
+              "id": 6824,
+              "villages": [
+                { "name": "AGOBI-LULU", "id": 1582 },
+                { "name": "AMBALA", "id": 3546 },
+                { "name": "ATIPILI", "id": 5403 },
+                { "name": "BARIFA", "id": 6588 },
+                { "name": "DODORONGA", "id": 15638 },
+                { "name": "MIRI", "id": 38510 },
+                { "name": "MANDURU", "id": 37236 },
+                { "name": "LUGBANGA", "id": 35120 },
+                { "name": "MAZANGA", "id": 38009 },
+                { "name": "RENENGA", "id": 52333 },
+                { "name": "YINGA", "id": 57960 },
+                { "name": "ODUGONGA", "id": 48414 },
+                { "name": "OMBA", "id": 49676 }
+              ]
+            },
+            {
+              "name": "ROGALE",
+              "id": 6840,
+              "villages": [
+                { "name": "ARUMAJE", "id": 5066 },
+                { "name": "INIA", "id": 17643 },
+                { "name": "LOKO", "id": 34497 },
+                { "name": "LOKOPIO", "id": 34524 },
+                { "name": "LUKUNENE", "id": 35365 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ROMOGI",
+          "id": 967,
+          "parishes": [
+            {
+              "name": "BIDIBIDI",
+              "id": 732,
+              "villages": [
+                { "name": "BIDIBIDI", "id": 6952 },
+                { "name": "DRAJINI", "id": 15750 },
+                { "name": "LOBULUCHU", "id": 34266 },
+                { "name": "OBERO", "id": 47824 },
+                { "name": "TWAJIJI", "id": 56891 }
+              ]
+            },
+            {
+              "name": "BARINGA",
+              "id": 694,
+              "villages": [
+                { "name": "ALIPI", "id": 3160 },
+                { "name": "BARAKALA", "id": 6533 },
+                { "name": "LEINGA CENTRAL", "id": 34013 },
+                { "name": "LEINGA EAST", "id": 34014 },
+                { "name": "LOMIRIJI", "id": 34624 }
+              ]
+            },
+            {
+              "name": "CHABILI",
+              "id": 1862,
+              "villages": [
+                { "name": "KURUNGA", "id": 31415 },
+                { "name": "KULUPI", "id": 31351 },
+                { "name": "GBORO", "id": 16506 },
+                { "name": "LEGU", "id": 34008 },
+                { "name": "LIMIKA", "id": 34149 },
+                { "name": "MUNUPANA", "id": 39890 },
+                { "name": "TRITRI", "id": 56728 }
+              ]
+            },
+            {
+              "name": "EYETE",
+              "id": 2012,
+              "villages": [
+                { "name": "IYETE", "id": 17955 },
+                { "name": "DRABIJO", "id": 15747 },
+                { "name": "GELURU", "id": 16527 },
+                { "name": "OFONJE", "id": 48489 }
+              ]
+            },
+            {
+              "name": "LOCOMGBO",
+              "id": 4486,
+              "villages": [
+                { "name": "AGUWA", "id": 1782 },
+                { "name": "ILANGA", "id": 17563 },
+                { "name": "KIRI", "id": 28492 },
+                { "name": "KIKPE", "id": 27653 },
+                { "name": "GBURULE", "id": 16520 },
+                { "name": "LIAGO", "id": 34113 }
+              ]
+            },
+            {
+              "name": "SWINGA",
+              "id": 7205,
+              "villages": [
+                { "name": "AMATANGA", "id": 3521 },
+                { "name": "IDRALU", "id": 17346 },
+                { "name": "KUI", "id": 31280 },
+                { "name": "DRALURINGA", "id": 15754 },
+                { "name": "POROPORO", "id": 52074 },
+                { "name": "SWINGA", "id": 55971 }
+              ]
+            },
+            {
+              "name": "ONOKO",
+              "id": 6486,
+              "villages": [
+                { "name": "BATULU", "id": 6766 },
+                { "name": "LIKICHONGA", "id": 34132 },
+                { "name": "LUZIRA", "id": 35840 },
+                { "name": "ONOKO", "id": 50247 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "YUMBE TOWN COUNCIL",
+          "id": 969,
+          "parishes": [
+            {
+              "name": "BILEWU WARD",
+              "id": 758,
+              "villages": [
+                { "name": "EAST YUMBE", "id": 15863 },
+                { "name": "OYARU", "id": 51187 },
+                { "name": "PARIKILE", "id": 51743 },
+                { "name": "ODRIGA", "id": 48385 }
+              ]
+            },
+            {
+              "name": "AMANYIRI WARD",
+              "id": 353,
+              "villages": [
+                { "name": "BIRANGONGA", "id": 7157 },
+                { "name": "IRUNGA", "id": 17747 },
+                { "name": "DELO", "id": 15546 },
+                { "name": "GBORO KEJI", "id": 16507 }
+              ]
+            },
+            {
+              "name": "ARIGUYI WARD",
+              "id": 527,
+              "villages": [
+                { "name": "WEST YUMBE", "id": 57665 },
+                { "name": "OKANGA", "id": 48861 },
+                { "name": "ODROPI", "id": 48391 },
+                { "name": "SENIOR QUARTERS", "id": 55072 }
+              ]
+            },
+            {
+              "name": "ARUNGA WARD",
+              "id": 538,
+              "villages": [
+                { "name": "AMUNA", "id": 3859 },
+                { "name": "CHINA", "id": 15256 },
+                { "name": "MIJALE", "id": 38359 },
+                { "name": "MACHANGANA", "id": 36487 }
+              ]
+            },
+            {
+              "name": "CHARANGA WARD",
+              "id": 1868,
+              "villages": [
+                { "name": "JIBIA", "id": 18065 },
+                { "name": "MILIA", "id": 38409 },
+                { "name": "MORODU", "id": 38832 },
+                { "name": "OWOLONGA", "id": 51157 }
+              ]
+            },
+            {
+              "name": "LUKUTUA WARD",
+              "id": 4617,
+              "villages": [
+                { "name": "AFRICAN QUARTERS", "id": 1464 },
+                { "name": "AROBUA", "id": 4999 },
+                { "name": "DRAKACHI", "id": 15752 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ARINGA NORTH",
+      "id": 353,
+      "sub_counties": [
+        {
+          "name": "KEI",
+          "id": 965,
+          "parishes": [
+            {
+              "name": "AKAYA",
+              "id": 227,
+              "villages": [
+                { "name": "AKAYA", "id": 2333 },
+                { "name": "KOBUA", "id": 30785 },
+                { "name": "DRACHIA", "id": 15748 },
+                { "name": "LELE", "id": 34062 },
+                { "name": "NOKI", "id": 45011 },
+                { "name": "YAKATA", "id": 57888 }
+              ]
+            },
+            {
+              "name": "AMBALA",
+              "id": 356,
+              "villages": [
+                { "name": "ADALAKA", "id": 1112 },
+                { "name": "ADU", "id": 1292 },
+                { "name": "AMBALA", "id": 3540 },
+                { "name": "GOLOGOLO", "id": 16758 },
+                { "name": "KOLUA", "id": 30982 },
+                { "name": "DUKULIA", "id": 15796 },
+                { "name": "KANABU", "id": 21760 },
+                { "name": "URUNGU", "id": 57028 },
+                { "name": "ODRUBI", "id": 48398 },
+                { "name": "TAPARAGO", "id": 56086 }
+              ]
+            },
+            {
+              "name": "AWOBA",
+              "id": 613,
+              "villages": [
+                { "name": "AKIA", "id": 2388 },
+                { "name": "BIZEE", "id": 7317 },
+                { "name": "KARAMUNA", "id": 22901 },
+                { "name": "MORIKI", "id": 38821 },
+                { "name": "MULEMULE", "id": 39743 },
+                { "name": "PAYU", "id": 51874 },
+                { "name": "NARA", "id": 43725 },
+                { "name": "OMBA", "id": 49673 }
+              ]
+            },
+            {
+              "name": "GICHARA",
+              "id": 2064,
+              "villages": [
+                { "name": "AZANGA", "id": 6126 },
+                { "name": "GOTRI", "id": 16880 },
+                { "name": "IBIRE", "id": 17295 },
+                { "name": "JALATA", "id": 18008 },
+                { "name": "DONGOLE", "id": 15728 },
+                { "name": "ORABA", "id": 50510 },
+                { "name": "URICHAKU", "id": 57024 }
+              ]
+            },
+            {
+              "name": "GIMERE",
+              "id": 2066,
+              "villages": [
+                { "name": "ADRUAZIKU", "id": 1291 },
+                { "name": "IMBETRE", "id": 17599 },
+                { "name": "DOKA", "id": 15694 },
+                { "name": "MAGU", "id": 36710 },
+                { "name": "LOMUNGA", "id": 34660 },
+                { "name": "MATUMA", "id": 37798 },
+                { "name": "ROBU", "id": 52379 },
+                { "name": "TEREMU", "id": 56451 }
+              ]
+            },
+            {
+              "name": "GOBU",
+              "id": 2074,
+              "villages": [
+                { "name": "GOBU", "id": 16715 },
+                { "name": "KUBALI", "id": 31245 },
+                { "name": "KULULUA", "id": 31347 },
+                { "name": "MUNDOMORO", "id": 39845 },
+                { "name": "ORABA", "id": 50511 },
+                { "name": "ONGULEYO", "id": 50198 },
+                { "name": "OLUBA", "id": 49520 }
+              ]
+            },
+            {
+              "name": "JOKE",
+              "id": 2278,
+              "villages": [
+                { "name": "CHAKIA", "id": 14917 },
+                { "name": "MARIGUA", "id": 37366 },
+                { "name": "ORIAJIN EAST", "id": 50561 },
+                { "name": "ORIAJINI", "id": 50562 },
+                { "name": "OKURINI", "id": 49129 },
+                { "name": "OMBIYA", "id": 49722 }
+              ]
+            },
+            {
+              "name": "KOKA",
+              "id": 4078,
+              "villages": [
+                { "name": "ANYIRI", "id": 4377 },
+                { "name": "GOGOLOA", "id": 16733 },
+                { "name": "JOKE", "id": 18106 },
+                { "name": "DIAMBU", "id": 15580 },
+                { "name": "DULLA", "id": 15801 },
+                { "name": "LOINA", "id": 34391 },
+                { "name": "NACHUA", "id": 41142 },
+                { "name": "OKUYO", "id": 49149 }
+              ]
+            },
+            {
+              "name": "RODO",
+              "id": 6837,
+              "villages": [
+                { "name": "ARUPANGA", "id": 5078 },
+                { "name": "BOMBO", "id": 7396 },
+                { "name": "FIFIYUNGA", "id": 16194 },
+                { "name": "PETATURE", "id": 51923 },
+                { "name": "RODO", "id": 52399 },
+                { "name": "OSUKIA", "id": 50830 },
+                { "name": "WARAKALA", "id": 57582 }
+              ]
+            },
+            {
+              "name": "RUKUJA",
+              "id": 6907,
+              "villages": [
+                { "name": "AJAGORO", "id": 1962 },
+                { "name": "INDROGO", "id": 17624 },
+                { "name": "KECHURU", "id": 25435 },
+                { "name": "YAMIRO", "id": 57896 }
+              ]
+            },
+            {
+              "name": "TULIKI",
+              "id": 7305,
+              "villages": [
+                { "name": "AIYA", "id": 1955 },
+                { "name": "IRAZALI", "id": 17691 },
+                { "name": "WOYI", "id": 57868 },
+                { "name": "TULIKI", "id": 56804 }
+              ]
+            },
+            {
+              "name": "PALAJA",
+              "id": 6666,
+              "villages": [
+                { "name": "ININIA", "id": 17646 },
+                { "name": "MUNDUWALE", "id": 39856 },
+                { "name": "MENGO", "id": 38239 },
+                { "name": "MENZERE", "id": 38254 },
+                { "name": "RIKACU", "id": 52352 },
+                { "name": "TOKIRI", "id": 56609 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KERWA",
+          "id": 987,
+          "parishes": [
+            {
+              "name": "KERWA",
+              "id": 3352,
+              "villages": [
+                { "name": "CHOKOKOBIDI", "id": 15262 },
+                { "name": "KERWA", "id": 25617 },
+                { "name": "KOGBO", "id": 30839 },
+                { "name": "GBONGATULU", "id": 16503 },
+                { "name": "LETIMERKOR", "id": 34094 },
+                { "name": "MONDUMUSE", "id": 38798 },
+                { "name": "PAMULE", "id": 51634 },
+                { "name": "TIRE", "id": 56569 }
+              ]
+            },
+            {
+              "name": "KOPIONGA",
+              "id": 4119,
+              "villages": [
+                { "name": "AREPUNGA", "id": 4867 },
+                { "name": "BARANYAKUTO", "id": 6545 },
+                { "name": "KOGBO", "id": 30840 },
+                { "name": "DOLOBO", "id": 15716 },
+                { "name": "LONGOLIJO", "id": 34699 },
+                { "name": "MATU", "id": 37789 },
+                { "name": "PACIFIC", "id": 51313 },
+                { "name": "NGONKITA", "id": 44646 }
+              ]
+            },
+            {
+              "name": "MIJIKITA",
+              "id": 4998,
+              "villages": [
+                { "name": "AMBALA", "id": 3543 },
+                { "name": "GIWAYA", "id": 16698 },
+                { "name": "KUPIYA", "id": 31388 },
+                { "name": "KILAJI", "id": 27815 },
+                { "name": "KULACHARA", "id": 31294 },
+                { "name": "PINGO", "id": 51962 },
+                { "name": "OJIPAKU", "id": 48790 }
+              ]
+            },
+            {
+              "name": "RODO",
+              "id": 6838,
+              "villages": [
+                { "name": "AJUNIAFE", "id": 2133 },
+                { "name": "AMBALA", "id": 3547 },
+                { "name": "DONGOTURE", "id": 15730 },
+                { "name": "MIJALE", "id": 38363 },
+                { "name": "MIYIRA", "id": 38717 },
+                { "name": "LOYA", "id": 34906 },
+                { "name": "MARKULU", "id": 37412 }
+              ]
+            },
+            {
+              "name": "WANDI",
+              "id": 7377,
+              "villages": [
+                { "name": "ALIGO", "id": 3079 },
+                { "name": "ALUDU", "id": 3308 },
+                { "name": "BUGO", "id": 8367 },
+                { "name": "KONIKI", "id": 31104 },
+                { "name": "DEMBE", "id": 15561 },
+                { "name": "WOGO", "id": 57828 }
+              ]
+            },
+            {
+              "name": "OSUBIRA",
+              "id": 6554,
+              "villages": [
+                { "name": "CHORO", "id": 15268 },
+                { "name": "MOROKITA", "id": 38834 },
+                { "name": "OSUBIRA", "id": 50822 },
+                { "name": "URA", "id": 57022 },
+                { "name": "WANGORO", "id": 57506 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MIDIGO",
+          "id": 971,
+          "parishes": [
+            {
+              "name": "KOPUA",
+              "id": 4120,
+              "villages": [
+                { "name": "KOLOLO", "id": 30948 },
+                { "name": "OREREA", "id": 50554 },
+                { "name": "OSUBIRA", "id": 50821 },
+                { "name": "OLUGA", "id": 49523 }
+              ]
+            },
+            {
+              "name": "MEDENGA",
+              "id": 4965,
+              "villages": [
+                { "name": "ADIBU", "id": 1172 },
+                { "name": "ANAWU-CHEMA", "id": 3965 },
+                { "name": "IMILE", "id": 17603 },
+                { "name": "KELA", "id": 25496 },
+                { "name": "DERA", "id": 15572 },
+                { "name": "LOGOLE", "id": 34361 },
+                { "name": "YANDRU A", "id": 57899 },
+                { "name": "YANDRU B", "id": 57900 },
+                { "name": "WABANGA", "id": 57156 },
+                { "name": "OLEBA", "id": 49300 }
+              ]
+            },
+            {
+              "name": "MIGO",
+              "id": 4990,
+              "villages": [
+                { "name": "ALIKU", "id": 3101 },
+                { "name": "ALIRIKI", "id": 3174 },
+                { "name": "BELIA A", "id": 6877 },
+                { "name": "BELIA B", "id": 6878 },
+                { "name": "GUBA", "id": 16903 },
+                { "name": "KENUKIA", "id": 25583 },
+                { "name": "KUANI", "id": 31242 },
+                { "name": "PAMULE", "id": 51635 }
+              ]
+            },
+            {
+              "name": "MOCHA",
+              "id": 5033,
+              "villages": [
+                { "name": "GOJUA", "id": 16745 },
+                { "name": "BURA A", "id": 11940 },
+                { "name": "BURA B", "id": 11942 },
+                { "name": "KUKURU", "id": 31291 },
+                { "name": "MORODU", "id": 38833 },
+                { "name": "MENGO", "id": 38237 },
+                { "name": "META", "id": 38274 },
+                { "name": "TUNJIA", "id": 56865 },
+                { "name": "OLOBIO", "id": 49465 },
+                { "name": "SAMBALA", "id": 54896 }
+              ]
+            },
+            {
+              "name": "MULUMBE",
+              "id": 5171,
+              "villages": [
+                { "name": "ADIBA", "id": 1171 },
+                { "name": "GIRO", "id": 16682 },
+                { "name": "GOJURU", "id": 16746 },
+                { "name": "GUMBIRI", "id": 16950 },
+                { "name": "KOKA", "id": 30871 },
+                { "name": "LOINA", "id": 34392 },
+                { "name": "NANDRI", "id": 43382 },
+                { "name": "ODROPI", "id": 48392 },
+                { "name": "WANDI", "id": 57444 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ARINGA SOUTH",
+      "id": 354,
+      "sub_counties": [
+        {
+          "name": "ARIWA",
+          "id": 984,
+          "parishes": [
+            {
+              "name": "AWINGA",
+              "id": 608,
+              "villages": [
+                { "name": "AWINGA", "id": 5791 },
+                { "name": "BIDIBIDI", "id": 6951 },
+                { "name": "ICHIKI", "id": 17324 },
+                { "name": "KITOLI", "id": 30019 },
+                { "name": "GBIRIA", "id": 16499 },
+                { "name": "GBOGBO", "id": 16500 },
+                { "name": "OKUBAN", "id": 49076 }
+              ]
+            },
+            {
+              "name": "IKAFE",
+              "id": 2183,
+              "villages": [
+                { "name": "BARIFA", "id": 6585 },
+                { "name": "CARANGA", "id": 14757 },
+                { "name": "MEYIFE", "id": 38279 },
+                { "name": "TOKURO", "id": 56612 },
+                { "name": "OCHINGA", "id": 48116 },
+                { "name": "OMBECHI", "id": 49715 },
+                { "name": "TACHU", "id": 56017 }
+              ]
+            },
+            {
+              "name": "RIGBONGA",
+              "id": 6826,
+              "villages": [
+                { "name": "AYIVU", "id": 6047 },
+                { "name": "BASUNGA", "id": 6752 },
+                { "name": "EWANYATI", "id": 16157 },
+                { "name": "KIRANGA", "id": 28343 },
+                { "name": "KANGUDE", "id": 21921 },
+                { "name": "LUGBARICAKU", "id": 35121 },
+                { "name": "TIFA", "id": 56532 },
+                { "name": "OCHINGA", "id": 48117 }
+              ]
+            },
+            {
+              "name": "OKUYO",
+              "id": 6357,
+              "villages": [
+                { "name": "ABIRIGANGA", "id": 289 },
+                { "name": "AYAGO", "id": 5900 },
+                { "name": "IRUNGA", "id": 17748 },
+                { "name": "GBANGI", "id": 16491 },
+                { "name": "LOLI", "id": 34588 },
+                { "name": "OKUYO CENTRE", "id": 49150 },
+                { "name": "ODRANGA", "id": 48368 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "DRAJINI/ARAJIM",
+          "id": 964,
+          "parishes": [
+            {
+              "name": "ALIVU",
+              "id": 323,
+              "villages": [
+                { "name": "JUEMVUTI", "id": 18140 },
+                { "name": "NABONGO", "id": 40887 },
+                { "name": "NAKACA", "id": 41373 },
+                { "name": "NAMUA", "id": 43002 },
+                { "name": "OBOJI", "id": 47882 },
+                { "name": "OMBADRI", "id": 49695 }
+              ]
+            },
+            {
+              "name": "ARUBAKU",
+              "id": 537,
+              "villages": [
+                { "name": "ABONDU", "id": 367 },
+                { "name": "AINA", "id": 1936 },
+                { "name": "ALIAMU", "id": 3036 },
+                { "name": "GUMBARI", "id": 16949 },
+                { "name": "KENYAA", "id": 25591 },
+                { "name": "DONDI", "id": 15721 },
+                { "name": "ORIVU", "id": 50630 }
+              ]
+            },
+            {
+              "name": "AUPI",
+              "id": 595,
+              "villages": [
+                { "name": "ARAFA", "id": 4798 },
+                { "name": "AYIVU", "id": 6040 },
+                { "name": "ICINGA", "id": 17326 },
+                { "name": "INIA", "id": 17641 },
+                { "name": "JOATE", "id": 18103 },
+                { "name": "CUPIRIA", "id": 15413 },
+                { "name": "DRAMBA", "id": 15755 },
+                { "name": "MILEKO", "id": 38405 }
+              ]
+            },
+            {
+              "name": "YAA",
+              "id": 7442,
+              "villages": [
+                { "name": "ABOA", "id": 301 },
+                { "name": "AINA", "id": 1937 },
+                { "name": "AWINDIRI", "id": 5788 },
+                { "name": "KUSAKUSA", "id": 31417 },
+                { "name": "KALUKALUA", "id": 21094 },
+                { "name": "MONGOYO", "id": 38804 },
+                { "name": "MATU", "id": 37790 },
+                { "name": "NAKU", "id": 41959 }
+              ]
+            },
+            {
+              "name": "OLIVU",
+              "id": 6390,
+              "villages": [
+                { "name": "KATRINI", "id": 24694 },
+                { "name": "PALADRU", "id": 51537 },
+                { "name": "PATAKARA", "id": 51787 },
+                { "name": "OREBE", "id": 50540 },
+                { "name": "ROKOZE", "id": 52409 },
+                { "name": "OKUVURU", "id": 49146 },
+                { "name": "OLI", "id": 49384 }
+              ]
+            },
+            {
+              "name": "OMGBOKOLO",
+              "id": 6439,
+              "villages": [
+                { "name": "ADUOFE", "id": 1340 },
+                { "name": "ACIANUKU", "id": 824 },
+                { "name": "AJUMGBIRI", "id": 2129 },
+                { "name": "ANDI", "id": 3977 },
+                { "name": "ALUTI", "id": 3381 },
+                { "name": "CILIMU", "id": 15304 },
+                { "name": "NYARAGO", "id": 47287 },
+                { "name": "MALANDRI", "id": 37087 },
+                { "name": "TAMBUTAMBU", "id": 56052 },
+                { "name": "OMGBOKOLO", "id": 49762 }
+              ]
+            },
+            {
+              "name": "PAJAMA",
+              "id": 6645,
+              "villages": [
+                { "name": "AGORAKU", "id": 1634 },
+                { "name": "LOWER NYAMADRI", "id": 34899 },
+                { "name": "OWAYI", "id": 51097 },
+                { "name": "NYAMADRI", "id": 46695 },
+                { "name": "ORUGUA", "id": 50679 },
+                { "name": "UPPER NYAMADRI", "id": 57016 },
+                { "name": "OMBADRI", "id": 49696 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LODONGA",
+          "id": 985,
+          "parishes": [
+            {
+              "name": "DRIWALA",
+              "id": 1955,
+              "villages": [
+                { "name": "AKILIGBA", "id": 2395 },
+                { "name": "ARAJAGO", "id": 4801 },
+                { "name": "BELLA", "id": 6880 },
+                { "name": "GURUA", "id": 16973 },
+                { "name": "IDRADRIFURU", "id": 17344 },
+                { "name": "IYIDU", "id": 17956 },
+                { "name": "WEST ARAJAGO", "id": 57660 }
+              ]
+            },
+            {
+              "name": "MIJALE",
+              "id": 4997,
+              "villages": [
+                { "name": "AJJI", "id": 2068 },
+                { "name": "BLACK", "id": 7323 },
+                { "name": "ENTEBBE", "id": 16082 },
+                { "name": "MIJALE", "id": 38362 },
+                { "name": "LIMURU", "id": 34158 },
+                { "name": "LIO", "id": 34182 },
+                { "name": "NYAKAMURE", "id": 46171 },
+                { "name": "YENGEJI", "id": 57926 }
+              ]
+            },
+            {
+              "name": "REMBETA",
+              "id": 6823,
+              "villages": [
+                { "name": "ARINGA", "id": 4934 },
+                { "name": "BANANA", "id": 6290 },
+                { "name": "GOTRI", "id": 16881 },
+                { "name": "KAKWA", "id": 20706 },
+                { "name": "LUZIRA", "id": 35842 },
+                { "name": "ONDUNGA", "id": 50112 },
+                { "name": "REMBETA", "id": 52328 },
+                { "name": "OKPO", "id": 49070 },
+                { "name": "UROBE", "id": 57027 }
+              ]
+            },
+            {
+              "name": "YIBA",
+              "id": 7455,
+              "villages": [
+                { "name": "AJIKOA", "id": 2059 },
+                { "name": "BASILIKA", "id": 6749 },
+                { "name": "GOLOGOLO", "id": 16759 },
+                { "name": "GALABA", "id": 16296 },
+                { "name": "LODONGA T/CENTRE", "id": 34338 },
+                { "name": "MENGO", "id": 38242 },
+                { "name": "OMUGO", "id": 49892 },
+                { "name": "TIMBAKUA", "id": 56555 },
+                { "name": "YIBA", "id": 57950 },
+                { "name": "YIGO IYII", "id": 57954 },
+                { "name": "OKURANGA", "id": 49125 },
+                { "name": "ODOKIBO", "id": 48294 }
+              ]
+            },
+            {
+              "name": "NYORI",
+              "id": 6205,
+              "villages": [
+                { "name": "AINGA", "id": 1939 },
+                { "name": "ARINGACHAKU", "id": 4939 },
+                { "name": "ILEKILE", "id": 17567 },
+                { "name": "KENYANGA", "id": 25594 },
+                { "name": "KERUKULA", "id": 25616 },
+                { "name": "KALIWARA", "id": 21020 },
+                { "name": "LOKI", "id": 34450 },
+                { "name": "MAVULI", "id": 37832 },
+                { "name": "MAZANGA", "id": 38008 },
+                { "name": "ORINJI A", "id": 50615 },
+                { "name": "ORINJI B", "id": 50616 },
+                { "name": "RODONGA", "id": 52400 },
+                { "name": "WEREJENGA", "id": 57656 },
+                { "name": "OGONGA", "id": 48589 }
+              ]
+            },
+            {
+              "name": "OROGBO",
+              "id": 6535,
+              "villages": [
+                { "name": "IJIGO", "id": 17508 },
+                { "name": "INVETRE", "id": 17655 },
+                { "name": "CHIKITIBO", "id": 15253 },
+                { "name": "KURO", "id": 31399 },
+                { "name": "MACHULE", "id": 36494 },
+                { "name": "MBOLOBA", "id": 38144 },
+                { "name": "PADURU", "id": 51356 },
+                { "name": "PODIKA", "id": 51986 },
+                { "name": "OROGBO", "id": 50644 }
+              ]
+            },
+            {
+              "name": "YUMELE",
+              "id": 7461,
+              "villages": [
+                { "name": "AJUJINGA", "id": 2109 },
+                { "name": "ILALIRI", "id": 17562 },
+                { "name": "DACHA", "id": 15436 },
+                { "name": "DACHA B", "id": 15437 },
+                { "name": "LOMOROJO", "id": 34637 },
+                { "name": "MURUKULU", "id": 40016 },
+                { "name": "MEREDU", "id": 38257 },
+                { "name": "PANI", "id": 51663 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ODRAVU",
+          "id": 968,
+          "parishes": [
+            {
+              "name": "ABARA",
+              "id": 16,
+              "villages": [
+                { "name": "BOLOMONI", "id": 7379 },
+                { "name": "IGAMARA", "id": 17371 },
+                { "name": "DRIMBENI", "id": 15765 },
+                { "name": "KADO", "id": 19479 },
+                { "name": "OKANGALI", "id": 48862 },
+                { "name": "ODRUO", "id": 48401 }
+              ]
+            },
+            {
+              "name": "AMBELECHU",
+              "id": 359,
+              "villages": [
+                { "name": "ACHUNGA", "id": 821 },
+                { "name": "BODOGO", "id": 7351 },
+                { "name": "IKUFE", "id": 17549 },
+                { "name": "LODENGA", "id": 34326 },
+                { "name": "MALISI", "id": 37143 },
+                { "name": "WETIKORO", "id": 57674 }
+              ]
+            },
+            {
+              "name": "BANGATUTI",
+              "id": 673,
+              "villages": [
+                { "name": "ANITI", "id": 4259 },
+                { "name": "BADIMA", "id": 6162 },
+                { "name": "KITOLI", "id": 30020 },
+                { "name": "MUSOGA", "id": 40153 },
+                { "name": "MIGORO", "id": 38340 }
+              ]
+            },
+            {
+              "name": "IBABIRI",
+              "id": 2146,
+              "villages": [
+                { "name": "ARAMBANGA", "id": 4813 },
+                { "name": "IBABIRI", "id": 17253 },
+                { "name": "LOKO", "id": 34495 },
+                { "name": "NYORINGA", "id": 47656 },
+                { "name": "OCHANGA", "id": 48112 },
+                { "name": "WANDI", "id": 57443 }
+              ]
+            },
+            {
+              "name": "LUDARA",
+              "id": 4587,
+              "villages": [
+                { "name": "LUDARA", "id": 35041 },
+                { "name": "NYAI", "id": 45821 },
+                { "name": "NIGONGA", "id": 44721 },
+                { "name": "ZINZO", "id": 58094 },
+                { "name": "OBOLOGOFUKU", "id": 47906 }
+              ]
+            },
+            {
+              "name": "LUI",
+              "id": 4606,
+              "villages": [
+                { "name": "ALIBA", "id": 3045 },
+                { "name": "GODRIA", "id": 16727 },
+                { "name": "IRAKINGA", "id": 17676 },
+                { "name": "KIYI", "id": 30583 },
+                { "name": "KALIWARA", "id": 21019 },
+                { "name": "ULULUWIRI", "id": 56966 }
+              ]
+            },
+            {
+              "name": "MOJU",
+              "id": 5035,
+              "villages": [
+                { "name": "ALABA", "id": 2769 },
+                { "name": "AJUPANI", "id": 2134 },
+                { "name": "ARINDRUWE", "id": 4926 },
+                { "name": "MOJU CENTRAL", "id": 38748 },
+                { "name": "LOKORA", "id": 34527 },
+                { "name": "LOMOROJO", "id": 34636 }
+              ]
+            },
+            {
+              "name": "MOLI",
+              "id": 5037,
+              "villages": [
+                { "name": "IDACHE", "id": 17329 },
+                { "name": "KEJUBE", "id": 25488 },
+                { "name": "CHINIA", "id": 15257 },
+                { "name": "RIMBE", "id": 52358 }
+              ]
+            },
+            {
+              "name": "MUGOJU",
+              "id": 5118,
+              "villages": [
+                { "name": "ALIBA", "id": 3047 },
+                { "name": "IGEYI", "id": 17397 },
+                { "name": "MUGOJU", "id": 39358 },
+                { "name": "NANGULENGA", "id": 43465 }
+              ]
+            },
+            {
+              "name": "WOLO",
+              "id": 7439,
+              "villages": [
+                { "name": "IMIKINGA", "id": 17602 },
+                { "name": "KENA", "id": 25545 },
+                { "name": "KULINGA", "id": 31309 },
+                { "name": "NYAPEA", "id": 47275 },
+                { "name": "NYOKO", "id": 47631 },
+                { "name": "OKUKUNGA", "id": 49093 },
+                { "name": "OLUKENGA", "id": 49528 }
+              ]
+            },
+            {
+              "name": "NYOKO",
+              "id": 6202,
+              "villages": [
+                { "name": "AMBATARAKU", "id": 3552 },
+                { "name": "AYURI", "id": 6098 },
+                { "name": "KOBO", "id": 30780 },
+                { "name": "KAKWA", "id": 20705 },
+                { "name": "MAJAKANGA", "id": 36836 },
+                { "name": "PAMUA", "id": 51633 },
+                { "name": "PARACHA", "id": 51722 }
+              ]
+            },
+            {
+              "name": "OLUBA",
+              "id": 6394,
+              "villages": [
+                { "name": "AJI", "id": 2031 },
+                { "name": "KULIKULINGA", "id": 31307 },
+                { "name": "KUMIA", "id": 31366 },
+                { "name": "KINYANGA", "id": 28183 },
+                { "name": "OBOMIRI", "id": 47916 }
+              ]
+            },
+            {
+              "name": "PAKAYO",
+              "id": 6654,
+              "villages": [
+                { "name": "ATIMINDA", "id": 5384 },
+                { "name": "KOROYI", "id": 31174 },
+                { "name": "KAKIRA", "id": 20424 },
+                { "name": "LAJI", "id": 33630 },
+                { "name": "PAKAYO", "id": 51487 },
+                { "name": "UNYABA", "id": 56987 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

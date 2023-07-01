@@ -1,0 +1,86 @@
+{
+  "name": "OMORO",
+  "counties": [
+    {
+      "name": "OMORO",
+      "sub_counties": [
+        {
+          "name": "LAKWANA",
+          "parishes": [
+            { "name": "LANENO-BER", "villages": ["ACUTYENG", "AKECHA", "KETO", "LANENO"] },
+            { "name": "LUJORONGOLE", "villages": ["ATYANG", "LABUJE", "LAGWEDOLA", "LAMINOPABO", "TEOPOK"] },
+            { "name": "TEGOT", "villages": ["ARWOTOMIA", "HIMA", "LABWOROMOR", "LWALA", "WIATO", "WIGWENG", "OMOLO"] },
+            {
+              "name": "PARAK",
+              "villages": ["ABURAMWONYA", "AWOO", "BARROMO", "BUKWOYO", "OBIR", "OCOKCAN", "OLULA", "TEILWA"]
+            }
+          ]
+        },
+        {
+          "name": "LALOGI",
+          "parishes": [
+            { "name": "GEM", "villages": ["ABUTURU", "AGWARI", "LUGUNG", "LAGUDE", "LAMINLYEKA", "OPWAC", "OTAL"] },
+            { "name": "IDOBO", "villages": ["ALWII", "BARALIMO", "LOYOAJONGA", "LATINYER", "OMOKO-KI-TUNGE"] },
+            { "name": "JAKA", "villages": ["APAROWIYA", "AYOMLONY", "LAMIN ONAMI", "OCIM", "WANGLOBO"] },
+            { "name": "LUKWIR", "villages": ["ADAK", "IDURE", "INGULA", "LAKWAYA"] },
+            { "name": "PARWECH", "villages": ["AWATLELA", "LAMINOKURE", "OPIT", "TE-STORE"] }
+          ]
+        },
+        {
+          "name": "ODEK",
+          "parishes": [
+            {
+              "name": "BINYA",
+              "villages": ["ACET CENTRAL", "LAYOKO", "LUKOTO", "ORAPWOYO", "OMUNYJUBI", "ROMITUKU", "TEACENG"]
+            },
+            { "name": "LAMOLA", "villages": ["AKOYO", "AJAN", "AROMO", "AWALI", "AWALI WANG LOBO", "DINO"] },
+            { "name": "LUKWOR", "villages": ["BAROLAM", "ORATIDO", "ORYANG", "OGWARI"] },
+            {
+              "name": "PALARO",
+              "villages": ["LUKEE", "LAKIM", "LAMUORATIDO", "OPONGGOGA", "OMYELOGALI", "ODEK CENTRE", "OLAM"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TOCHI",
+      "sub_counties": [
+        {
+          "name": "BOBI",
+          "parishes": [
+            { "name": "PAIDONGO", "villages": ["LELAOBARO", "LABWOROMOR", "TEOWAK", "WILACIC", "WILAMINAYILA"] },
+            {
+              "name": "PAIDWE",
+              "villages": ["ALONG", "KULU OTIT", "KALAMOMIYA", "PATO", "OPAYA", "OMUNYA", "ONEKDYEL"]
+            },
+            { "name": "PALENGA", "villages": ["BAR", "GUDU", "IRAA", "OCAGA", "ODUKU", "ODYAK"] },
+            { "name": "PALWO", "villages": ["AREMO", "AWIMON", "IDOPO", "OBALWAT"] },
+            { "name": "PATEK", "villages": ["ACWERA", "ADAK", "AWITI", "BAROMOGO", "BARDYEL", "WIGWENG", "WIKWOYO"] }
+          ]
+        },
+        {
+          "name": "KORO",
+          "parishes": [
+            { "name": "ACOYO", "villages": ["ARIYA", "KOCH", "PUDYEK", "ROM", "OKEYOMERO"] },
+            { "name": "IBAKARA", "villages": ["ABOLE", "LAKWATOMER"] },
+            { "name": "LABWOC", "villages": ["ABILI", "ANGABA", "BAROGAL", "PALAMI"] },
+            { "name": "LAPAINAT EAST", "villages": ["ATEDE", "LAMINADERA", "UUM", "WANGLOBO"] },
+            { "name": "LAPAINAT WEST", "villages": ["LACENOTINGA", "LAPINYOLOYO", "PABALA", "OBWOLA", "OILANGO"] },
+            { "name": "PAGEYA", "villages": ["KAL", "LAJWATEK", "PIDA", "ROM"] }
+          ]
+        },
+        {
+          "name": "ONGAKO",
+          "parishes": [
+            { "name": "ABWOCH", "villages": ["GUNA", "OWAK", "ONANG", "TOCHI", "OGONY"] },
+            { "name": "ALOKOLUM", "villages": ["GWENOTWOM", "BWOBO CENTRE", "BWOBO TOCHI", "KATIKATI"] },
+            { "name": "KAL", "villages": ["ABILNINO", "KAL CENTRE", "LAMINLAWINO", "PIDALORO", "TETUGU", "OLUBA"] },
+            { "name": "ONYONA", "villages": ["DIKA", "LWALA", "PEYA", "ONEKOGWOK"] },
+            { "name": "PATUDA", "villages": ["ABUGA", "AMILOBO", "AYITAKONYAKITING", "TE OGALI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

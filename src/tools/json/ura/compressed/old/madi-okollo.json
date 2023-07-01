@@ -1,0 +1,276 @@
+{
+  "name": "MADI-OKOLLO",
+  "counties": [
+    {
+      "name": "LOWER MADI COUNTY",
+      "sub_counties": [
+        {
+          "name": "EWANGA",
+          "parishes": [
+            { "name": "DUMUNGA", "villages": ["FOLIGO", "IMVI", "KONGOLONGA", "ODULU", "OFUNGA"] },
+            { "name": "EWANGURU", "villages": ["ALIGATI", "CINYAGO", "EYU-KINGA", "MUBARI", "SHAMBIA"] },
+            { "name": "KIRANGA", "villages": ["AWII", "AWILOKANGO", "AWOGA", "MUNDUREMO", "MUREDELI", "MURUNGU"] },
+            { "name": "ROGA", "villages": ["ADURUSO", "AJUMANI", "ALINGA", "LUYI"] },
+            { "name": "WAKA-DINYA", "villages": ["GITORA", "KAGOMA", "LOKPE", "PALIRI"] }
+          ]
+        },
+        {
+          "name": "OGOKO",
+          "parishes": [
+            { "name": "AYAVU", "villages": ["ALIJODA", "AYAVU GAZI", "OJIBA"] },
+            { "name": "ENYIO", "villages": ["LALI", "OGURUKU", "OMBOKORO", "PALANDRA"] },
+            { "name": "OLALI", "villages": ["DEGIYA", "EAST JAWURA", "OLALI", "PAYAWE", "WEST JAWURA"] },
+            { "name": "PAMVARA", "villages": ["ADOVU", "ALIVU", "ARIKEYI", "ONAVA", "PAMVARA"] },
+            { "name": "YACHI", "villages": ["ACHA", "ADROYI", "BIACHICHI", "GARIA", "LIRIA"] }
+          ]
+        },
+        {
+          "name": "PAWOR",
+          "parishes": [
+            { "name": "NDAVU", "villages": ["AGIRA", "NDAVU", "PAYILA", "PULWAL"] },
+            { "name": "OLYEVU", "villages": ["APORO", "OLYEVU", "OLYEVU EAST", "OWAVU"] },
+            { "name": "PANDUKU", "villages": ["AKAVU", "ANDIR", "MUBANDA", "ONDEKO", "PAGWAYA", "PANDUKU", "PAYONGA"] },
+            {
+              "name": "PARABOK",
+              "villages": ["ANDENI", "LOWER PARABOK", "LOWER PARABOK EAST", "TAMWELE", "UPPER PARABOK"]
+            }
+          ]
+        },
+        {
+          "name": "RHINO CAMP",
+          "parishes": [
+            {
+              "name": "ANIPI",
+              "villages": ["ACIDRAKU", "ARIKAYI", "ENIOBE", "GBEIYIA", "MARIZE", "OYUU", "OZURUA", "PILLIA"]
+            },
+            {
+              "name": "AWUVU",
+              "villages": [
+                "ABARIO",
+                "KASUMENGE",
+                "KENYA",
+                "NDARA",
+                "OLODIOVA",
+                "OMBENIVA",
+                "PASUMU",
+                "RHINO CAMP SS",
+                "TANZANIA  A",
+                "TANZANIA  B",
+                "WANDI"
+              ]
+            },
+            {
+              "name": "BANDILI",
+              "villages": ["ACHAA", "ARIA-JOBI", "BANDILI", "GBORO/ESEA", "OLOMAKU", "OVUOCAKU", "PARAA", "TOLIOVA"]
+            },
+            {
+              "name": "ERAMVA",
+              "villages": [
+                "ACHOLI QUARTER",
+                "ALEIVA",
+                "JANDUA",
+                "KATANGA",
+                "LEDRIVA",
+                "LUKUDU",
+                "MANGOSABA",
+                "NDIOVA",
+                "ORODRIVA"
+              ]
+            },
+            {
+              "name": "GBULUKUATUNI",
+              "villages": ["ADUAFE  B", "ADUAFE A", "ASAROA", "EWANANI", "OKAA", "ONZI", "ORAA", "OYOA", "TRANGALA"]
+            },
+            { "name": "MANAGO", "villages": ["ADUA", "AJAGORO", "CULUA", "LODORO", "MANAGO"] }
+          ]
+        },
+        {
+          "name": "RIGBO",
+          "parishes": [
+            {
+              "name": "ALIBA",
+              "villages": [
+                "ACIDRAKU",
+                "ELUKWESINYONGO",
+                "ERADRIRU",
+                "FORIA",
+                "FUNDO",
+                "LAWARA",
+                "OBIBIFE",
+                "ORUKU",
+                "OSA  B",
+                "WARANGA",
+                "YANGA"
+              ]
+            },
+            {
+              "name": "KWILI",
+              "villages": [
+                "ABIRI",
+                "ALUKPERENGA",
+                "BUKUNGA",
+                "BURA",
+                "EMVENGA",
+                "ODRUAKU",
+                "ODUJO",
+                "OKPOTANI",
+                "OLIONGA"
+              ]
+            },
+            {
+              "name": "LUBA",
+              "villages": [
+                "ADUPI",
+                "ALLI",
+                "ERAGO",
+                "GULUBU",
+                "KOLOLO",
+                "KWILI",
+                "MERE-ANDREKUA",
+                "NAGBULU",
+                "OLIVU",
+                "OSULU",
+                "WALOPE"
+              ]
+            },
+            {
+              "name": "OCEA",
+              "villages": ["ABIRICENDUKU", "ALINYIRI", "EDEN", "EWADROMATI", "OCEA", "TUNDURU", "YORO"]
+            },
+            {
+              "name": "ODOI",
+              "villages": ["ABUNIA", "CINYAGO", "KALIGO", "LIONGA", "OCOMBENGA", "OSA A", "WANYANGE B", "YELEGO"]
+            },
+            { "name": "ODUBU", "villages": ["AMANGUNGA", "GBALALA", "ODROO", "TIKA", "WANYANGE  A"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "UPPER MADI COUNTY",
+      "sub_counties": [
+        {
+          "name": "ANYIRIBU",
+          "parishes": [
+            { "name": "AYUU", "villages": ["ADRIBU", "ANIBU", "OVIBU", "PAJURU - AYUU", "PAJURU/OLINI"] },
+            { "name": "BONDO", "villages": ["ALIBORO", "EGIRO-AYINI", "JOROBU", "LILII", "MUZEETU", "OMURIBA"] },
+            { "name": "OMII", "villages": ["ALEE", "IRIRI", "KANGO", "OKUBU", "OLIDO", "OYEKU", "PEEPIA", "PEERA"] },
+            { "name": "YILLI", "villages": ["ARASI", "OLOYI", "PAJOBI", "PANYUA", "WUA"] }
+          ]
+        },
+        {
+          "name": "OFFAKA",
+          "parishes": [
+            {
+              "name": "ADRAA",
+              "villages": [
+                "ADIBU DRAJIBU/OCONYARA",
+                "ADRAA",
+                "ANGESI",
+                "AYIBU/OSABU",
+                "AYIO/ADOGWE",
+                "AYIRA",
+                "AYUU",
+                "PAMACHI"
+              ]
+            },
+            {
+              "name": "ELIBU",
+              "villages": [
+                "ALIBU/DIMU T.C",
+                "ALIBU/NYANYABU",
+                "ANGESI/ABAALI",
+                "OLIBA/MUNI-OJIBA",
+                "ORIBU/ALEJU",
+                "PAJIA/PACENI",
+                "RIKI",
+                "WUA/IBII/NDRIBA"
+              ]
+            },
+            {
+              "name": "OCEBU",
+              "villages": [
+                "AGURU",
+                "ARAARA  A/B",
+                "NDABU",
+                "NDRIIBA - ADABU",
+                "NDRIIBA ALIBU/OCEBU-ALIBU",
+                "ODRABU",
+                "OMBABU/IGA",
+                "OMBACHI"
+              ]
+            },
+            {
+              "name": "ORIBU",
+              "villages": [
+                "ACUBU",
+                "ALIBU",
+                "NDU",
+                "NYANYABU",
+                "OCEBU IRIRI",
+                "OKUBU",
+                "OLALI",
+                "OLIBU",
+                "OMVULOO",
+                "OSABU",
+                "PAJO",
+                "PAMURA",
+                "PATRU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "OKOLLO",
+          "parishes": [
+            {
+              "name": "AJIBU",
+              "villages": ["ALIBU", "AMBALA", "AYIO", "CINYAA-RANCH", "ODRUBU", "OLII", "OMBACI", "PAJIA/OYIBU", "ZABU"]
+            },
+            { "name": "BAITO", "villages": ["ADRIBU", "AJIBU", "BAITO", "ENDEBU", "WAWA"] },
+            {
+              "name": "OKOLLO",
+              "villages": [
+                "AWAA",
+                "AYIJU",
+                "NDUBU",
+                "OKOLLO TRADING CENTRE",
+                "OPIBU",
+                "OYOBU",
+                "PANZORO",
+                "PARABU",
+                "PAUNI",
+                "VUU"
+              ]
+            },
+            {
+              "name": "ONYOMU",
+              "villages": [
+                "AJUIMUNI",
+                "ANYORA/OSABU",
+                "BAIYA",
+                "BARIBU/DRAJINI",
+                "CHANYA",
+                "MADELI",
+                "ONYOMU KATI",
+                "ONYOMU/MULUU",
+                "PAMVA/OMVEKO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ULEPPI",
+          "parishes": [
+            { "name": "ARARA", "villages": ["AGULUA", "ARIBU", "AVE", "ETELEVA", "WAWAFE"] },
+            { "name": "KATIYI", "villages": ["AYIRA", "ENYIO", "ONDUKO", "PAJULU", "ST. LUKE MISSION", "VURRA"] },
+            {
+              "name": "LAWURA",
+              "villages": ["AYIBU", "LIRIMVA", "MUNI", "ODRABU", "ODUBU", "OMBACHI", "OYABU", "ULEPPI TRADING CENTRE"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

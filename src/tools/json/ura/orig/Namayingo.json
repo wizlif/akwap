@@ -1,0 +1,629 @@
+{
+  "name": "Namayingo",
+  "id": 104,
+  "counties": [
+    {
+      "name": "Bukooli island",
+      "id": 169,
+      "sub_counties": [
+        {
+          "name": "Sigulu islands",
+          "id": 100,
+          "parishes": [
+            {
+              "name": "Bumalenge",
+              "id": 1228,
+              "villages": [
+                { "name": "Bulagaye lower", "id": 9908 },
+                { "name": "Bulagaye upper", "id": 9909 },
+                { "name": "Butanira", "id": 13008 },
+                { "name": "Lyanjala", "id": 36287 },
+                { "name": "Namudia", "id": 43012 },
+                { "name": "Secho", "id": 54976 }
+              ]
+            },
+            {
+              "name": "Nampongwe",
+              "id": 5558,
+              "villages": [
+                { "name": "Bugoma", "id": 8450 },
+                { "name": "Busero", "id": 12355 },
+                { "name": "Hasusuni", "id": 17170 },
+                { "name": "Mayakalo", "id": 37918 },
+                { "name": "Namugongo", "id": 43042 },
+                { "name": "Radanga", "id": 52229 }
+              ]
+            },
+            {
+              "name": "Rabachi",
+              "id": 6810,
+              "villages": [
+                { "name": "Bugege", "id": 8277 },
+                { "name": "Bulari", "id": 10019 },
+                { "name": "Bumayindi", "id": 10732 },
+                { "name": "Buyanga", "id": 14015 },
+                { "name": "Lubiri", "id": 35004 },
+                { "name": "Rabachi t/c", "id": 52215 }
+              ]
+            },
+            {
+              "name": "Sigulu manga",
+              "id": 7125,
+              "villages": [
+                { "name": "Bububi", "id": 7687 },
+                { "name": "Buhabocha", "id": 8658 },
+                { "name": "Buhwana", "id": 8847 },
+                { "name": "Butamala", "id": 12964 },
+                { "name": "Buyima", "id": 14116 },
+                { "name": "Matolo", "id": 37763 }
+              ]
+            },
+            {
+              "name": "Sigulu mukani",
+              "id": 7126,
+              "villages": [
+                { "name": "Bango", "id": 6328 },
+                { "name": "Buhoba a", "id": 8771 },
+                { "name": "Buhoba b", "id": 8772 },
+                { "name": "Mukani", "id": 39523 },
+                { "name": "Siemba a", "id": 55353 },
+                { "name": "Siemba b", "id": 55354 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bukooli south",
+      "id": 192,
+      "sub_counties": [
+        {
+          "name": "Banda",
+          "id": 102,
+          "parishes": [
+            {
+              "name": "Buchumba",
+              "id": 843,
+              "villages": [
+                { "name": "Buchumba", "id": 7795 },
+                { "name": "Bulundira", "id": 10384 },
+                { "name": "Bunini", "id": 11765 },
+                { "name": "Businoho", "id": 12606 },
+                { "name": "Busuma", "id": 12778 },
+                { "name": "Munyolonda", "id": 39907 },
+                { "name": "Namake", "id": 42376 },
+                { "name": "Okonga", "id": 49040 }
+              ]
+            },
+            {
+              "name": "Buwoya",
+              "id": 1710,
+              "villages": [
+                { "name": "Budianga", "id": 7892 },
+                { "name": "Bukeda", "id": 9228 },
+                { "name": "Buhula", "id": 8793 },
+                { "name": "Busekese", "id": 12307 },
+                { "name": "Bunyalawo", "id": 11806 },
+                { "name": "Busudia", "id": 12761 },
+                { "name": "Butemo", "id": 13132 },
+                { "name": "Buyombo", "id": 14176 },
+                { "name": "Muhubu", "id": 39465 },
+                { "name": "Nanjala", "id": 43492 },
+                { "name": "Siabona", "id": 55313 },
+                { "name": "Siahooli", "id": 55314 },
+                { "name": "Siamba", "id": 55315 }
+              ]
+            },
+            {
+              "name": "Bujwanga",
+              "id": 1009,
+              "villages": [
+                { "name": "Budunga east", "id": 7981 },
+                { "name": "Budunga west", "id": 7982 },
+                { "name": "Bubangi", "id": 7552 },
+                { "name": "Bujwanga east", "id": 8936 },
+                { "name": "Bujwanga west", "id": 8937 },
+                { "name": "Halaba", "id": 17111 },
+                { "name": "Busiro", "id": 12622 },
+                { "name": "Busiro beach", "id": 12624 },
+                { "name": "Mabende", "id": 36411 },
+                { "name": "Nabweyo", "id": 41087 },
+                { "name": "Nakudi", "id": 41963 },
+                { "name": "Nambano", "id": 42745 },
+                { "name": "Seka", "id": 55011 }
+              ]
+            },
+            {
+              "name": "Lugala",
+              "id": 4592,
+              "villages": [
+                { "name": "Budala", "id": 7820 },
+                { "name": "Buhima", "id": 8747 },
+                { "name": "Buyundo", "id": 14219 },
+                { "name": "Lugala beach", "id": 35084 },
+                { "name": "Matale", "id": 37689 },
+                { "name": "Mayanja", "id": 37927 },
+                { "name": "Sisiro", "id": 55532 },
+                { "name": "Sidende", "id": 55346 }
+              ]
+            },
+            {
+              "name": "Lutolo",
+              "id": 4649,
+              "villages": [
+                { "name": "Baale", "id": 6155 },
+                { "name": "Buchunia", "id": 7796 },
+                { "name": "Bwogomi", "id": 14630 },
+                { "name": "Gambabwami", "id": 16341 },
+                { "name": "Magooli", "id": 36699 },
+                { "name": "Lunaye", "id": 35479 },
+                { "name": "Lutolo", "id": 35701 },
+                { "name": "Namaboni", "id": 42280 },
+                { "name": "Nangera", "id": 43418 },
+                { "name": "Sirowa", "id": 55524 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buhemba",
+          "id": 1047,
+          "parishes": [
+            {
+              "name": "Buwongo",
+              "id": 1705,
+              "villages": [
+                { "name": "Bukimbi a", "id": 9455 },
+                { "name": "Bukimbi b", "id": 9456 },
+                { "name": "Bukimbi c", "id": 9457 },
+                { "name": "Buwongo central", "id": 13910 },
+                { "name": "Buwongo east", "id": 13911 },
+                { "name": "Buwongo west", "id": 13912 },
+                { "name": "Matiko east", "id": 37746 },
+                { "name": "Matiko west", "id": 37747 }
+              ]
+            },
+            {
+              "name": "Dohwe",
+              "id": 1945,
+              "villages": [
+                { "name": "Dohwe central", "id": 15690 },
+                { "name": "Dohwe east", "id": 15691 },
+                { "name": "Dohwe west", "id": 15692 },
+                { "name": "Nabwere north", "id": 41074 },
+                { "name": "Nabwere south", "id": 41075 },
+                { "name": "Luwerere a", "id": 35777 },
+                { "name": "Luwerere b", "id": 35778 },
+                { "name": "Namuwongo", "id": 43282 }
+              ]
+            },
+            {
+              "name": "Buhemba",
+              "id": 981,
+              "villages": [
+                { "name": "Buhemba", "id": 8723 },
+                { "name": "Bulundira east", "id": 10387 },
+                { "name": "Bulundira west", "id": 10388 },
+                { "name": "Muhuwa", "id": 39480 },
+                { "name": "Lwaniha", "id": 36046 },
+                { "name": "Sityohe", "id": 55560 }
+              ]
+            },
+            {
+              "name": "Bukewa",
+              "id": 1046,
+              "villages": [
+                { "name": "Bukewa central", "id": 9284 },
+                { "name": "Bukewa east", "id": 9285 },
+                { "name": "Bukewa west", "id": 9286 },
+                { "name": "Muganiro east", "id": 39307 },
+                { "name": "Muganiro west", "id": 39308 },
+                { "name": "Maruba", "id": 37427 },
+                { "name": "Ongojje east", "id": 50175 },
+                { "name": "Ongojje west", "id": 50176 }
+              ]
+            },
+            {
+              "name": "Sinde",
+              "id": 7137,
+              "villages": [
+                { "name": "Genguluho", "id": 16541 },
+                { "name": "Makada", "id": 36867 },
+                { "name": "Namalere", "id": 42450 },
+                { "name": "Namayombe", "id": 42700 },
+                { "name": "Sinde", "id": 55462 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bukana",
+          "id": 1429,
+          "parishes": [
+            {
+              "name": "Biisa",
+              "id": 746,
+              "villages": [
+                { "name": "Biisa", "id": 7035 },
+                { "name": "Yebe", "id": 57916 }
+              ]
+            },
+            {
+              "name": "Buduma",
+              "id": 864,
+              "villages": [
+                { "name": "Buduma", "id": 7970 },
+                { "name": "Buhere", "id": 8736 },
+                { "name": "Buhobi", "id": 8776 },
+                { "name": "Buhone", "id": 8783 },
+                { "name": "Bukani", "id": 9124 },
+                { "name": "Bukubungu", "id": 9725 },
+                { "name": "Habagaya", "id": 17050 },
+                { "name": "Mugabe", "id": 39285 },
+                { "name": "Namavundu", "id": 42643 }
+              ]
+            },
+            {
+              "name": "Bugana",
+              "id": 893,
+              "villages": [
+                { "name": "Bugana", "id": 8148 },
+                { "name": "Bubwibo", "id": 7759 },
+                { "name": "Buliani", "id": 10126 },
+                { "name": "Lwore", "id": 36247 },
+                { "name": "Mabuka", "id": 36463 },
+                { "name": "Ndayiga", "id": 44248 },
+                { "name": "Somoho", "id": 55612 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buswale",
+          "id": 103,
+          "parishes": [
+            {
+              "name": "Bubango",
+              "id": 810,
+              "villages": [
+                { "name": "Bubango", "id": 7556 },
+                { "name": "Nalwigi", "id": 42228 },
+                { "name": "Namahuhuni", "id": 42349 },
+                { "name": "Nanjofu a", "id": 43502 },
+                { "name": "Nanjofu b", "id": 43503 }
+              ]
+            },
+            {
+              "name": "Bungecha",
+              "id": 1402,
+              "villages": [
+                { "name": "Bugencha", "id": 8296 },
+                { "name": "Budangi", "id": 7828 },
+                { "name": "Budiba", "id": 7893 },
+                { "name": "Bukechi a", "id": 9226 },
+                { "name": "Bukechi b", "id": 9227 },
+                { "name": "Buhatandu", "id": 8709 }
+              ]
+            },
+            {
+              "name": "Buswale",
+              "id": 1577,
+              "villages": [
+                { "name": "Bugalama", "id": 8124 },
+                { "name": "Buhunya a", "id": 8839 },
+                { "name": "Buhunya b", "id": 8840 },
+                { "name": "Buliyo a", "id": 10214 },
+                { "name": "Buliyo b", "id": 10215 },
+                { "name": "Buyiheri", "id": 14101 },
+                { "name": "Nasisa a", "id": 43879 },
+                { "name": "Nasisa b", "id": 43880 },
+                { "name": "Simigini", "id": 55438 },
+                { "name": "Sidome", "id": 55348 }
+              ]
+            },
+            {
+              "name": "Madowa",
+              "id": 4760,
+              "villages": [
+                { "name": "Busanka a", "id": 12243 },
+                { "name": "Busanka b", "id": 12244 },
+                { "name": "Madowa a", "id": 36547 },
+                { "name": "Madowa b", "id": 36548 },
+                { "name": "Luvunya a", "id": 35743 },
+                { "name": "Luvunya b", "id": 35744 },
+                { "name": "Nalubabwe", "id": 42096 },
+                { "name": "Umbwe", "id": 56971 }
+              ]
+            },
+            {
+              "name": "Namayuge",
+              "id": 5518,
+              "villages": [
+                { "name": "Buhima", "id": 8749 },
+                { "name": "Habala", "id": 17051 },
+                { "name": "Hasebere", "id": 17168 },
+                { "name": "Lugunja", "id": 35190 },
+                { "name": "Namaji a", "id": 42360 },
+                { "name": "Namaji b", "id": 42361 },
+                { "name": "Namayuge", "id": 42705 },
+                { "name": "Tete", "id": 56466 }
+              ]
+            },
+            {
+              "name": "Nansuma",
+              "id": 5643,
+              "villages": [
+                { "name": "Buhwanja", "id": 8848 },
+                { "name": "Bumoli a", "id": 10788 },
+                { "name": "Bumoli b", "id": 10789 },
+                { "name": "Makaalo", "id": 36865 },
+                { "name": "Masodi a", "id": 37607 },
+                { "name": "Masodi b", "id": 37608 },
+                { "name": "Nansuma a", "id": 43584 },
+                { "name": "Nansuma b", "id": 43585 },
+                { "name": "Sijagajo a", "id": 55386 },
+                { "name": "Sijagajo b", "id": 55387 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buyinja",
+          "id": 94,
+          "parishes": [
+            {
+              "name": "Gondohera",
+              "id": 2089,
+              "villages": [
+                { "name": "Budimo", "id": 7920 },
+                { "name": "Gondohera", "id": 16813 },
+                { "name": "Butajja", "id": 12923 },
+                { "name": "Namuholohoho", "id": 43047 }
+              ]
+            },
+            {
+              "name": "Kifuyo",
+              "id": 3469,
+              "villages": [
+                { "name": "Kifuyo a", "id": 26523 },
+                { "name": "Kifuyo b", "id": 26524 },
+                { "name": "Lugule", "id": 35181 },
+                { "name": "Musooka", "id": 40174 },
+                { "name": "Nsango a", "id": 45095 },
+                { "name": "Nsango b", "id": 45096 }
+              ]
+            },
+            {
+              "name": "Lwangosia",
+              "id": 4693,
+              "villages": [
+                { "name": "Bugaya", "id": 8259 },
+                { "name": "Bubwoyi", "id": 7768 },
+                { "name": "Buloha east", "id": 10233 },
+                { "name": "Buloha west", "id": 10234 },
+                { "name": "Lwangosia east", "id": 36041 },
+                { "name": "Lwangosia west", "id": 36042 },
+                { "name": "Namutamba east", "id": 43248 },
+                { "name": "Namutamba west", "id": 43249 },
+                { "name": "Sibondwe", "id": 55339 }
+              ]
+            },
+            {
+              "name": "Nsono",
+              "id": 5917,
+              "villages": [
+                { "name": "Bugoma a", "id": 8451 },
+                { "name": "Bugoma b", "id": 8452 },
+                { "name": "Buzige", "id": 14263 },
+                { "name": "Nabyanga", "id": 41111 },
+                { "name": "Nakasolo", "id": 41550 },
+                { "name": "Namavundu north", "id": 42653 },
+                { "name": "Namavundu south", "id": 42654 },
+                { "name": "Nsono east", "id": 45223 },
+                { "name": "Nsono west", "id": 45224 }
+              ]
+            },
+            {
+              "name": "Syanyonja",
+              "id": 7207,
+              "villages": [
+                { "name": "Buboko", "id": 7660 },
+                { "name": "Hohoma", "id": 17199 },
+                { "name": "Mageta", "id": 36639 },
+                { "name": "Syanjonja c", "id": 55985 },
+                { "name": "Syanyonja a", "id": 55987 },
+                { "name": "Syanyonja b", "id": 55988 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lolwe",
+          "id": 1428,
+          "parishes": [
+            {
+              "name": "Hama",
+              "id": 2125,
+              "villages": [
+                { "name": "Makindye", "id": 36946 },
+                { "name": "Wayasi", "id": 57628 },
+                { "name": "Siro", "id": 55514 },
+                { "name": "Siamulala", "id": 55316 }
+              ]
+            },
+            {
+              "name": "Lolwe west",
+              "id": 4520,
+              "villages": [
+                { "name": "Bukangawa", "id": 9118 },
+                { "name": "Gorofa east", "id": 16845 },
+                { "name": "Gorofa west", "id": 16846 },
+                { "name": "Hakari", "id": 17092 },
+                { "name": "Butanira", "id": 13009 },
+                { "name": "Buyando gatundu", "id": 14011 },
+                { "name": "Kamwanga", "id": 21704 },
+                { "name": "Kandege", "id": 21839 },
+                { "name": "Mwagoda", "id": 40485 },
+                { "name": "Mwango", "id": 40495 },
+                { "name": "Nyalo", "id": 46637 },
+                { "name": "Rabolo", "id": 52218 },
+                { "name": "Singila central", "id": 55472 },
+                { "name": "Singila west", "id": 55473 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Mutumba",
+          "id": 106,
+          "parishes": [
+            {
+              "name": "Buchimo",
+              "id": 842,
+              "villages": [
+                { "name": "Buchimo a", "id": 7787 },
+                { "name": "Buchimo b", "id": 7788 },
+                { "name": "Buchimo c", "id": 7789 },
+                { "name": "Bumeru a", "id": 10767 },
+                { "name": "Bumeru b", "id": 10768 },
+                { "name": "Bumeru c", "id": 10769 }
+              ]
+            },
+            {
+              "name": "Bulule",
+              "id": 1181,
+              "villages": [
+                { "name": "Bulule central", "id": 10350 },
+                { "name": "Bumechi", "id": 10760 },
+                { "name": "Nahaiga", "id": 41247 },
+                { "name": "Namaganda a", "id": 42316 },
+                { "name": "Namaganda b", "id": 42317 },
+                { "name": "Namagenge", "id": 42319 },
+                { "name": "Namavundu", "id": 42645 }
+              ]
+            },
+            {
+              "name": "Lubango",
+              "id": 4571,
+              "villages": [
+                { "name": "Lubango a", "id": 34953 },
+                { "name": "Lubango b", "id": 34954 },
+                { "name": "Lugaga", "id": 35075 },
+                { "name": "Mulwandha a", "id": 39810 },
+                { "name": "Mulwandha b", "id": 39811 },
+                { "name": "Musoma", "id": 40166 }
+              ]
+            },
+            {
+              "name": "Lubira",
+              "id": 4578,
+              "villages": [
+                { "name": "Bugali a", "id": 8126 },
+                { "name": "Bugali b", "id": 8127 },
+                { "name": "Busiula", "id": 12644 },
+                { "name": "Maawa", "id": 36323 },
+                { "name": "Lubira", "id": 34991 },
+                { "name": "Lufudu", "id": 35051 },
+                { "name": "Natihalu", "id": 43951 },
+                { "name": "Simase", "id": 55425 }
+              ]
+            },
+            {
+              "name": "Mutumba",
+              "id": 5224,
+              "villages": [
+                { "name": "Budiba", "id": 7896 },
+                { "name": "Hagulu", "id": 17076 },
+                { "name": "Mutumba a", "id": 40337 },
+                { "name": "Mutumba b", "id": 40338 },
+                { "name": "Mutumba central", "id": 40339 },
+                { "name": "Natoholo", "id": 43966 },
+                { "name": "Sidome a", "id": 55350 },
+                { "name": "Sidome b", "id": 55351 }
+              ]
+            },
+            {
+              "name": "Mwema",
+              "id": 5255,
+              "villages": [
+                { "name": "Bulundira a", "id": 10385 },
+                { "name": "Bulundira b", "id": 10386 },
+                { "name": "Butebeyi a", "id": 13077 },
+                { "name": "Butebeyi b", "id": 13078 },
+                { "name": "Butebeyi c", "id": 13079 },
+                { "name": "Mulombi a", "id": 39777 },
+                { "name": "Mulombi b", "id": 39778 },
+                { "name": "Mulombi c", "id": 39779 },
+                { "name": "Sityohe", "id": 55561 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Namayingo town council",
+          "id": 1048,
+          "parishes": [
+            {
+              "name": "Budidi ward",
+              "id": 857,
+              "villages": [
+                { "name": "Budidi", "id": 7910 },
+                { "name": "Buletu", "id": 10123 },
+                { "name": "Buyiiti", "id": 14105 },
+                { "name": "Gaba", "id": 16235 },
+                { "name": "Namasulo a", "id": 42585 },
+                { "name": "Namasulo b", "id": 42586 }
+              ]
+            },
+            {
+              "name": "Bulamba ward",
+              "id": 1139,
+              "villages": [
+                { "name": "Bukova", "id": 9706 },
+                { "name": "Bulamba a", "id": 9964 },
+                { "name": "Bulamba b", "id": 9966 },
+                { "name": "Mpano a", "id": 39056 },
+                { "name": "Mpano b", "id": 39057 },
+                { "name": "Nawayibete", "id": 44120 }
+              ]
+            },
+            {
+              "name": "Namayingo central ward",
+              "id": 5516,
+              "villages": [
+                { "name": "Namayingo central", "id": 42693 },
+                { "name": "Namayingo east", "id": 42694 },
+                { "name": "Namayingo north", "id": 42695 },
+                { "name": "Namayingo south", "id": 42696 },
+                { "name": "Namayingo west", "id": 42697 },
+                { "name": "Namayunju", "id": 42710 }
+              ]
+            },
+            {
+              "name": "Nambugu ward",
+              "id": 5527,
+              "villages": [
+                { "name": "Buwaye", "id": 13765 },
+                { "name": "Buyinja", "id": 14135 },
+                { "name": "Nambugu", "id": 42800 },
+                { "name": "Walumbe", "id": 57357 }
+              ]
+            },
+            {
+              "name": "Nasinu ward",
+              "id": 5665,
+              "villages": [
+                { "name": "Bunyika a", "id": 11856 },
+                { "name": "Bunyika b", "id": 11857 },
+                { "name": "Nasinu central", "id": 43860 },
+                { "name": "Nasinu north", "id": 43861 },
+                { "name": "Nasinu south", "id": 43862 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

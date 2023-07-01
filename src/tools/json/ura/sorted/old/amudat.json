@@ -1,0 +1,648 @@
+{
+    "counties": [
+        {
+            "name": "UPE COUNTY",
+            "sub_counties": [
+                {
+                    "name": "ABILIYEP",
+                    "parishes": [
+                        {
+                            "name": "ABILIYEP",
+                            "villages": [
+                                "ABILIYEP",
+                                "ACHUKUL",
+                                "ASINYONOIT",
+                                "CHEDAWA",
+                                "CHEPKANER",
+                                "CHEPKOPON",
+                                "KACHUKOLIM",
+                                "KANGUR",
+                                "KASURUM",
+                                "KOCHOLIA",
+                                "LOMU",
+                                "NAKIPOM",
+                                "NALEMUTOM",
+                                "TIRIKOL"
+                            ]
+                        },
+                        {
+                            "name": "AKORIKEYA",
+                            "villages": [
+                                "AKORIKEYA",
+                                "AKWICHEN",
+                                "CHEMAJAL",
+                                "CHEMONUNG",
+                                "KAESEKOL",
+                                "KAPANYIRIT",
+                                "KAROON",
+                                "NAMANIAKAL",
+                                "TURUTUR"
+                            ]
+                        },
+                        {
+                            "name": "LOPEDOT",
+                            "villages": [
+                                "ANGATARET",
+                                "AUSUKUYON",
+                                "CHEREKOL",
+                                "KALODEKE",
+                                "KARIAMADEKE",
+                                "LOKOKOR",
+                                "LOPEDOT",
+                                "MULTASUKUN",
+                                "MURUT",
+                                "NAKIWANGARET",
+                                "NAPODO"
+                            ]
+                        },
+                        {
+                            "name": "LOYEP",
+                            "villages": [
+                                "KACHWALAESE",
+                                "KAKURUT",
+                                "KALONGOLERENG",
+                                "KOGWOLE",
+                                "KOROMOCH",
+                                "KOSIKE B",
+                                "LOBORE",
+                                "LOTOPOCHO",
+                                "NAKILESYA",
+                                "NAMUSIA",
+                                "NAPITIRO",
+                                "NATIRIRA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "ACHORICHOR",
+                    "parishes": [
+                        {
+                            "name": "ACHORICHOR",
+                            "villages": [
+                                "ABDI",
+                                "ACHORICHOR",
+                                "ACHORICHOR TC",
+                                "BABATIAN",
+                                "LOCHARIAMONI",
+                                "NABUKUT"
+                            ]
+                        },
+                        {
+                            "name": "IWAKAI",
+                            "villages": [
+                                "IWAKAI",
+                                "KAKALAS",
+                                "KALOYAMA",
+                                "KILILING",
+                                "LOITABOKET",
+                                "LOMERIPUS",
+                                "NAKORIO",
+                                "RURTANY"
+                            ]
+                        },
+                        {
+                            "name": "LOMERAI",
+                            "villages": [
+                                "AKWAKIPI",
+                                "KADEKENYA",
+                                "LOCHARIAKWANGAN",
+                                "LOCHOLI",
+                                "LOMERAI",
+                                "NACHOMIN",
+                                "NATAPEMO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AMUDAT",
+                    "parishes": [
+                        {
+                            "name": "ALAKAS",
+                            "villages": [
+                                "AKOULE",
+                                "ALAKAS",
+                                "CHEMINTIRIL",
+                                "CHEMOTONG",
+                                "CHEPTUNOYO",
+                                "GHATIAKAPURAYI",
+                                "KALAS",
+                                "KAMERISTIN",
+                                "KAPUL",
+                                "KARON",
+                                "KASES",
+                                "KASUKUROI",
+                                "KMOLE (KOMOLE)",
+                                "KONEROI",
+                                "LITYEI",
+                                "LOBORE",
+                                "LOMAJANITA",
+                                "LOMASE",
+                                "TODO",
+                                "TUMWON"
+                            ]
+                        },
+                        {
+                            "name": "AMUDAT",
+                            "villages": [
+                                "ALAKAS",
+                                "KAKADAMA",
+                                "KAKALIA",
+                                "KASIASA",
+                                "KOCHERERAI",
+                                "NAKAPELO",
+                                "NAKASEPAN",
+                                "NATELENG"
+                            ]
+                        },
+                        {
+                            "name": "CHEPONGOS",
+                            "villages": [
+                                "AMUSAIN",
+                                "ANGAMIT",
+                                "CHELONGON",
+                                "CHEPONGOS",
+                                "CHEPROCHPOGH",
+                                "KARISOMOJONG",
+                                "KARIWO",
+                                "KAROROK",
+                                "KATAKAR",
+                                "KOEDAI",
+                                "LOKODI",
+                                "LOTULIAKOL",
+                                "MOTUI",
+                                "NATIRA B",
+                                "PAMPA",
+                                "PARAKONG",
+                                "PRIDOM"
+                            ]
+                        },
+                        {
+                            "name": "LOBURIN",
+                            "villages": [
+                                "ANGARAB",
+                                "ATIRIR",
+                                "AWALINGA",
+                                "CHEMAKANY",
+                                "CHEPOROYO",
+                                "KAPETAKINEI",
+                                "LOBURIN",
+                                "MOKONGWO",
+                                "NAKOKESA",
+                                "SONGWOT"
+                            ]
+                        },
+                        {
+                            "name": "NABOKOTOM",
+                            "villages": [
+                                "AUSUKUYON",
+                                "CHEPOYI",
+                                "KAMORINYANG",
+                                "KOMORET",
+                                "KRESWO",
+                                "LORUKUT",
+                                "NABOKOTOM",
+                                "NAKARWA",
+                                "NAMALERA",
+                                "NAPAO",
+                                "NATIRA A"
+                            ]
+                        },
+                        {
+                            "name": "NAREMIT",
+                            "villages": [
+                                "APAMUTO",
+                                "ARENGEDWAT",
+                                "CHERELACHKOGHUN",
+                                "KACHAPIN",
+                                "KACHIROYON",
+                                "KAPANYIRIT",
+                                "KASHOLIP",
+                                "NAREMIT",
+                                "NATUKUMON"
+                            ]
+                        },
+                        {
+                            "name": "NGONGOSOWON",
+                            "villages": [
+                                "AKUKUS",
+                                "CHEIWAK",
+                                "CHEMINTIRIL",
+                                "KOSIKE",
+                                "LOBURIN",
+                                "NGONGOSOWON",
+                                "SIYAYAW"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "AMUDAT TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "JUMBE WARD",
+                            "villages": [
+                                "JUMBE",
+                                "KAKRES",
+                                "KAMUKON"
+                            ]
+                        },
+                        {
+                            "name": "KALAS WARD",
+                            "villages": [
+                                "LOKIRIMO",
+                                "SENIOR QUARTERS",
+                                "WARD B"
+                            ]
+                        },
+                        {
+                            "name": "LOCHENGENGE WARD",
+                            "villages": [
+                                "CHEPORCHOCH",
+                                "KAMTIKEN",
+                                "KANGOROR",
+                                "KUKAYIM",
+                                "LOCHENGENGE"
+                            ]
+                        },
+                        {
+                            "name": "TINGAS WARD",
+                            "villages": [
+                                "ANGARAB",
+                                "LOBURIN",
+                                "TINGAS",
+                                "WARD A"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KARITA",
+                    "parishes": [
+                        {
+                            "name": "ABONGAI",
+                            "villages": [
+                                "ABONGAI  A",
+                                "ABONGAI  B",
+                                "AKRAUYAN",
+                                "ALEMURENG",
+                                "AUSUKION",
+                                "CHELOLOTWO",
+                                "CHERELACHKOGHUN",
+                                "CHIROY",
+                                "KACHURO",
+                                "KARIWO",
+                                "KARUNGOLE",
+                                "KASUMTOI",
+                                "LODENGO",
+                                "MORMODO",
+                                "NAMUSIA",
+                                "NAWUI",
+                                "NGONGOSOWON"
+                            ]
+                        },
+                        {
+                            "name": "KARITA",
+                            "villages": [
+                                "ACHAWA",
+                                "CHEMOKOL",
+                                "CHEPORON",
+                                "CHIROY",
+                                "KAGWOROPU",
+                                "KAMBINYASI",
+                                "KAMOKONGWO",
+                                "KANGISA",
+                                "KARITA B",
+                                "KARITA CENTRE",
+                                "KARITA QUARTERS",
+                                "KORENYANG",
+                                "KOYOPKO",
+                                "MORUANGOR",
+                                "MORUARENGAN",
+                                "MORUEKII",
+                                "MOTANY",
+                                "NAMODO",
+                                "NAMOSIPO",
+                                "TAPARAK",
+                                "TOPULUL"
+                            ]
+                        },
+                        {
+                            "name": "NAPOROKOCHA",
+                            "villages": [
+                                "ACHELEL",
+                                "ADRUKOIT",
+                                "AKUROMOSING",
+                                "ARENGECHORA",
+                                "ASSIOKONION",
+                                "CHEPDONGEN",
+                                "CHEPINYINY",
+                                "CHEPKRAM",
+                                "KAETUKO",
+                                "KAKOGH",
+                                "KAKOU",
+                                "KALEMNYANG",
+                                "KAPENGURIA",
+                                "KARON",
+                                "KASES",
+                                "KODAP",
+                                "KOPULWO",
+                                "LOBOLOIN",
+                                "LOKARONGUI",
+                                "NAKAPURU",
+                                "NAKORETE",
+                                "NAPOROKOCHA",
+                                "NATEKOL",
+                                "NATOPOCHO",
+                                "RELNOI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KATABOK",
+                    "parishes": [
+                        {
+                            "name": "DINGDINGA",
+                            "villages": [
+                                "AKURION",
+                                "AMUSIAN",
+                                "APOPONGION",
+                                "CHEMEYESOI",
+                                "CHEMURTO",
+                                "CHEPTEREN",
+                                "DINGDINGA",
+                                "KAEDOW",
+                                "KARENGENYWA",
+                                "KATOPOTEN",
+                                "KAUTAKUR",
+                                "KODIAKA",
+                                "KOGETEI",
+                                "LOKITELARENGAN",
+                                "LOPEDENY",
+                                "MORPUS",
+                                "NAKALIMAN",
+                                "NAKICHOKIO",
+                                "PILIL"
+                            ]
+                        },
+                        {
+                            "name": "KAPETAWOI",
+                            "villages": [
+                                "ATUBOKOLONG",
+                                "KAINKOLEI",
+                                "KALEMUREKAI",
+                                "KANAREYON",
+                                "KAPETAWOI",
+                                "KASES",
+                                "KATOPOTEN",
+                                "LOPEROT",
+                                "LOREGAI",
+                                "LOSILI",
+                                "MORUKOL",
+                                "NAITAI",
+                                "NAMORUTOME",
+                                "SIKOTAI",
+                                "TOKOGHOGH"
+                            ]
+                        },
+                        {
+                            "name": "KATABOK",
+                            "villages": [
+                                "AKAYOT",
+                                "KAREUCHOM",
+                                "KARON",
+                                "KATABOK",
+                                "KATUKURI",
+                                "KOKWOTOM",
+                                "LOKWANGASUNOT",
+                                "LOMUMAN",
+                                "NAKWANGAMORU"
+                            ]
+                        },
+                        {
+                            "name": "MOTANY",
+                            "villages": [
+                                "ADOMEYON",
+                                "AKALES",
+                                "APOPONGION",
+                                "KAPKONGKONG",
+                                "KAUTAKUR",
+                                "LONGENYA",
+                                "MOTANY"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KONGOROK",
+                    "parishes": [
+                        {
+                            "name": "ANGURUMA",
+                            "villages": [
+                                "ABILEMONG",
+                                "ANGURUMA",
+                                "CHEPKUKUY",
+                                "KAKIR",
+                                "KAKODIANGIRO",
+                                "KAKRESWO",
+                                "KAKUMAT",
+                                "LOKIPETOT",
+                                "LOKITELAMAL",
+                                "NASURET",
+                                "TUMBOLONGOLE"
+                            ]
+                        },
+                        {
+                            "name": "KONGOROK",
+                            "villages": [
+                                "KARLAKOL",
+                                "KONGOROK",
+                                "LOBOLOIN",
+                                "NACHUKA",
+                                "NAGULIET",
+                                "NAKELE",
+                                "NALOIT",
+                                "NGOTUTOI"
+                            ]
+                        },
+                        {
+                            "name": "NAKONYEN",
+                            "villages": [
+                                "KOMUN",
+                                "NAKOYON",
+                                "NATURONGOLE",
+                                "TOREKINAI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LOKALES",
+                    "parishes": [
+                        {
+                            "name": "ARUKANES",
+                            "villages": [
+                                "AKULE",
+                                "ARUKANES",
+                                "CHEMULUNCHO",
+                                "CHEPKECH",
+                                "KARENGEBOCHE",
+                                "KASOWO",
+                                "KATIKOMOR",
+                                "LOKAE",
+                                "LOMAMCHECHE",
+                                "MORUKOKOI",
+                                "MORWO"
+                            ]
+                        },
+                        {
+                            "name": "CHEPKARARAT",
+                            "villages": [
+                                "CHEPKARARAT",
+                                "CHEPTOKOL",
+                                "CHEPTOKOL B",
+                                "IMONPOGHET",
+                                "KACHURO",
+                                "KOCHELIA",
+                                "KOKWOCHAYA",
+                                "LOKUCHOI",
+                                "MORUNYANG",
+                                "NACHURUR"
+                            ]
+                        },
+                        {
+                            "name": "LOKALES",
+                            "villages": [
+                                "AMUNA",
+                                "CHEWARA",
+                                "CHEWORONY",
+                                "KAKORURON",
+                                "KAPETA",
+                                "KAPKECH",
+                                "KAPTARIN",
+                                "KAPYOSHA",
+                                "KARON",
+                                "LOKALES A",
+                                "LOKALES B",
+                                "LOKALES HILLS",
+                                "MALUMTICH",
+                                "MORON",
+                                "NAKWAPUO",
+                                "NAMORU",
+                                "TINGAS"
+                            ]
+                        },
+                        {
+                            "name": "MORUAKRUK",
+                            "villages": [
+                                "KAKITECH",
+                                "MORUAKRUK",
+                                "NAUPALA",
+                                "RIANTUM",
+                                "SOLION"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LOROO",
+                    "parishes": [
+                        {
+                            "name": "LOBOROKOCHA",
+                            "villages": [
+                                "KODELA",
+                                "KOLEWLEWUI",
+                                "KOTITI",
+                                "LOPOGHIN",
+                                "NAMERIITA",
+                                "NARONIT",
+                                "NGORPILWOMOGH"
+                            ]
+                        },
+                        {
+                            "name": "LOROO",
+                            "villages": [
+                                "CHUKWAR",
+                                "KAKOGH",
+                                "KATILERIA",
+                                "KATOTIN",
+                                "KATUKUMWOK",
+                                "LOMERIRARA",
+                                "LOROO TC",
+                                "LOWAN",
+                                "NABURIAKWE"
+                            ]
+                        },
+                        {
+                            "name": "NAMOSING",
+                            "villages": [
+                                "ACHUBAKISIN",
+                                "KAKIRATOBOK",
+                                "KALALWA",
+                                "KAPUSERION",
+                                "LOIKIBEREKORI",
+                                "NAKALILIMON"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "LOSIDOK",
+                    "parishes": [
+                        {
+                            "name": "CHEPTAPOYO",
+                            "villages": [
+                                "ARAPADA",
+                                "CHAWOI",
+                                "CHEPSITOT",
+                                "CHEPTAPOYO",
+                                "CHEPTUYIS",
+                                "KAELAP",
+                                "KALAWANI",
+                                "KOMPAS",
+                                "LOLEPON",
+                                "MAKANY",
+                                "MORUPUS",
+                                "NATIRIRA",
+                                "PILIL"
+                            ]
+                        },
+                        {
+                            "name": "LOKOMA",
+                            "villages": [
+                                "APEIKAR",
+                                "KAINGENOI",
+                                "KALEKETYO",
+                                "KATAPODIN",
+                                "KODIKDIK",
+                                "LOCHAWA",
+                                "LOKOMA",
+                                "MORKOL"
+                            ]
+                        },
+                        {
+                            "name": "LOSIDOK",
+                            "villages": [
+                                "DOKOMOI",
+                                "KAINGENOI",
+                                "KALEKETYO",
+                                "KANGILET",
+                                "KATOPODIN",
+                                "KAWOROBU",
+                                "LEMU",
+                                "LOPUKAN",
+                                "LOSIDOK TRADING CENTRE",
+                                "NAKASEPAN",
+                                "TEKEWGH",
+                                "TUMNYION"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "AMUDAT"
+}

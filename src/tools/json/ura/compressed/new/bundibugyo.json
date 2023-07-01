@@ -1,0 +1,819 @@
+{
+  "name": "BUNDIBUGYO",
+  "counties": [
+    {
+      "name": "BUGHENDERA",
+      "sub_counties": [
+        {
+          "name": "BUKONZO",
+          "parishes": [
+            {
+              "name": "IRAMBURA",
+              "villages": [
+                "BUKANGAMA I",
+                "BULIMBA I",
+                "BULIMBA II",
+                "BULIMBA III",
+                "IRAMBURA",
+                "BUTWAKA I",
+                "BUTWAKA II",
+                "BUTWAKA III"
+              ]
+            },
+            {
+              "name": "BUHUNDU",
+              "villages": [
+                "BUHUNDU-MUGHOMBA",
+                "HUMYA",
+                "KIBUNANO",
+                "KIBUNANO II",
+                "KITSANGIRWA",
+                "KALEBYA",
+                "KALEBYA II",
+                "TWANZANE",
+                "TWANZANE CENTRAL"
+              ]
+            },
+            {
+              "name": "BUKANGAMA",
+              "villages": [
+                "BUKANGAMA II",
+                "KIDEDE",
+                "KIDEDE II",
+                "KITUTI",
+                "KAHEMBE",
+                "KATUMBA",
+                "KATUMBA CENTRAL",
+                "KYAMUKUBE",
+                "KYAMUKUBE CENTRAL"
+              ]
+            },
+            {
+              "name": "BUNGHUHA",
+              "villages": ["BUGHARAMA", "BULYAMBAYA", "BUKONZO", "BUNGUHA CENTRAL", "BUNGUHA I", "BUTHUNGERERI"]
+            },
+            {
+              "name": "BUSAMBA",
+              "villages": [
+                "BULEMBA I",
+                "BULEMBA II",
+                "BULIBATHA",
+                "BUSAMBA I",
+                "BUSAMBA IBANDA",
+                "BUSAMBA II",
+                "BUSAMBA III",
+                "KIGHARAMA",
+                "KANYISANDE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUNYAMWERA",
+          "parishes": [
+            { "name": "BUNYAMWERA I", "villages": ["BUNYAMWERA I"] },
+            { "name": "KABWE I", "villages": ["KABWE I"] },
+            { "name": "KABWE II", "villages": ["KABWE II"] },
+            { "name": "MABERE I", "villages": ["MABERE I"] },
+            { "name": "NKURANGA", "villages": ["NKURANGA"] }
+          ]
+        },
+        {
+          "name": "BURONDO",
+          "parishes": [
+            {
+              "name": "BURONDO",
+              "villages": ["BURONDO I", "BURONDO II", "KYAKATIMBA I", "KYAKATIMBA II", "RWAKASENYI"]
+            },
+            {
+              "name": "KARAMBI",
+              "villages": ["BURANGAPASI", "KINONI", "KINYANJOJO I", "KINYANJOJO II", "KANYANGEYA", "KARAMBE", "MWEMBE"]
+            },
+            {
+              "name": "MABERE",
+              "villages": [
+                "BITAHURA I",
+                "BITAHURA II",
+                "BUSEYA",
+                "KABANGO II",
+                "KIHONDO",
+                "KIRAMBE",
+                "KIGHUTU",
+                "MABERE I",
+                "MABERE II"
+              ]
+            },
+            { "name": "SEMPAYA", "villages": ["SEMPAYA"] }
+          ]
+        },
+        {
+          "name": "HARUGALI",
+          "parishes": [
+            {
+              "name": "BUMATE",
+              "villages": ["BIMARA", "BUMATE CENTRAL", "KIDUNGU I", "KIDUNGU II", "KARANGITSIO I", "KARANGITSIO II"]
+            },
+            {
+              "name": "BUPOMBOLI",
+              "villages": [
+                "IZAHURA",
+                "KABINGO I",
+                "KABINGO II",
+                "KIHOKO I",
+                "KIHOKO II",
+                "KIBALE I",
+                "KIBALE II",
+                "NGUGHO"
+              ]
+            },
+            {
+              "name": "KASULENGE",
+              "villages": [
+                "BUTSIKYA",
+                "KIRINDI",
+                "KITSOLIMA I",
+                "KITSOLIMA II",
+                "KASULENGE I",
+                "KASULENGE II",
+                "KASULENGE III",
+                "NYALULU"
+              ]
+            },
+            {
+              "name": "KALEYALEYA",
+              "villages": [
+                "KIREYA",
+                "KANYANGOMA I",
+                "KARAMBI",
+                "KALEYALEYA I",
+                "KALEYALEYA II",
+                "KALEYALEYA III",
+                "NGITE I"
+              ]
+            },
+            { "name": "NGITE", "villages": ["BUDENGE", "BUKWA LI", "MASULE I", "MASULE II", "MASULE III", "MBAKATI"] }
+          ]
+        },
+        {
+          "name": "KAGUGU",
+          "parishes": [
+            { "name": "BUKWERA", "villages": ["BUKWERA"] },
+            { "name": "KAGUGU", "villages": ["KAGUGU"] },
+            { "name": "KYEBUMBA", "villages": ["KYEBUMBA"] },
+            { "name": "NTUMA", "villages": ["NTUMA"] },
+            { "name": "MUSILI", "villages": ["MUSILI"] }
+          ]
+        },
+        {
+          "name": "KASITU",
+          "parishes": [
+            { "name": "KATHWAKALI", "villages": ["KATHWAKALI"] },
+            {
+              "name": "KASITU",
+              "villages": [
+                "ISURA I",
+                "ISURA II",
+                "KITEHE",
+                "KAHUMBU I",
+                "KAHUMBU II",
+                "KARONGOTI",
+                "KASITU I",
+                "KASUNGA"
+              ]
+            },
+            {
+              "name": "MALOMBA",
+              "villages": ["KIREMBERI", "MALOMBA CENTRAL", "MALOMBA I", "MALOMBA II", "MALOMBA III", "MUTITI"]
+            },
+            {
+              "name": "NDALIBANA",
+              "villages": ["KIHOKO", "KINYIHEMBE I", "KINYIHEMBE II", "KAHEMBE", "KASITU II", "KAGHANDO"]
+            },
+            {
+              "name": "NYAKIGHOMA",
+              "villages": [
+                "BUMBWENDE I",
+                "BUMBWENDE II",
+                "BUSENDWA II",
+                "BUSENDWA III",
+                "KABANGO I",
+                "KAMUBYOLE",
+                "KAGHOGHO",
+                "LIKODU",
+                "MAHINYI",
+                "NGOMEKOME",
+                "NYAKIGHOMA"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NDUGUTU",
+          "parishes": [
+            {
+              "name": "BUNDIMBUGA",
+              "villages": ["BUNDIMBUGA EAST", "BUNDIMBUGA WEST", "BUNSERU", "BUNSERU II", "KITENGYA I", "KITENGYA II"]
+            },
+            {
+              "name": "BUTAMA",
+              "villages": ["BUGWIRO", "BUNDIMBUGA", "IRANGO", "BUTAMA", "KASINGIRI", "NDUGUTU", "NYAKABUGHA"]
+            },
+            {
+              "name": "KASANZI",
+              "villages": ["BUSIGHA", "KISONKO", "KIBIRIRI", "KASANZI I", "KASANZI II", "KASANZI III", "MIROMBYO"]
+            },
+            {
+              "name": "MUTUNDA",
+              "villages": ["GOONE", "BUNDINJONGYA", "BUNDINJONGYA II", "MITUNDA", "MANKONGOBERE", "RWANDEGEYA"]
+            }
+          ]
+        },
+        {
+          "name": "NGAMBA",
+          "parishes": [
+            {
+              "name": "BUTOLYA",
+              "villages": [
+                "BUKYAMBU",
+                "BUSONDWA",
+                "BUTOLYA I",
+                "BUTOLYA II",
+                "KALEMEREME",
+                "KAMANDALYA",
+                "KASINGA",
+                "KASUKU"
+              ]
+            },
+            {
+              "name": "BURAMBAGIRA",
+              "villages": ["BURAMBAGIRA I", "BURAMBAGIRA II", "KAHUKYA", "KARAMBE", "NYAROPE", "KAMANGARA"]
+            },
+            {
+              "name": "KIKYO",
+              "villages": [
+                "BUMBILI",
+                "BUNYANGASYA",
+                "KIKYO I",
+                "KIKYO II",
+                "KIKYO TRADING CENTER",
+                "KANYABULENGE",
+                "KALIFONIYA",
+                "MULIBONDO",
+                "TEYA"
+              ]
+            },
+            {
+              "name": "NGAMBA",
+              "villages": [
+                "BUYAYA I",
+                "BUYAYA II",
+                "BUYAYA III",
+                "KILUBO BUYING CENTER",
+                "KILUBO I",
+                "KILUBO II",
+                "KAKUKA",
+                "MANGUNGU",
+                "NGAMBA I",
+                "NGAMBA II",
+                "NGAMBA III",
+                "NTOME"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NTANDI TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "NTANDI",
+              "villages": [
+                "BUMAGA",
+                "BUNDIMASOLI",
+                "KABALE",
+                "MPULYA I",
+                "MPULYA II",
+                "MPULYA III",
+                "NTANDI",
+                "NTANDI TRADING CENTRE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NTOTORO",
+          "parishes": [
+            {
+              "name": "BUGANDO",
+              "villages": [
+                "BUGANDO I",
+                "BUGANDO II",
+                "BUGANDO VALLEY",
+                "BUBULONGU I",
+                "BUBULONGU II",
+                "BUKISE IV",
+                "BUKISI I",
+                "BUKISI II",
+                "BUKISI III",
+                "BUKISI TRADING CENTRE",
+                "BUNDIMAGHUNGA",
+                "BUNDIMUKERERWA I",
+                "BUNDIMUKERERWA II",
+                "BUNDIMWALI II",
+                "KABUGA",
+                "KABUGA CENTRAL",
+                "MAKERE",
+                "MAKERE NORTH",
+                "MANTOROBA TRADING CENTRE",
+                "MATONGA"
+              ]
+            },
+            { "name": "BUHUNDU", "villages": ["BUHUNDU II", "BUHUNDU III", "HAHAU", "KIRUMYA II", "NTOME"] },
+            {
+              "name": "KANYANSIRI",
+              "villages": [
+                "BUHUNDU",
+                "BUHUNDU-KISENYI",
+                "BUSENDWA I",
+                "BUSENDWA II",
+                "BUNDIMWALI I",
+                "BUNDIMWALI III",
+                "NYASORO/BUSENDWA"
+              ]
+            },
+            { "name": "KINYANKENDE", "villages": ["BUGANDO I", "BUGANDO II", "BUNDIBUTUNDA CENTRAL", "KINYANKENDE"] },
+            {
+              "name": "NYASORO",
+              "villages": ["BUNDIBUTUNDA", "BUNDIMAGWARA", "HABEDU", "KIRUMYA EAST", "KIRUMYA T.C.", "NYANSORO"]
+            }
+          ]
+        },
+        {
+          "name": "SINDILA",
+          "parishes": [
+            {
+              "name": "BUNYANGULE",
+              "villages": ["BUNYANGULE CENTRAL", "BUNYANGULE I", "BUNYANGULE II", "BUNYANGULE III", "BUSIIGHA"]
+            },
+            {
+              "name": "KAKUKA",
+              "villages": [
+                "BIHYA",
+                "BIHYA II",
+                "BUBONI",
+                "BUSANZA",
+                "BUSIGA CENTRAL",
+                "KINYAMBOMA",
+                "KITSWAMBA",
+                "KAKUKA I",
+                "KAKUKA II",
+                "KAKUKA III",
+                "LHUMBU",
+                "MALINDI",
+                "MUTITI I",
+                "MUTITI II",
+                "MUTITI III"
+              ]
+            },
+            { "name": "NKURANGA", "villages": ["BUNDIKAHONDO", "BUNDIKAHONDO II", "KYEBUMBA", "MUSALAWU", "NTAGATA"] },
+            {
+              "name": "NYANKONDA",
+              "villages": ["BULYATA", "BULYATA II", "NYANKONDA CENTRAL", "NYANKONDA I", "NYANKONDA II"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BWAMBA",
+      "sub_counties": [
+        {
+          "name": "BUBANDI",
+          "parishes": [
+            {
+              "name": "LAMIA",
+              "villages": [
+                "BUBANDI I - NDUGUTU",
+                "BUBANDI I - RUTOOBO",
+                "BUNDINGOMA II",
+                "BUNDINGOMA IV",
+                "BUNDINJOGYA",
+                "NABHANJINGIRI",
+                "NABOWA",
+                "MAJADA WEST",
+                "MURUNGITANWA",
+                "RUTOOBO CENTRAL"
+              ]
+            },
+            {
+              "name": "NJUULE",
+              "villages": [
+                "BUBANDI III",
+                "BUNDISELYA",
+                "KIBHANIGE",
+                "KABUTABULE",
+                "NADULE",
+                "MUTEMBO",
+                "NAMANSENGU",
+                "NJUULE",
+                "NAMBALANGA",
+                "NAMUGHAJU I"
+              ]
+            },
+            {
+              "name": "MULUNGITANWA",
+              "villages": [
+                "BUBANDI CENTRAL",
+                "BUBANDI II",
+                "KITUMBA",
+                "MAJADA",
+                "MURUNGITANWA",
+                "NDUGUTU II",
+                "RUTOBO II"
+              ]
+            },
+            { "name": "TOMBWE", "villages": ["NDUGUTO", "NAMUGHAJU II", "TOMBWE I", "TOMBWE II"] },
+            {
+              "name": "NYAMBARO",
+              "villages": [
+                "BUSU II",
+                "KANANKULONGO",
+                "NYAMBARO BOARDER",
+                "NYAMBARO CENTRAL",
+                "NYAMBARO I",
+                "NYAMBARO II",
+                "NYAMBARO III",
+                "NYAMBARO IV",
+                "NYAMBARO NORTH",
+                "NYAMBARO V",
+                "NDUGUTU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUBUKWANGA",
+          "parishes": [
+            {
+              "name": "BUBUKWANGA",
+              "villages": [
+                "BUBUKWANGA CENTRAL",
+                "BUBUKWANGA HQT",
+                "BUHUNDU I",
+                "BUHUNDU II",
+                "BUNDIKITEGANWA II",
+                "BUNDIMAGWARA I",
+                "BUNDIMAGWARA II",
+                "HAKIBALE",
+                "SAARA CITY",
+                "SARA KIHOMBYA"
+              ]
+            },
+            {
+              "name": "HUMYA",
+              "villages": ["BUNDIKULIYA", "BUNDIMBALI I", "HUMYA I", "HUMYA II", "HUMYA III", "MAMPONGURO"]
+            },
+            { "name": "BUNYAMWERA", "villages": ["BUNYAMWERA"] },
+            {
+              "name": "MAMPONGYA",
+              "villages": [
+                "BUBURONGU",
+                "BUBURONGU BOARDER",
+                "BUBURONGU CENTRAL",
+                "BUNDIKITEGANWA I",
+                "BUNDIMBALI II",
+                "MAMPONGYA"
+              ]
+            },
+            { "name": "SARAH", "villages": ["SARAH"] }
+          ]
+        },
+        {
+          "name": "BUNDIBUGYO TOWN COUNCIL",
+          "parishes": [
+            { "name": "BIMARA WARD", "villages": ["BUNDIKPHADA", "HUMYA", "KIBALE", "KAINDOLE", "NYAMPIRI"] },
+            {
+              "name": "HAMUTITI WARD",
+              "villages": ["HOSPITAL", "KIRIBHA", "CITY SQUARE", "KITUI", "KAKINDO", "KAKOGHA", "MPOKU", "MUTITI"]
+            },
+            {
+              "name": "BUMADU WARD",
+              "villages": [
+                "BUMADU CENTRAL",
+                "HAMUTITI",
+                "GABATA",
+                "KATUMBA",
+                "KAGORA",
+                "MAINDOLE",
+                "MUSANDARA",
+                "MUTOMA",
+                "NAMBAWANI",
+                "TWANZANE"
+              ]
+            },
+            {
+              "name": "BUNDIBUGYO CENTRAL WARD",
+              "villages": ["BUNDIBUGYO CENTRAL", "KABALE", "KISENYI", "KAJAMBURA", "KAVULE", "KATANGA"]
+            },
+            { "name": "KANYANSIMBI WARD", "villages": ["BIMARA", "DUMBA", "MBUMBAI", "MUTUKULA"] }
+          ]
+        },
+        {
+          "name": "BUNDINGOMA",
+          "parishes": [
+            { "name": "BUNDINAMANDI", "villages": ["BUNDINAMANDI"] },
+            {
+              "name": "BUNDINGOMA",
+              "villages": [
+                "BUHURA",
+                "BUNDIBHOMBI",
+                "BUNDIMURAMBI",
+                "BUNDINAMANDI",
+                "BUNDINAMANDI II",
+                "BUNDINGOMA",
+                "BUNDINGOMA CENTRAL",
+                "BUNDINGOMA I",
+                "BUSU BUGANDYA",
+                "BUSU CENTRAL",
+                "BUSU NABALONGO",
+                "NYAKASOHA I",
+                "NYAKASOHA II",
+                "NYAKASOWE CENTRAL",
+                "NYAKASOWE III",
+                "NYABANKOKO"
+              ]
+            },
+            {
+              "name": "BUSUNGA",
+              "villages": [
+                "BUSUNGA CENTRAL",
+                "NYANKONDA I",
+                "NYANKONDA II",
+                "MAJADA EAST",
+                "MULUNGITANWA II",
+                "LAMIA I",
+                "LAMIA II",
+                "NDUGUTU I",
+                "RUTOOBO"
+              ]
+            },
+            { "name": "KANANKULONGO", "villages": ["KANANKULONGO"] },
+            { "name": "NAKASOHE", "villages": ["NAKASOHE"] }
+          ]
+        },
+        {
+          "name": "BUSARU",
+          "parishes": [
+            { "name": "BUGOMBWA", "villages": ["BUGOMBWA CENTRAL", "BUGOMBWA HARUGALE", "BUNDIBEGENDYA", "KILEMBE"] },
+            {
+              "name": "BUNDIMWENDI",
+              "villages": ["BUNDIKAGHORA", "BUNDIKAKOMI", "BUNDIMWENDI I", "BUNDIMWENDI II", "KADINDELE"]
+            },
+            {
+              "name": "BUSARU",
+              "villages": [
+                "BUBOMBOLO BULYAMBWA",
+                "BUSARU CENTRAL",
+                "NYAKAKINDO I",
+                "NYAKAKINDO II",
+                "NYAKAKINDO III",
+                "NYAKAKINDO IV"
+              ]
+            },
+            {
+              "name": "KINYANTE",
+              "villages": [
+                "KINYANTE CENTRAL",
+                "KINYANTE EAST",
+                "KINYANTE I",
+                "KINYANTE II",
+                "KINYANTE III",
+                "KINYANTE IV",
+                "KALEBHA"
+              ]
+            },
+            {
+              "name": "KIRINDI",
+              "villages": [
+                "BUNDIKAHUKA CENTRAL",
+                "BUNDIKAHUKA I",
+                "BUNDIKAHUKA II",
+                "BUNDIKAHUKA III",
+                "BUMATHE II",
+                "BUSENGERWA I",
+                "BUSENGERWA II",
+                "BUSENGERWA III",
+                "BUSENGERWA IV",
+                "BUSENGERWA NYALULU",
+                "BUNDINDYANKUNDA",
+                "MABALE",
+                "MUKUNDUNGU",
+                "MUKUNDUNGU WEST",
+                "MBUME",
+                "NAMUGONGO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KIRUMYA",
+          "parishes": [
+            {
+              "name": "BUNDIBUTURO",
+              "villages": ["BUGHALAMA I", "BUGHALAMA II", "BUNDIBUTURO I", "BUNDIBUTURO II", "KASODO", "KASULENGE"]
+            },
+            {
+              "name": "BUNDIKEKI",
+              "villages": [
+                "BUNDIKEKI I",
+                "BUNDIKEKI II",
+                "BUNDIKEKI-GABATA",
+                "BUNDIKEKI-KISENYI",
+                "BUNDIMPHEKU",
+                "BUNDIMULOMBI I",
+                "BUNDIMULOMBI II",
+                "HAMUTOMA CENTRAL"
+              ]
+            },
+            {
+              "name": "BUNDIMURANGYA",
+              "villages": [
+                "BULAMA CENTRAL",
+                "BULAMA I",
+                "BULAMA II",
+                "KIRUMYA CENTRAL",
+                "KIRUMYA I",
+                "KIRUMYA II",
+                "KASULENGE II"
+              ]
+            },
+            {
+              "name": "KATUMBA",
+              "villages": ["BUNDIKAYANJA", "BUNDIMULANGYA", "BUTUKULU", "KATUMBA", "NYANGASA", "NYABUDE", "NYABUDE I"]
+            },
+            {
+              "name": "NYANKIRO",
+              "villages": ["BUNDIGERE", "BUNDIWERUME BOARDER", "BUNDIWERUME CENTRAL", "BUNDIWERUME II", "NYANKIRO"]
+            }
+          ]
+        },
+        {
+          "name": "KISUBBA",
+          "parishes": [
+            {
+              "name": "BUBOMBOLI",
+              "villages": ["BUBOMBOLI CENTRAL", "BUBOMBOLI I", "BUBOMBOLI II", "BUBOMBOLI III", "BUNDIKUYALI"]
+            },
+            {
+              "name": "HAKITARA",
+              "villages": ["BUNDIBAKEREKE", "HAKITARA I", "HAKITARA II", "KIJANJABA I", "KIJANJABA II"]
+            },
+            {
+              "name": "BUSORU",
+              "villages": ["BUSORU I", "BUSORU II", "BUSORU III", "BUTOGO I", "BUTOGO II", "RWANDURU"]
+            },
+            {
+              "name": "KAGHEMA",
+              "villages": [
+                "BUFEME",
+                "BULIREYA CENTRAL",
+                "BULIREYA FARM",
+                "BULIREYA I",
+                "BULIREYA II",
+                "BULIREYA NYAKAKINDO"
+              ]
+            },
+            {
+              "name": "KISUBA",
+              "villages": ["BUBOMBOLI CENTRAL", "BUBOMBOLI I", "BUBOMBOLI II", "BUBOMBOLI III", "BUBOMBOLI IV"]
+            }
+          ]
+        },
+        {
+          "name": "MIRAMBI",
+          "parishes": [
+            { "name": "BUGANIKIRE", "villages": ["BUGANIKERE I", "BUGANIKERE II", "BUGANIKERE WEST", "KYAMAIZI"] },
+            {
+              "name": "KUKA",
+              "villages": [
+                "BUNDIKAHUNGU CENTRAL",
+                "BUNDIKAHUNGU NORTH",
+                "BUNDIKAHUNGU SOUTH",
+                "BUNDIKAHUNGU WEST",
+                "BUNDIKAKEMBA EAST",
+                "BUNDIKAKEMBA WEST",
+                "BUNDIKYORA"
+              ]
+            },
+            {
+              "name": "NJANJA",
+              "villages": ["BUTAMA", "BUTAMA II", "BUTAMA III", "BUTAMA IV", "KISELIMBE", "KASUMBERIYA", "NJANJA"]
+            },
+            {
+              "name": "MIRAMBI",
+              "villages": ["BUTAMA I", "KANYANTUHA", "KANABILAYA", "MIRAMBI CENTRAL", "NYAHUNGU", "NKISIYA"]
+            },
+            {
+              "name": "SIMBYA",
+              "villages": ["BUGANIKERE CENTRAL", "BUGANIKERE III", "BUNDIKAKEMBA I", "BUNDIKAKEMBA II"]
+            }
+          ]
+        },
+        {
+          "name": "NYAHUKA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BHAMBA WARD",
+              "villages": ["BUNDIKUYALI CENTRAL", "BUNDIKUYALI II", "BUNDIMBERE II", "BUNDIMBERE III", "BUNDIMBERE IV"]
+            },
+            {
+              "name": "BUNDIKAHUNGU WARD",
+              "villages": ["BANSOGORA", "BUNDIKAHUNGU EAST", "BUNDIKAHUNGU I", "BUNDIKAHUNGU WEST", "KANANGUGU"]
+            },
+            {
+              "name": "BUNDIKUYALI WARD",
+              "villages": ["BUDIKUYALI I", "BUNDIMBERE CENTRAL", "BUNDIMBERE I", "KALERA", "MAKWOLA"]
+            },
+            {
+              "name": "BUNDIMULINGA WARD",
+              "villages": [
+                "BUNDIKAKEMBA III",
+                "BUNDIMULINGA CENTRAL",
+                "BUNDIMULINGA EAST",
+                "BUNDIMULINGA I",
+                "BUNDIMULINGA III",
+                "CHABBI",
+                "KAJURUGA"
+              ]
+            },
+            { "name": "KASIRI WARD", "villages": ["BUSU CENTRAL", "BUSU III", "KITUULE", "KASIRI", "KASIRI CENTRAL"] },
+            {
+              "name": "KAHUNGU WARD",
+              "villages": ["BUNDIKAHUNGU CENTRAL", "BUNDIKAHUNGU HILL", "BUNDIKAHUNGU II", "BUNDIKAHUNGU III"]
+            },
+            {
+              "name": "NYAHUKA WARD",
+              "villages": [
+                "BUNDIKAHUNGU",
+                "BUNDIKAHUNGU IV",
+                "BUNDIKAHUNGU V",
+                "NYAHUKA CENTRAL",
+                "NYAHUKA EAST",
+                "NYAHUKA WEST"
+              ]
+            },
+            {
+              "name": "SIMBYA NKURU WARD",
+              "villages": ["KIJUMBU", "NGOMA CENTRAL", "SIMBYANKURU CENTRAL", "SIMBYANKURU I", "SIMBYANKURU II"]
+            }
+          ]
+        },
+        {
+          "name": "TOKWE",
+          "parishes": [
+            { "name": "HAKITENGYA", "villages": ["HAKITENGYA"] },
+            { "name": "BUHANDA", "villages": ["BUHANDA"] },
+            {
+              "name": "BUNDINYAMA",
+              "villages": [
+                "BUHANDA",
+                "BUNDIBUKUSU",
+                "BUNDIBYESO",
+                "BUNDIKITIBO",
+                "BUNDIMUGAYO",
+                "BUNDINYAMA I",
+                "BUNDINYAMA II",
+                "BUNDIWELUME",
+                "BUNDIWELUME II",
+                "MBANGO"
+              ]
+            },
+            {
+              "name": "BUNYARUTA",
+              "villages": [
+                "BUGALAMA",
+                "BUNDIKATIGA",
+                "BUNYAMBUWO",
+                "BUNYAMWERA",
+                "BUNYAMWERA CENTRAL",
+                "BUNYARUTA I",
+                "BUNYARUTA II"
+              ]
+            },
+            {
+              "name": "MATAISA",
+              "villages": [
+                "BUNDIKAYANJA I",
+                "BUNDIKAYANJA II",
+                "HAKITEGYA I",
+                "HAKITEGYA II",
+                "KANYAMWIRIMA I",
+                "KANYAMWIRIMA II",
+                "MATAISA"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

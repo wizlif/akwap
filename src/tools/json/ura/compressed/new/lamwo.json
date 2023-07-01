@@ -1,0 +1,561 @@
+{
+  "name": "LAMWO",
+  "counties": [
+    {
+      "name": "LAMWO",
+      "sub_counties": [
+        {
+          "name": "AGORO",
+          "parishes": [
+            {
+              "name": "LOPULINGI",
+              "villages": [
+                "AGULA LOBOYOKO A",
+                "AGULA LOBOYOKO B",
+                "AGULA ODICIRI",
+                "LOGOT LOBINONGA",
+                "LOPULINGI A",
+                "LOPULINGI B",
+                "PANYUL",
+                "POLUCIRE EAST",
+                "POLUCIRE WEST"
+              ]
+            },
+            { "name": "NGACINO", "villages": ["IRUMO", "LAYAMO KILA", "LAMOGI", "OBERE"] },
+            {
+              "name": "POBAR",
+              "villages": [
+                "GOLORO A",
+                "GOLORO B",
+                "CENTRAL",
+                "LOROMIBENGE A",
+                "LOROMIBENGE B",
+                "YWAYA",
+                "TUMANUN A",
+                "TUMANUN KAPWOTA",
+                "TEGOT KWERA NORTH",
+                "TEGOT KWERA SOUTH"
+              ]
+            },
+            {
+              "name": "POTIKA",
+              "villages": [
+                "CINGLONYO",
+                "CWINY MORIBE A",
+                "CWINY MORIBE B",
+                "LOBULE A",
+                "LOBULE B",
+                "LABEDO OCITI",
+                "PIT BER",
+                "SIMBA"
+              ]
+            },
+            { "name": "RUDI", "villages": ["LOGEDE", "LOGU", "PAKINYI", "PANYAMYEL", "POLONGO A", "POLONGO B"] },
+            {
+              "name": "PAWACH",
+              "villages": [
+                "MOROTTO EAST",
+                "MOROTTO WEST",
+                "LOMWAKA A",
+                "LOMWAKA B",
+                "LOYO AYELA",
+                "LARACH ODONG",
+                "PENYBUK",
+                "YWEYO-PE",
+                "OBOKO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LAMWO TOWN COUNCIL",
+          "parishes": [
+            { "name": "ATENG PAR WARD", "villages": ["AWACH", "GOT KWAR", "LOYO AYELLA"] },
+            { "name": "ATIBA WARD", "villages": ["CINKUL", "LATYELO", "LAGOT AGORO"] },
+            { "name": "OCULA WARD", "villages": ["OCULA CENTRAL", "OCULA NORTH", "OCULA SOUTH"] },
+            { "name": "OGWECH WARD", "villages": ["ATEDA", "JUBA", "ONGALO"] }
+          ]
+        },
+        {
+          "name": "LOKUNG",
+          "parishes": [
+            {
+              "name": "DIBOLYEC",
+              "villages": [
+                "AWENO OLWI",
+                "BER LOBO",
+                "LOGWAK CENTRAL",
+                "LOGWAK EAST",
+                "LATAKO",
+                "LATIKIRIU",
+                "PATEKE",
+                "YWAYA EAST",
+                "YWAYA WEST"
+              ]
+            },
+            {
+              "name": "LELA PWOT",
+              "villages": [
+                "AKWERA",
+                "KWONODONG",
+                "LELA BUL EAST",
+                "LELA BUL WEST",
+                "LELA PWOT WEST",
+                "OMER KONGO",
+                "TEDOPE",
+                "TEDOPE CENTRAL"
+              ]
+            },
+            {
+              "name": "LICWA",
+              "villages": ["APUK", "KILAKONY PACO", "GHANA", "LICWA CENTRAL", "LICWA WEST", "LAKWALA WEST", "NGOMOROMO"]
+            },
+            { "name": "POBEL", "villages": ["KARATAC", "NGORA", "WIGOT", "TRADING CENTRE"] },
+            { "name": "OLEBI", "villages": ["LANGWIDIYIKA", "OKOKWENE", "ODODO"] },
+            { "name": "PAKALABULE", "villages": ["LOMODO CENTRAL", "LOMODO EAST", "LOMODO WEST"] },
+            {
+              "name": "PANGIRA",
+              "villages": [
+                "AKELIKONGO CENTRAL",
+                "AKELIKONGO NORTH",
+                "AKELIKONGO OLIK OLONY",
+                "AKELIKONGO WEST",
+                "NGOL PAC",
+                "OKORA CENTRAL",
+                "OKORA EAST",
+                "OKORA PAGADA",
+                "OKORA WEST"
+              ]
+            },
+            {
+              "name": "PARAPONO",
+              "villages": ["GURIA CENTRAL", "GURIA EAST", "GURIA NORTH", "GURIA WEST", "LOOLI", "OMWA"]
+            },
+            {
+              "name": "PAWOR",
+              "villages": ["BWOT ATUM", "LIMUR", "MUDU", "LACAN ODWOGO", "LATIDA", "NGOMONYA", "POTWAC", "YOKE"]
+            }
+          ]
+        },
+        {
+          "name": "MADI-OPEI",
+          "parishes": [
+            { "name": "KAL", "villages": ["CENTRAL", "GEM", "POBUDI", "POPANY", "POYAMO"] },
+            { "name": "LAWIYE-ODUNY", "villages": ["DOG TANGI", "LOCIMIDIK", "LOTUKO", "OROGO"] },
+            {
+              "name": "OKOL",
+              "villages": [
+                "ARINGOKUL",
+                "KIWIRI",
+                "DOG GWENYO",
+                "KAPETA",
+                "KAKIRA",
+                "LITENGI",
+                "MOROKWE",
+                "MATI-INGEE",
+                "LAKIULA",
+                "PAMA",
+                "TEYAA",
+                "OBOKEOLOT",
+                "ODIYA OKET",
+                "TECWA"
+              ]
+            },
+            {
+              "name": "PABURA",
+              "villages": ["ALELE", "GUDA PALWO", "KARUMA", "LOBALU KODI", "LUBIRI", "POBUTU", "ORYANG PABURA"]
+            }
+          ]
+        },
+        {
+          "name": "OGILI",
+          "parishes": [
+            {
+              "name": "APYETA",
+              "villages": [
+                "ALALI",
+                "APYETA CENTRAL",
+                "APYETA EAST",
+                "APYETA NORTH",
+                "APYETA SOUTH",
+                "APYETA WEST",
+                "ODUBE"
+              ]
+            },
+            {
+              "name": "LUGWAR",
+              "villages": ["AKWORO CENTRAL", "AKWORO EAST", "LAYAMO", "LUGWAR CENTRAL", "LAGOT OPUK"]
+            },
+            {
+              "name": "PADWAT",
+              "villages": [
+                "GOT JOK",
+                "KIRA",
+                "PADUKE",
+                "PADWAT CENTRAL",
+                "PADWAT CENTRAL B",
+                "PADWAT EAST",
+                "PADWAT NORTH EAST",
+                "PADWAT NORTH WEST",
+                "PADWAT SOUTH",
+                "PADWAT WEST",
+                "PAJONG"
+              ]
+            },
+            {
+              "name": "PARACELLE",
+              "villages": ["MUDU CENTRAL", "MUDU EAST", "MUDU NORTH WEST", "MUDU SOUTH", "MUDU WEST", "OTAA"]
+            }
+          ]
+        },
+        {
+          "name": "PADIBE EAST",
+          "parishes": [
+            {
+              "name": "KATUM",
+              "villages": [
+                "DEC CENTRAL",
+                "DEC EAST",
+                "DEC WEST",
+                "KATUM CENTRAL",
+                "KATUM EAST",
+                "KATUM EAST B",
+                "KATUM WEST",
+                "LABAYANGO",
+                "LAGOT ONGU",
+                "TUMANGU"
+              ]
+            },
+            {
+              "name": "WANGTIT",
+              "villages": [
+                "ABOO",
+                "ALENYO NORTH",
+                "ALENYO SOUTH",
+                "GUCI",
+                "MAA OLWONGA",
+                "LOCKEN EAST",
+                "LOCKEN WEST",
+                "PALWAL",
+                "OGAKO NORTH",
+                "OGAKO SOUTH",
+                "TADI CENTRAL",
+                "TADI NORTH",
+                "TADI SOUTH"
+              ]
+            },
+            {
+              "name": "PANYINGA-ALAA",
+              "villages": [
+                "AYAGO EAST",
+                "AYAGO WEST",
+                "LOI AGOLO",
+                "LOI AGOLO SOUTH",
+                "LOI-TEOKWORO",
+                "LACARI LEB MUNU NORTH",
+                "LACARI LEBMUNU SOUTH",
+                "ORIA ALIGWETA EAST",
+                "ORIA ALIGWETA WEST",
+                "OKORA LONGONY NORTH",
+                "OKORA LONGONY SOUTH"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PADIBE TOWN COUNCIL",
+          "parishes": [
+            { "name": "ATWOL WARD", "villages": ["ATWOL A", "ATWOL B", "BWOLA", "MISSION", "LOTIBOL"] },
+            {
+              "name": "GANGDYANG WARD",
+              "villages": ["ANYIBI", "KAKIRA SOUTH", "OWACOMOO", "NGOM-WEGI", "NGOMOROMO CENTRAL", "NGOMOROMO SOUTH"]
+            },
+            {
+              "name": "KAMAMA WARD",
+              "villages": [
+                "KAMAMA CENTRAL",
+                "KAMAMA EAST",
+                "LOI ORYANG",
+                "LAMURA KWARA",
+                "NYAMALO EAST",
+                "NYAMALO WEST",
+                "TOLPOLO"
+              ]
+            },
+            {
+              "name": "KULUYEE WARD",
+              "villages": ["DOG LOKUTU CENTRAL", "DOG LOKUTU EAST", "DOG LOKUTU WEST", "KAKIRA NORTH"]
+            },
+            {
+              "name": "MURA WARD",
+              "villages": [
+                "LOIBIDE NORTH",
+                "LOIBIDE SOUTH",
+                "PALAA CENTRAL",
+                "PALAA EAST",
+                "PALAA WEST",
+                "WIGWENG NORTH",
+                "WIGWENG SOUTH"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PADIBE WEST",
+          "parishes": [
+            {
+              "name": "BOBI ABAKADYAK",
+              "villages": [
+                "AYOM NORTH",
+                "AYOM SOUTH",
+                "LOBIRI",
+                "LOTIC ODOKO GWOK",
+                "LAGOT OKANGA",
+                "LAITEPE",
+                "MEK MEK",
+                "LAROM EAST",
+                "LAROM WEST",
+                "NGOMOROMO NORTH",
+                "OTAC PAB",
+                "STOREBOR EAST",
+                "STOREBOR WEST"
+              ]
+            },
+            {
+              "name": "LAGWEL",
+              "villages": [
+                "LAMURA EAST",
+                "LAMURA WEST",
+                "PABWOC EAST",
+                "PABWOC WEST",
+                "PABWOCH CENTRAL",
+                "PABWOCH NORTH"
+              ]
+            },
+            {
+              "name": "MADI-KILOCH",
+              "villages": [
+                "ALUU EAST",
+                "ALUU WEST",
+                "AYAGO",
+                "BIWANG CENTRAL",
+                "BIWANG WEST",
+                "BARARA",
+                "COROM",
+                "OPOKI",
+                "OPOKI EAST",
+                "OBOKOLOT",
+                "TEGOT CENTRAL",
+                "TEGOT MISSION",
+                "TEGOT SOUTH"
+              ]
+            },
+            {
+              "name": "YWAYA",
+              "villages": [
+                "AMERO EAST",
+                "AMERO WEST",
+                "AMUCA NORTH",
+                "AMUCA SOUTH",
+                "BILAPE",
+                "KAPWOTA",
+                "LELAMEL",
+                "LOKILI",
+                "LACARA",
+                "LAGURI CENTRAL",
+                "LAGURI EAST",
+                "LAGURI WEST",
+                "RAM RAM NORTH",
+                "RAM RAM SOUTH",
+                "TUMBAFU CENTRAL",
+                "TUMBAFU EAST",
+                "TUMBAFU WEST",
+                "OLWORNGU EAST",
+                "OLWORNGU WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PALABEK-GEM",
+          "parishes": [
+            {
+              "name": "ANAKA",
+              "villages": [
+                "AJA OGALA",
+                "ANAKA CENTRAL",
+                "ANAKA EAST",
+                "ANAKA SOUTH",
+                "AYUU LUPUR",
+                "AYUU LUPUR WEST",
+                "BEYO GOYA",
+                "PAWICH"
+              ]
+            },
+            {
+              "name": "CUBU",
+              "villages": [
+                "ABERA",
+                "ABAM",
+                "ABAM EAST",
+                "AGWATA",
+                "AGWATA WEST",
+                "LAYAMO",
+                "NGOMLAC",
+                "PAWENA CENTRAL",
+                "PAWENA EAST"
+              ]
+            },
+            {
+              "name": "GEM",
+              "villages": ["ABUKA", "AMINA", "BEYOMABOR", "INDIA", "MEDE CENTRAL", "MEDE SOUTH", "MEDE WEST"]
+            },
+            {
+              "name": "MOROTO",
+              "villages": [
+                "ARUSHA",
+                "ARUSHA SOUTH",
+                "KENYA",
+                "KATUM",
+                "KAMAMA CENTRAL",
+                "KAMAMA SOUTH",
+                "MOROTO EAST",
+                "MOROTO WEST",
+                "LABWORO YENG",
+                "LAKAMAR",
+                "YAA PA ACORO"
+              ]
+            },
+            {
+              "name": "PATANGA",
+              "villages": [
+                "AWERI",
+                "DYANGBII",
+                "KAFATA",
+                "LONGULU",
+                "LUBUCEABORO",
+                "LAKWAR",
+                "OBOKOLOT",
+                "OBOKOLOT WEST."
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PALABEK-KAL",
+          "parishes": [
+            {
+              "name": "AYUU ALALI",
+              "villages": [
+                "AMOT-LAROM",
+                "BIA B MAGALA",
+                "KATUNGURU PAWODATING",
+                "LIRI CENTRAL",
+                "LIRI EAST",
+                "LIRI WEST",
+                "LOBUTORO",
+                "LAREGO",
+                "OTONG LAWAT PURA"
+              ]
+            },
+            {
+              "name": "KAL",
+              "villages": [
+                "AGORO DEM",
+                "GURUGURU",
+                "KAL CENTRAL A",
+                "KAL CENTRAL B",
+                "LUGOLO",
+                "PAMWA",
+                "PANDWONG",
+                "PAUMA EAST",
+                "PAUMA MEDDE",
+                "PAUMA NORTH",
+                "PAUMA WEST"
+              ]
+            },
+            {
+              "name": "LABIGIRYANG",
+              "villages": [
+                "ALIMOTIKO CENTRAL",
+                "ALIMOTIKO EAST",
+                "ALIMOTIKO WEST",
+                "LAGWEDOLA",
+                "LANYWANG CENTRAL",
+                "LANYWANG EAST",
+                "LANYWANG WEST",
+                "PADOLO",
+                "ONYAYO-RWOT"
+              ]
+            },
+            {
+              "name": "LAMWO",
+              "villages": [
+                "AGORA",
+                "AGORO",
+                "BAJERE BIA A",
+                "BWOLE KALAKI",
+                "MICIRI KALAKI",
+                "OROM CENTRAL",
+                "OROM EAST",
+                "OROM WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "PALOGA",
+          "parishes": [
+            {
+              "name": "BUNGU",
+              "villages": [
+                "BIDER",
+                "ITIBA",
+                "JAMULA",
+                "KECA",
+                "LOBILUGA",
+                "LOYORO",
+                "NGANY A",
+                "NGANY B",
+                "ORII GANG ODYE",
+                "ORII LAYIMA",
+                "OBOKEOLOT"
+              ]
+            },
+            {
+              "name": "PALOGA",
+              "villages": [
+                "ALIMOTIKO",
+                "ALOKOROM",
+                "ATANGWA",
+                "DOG GUDI A",
+                "DOG GUDI B",
+                "GAI",
+                "CENTRAL",
+                "GENA",
+                "KATEBO",
+                "LAROBI",
+                "PALAWAU",
+                "TUMATOO",
+                "OGWANGERE"
+              ]
+            },
+            {
+              "name": "PAWAJA",
+              "villages": [
+                "ATANGO",
+                "KALIRO",
+                "KANGOLE NORTH",
+                "KANGOLE SOUTH",
+                "LOTOGO",
+                "MARAKACH A",
+                "MARAKACH B",
+                "ONGALO"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

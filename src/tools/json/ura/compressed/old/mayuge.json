@@ -1,0 +1,465 @@
+{
+  "name": "MAYUGE",
+  "counties": [
+    {
+      "name": "BUNYA COUNTY EAST",
+      "sub_counties": [
+        {
+          "name": "BUKABOOLI",
+          "parishes": [
+            {
+              "name": "BUGOTO",
+              "villages": [
+                "BUGOTO  A",
+                "BUGOTO  B",
+                "BUTUMBULA",
+                "KAKOGE",
+                "KITUMBEZI",
+                "LULANDA",
+                "MUNYAZI",
+                "MUSUBI",
+                "NAMULULI",
+                "NAWAMPONGO"
+              ]
+            },
+            {
+              "name": "BUGUMIA",
+              "villages": ["BUDUMBA", "KALIRO", "KANYANA", "KIRONGO  A", "KIRONGO  B", "MAKOOMA", "NAKASUWA"]
+            },
+            {
+              "name": "BUKABOOLI",
+              "villages": ["BUKABOOLI", "KALAGALA A", "KALAGALA B", "KIKUNYU", "NAMULWANA 'A'", "NAMULWANA 'B'"]
+            },
+            {
+              "name": "BUYUGU",
+              "villages": [
+                "BUSITEMA",
+                "BUYUGU",
+                "IGAYAZA",
+                "KINAWAMBUZI",
+                "MBALE",
+                "NABYAMA",
+                "NABYAMA BEACH",
+                "NAMAKOKO"
+              ]
+            },
+            { "name": "MATOVU", "villages": ["BUKANGA", "MATOVU", "NABIWERO", "NAKIBAGO"] },
+            {
+              "name": "MAYIRINYA",
+              "villages": [
+                "BUSIRA",
+                "KASOZI",
+                "KASOZI B",
+                "LUWUTA",
+                "LWANDERA",
+                "MAIRINYA  A",
+                "MAIRINYA 'B'",
+                "NAWANDEGEYI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUWAAYA",
+          "parishes": [
+            { "name": "BUWAISWA", "villages": ["BUBAGO", "BUWAAYA", "BUWAISWA", "NABUYAGI", "NTAFUNGIRWA"] },
+            { "name": "BUWOLYA", "villages": ["BUWOLYA", "IVUGUNYU", "IWUUBA", "KAKINDU", "NTINDA"] },
+            { "name": "ISIKIRO", "villages": ["BUKOOBA", "IBANGA", "ISIKIRO", "KANYABWINA", "KIKUBO"] },
+            { "name": "KABAINGIRIRE", "villages": ["KABANGIRE", "NAKATE", "NAMADHI", "NAMATALE", "NAWANVUBU"] },
+            { "name": "NSANGO", "villages": ["BULONDO", "LUGANGU", "NABITTU", "NAMAGO", "NSANGO"] }
+          ]
+        },
+        {
+          "name": "KIGANDALO",
+          "parishes": [
+            { "name": "BUGONDO", "villages": ["BUGONDO", "NABUKONI", "NAKAWA", "NAMALEGE", "WALUKOKO"] },
+            {
+              "name": "ISENDA",
+              "villages": [
+                "BUGUNDA",
+                "ISENDA",
+                "ISENDA  A",
+                "KATALAKABI",
+                "NAMAIGA",
+                "NAMATOVU",
+                "NANVUNANO",
+                "NVUNWA",
+                "WALULENGA"
+              ]
+            },
+            {
+              "name": "KIGANDALO",
+              "villages": [
+                "KIGANDALO A",
+                "KIGANDALO B",
+                "NAIGERIA",
+                "NAKASERO",
+                "NAKAZIGO",
+                "NAKIDUBULI",
+                "NAMPU",
+                "NDALAEGOBYE",
+                "WANDAWA"
+              ]
+            },
+            {
+              "name": "KIGULU",
+              "villages": ["BUBBALYA", "BUYAGA", "KIGULU", "KIREWE", "NAMASAKA", "NAMUGOLO", "NSUMBA"]
+            },
+            {
+              "name": "KIOGA (MAYENGO)",
+              "villages": ["BUSUI", "BUYEGO", "BWEZA", "KAZINGA", "KIOGA", "LUKUNYU", "NABIKOMO", "NAKAVULE", "SESE"]
+            },
+            {
+              "name": "MALEKA",
+              "villages": ["ISOOLA", "KIGULAMU", "MABIRIZI", "MALEKA A", "MALEKA B", "NAKITWALO", "WANKONGE"]
+            }
+          ]
+        },
+        {
+          "name": "MPUNGWE",
+          "parishes": [
+            { "name": "BUYERE", "villages": ["BUGUWA", "BUYERE", "MUSIMA", "MUSITA", "NAKITAMU"] },
+            { "name": "MAINA", "villages": ["BUSU", "KABERE", "KYETE", "MAINA", "MWEZI"] },
+            { "name": "MUGGI", "villages": ["BUWANUKA", "KASOKWE", "MPUNGWE", "MUGGI"] },
+            {
+              "name": "WAIRAMA",
+              "villages": ["BULYANGADA", "BUWALIRA", "KASUTAIME", "MAWUMU", "MPUMU", "MUNYONYI", "NAWANKOLE", "WAIRAMA"]
+            },
+            { "name": "WAMULONGO", "villages": ["BUSWIKIRA", "MAKOOVA", "NAMATOOKE", "WAMULONGO", "WANDAWA"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUNYA COUNTY SOUTH",
+      "sub_counties": [
+        {
+          "name": "BUGADDE TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BUGADE WARD",
+              "villages": [
+                "BUGADDE A",
+                "BUGADDE B",
+                "BUGADDE C",
+                "BUGADDE EAST",
+                "BUGADDE NORTH",
+                "BUGADDE WEST",
+                "BUGOYA"
+              ]
+            },
+            { "name": "BUSENDA WARD", "villages": ["BUSENDA A", "BUSENDA B", "BUSENDA C"] },
+            { "name": "KITYERERA WARD", "villages": ["KITYERERA  A", "KITYERERA  B", "KITYERERA  C"] },
+            { "name": "NAKIBENGO WARD", "villages": ["ITUBA A", "ITUBA B", "KIKOKOLI", "NAKIBENGO"] }
+          ]
+        },
+        {
+          "name": "BUSAKIRA",
+          "parishes": [
+            {
+              "name": "BUKUNJA",
+              "villages": ["BUKUNJA 'A'", "BUKUNJA 'B'", "BUSAALA", "LUBALI", "NAMISU 'A'", "NAMISU 'B'", "NAMISU C"]
+            },
+            {
+              "name": "BUTANGALA",
+              "villages": ["BUBALI", "BUGOYE", "BUTANGALA 'A'", "BUTANGALA 'B'", "MUKONDA", "NAMIRO", "WAITA"]
+            },
+            {
+              "name": "KALUUBA",
+              "villages": [
+                "BUSAKIRA 'A'",
+                "BUSAKIRA 'C'",
+                "BUSAKIRA 'D'",
+                "BUSAKIRA B",
+                "KAFUMITA",
+                "KALUUBA 'B'",
+                "KALUUBA 'C'",
+                "KAULUBA 'A'"
+              ]
+            },
+            { "name": "MAUMU", "villages": ["BUSEERA B", "BUYANIRWA", "MAUMU A", "MAUMU B", "NAMWOBA"] },
+            { "name": "WAMBETE", "villages": ["BUSEERA 'A'", "BUSEERA 'C'", "MACHECHE", "WAMBETE 'A'", "WAMBETE 'B'"] }
+          ]
+        },
+        {
+          "name": "BWONDHA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BWONDHA CENTRAL", "villages": ["BWONDHA  D", "BWONDHA B", "BWONDHA CENTRAL"] },
+            { "name": "BWONDHA SOUTH WARD", "villages": ["BWONDHA A", "BWONDHA EAST", "NABIDONGA"] },
+            { "name": "MAKONKO WARD", "villages": ["KAYANJA", "KIYONJO", "MAKONKO A", "MAKONKO B", "MIREMBE"] },
+            { "name": "MUSOMA WARD", "villages": ["BUKIMERA", "MUSOMA", "NAKAWA"] },
+            { "name": "NALUBABWE", "villages": ["BWONDHA C", "MULOWOZA", "NALUBABWE A", "NALUBABWE B"] },
+            { "name": "NKALANJA WARD", "villages": ["BWONDHA CENTRAL MARKET", "NKALANGA A", "NKALANGA B", "VICTORIAL"] }
+          ]
+        },
+        {
+          "name": "JAGUZI",
+          "parishes": [
+            { "name": "BUMBA", "villages": ["BUKABAMBWE", "BUYAKO BEACH", "BUYAKO VILLAGE", "GALILAYA"] },
+            {
+              "name": "JAGUZI",
+              "villages": [
+                "BUSABALA A",
+                "BUSABALA B",
+                "BWAYA/BUKEMBO",
+                "GOOLI A",
+                "GOOLI B",
+                "KAZIRU",
+                "MUBEMBE",
+                "MUSOMA",
+                "NABUKALU A",
+                "NABUKALU B"
+              ]
+            },
+            { "name": "KAAZA", "villages": ["KAAZA  A", "KAAZA  B", "SIMWE ISLAND"] },
+            { "name": "MASOLYA", "villages": ["MASOLYA 'A'", "MASOLYA 'B'", "MASOLYA CENTRAL"] },
+            { "name": "SAGITU", "villages": ["BUSWETA", "DEMBE", "MAGANDA", "NALUWERERE"] },
+            { "name": "SERINYABI", "villages": ["KOLOLO", "LUKOBA", "MASAMBA"] }
+          ]
+        },
+        {
+          "name": "KITYERERA",
+          "parishes": [
+            { "name": "BUBINGE", "villages": ["BUBINGE", "BULIDHA", "BUSIMO", "IGUNDA", "KIKANDWA"] },
+            {
+              "name": "BUKALENZI",
+              "villages": [
+                "BUKALENZI",
+                "BUKOBA  A",
+                "BUKOBA 'B'",
+                "BUKOBA CENTRAL",
+                "BUKUKU",
+                "LUTALE 'A'",
+                "LUTALE D",
+                "MASHANGA  A",
+                "MASHANGA  B",
+                "NAMALERE",
+                "NGAYAMA"
+              ]
+            },
+            {
+              "name": "KITOVU",
+              "villages": ["KABAGANJA", "KIKOMA", "KITOVU", "LUTALE 'B'", "LUTALE C", "MITIMITO", "NTAMBI"]
+            },
+            {
+              "name": "NDAIGA",
+              "villages": [
+                "BUBALULE A",
+                "BUBALULE B",
+                "NAKIRIMIRA A",
+                "NAKIRIMIRA B",
+                "NAKIRIMIRA C",
+                "NDAIGA A",
+                "NDAIGA B",
+                "NDAIGA C"
+              ]
+            },
+            {
+              "name": "WANDEGEYA",
+              "villages": ["KATUBA", "NENDA A", "NENDA B", "WAKIWUNGU", "WANDEGEYA   A", "WANDEGEYA   B"]
+            }
+          ]
+        },
+        {
+          "name": "MALONGO",
+          "parishes": [
+            {
+              "name": "BUKATABIRA",
+              "villages": ["BUKATABIRA A", "BUKATABIRA B", "NKOLONGO", "NKOLONGO A", "NKOLONGO B", "NKOLONGO C"]
+            },
+            {
+              "name": "BULUTA",
+              "villages": [
+                "BUKAGABO 'A' BEACH",
+                "BUKAGABO 'A' VILLAGE",
+                "BUKAGABO 'B' BEACH",
+                "BUKAGABO 'B' VILLAGE",
+                "BUKAGABO C",
+                "BULUTA  A",
+                "BULUTA B",
+                "BULUTA BULAIRE",
+                "BULUTA C",
+                "BULUTA IKOLE",
+                "BULUTA KITOGO",
+                "MALINDI"
+              ]
+            },
+            {
+              "name": "BUMWENA",
+              "villages": [
+                "BUGATA",
+                "BUGOOMA BEACH",
+                "BULEBI",
+                "BULUBUDHE",
+                "BUMWENA A",
+                "BUMWENA B",
+                "NAKIGO A",
+                "NAKIGO B",
+                "NAMASONKO",
+                "NAWAMPONGO"
+              ]
+            },
+            {
+              "name": "MALONGO",
+              "villages": [
+                "KABUKA",
+                "KABUKA BEACH",
+                "KAYANJA  BEACH",
+                "KAYANJA  VILLAGE",
+                "MALONGO  EAST",
+                "MALONGO A T/C",
+                "MALONGO B",
+                "MALONGO B T/C",
+                "MALONGO C",
+                "MALONGO CENTRAL",
+                "MALONGO D",
+                "MALONGO INN",
+                "MALONGO NORTH",
+                "MALONGO UPPER",
+                "MALONGO WEST",
+                "MASAKA",
+                "NANGO  VILLAGE",
+                "NANGO BEACH"
+              ]
+            },
+            {
+              "name": "NAMADHI",
+              "villages": [
+                "NAMADHI  A",
+                "NAMADHI  B",
+                "NAMADHI  BEACH",
+                "NAMADHI  SOUTH",
+                "NAMADHI C",
+                "NAMADHI D",
+                "NAMADHI T/C",
+                "NAMAVUNDHU KYONDO",
+                "NAMAVUNDHU T/C"
+              ]
+            },
+            {
+              "name": "NAMONI",
+              "villages": ["BULUNGU", "MAGOOLA A", "MAGOOLA B", "NAMONI 'A'", "NAMONI 'B'", "NAMONI BEACH", "WAMALA"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BUNYA COUNTY WEST",
+      "sub_counties": [
+        {
+          "name": "BAITAMBOGWE",
+          "parishes": [
+            { "name": "BUGODI", "villages": ["BUGODI A", "BUGODI B", "MUSITA  B", "NAWANGIRI"] },
+            { "name": "BUTTE", "villages": ["BUTE 'A'", "BUTE 'B'", "NALWESAMBULA  A", "NALWESAMBULA  B"] },
+            { "name": "IGEYERO", "villages": ["IGEYERO A", "IGEYERO B", "MUKUTA", "WAGONA"] },
+            { "name": "KATONTE", "villages": ["BUWANGA 'A'", "BUWANGA 'B'", "KATONTE", "NAMAGERA"] },
+            { "name": "LUGOLOLE", "villages": ["BAITAMBOGWE", "LUGOLOLE B", "LUGULOLE A", "MBIRIZI"] },
+            { "name": "LUKONE", "villages": ["LUKONE", "MAGAMAGA", "NSINDA"] },
+            { "name": "MULINGILIRE", "villages": ["BUBABWE", "IZINGA", "MULINGIRIRE", "MUSITA  A", "NAMUSENWA"] },
+            { "name": "WAINHA", "villages": ["NABALONGO A", "NABALONGO B", "WAINHA 'A'", "WAINHA 'B'"] }
+          ]
+        },
+        {
+          "name": "BUKATUBE",
+          "parishes": [
+            {
+              "name": "BUKALEBA",
+              "villages": ["BUKALEBA", "NAKALANGA A", "NAKALANGA B", "NAMUGONGO", "WALUMBE BEACH"]
+            },
+            {
+              "name": "BUYEMBA",
+              "villages": [
+                "BUBALAGALA",
+                "BUKASERO A",
+                "BUKASERO B",
+                "BUYEMBA  'A'",
+                "BUYEMBA 'B'",
+                "LUUBU A",
+                "LUUBU B",
+                "MUGERI A",
+                "MUGERI B"
+              ]
+            },
+            {
+              "name": "LWANIKA",
+              "villages": [
+                "BUDHALA 'A'",
+                "BUDHALA 'B'",
+                "BUKATUBE 'A'",
+                "BUKATUBE B",
+                "BUTIMBWA",
+                "BUWOLOMERA",
+                "KAPALUKO",
+                "LUKINDU  A",
+                "LUKINDU  B",
+                "LWANIKA A",
+                "LWANIKA B",
+                "NDHOKERO A",
+                "NDHOKERO B",
+                "WAMONDO"
+              ]
+            },
+            { "name": "MAUTA", "villages": ["BUGULUMA", "BUYOKA", "KABUKI", "KYANDO", "MAUTA"] },
+            {
+              "name": "MBIRABIRA",
+              "villages": ["BUFUTA A", "BUFUTA B", "BUGWANANDALA", "BUWERERE", "MASAKA", "MBIRABIRA"]
+            }
+          ]
+        },
+        {
+          "name": "IMANYIRO",
+          "parishes": [
+            {
+              "name": "BUFULUBI",
+              "villages": ["BUFULUBI  A", "BUFULUBI  B", "BUKOMYA", "BUVUNA", "KISULE", "LWABALA", "NAKIWATA"]
+            },
+            {
+              "name": "MAGADA",
+              "villages": ["BULYAMPINDI", "LUYIRA", "MAGADA", "NAMADUDU", "NAMAKAKALE", "WALUGOGO", "WANTE"]
+            },
+            { "name": "MAYUGE", "villages": ["BUDHEBERA", "BUKAWONGO", "BWIWULA", "LUWANULA", "MATUBA"] },
+            {
+              "name": "MBAALE",
+              "villages": ["IGUNDA", "IMANYIRO", "KAKUNU", "MAGUNGA", "MBAALE", "NAMWOGI", "WANSWA"]
+            },
+            { "name": "NKOMBE", "villages": ["KITOVU", "KYANDAILE", "LWANDA", "NAKABALE", "NKOMBE 'A'", "NKOMBE 'B'"] }
+          ]
+        },
+        {
+          "name": "MAGAMAGA  TOWN COUNCIL",
+          "parishes": [
+            { "name": "BUKOLI WARD", "villages": ["BUKOLI  A", "BUKOLI  B", "BUKOLI  C", "MUTUKULA"] },
+            { "name": "MAGAMAGA WARD", "villages": ["KAWUDHU", "MAGAMAGA T/C", "MARKET ZONE", "TASAGA"] },
+            {
+              "name": "WABULUNGU WARD",
+              "villages": ["BODA", "BRIDGE", "DONGA", "MUYENGA", "NAKASERO", "NAMUFUNA", "WABULUNGU A"]
+            },
+            { "name": "WANDAGO WARD", "villages": ["CHURCH OF UGANDA", "ISIIKO", "WANDAGO   A", "WANDAGO  B"] }
+          ]
+        },
+        {
+          "name": "MAYUGE TOWN COUNCIL",
+          "parishes": [
+            { "name": "IKULWE WARD", "villages": ["BUGINGO", "IGAMBA  B", "IGAMBA A", "KATWE", "TSE-TSE"] },
+            { "name": "KASUGU WARD", "villages": ["DWALIRO", "KASUGU 'A'", "KASUGU 'B'"] },
+            { "name": "KAVULE WARD", "villages": ["BUDHEBERA", "DFI", "KAVULE", "MAYUGE  CENTRAL"] },
+            { "name": "KYEBANDO WARD", "villages": ["KYEBANDO", "NAKABAFU", "ST. MULUMBA", "WAKALENDE"] }
+          ]
+        },
+        {
+          "name": "WAIRASA",
+          "parishes": [
+            { "name": "BUSUYI", "villages": ["BUGABWE", "BUSOWANIRE", "BUSUYI", "BUYEMBA", "KASITA"] },
+            { "name": "IGULUIBI", "villages": ["IGULUIBI   A", "IGULUIBI  B", "NTOKOLO", "WAIBALE"] },
+            {
+              "name": "MISOLI",
+              "villages": ["BUSALAMU", "MISOOLI  VILLAGE", "MISOOLI BEACH", "MISOOLI TRADING CENTRE", "NTINKALU"]
+            },
+            { "name": "WANDAGO", "villages": ["BUWANGA/LUGWARA QTRS", "NAMALERE", "WAIRASA"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

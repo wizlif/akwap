@@ -1,59 +1,165 @@
 import json
+from os import listdir
+import dirtyjson
 
 
-district = 'ABIM'
-dos_data = json.loads(
-    open(f'../districts/scrape/{district}.json', 'r').read())
+def clean_obj(dt: dict) -> dict:
+    nObj = {}
 
-ts_district = f'''
-export default <District>{{
-  name: '{dos_data['name']}',
-  id: {dos_data['id']},
-  counties: [{','.join([str(dt['id']) for dt in dos_data['counties']])}],
-}};'''
+    for key in dt:
+        value = dt[key]
+        if isinstance(value, str):
+            nObj[key] = value.upper()
+        elif isinstance(value, dict):
+            nObj[key] = clean_obj(value)
+        elif isinstance(value, list):
+            nv = []
+            for i in range(len(value)):
+                av = value[i]
+                if isinstance(av, dict):
+                    nv.append(clean_obj(av))
+                else:
+                    nv.append(av)
+            nObj[key] = nv
+        else:
+            nObj[key] = value
+    return nObj
 
-# print(ts_district)
-_counties = []
-_sub_counties = {}
-_parishes = []
-_villages = []
 
-for county in dos_data['counties']:
-    _counties.append(f'''{{
-        name: '{county['name']}',
-        id: {county['id']},
-        sub_counties: [{','.join([str(dt['id']) for dt in county['sub_counties']])}]
-    }}''')
+def sort_obj(dt: dict) -> dict:
+    nObj = {}
 
-    _sub_counties[county['id']] = []
-    for dt in county['sub_counties']:
-        _sub_counties[county['id']].append(f'''
-        {{
-            name: {dt['name']},
-            id: {dt['id']},
-            parishes: [{','.join([str(dr['id']) for dr in dt['parishes']])}]
-        }}
-        ''')
+    for key in dt:
+        value = dt[key]
 
-        _parishes[dt['id']] = []
-        for dr in dt['parishes']:
-            _parishes[dt['id']].append(f'''
-            {{
-                name: {dr['name']},
-                id: {dr['id']},
-                villages: [{','.join(str(df['id'] for df in dr['villages']))}]
-            }}
-            ''')
+        if isinstance(value, dict):
+            nObj[key] = sort_obj(value)
+        elif isinstance(value, list):
+            nv = []
+            for i in range(len(value)):
+                av = value[i]
+                if isinstance(av, dict):
+                    nv.append(sort_obj(av))
+                else:
+                    nv.append(av)
 
-            # _villages[]
+            if isinstance(nv[0], str):
+                nv = sorted(nv)
+            elif isinstance(nv[0], dict):
+                nv = sorted(nv, key=lambda item: item['name'])
+            nObj[key] = nv
+        else:
+            nObj[key] = value
 
-ts_counties = f'''
-export const counties: County[] = [{','.join(_counties)}];'''
+    return nObj
 
-_ts_sb = f'''{ {f"{sc}:[{','.join(_sub_counties[sc])}]" for sc in _sub_counties}}'''
-ts_sub_counties = f'''
-export const subCounties: {{ [county: int]: SubCounty[] }} = {_ts_sb}
-'''
 
-# print(_ts_sb)
-print(ts_sub_counties)
+def compress_obj(dt):
+    if isinstance(dt, dict) and len(dt) == 2:
+        return dt['name']
+
+    nObj = {}
+
+    for key in dt:
+        value = dt[key]
+        if key == 'id':
+            continue
+        elif isinstance(value, str):
+            nObj[key] = value.upper()
+        elif isinstance(value, dict):
+            nObj[key] = compress_obj(value)
+        elif isinstance(value, list):
+            nv = []
+            for i in range(len(value)):
+                av = value[i]
+                if isinstance(av, dict):
+                    nv.append(compress_obj(av))
+                else:
+                    nv.append(av)
+            nObj[key] = nv
+        else:
+            nObj[key] = value
+    return nObj
+
+
+districts = json.loads(open('src/tools/json/districts-ura.json', 'r').read())
+
+# for dt in districts:
+#     district = dt["name"]
+#     dos_data = json.loads(
+#         open(f'src/tools/json/{district}.json', 'r').read())
+
+#     ndt = clean_obj(dos_data)
+
+#     ts = f'''
+#     import {{ District }} from '../index';
+
+#     export default {json.dumps(ndt)} as District;
+#     '''
+
+#     open(f'src/tools/ts/{district.lower()}.ts', '+w').write(ts)
+# for dt in districts:
+#     district = dt["name"]
+#     dos_data = json.loads(
+#         open(f'src/tools/json/ura/orig/{district}.json', 'r').read())
+
+#     ndt = clean_obj(dos_data)
+
+
+#     open(f'src/tools/json/ura/{district.lower()}.json', '+w').write(json.dumps(ndt))
+# for dt in districts:
+#     district = dt["name"]
+#     dos_data = json.loads(
+#         open(f'src/tools/json/ura/cleaned/{district.lower()}.json', 'r').read())
+
+#     ndt = compress_obj(dos_data)
+
+#     open(f'src/tools/json/ura/compressed/new/{district.lower()}.json', '+w').write(json.dumps(ndt))
+# for dt in sorted(listdir('src/districts')):
+#     district = dt.split(".")[0]
+#     print(district)
+#     data = open(f'src/districts/{district.lower()}.ts', 'r').read().replace("as District;", "").replace(
+#         "export default", "").replace("import { District } from '../index';", "").strip()
+
+#     data = dirtyjson.loads(data)
+
+#     ndt = compress_obj(data)
+
+#     open(
+#         f'src/tools/json/ura/compressed/old/{district.lower()}.json', '+w').write(json.dumps(ndt))
+for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
+    district = dt.split(".")[0]
+    print(district)
+    data = json.loads(
+        open(f'src/tools/json/ura/compressed/old/{district.lower()}.json', 'r').read())
+
+    ndt = sort_obj(data)
+
+    open(
+        f'src/tools/json/ura/sorted/old/{district.lower()}.json', '+w').write(json.dumps(ndt, indent=4, sort_keys=True))
+# for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
+#     district = dt.split(".")[0]
+#     print(district)
+#     d = json.loads(
+#         open(f'src/tools/json/ura/compressed/old/{district.lower()}.json', 'r').read())
+
+#     # df = f'{district["name"]}.json'
+#     print(f'>>>>> {district}')
+
+#     # d = json.loads(open(df, 'r').read())
+
+#     if len(d['counties']) == 0:
+#         print(f'>>>> COUNTY: {district}')
+#     for county in d['counties']:
+#         if len(county['sub_counties']) == 0:
+#             print(f'>>> SUBCOUNTY: {county["name"]}')
+
+#         for sub_county in county['sub_counties']:
+#             if len(sub_county['parishes']) == 0:
+#                 print(f'>> PARISH: {sub_county["name"]}')
+
+
+#             for parish in sub_county['parishes']:
+#                 if len(parish['villages']) == 0:
+#                     print(f'> VILLAGE: {parish["name"]}')
+

@@ -1,0 +1,195 @@
+{
+  "name": "MOYO",
+  "counties": [
+    {
+      "name": "WEST MOYO COUNTY",
+      "sub_counties": [
+        {
+          "name": "ALURU",
+          "parishes": [
+            {
+              "name": "ALURU",
+              "villages": [
+                "KONGOLO",
+                "LAMA",
+                "ODIA",
+                "PAMOJU MADAGASCAR",
+                "PAMOTI CENTRAL",
+                "PAMOTI EAST",
+                "PAMOTI WEST",
+                "URUJOA"
+              ]
+            },
+            { "name": "EBIHWA", "villages": ["OPIRO", "PAREGO EAST", "PAREGO WEST"] },
+            {
+              "name": "LEA",
+              "villages": ["ERA CENTRAL", "LEA", "MOYIPI", "PAMOJU EAST", "PAMOJU SOUTH", "PAMOJU WEST"]
+            },
+            {
+              "name": "RAMOGI",
+              "villages": ["EBIHWA", "MOYIPI  ILLI", "RAMOGI CENTRAL", "RAMOGI EAST", "RAMOGI NORTH", "RAMOGI SOUTH"]
+            }
+          ]
+        },
+        {
+          "name": "DUFILE",
+          "parishes": [
+            { "name": "AKKA", "villages": ["DEMGBELE", "ILLO", "OWIALO", "RAMOGI NORTH", "RAMOGI SOUTH"] },
+            { "name": "AMURI", "villages": ["AMURI", "OPPI", "PAONYA", "RAMOGI DUFILE"] },
+            { "name": "ARRA", "villages": ["EDELE", "IPANVURE", "PAJAKIRI NORTH", "PAJAKIRI SOUTH", "PAKARUHWE"] },
+            { "name": "CHINYI", "villages": ["GUNYA PANYEWE", "ITIALO", "ORUBA", "PANYARA"] },
+            { "name": "DUFILE (INDRIDRI)", "villages": ["BUHWA", "INDRIDRI", "INDRIDRI CENTRAL", "KOCIA"] },
+            { "name": "LEBUBU", "villages": ["OPE-OLUKPWE", "PAANJALA", "PAMANGARA", "YARI"] },
+            { "name": "NZEREA", "villages": ["NZEREA CENTRAL", "NZEREA EAST", "NZEREA NORTH", "NZEREA SOUTH"] }
+          ]
+        },
+        {
+          "name": "LAROPI",
+          "parishes": [
+            {
+              "name": "GBALALA",
+              "villages": ["GBALALA  CENTRAL", "GBALALA  EAST", "GBALALA  WEST", "PAKOMA EAST", "PAKOMA WEST"]
+            },
+            { "name": "IDRIMARI", "villages": ["ADHI", "EDRE", "OLIA", "PACORO", "PAJARU", "PATERE"] },
+            { "name": "LAROPI", "villages": ["KIDHI", "LOGUBU NORTH", "LOGUBU SOUTH", "UBBI NORTH", "UBBI SOUTH"] },
+            { "name": "PANYANGA", "villages": ["PAKAA EAST", "PAKAA WEST", "PAKONIRA EAST", "PAKONIRA WEST", "PAUBU"] }
+          ]
+        },
+        {
+          "name": "LEFORI",
+          "parishes": [
+            { "name": "COLOA", "villages": ["COLOA", "COLOA WEST", "MUNU EAST", "MUNU WEST", "NYAINGA", "TURUA"] },
+            { "name": "EBWEA", "villages": ["ABIRICAKU", "EBWEA", "KIBIRA", "LOJILI", "MARINGU EAST", "MARINGU WEST"] },
+            { "name": "GWERE", "villages": ["CHINYI", "GWERE EAST", "GWERE WEST", "MERIA"] },
+            {
+              "name": "MASALOA",
+              "villages": ["AJUNDE", "COHWE", "DIRI", "EGULE", "ITAJI", "LEA", "MASALOA EAST", "MASALOA WEST"]
+            }
+          ]
+        },
+        {
+          "name": "METU",
+          "parishes": [
+            {
+              "name": "AYIPE",
+              "villages": ["EREPI WEST", "GOOPI CENTRAL", "GOOPI EAST", "GOOPI WEST", "KULENI", "PAMONYE"]
+            },
+            {
+              "name": "AYIRO",
+              "villages": ["EREPI EAST UDRUBU", "ORUBA EAST", "ORUBA WEST", "PADIGA SOUTH", "PAGONYIDRA", "PATABO"]
+            },
+            {
+              "name": "EREPI",
+              "villages": [
+                "EREPI RADUMU CENTRAL",
+                "EREPI RADUMU EAST",
+                "EREPI RADUMU SOUTH",
+                "EREPI RADUMU WEST",
+                "LIRI"
+              ]
+            },
+            { "name": "LEA", "villages": ["ARAPI", "ELEGU", "GBARI", "GWERO GAJI", "OYO"] },
+            {
+              "name": "PAMERI",
+              "villages": [
+                "CECELOGO",
+                "GWERE LUZIRA",
+                "GWERE MONDI",
+                "INDRI EAST",
+                "INDRI WEST",
+                "JULUKWE",
+                "LOKWA",
+                "METU T/C",
+                "MINYA",
+                "PAGERIBE",
+                "PAMENYUA"
+              ]
+            },
+            { "name": "PAMUJO", "villages": ["ABOO", "IYUA", "KWEYO NORTH", "KWEYO SOUTH", "PADIGA  NORTH"] }
+          ]
+        },
+        {
+          "name": "MOYO",
+          "parishes": [
+            { "name": "AFOJI", "villages": ["AFOJI", "FODIA", "FODIA CENTRAL", "MINZE WEST", "ONYIRE WEST"] },
+            {
+              "name": "ERIA",
+              "villages": [
+                "AUGOA",
+                "CEFO",
+                "DEMGBWELE",
+                "ERIA CENTRAL",
+                "ERIA NORTH",
+                "ERIA SOUTH",
+                "KOLOKOLO",
+                "OYAJO",
+                "WANO"
+              ]
+            },
+            { "name": "LOGOBA", "villages": ["ITTIA", "KENDI", "MINZE EAST", "ONYIRE EAST"] },
+            { "name": "OPI", "villages": ["ADUA NORTH", "ADUA WEST", "TOLORO NORTH", "TOLORO SOUTH", "VURA OPI"] },
+            {
+              "name": "VURA",
+              "villages": [
+                "BILINYO WEST",
+                "MADUGA",
+                "MADULU EAST",
+                "MADULU WEST",
+                "PACHUAWI EAST",
+                "PACHUAWI WEST",
+                "VURA BILINYO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MOYO TOWN COUNCIL",
+          "parishes": [
+            { "name": "BESIA WARD", "villages": ["BESIA", "LOWI QUARTER"] },
+            { "name": "CELECELEA WARD", "villages": ["CELECELEA EAST", "CELECELEA WEST", "EDUA"] },
+            { "name": "CENTRAL WARD", "villages": ["CENTRAL  I", "CENTRAL  II", "POLICE BARRACKS"] },
+            { "name": "ELENDEREA WARD", "villages": ["CONGO", "ELENDEREA", "MEDICAL QUARTER", "METU QUARTER"] }
+          ]
+        },
+        {
+          "name": "OTCE",
+          "parishes": [
+            { "name": "ALIMO", "villages": ["ALU EAST", "ALU WEST", "GWAYI", "PAMULU EAST", "PAMULU WEST"] },
+            { "name": "EBESO", "villages": ["ABESO", "CHINYI", "IJUJO", "IZZI", "PAMELO"] },
+            {
+              "name": "EREMI",
+              "villages": [
+                "AGUGWE",
+                "ARINGA EAST",
+                "ARINGA WEST",
+                "EREMI TRADING CENTER",
+                "PABOLO NORTH",
+                "PABOLO SOUTH",
+                "PAECOA LOGO",
+                "PALEURE",
+                "PALEURE-PAMURU"
+              ]
+            },
+            {
+              "name": "PAJAKIRI",
+              "villages": ["ALUGODU", "AYA CENTRAL", "MERIA", "PACUNAKI/PALEURE", "PAMOYI", "PAMULU", "PAMULU LOGO"]
+            },
+            {
+              "name": "PAMOYI",
+              "villages": [
+                "AWAOLE",
+                "CINYI EAST",
+                "CINYI SOUTH",
+                "CINYI WEST",
+                "EYILE",
+                "ORI EAST",
+                "ORI WEST",
+                "PALOBURI"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

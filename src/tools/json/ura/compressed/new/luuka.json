@@ -1,0 +1,251 @@
+{
+  "name": "LUUKA",
+  "counties": [
+    {
+      "name": "LUUKA NORTH",
+      "sub_counties": [
+        {
+          "name": "BUKOOMA",
+          "parishes": [
+            { "name": "BUKOOMA", "villages": ["BUKANHA A", "BUKANHA B", "BUKOOMA A", "BUKOOMA B", "MUSITA"] },
+            { "name": "BUKYANGWA", "villages": ["BUDHANA A", "BUDHANA B", "BUKYANGWA", "BUKYANGWA B"] },
+            {
+              "name": "NAMASENDA",
+              "villages": [
+                "BULALU",
+                "BUSAKU",
+                "KIRIMWA A",
+                "KIRIMWA B",
+                "NABIMOGO A",
+                "NABIMOGO B",
+                "NAMANSENDA B",
+                "NAMASENDA A"
+              ]
+            },
+            {
+              "name": "NAMULANDA",
+              "villages": ["GWEMBUZI", "GWEMBUZI B", "NAWANSEGA", "NAWANSEGA B", "NAMULANDA", "NAMULANDA B"]
+            },
+            {
+              "name": "NABYOTO",
+              "villages": [
+                "BUKOOVA A",
+                "BUKOOVA B",
+                "BUKOOVA T/C",
+                "BUNABALA A",
+                "BUNABALA B",
+                "BUSANDHA A",
+                "BUSANDHA B",
+                "BUTASERWA",
+                "BUYOGA",
+                "MAKUUTU",
+                "NABYOTO",
+                "NABYOTO B"
+              ]
+            },
+            {
+              "name": "NAIGOBYA",
+              "villages": ["NAIGOBYA A", "NAIGOBYA B", "NAIGOBYA T/C", "NAIRIKA EAST", "NAIRIKA WEST"]
+            }
+          ]
+        },
+        {
+          "name": "BULONGO",
+          "parishes": [
+            { "name": "BUDHABANGULA", "villages": ["BUDHABANGULA A", "BUDHABANGULA B", "BUDHABANGULA T/C", "KIBUUTU"] },
+            {
+              "name": "BUGONYOKA",
+              "villages": ["BUGONYOKA A", "BUGONYOKA B", "BUZAAYA", "NAKISENYI A", "NAKISENYI B"]
+            },
+            { "name": "BUKENDI", "villages": ["BUGABULA A", "BUGABULA B", "BUKENDI", "NABITAMA A", "NABITAMA B"] },
+            { "name": "BULONGO", "villages": ["BULONGO", "BUWAISWA", "KAMWIRUNGU A", "KAMWIRUNGU B"] },
+            { "name": "NAMALEMBA", "villages": ["BULIKE", "BUSALA", "KASOZI", "NAMALEMBA"] },
+            { "name": "NAKABUGU", "villages": ["BUSEETE", "BUYUNZE A", "BUYUNZE B", "NAKABUGU A", "NAKABUGU B"] }
+          ]
+        },
+        {
+          "name": "IKUMBYA",
+          "parishes": [
+            { "name": "IKUMBYA", "villages": ["IKUMBYA", "BUWUTU", "NSAMBYA", "WANDAGO"] },
+            { "name": "INUULA", "villages": ["BUGAMBO", "BUDHUUBA A", "BUDHUUBA B", "INNULA"] },
+            { "name": "BUNAFU", "villages": ["BUNAFU A", "BUNAFU B", "NABISIRA", "NAWANYAGO"] },
+            {
+              "name": "NTAYIGIRWA",
+              "villages": ["BULIKE", "BUKOBO", "IDOOME EAST", "IDOOME WEST", "NABITENDE", "NTAYIGIRWA"]
+            },
+            {
+              "name": "NAWAKA",
+              "villages": ["BUGONZA", "KAWANGA", "NANTAMALI", "NAWAKA A", "NAWAKA B", "NAWAKA CENTRAL"]
+            }
+          ]
+        },
+        {
+          "name": "LUUKA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BUSONGA WARD", "villages": ["BUKABOLI", "BUSONGA"] },
+            {
+              "name": "LWADA WARD",
+              "villages": ["BUDUMBWIIRE", "BUSIMAWU", "BWAMBUZI", "LWANDA", "NTANDAGWE", "WAIGUGWE"]
+            },
+            { "name": "KITWEKYAMBOGO WARD", "villages": ["MBOGO", "NAWASUDE", "NAWAMWENA"] },
+            { "name": "KIYUNGA WARD", "villages": ["KIYUNGA CENTRAL", "KIYUNGA HOSPITAL", "KIYUNGA INDUSTRIAL"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LUUKA SOUTH",
+      "sub_counties": [
+        {
+          "name": "BUKANGA",
+          "parishes": [
+            { "name": "BUDONDO", "villages": ["BUDONDO A", "BUDONDO B", "BUGOBA", "KIMANTO A", "KIMANTO B"] },
+            {
+              "name": "BUWOLOGOMA",
+              "villages": [
+                "BUGOGO",
+                "BUKAADE",
+                "BUKWANGA",
+                "BUWOLOGOMA CENTRAL",
+                "KATALAKABI",
+                "NABINONI",
+                "NAKAMINI",
+                "NDHOYA A",
+                "NDHOYA B"
+              ]
+            },
+            {
+              "name": "BUSALAMU",
+              "villages": ["BUSIRINGE", "BUTONDOLO", "KIGULAMO", "KIRINGO", "LUKOTAIME", "LUKUNHU A", "LUKUNHU B"]
+            },
+            { "name": "KIROBA", "villages": ["BIGUNHO", "BUDOMA", "BULONDE", "BUSANDHA", "KISIMBA", "NAWANTALE"] },
+            {
+              "name": "NAMUKUBEMBE",
+              "villages": [
+                "BUKENDI",
+                "BULWASIRA",
+                "BUMANYA A",
+                "BUMANYA B",
+                "BUMANYA C",
+                "KANTENGA",
+                "NAMUKUBEMBE I",
+                "NAMUKUBEMBE II"
+              ]
+            },
+            {
+              "name": "NABUBYA",
+              "villages": ["BUDOMA A", "BUDOMA B", "BUDOMA C", "BUNHIRIRA", "NABUBYA A", "NABUBYA B", "NAKABONDO"]
+            }
+          ]
+        },
+        {
+          "name": "IRONGO",
+          "parishes": [
+            {
+              "name": "IRONGO",
+              "villages": [
+                "BUFUMBA",
+                "IGANGA A",
+                "IGANGA B",
+                "IRONGO",
+                "BUWALA",
+                "GANSEMBYE",
+                "NAIMULI",
+                "NAIMULI B",
+                "NSIRIRA"
+              ]
+            },
+            { "name": "KIBINGA", "villages": ["KIBBINGA A", "KIBBINGA B", "KANTENGA", "NKANDAKULYOWA", "NAKAVUMA"] },
+            { "name": "KALYOWA", "villages": ["BUKYAMATA", "BUNIKO", "BUNIKO B", "KIGUNGA", "KALYOWA", "KALYOWA B"] },
+            {
+              "name": "KYANVUMA",
+              "villages": [
+                "BUWAIGALA",
+                "KIWALAZI",
+                "KAZIGO",
+                "KYANVUMA T/C",
+                "KYANVUMA VILLAGE",
+                "NAKABAALE A",
+                "NAKABAALE B",
+                "NAKASEDHERE"
+              ]
+            },
+            {
+              "name": "NAWANYAGO",
+              "villages": [
+                "BUGAGA A",
+                "BUGAGA B",
+                "BUBIRO",
+                "BUTOGONYA",
+                "BUYEMBA",
+                "LUZINGA PARK",
+                "NAWANYAGO (BUGOBI)",
+                "NAWAMPITI"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NAWAMPITI",
+          "parishes": [
+            { "name": "BUYOOLA", "villages": ["IKONIA A", "IKONIA BUSIGE", "IKONIA CENTRAL", "BUYOOLA", "NAKYERE"] },
+            { "name": "BUGOMBA", "villages": ["BUGOMBA", "BUWANDA", "NAWANDIO"] },
+            {
+              "name": "NAKISWIGA",
+              "villages": ["BUWAMWA", "NABIKUYI", "NAKISWIGA A", "NAKISWIGA B", "NAMAGERA", "NJABABONA"]
+            },
+            { "name": "NAWAMPITI", "villages": ["BUZIMBA", "KITUUTO A", "KITUUTO B", "NAWAMPITI"] },
+            { "name": "NAWANKOMPE", "villages": ["KASOZI", "NAWANKOMPE A", "NAWANKOMPE B", "WALUGABA"] }
+          ]
+        },
+        {
+          "name": "WAIBUGA",
+          "parishes": [
+            {
+              "name": "BUTIMBWA",
+              "villages": [
+                "BUKYOGO",
+                "IKONKO",
+                "BUTIMBWA",
+                "BUTIMBWA B",
+                "LWANIKA",
+                "NAMAKAKALE",
+                "NAMAKAKALE B",
+                "WAIBUGA A",
+                "WAIBUGA B"
+              ]
+            },
+            { "name": "ITAKAIBOLU", "villages": ["BUKAPALA", "ITAKAIBOLU A", "ITAKAIBOLU B", "BWIIRI", "KIGAYA"] },
+            {
+              "name": "BUSIIRO",
+              "villages": [
+                "BULINDI",
+                "BUSIIRO",
+                "BUSIIRO - BWAMBA",
+                "BUSIIRO T/C",
+                "KYAMAWUNDO",
+                "NANVUNAMO B",
+                "NANVUNAMO C",
+                "NANVUNANO A"
+              ]
+            },
+            { "name": "LWAKI", "villages": ["KIWANYI", "MAUMO", "LWAKI", "NAMADOPE"] },
+            {
+              "name": "WALIBO",
+              "villages": [
+                "BUGWANALA",
+                "BULANGA A",
+                "BULANGA B",
+                "BULANGA T/C",
+                "ITWE",
+                "MAWUNDO",
+                "MAWUNDO B",
+                "WALIBO"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

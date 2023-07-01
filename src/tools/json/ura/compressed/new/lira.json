@@ -1,0 +1,906 @@
+{
+  "name": "LIRA",
+  "counties": [
+    {
+      "name": "ERUTE NORTH",
+      "sub_counties": [
+        {
+          "name": "AGWENG",
+          "parishes": [
+            {
+              "name": "ABALA",
+              "villages": [
+                "AGALI A",
+                "ADAG MINGO",
+                "BARR DAGO",
+                "BARR ORWE",
+                "BARRKWOGO A",
+                "BARRKWOGO B",
+                "KET CAN ITIC",
+                "WIDAM",
+                "WIGWENG",
+                "OKANYCAN",
+                "TIM BER"
+              ]
+            },
+            {
+              "name": "ACELELA",
+              "villages": [
+                "ABWOR",
+                "AGWENG A",
+                "AGWENG B",
+                "ACELELA",
+                "ANYOMMENE",
+                "BAR OJWINY",
+                "ICIKA",
+                "KAREDONGALAC",
+                "NAGABIR A",
+                "NAGABIR B",
+                "OCOKCAN"
+              ]
+            },
+            {
+              "name": "ANGOLOCOM",
+              "villages": [
+                "AGAK",
+                "AKADOCWAT",
+                "AMIA ABIL",
+                "ATERA",
+                "AWE INGWEC",
+                "BARRODWONG",
+                "CORNER LWALA",
+                "WIIAKOT",
+                "OKENO",
+                "OBANGA PE WANY",
+                "TEADWONG"
+              ]
+            },
+            {
+              "name": "BARROGANDA",
+              "villages": [
+                "ABUNG-GENGA A",
+                "ABUNG-GENGA B",
+                "ARINGOMELE A",
+                "ARINGOMELE B",
+                "BARROGANDA A",
+                "BARROGANDA B",
+                "LAKAMOR",
+                "ONYWALOYERE"
+              ]
+            },
+            {
+              "name": "TE ADWONG",
+              "villages": [
+                "ADAGAWAKA",
+                "AJOR",
+                "AMIA DYEL",
+                "ALENGA",
+                "ANGOLOCOM",
+                "AULE IPINY",
+                "AULEIMALO",
+                "DUMAKUC",
+                "MIA AGONY",
+                "ORINGO MUNO",
+                "OKANO IDERO"
+              ]
+            },
+            {
+              "name": "TE-OBURU",
+              "villages": [
+                "ABONGO AMONE",
+                "AGAK",
+                "ACEKELATI",
+                "AWIAWUM",
+                "AYAMI",
+                "AYITUNGA",
+                "ATON",
+                "BAR ADU",
+                "BAR IBULE",
+                "DIM DEM",
+                "OWENE",
+                "OROMO",
+                "ONYAPO OYERE",
+                "ODAMA",
+                "TE OBURU",
+                "TE YAO"
+              ]
+            },
+            {
+              "name": "ORIT",
+              "villages": [
+                "ABER IDWOGO",
+                "APURO",
+                "AWIEALEM",
+                "AYE GERO",
+                "ATOON",
+                "AWE AMONE",
+                "BARR RWOT",
+                "BARRPUNO",
+                "BAR LONYO",
+                "DEK DOOI",
+                "NOTE ENTEKO",
+                "WIGOT A",
+                "WIGOT B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AROMO",
+          "parishes": [
+            { "name": "ABELI", "villages": ["ABELI"] },
+            {
+              "name": "ACUTKUMU",
+              "villages": [
+                "ABINEK",
+                "ABOLONENO",
+                "ACAN MAK KWERI",
+                "ABAKO",
+                "ADYERE",
+                "AGUNGU",
+                "AGURU",
+                "AKURILUBA",
+                "BEO",
+                "ORYEMO ANII",
+                "WENBOKE",
+                "OMOLO"
+              ]
+            },
+            { "name": "ADYANG", "villages": ["ADYANG"] },
+            { "name": "AGERINONO", "villages": ["AGERINONO"] },
+            { "name": "AKALO", "villages": ["AKALO"] },
+            {
+              "name": "APUA",
+              "villages": [
+                "ACAM WING",
+                "AGALI LYEC",
+                "APUR BER",
+                "AYITUNGA",
+                "LWALA",
+                "OPWODORWOT",
+                "WIGWENG",
+                "OKIM",
+                "ODOCA",
+                "ODORO A",
+                "ODORO B",
+                "ODORO C",
+                "OGEO A",
+                "OGEO B",
+                "TEGWENG",
+                "TELELA"
+              ]
+            },
+            {
+              "name": "APUCE",
+              "villages": [
+                "ALIRA",
+                "APUCE",
+                "AWINYA",
+                "AWINYAPANY",
+                "AYANG",
+                "ASWA",
+                "BARALAM-AYAMI",
+                "BARDAGO",
+                "GULWOO",
+                "IMAKIOLWENYO",
+                "ONGIWINY"
+              ]
+            },
+            {
+              "name": "ARWOT-OMITO",
+              "villages": [
+                "ABUNG GENGA",
+                "ABAM CORNER",
+                "AKORE TRADING CENTRE",
+                "AJIA GOOD",
+                "APURUKU",
+                "BARRNYANG",
+                "BAR-IBULE",
+                "LELA KWORO",
+                "LELA ODWE",
+                "OWENE",
+                "ONYAPOYERE",
+                "TEKULO"
+              ]
+            },
+            {
+              "name": "BAR-PII",
+              "villages": [
+                "ABONGO GWENO",
+                "ACHOLI DUMU",
+                "ADAG ANII",
+                "AKAIDEBE",
+                "BAR PII",
+                "IMATO-OGWOKOCIK",
+                "DAG OPELA",
+                "DAMODOLA",
+                "LELA OTOGO",
+                "MATALALA",
+                "OPOK MIDILA",
+                "OTARA",
+                "TEOPOK",
+                "TETIDO",
+                "OKIA",
+                "TELELA"
+              ]
+            },
+            { "name": "BARAKALO", "villages": ["BARAKALO"] },
+            { "name": "LELA", "villages": ["LELA"] },
+            {
+              "name": "WALELA",
+              "villages": [
+                "ACANDANO",
+                "AGWAR",
+                "ADONGI DYANG",
+                "ALEGI GUM",
+                "ALOK",
+                "AYILE A",
+                "AYILE B",
+                "ATAPARA DAM",
+                "ATWERO",
+                "BARONGIN",
+                "KULU-OBIA",
+                "PUNU ANYERI",
+                "OCOR",
+                "OLIA",
+                "TE ABALO",
+                "WALELA"
+              ]
+            },
+            { "name": "OCANOYERE", "villages": ["OCANOYERE"] },
+            {
+              "name": "OTARA",
+              "villages": [
+                "ACAN TOO IPUR",
+                "ABALODAK",
+                "ADAGANI",
+                "AKAOIDEBE",
+                "AKEC OYERE",
+                "ARWOTOLARO",
+                "ANGOLE A",
+                "ANGOLE B",
+                "AYANG",
+                "BEI IMATI",
+                "COO-OYA",
+                "DAG OPELE",
+                "CAN NGA AKWIA",
+                "LELADAM",
+                "OKETKWER",
+                "OGOT"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LIRA",
+          "parishes": [
+            {
+              "name": "AMUCA",
+              "villages": [
+                "ADYANGOPIRO",
+                "AKOLODONG",
+                "AMINYANGA",
+                "ARECU",
+                "AWITA",
+                "OWITI",
+                "TEOKOLE",
+                "OLAGO",
+                "OLENGO - OBIR"
+              ]
+            },
+            {
+              "name": "ANAI",
+              "villages": [
+                "ANAI AGALI",
+                "ANAI BUNG",
+                "ANAI OBER",
+                "ANAI OKII",
+                "ANAI PIDA",
+                "OPIO-NYORO",
+                "ONGICA B",
+                "WIGWENG"
+              ]
+            },
+            {
+              "name": "BAR-APWO",
+              "villages": ["AKAOIDEBE", "APII-PE", "ANYALO", "AYERE", "ELWA", "ONGICA A", "OKECOYERE", "TEDAM"]
+            },
+            {
+              "name": "OMITO",
+              "villages": ["ADELOKOK", "ADER", "ATODI", "BARODYEK", "BUNG A", "BUNG B", "TELELA A", "TELELA B"]
+            }
+          ]
+        },
+        {
+          "name": "OGUR",
+          "parishes": [
+            {
+              "name": "ADWOA",
+              "villages": [
+                "ACAN OLENGE",
+                "ADWOA",
+                "ADEKNINO",
+                "AKUKI",
+                "AKWERI",
+                "APURUIMON",
+                "AWANYAROM",
+                "BARR ADANGA",
+                "BARR KWAC",
+                "BARR OMIO",
+                "BEDAMWOL",
+                "BARGWENG",
+                "TEKULU"
+              ]
+            },
+            {
+              "name": "AKANGI",
+              "villages": [
+                "ALOBOROM",
+                "APURU GALI",
+                "AWIGWENOWIR",
+                "BOL NYAPO",
+                "GULOWOO",
+                "INYEROINGOLO",
+                "DII CUNYI",
+                "OPONI",
+                "OTUCO"
+              ]
+            },
+            {
+              "name": "AKANO",
+              "villages": [
+                "ABINO",
+                "ABEDOBER",
+                "ADAGWOO",
+                "AKANO",
+                "AWELO",
+                "BUNG MICIRI",
+                "IMATOIKWOTO",
+                "DAKOCWALA",
+                "CAN PE CIKI",
+                "PALA",
+                "OLEO TYENA",
+                "OGWANG GWERA"
+              ]
+            },
+            {
+              "name": "AKOR",
+              "villages": [
+                "ACAN ADIRO",
+                "ADYELOWANGO",
+                "AKANGI",
+                "AKOR",
+                "AWILWUNGA",
+                "BUNG",
+                "NYEKOPELONYI",
+                "ODOKOKOME",
+                "TELELAJIA"
+              ]
+            },
+            { "name": "ALER", "villages": ["ACANAKWO", "ADAGAWEA", "ALER", "APUTI", "PERAC", "OPIMO", "TE-ARIE"] },
+            {
+              "name": "ALWALA",
+              "villages": ["ALWALA", "ALYEC A", "ALYEC B", "BARROPIRO", "GOLI ILWITE", "TEYAO", "OBOLOKOME"]
+            },
+            {
+              "name": "APOKA",
+              "villages": [
+                "AMIDIKI",
+                "ATONGO IMOCO",
+                "NGINGINYA A",
+                "NGINGINYA B",
+                "UCIOREMO",
+                "TE-GWENG",
+                "OMONO ANYIRAGEDO"
+              ]
+            },
+            {
+              "name": "BUNGMICIRI",
+              "villages": [
+                "AKURE DIP",
+                "ALYECI",
+                "ATINOLAK",
+                "AWAL DEK",
+                "BARRALEGI",
+                "BARROPOK",
+                "PUNO APORO",
+                "ODONGO OWEE"
+              ]
+            },
+            {
+              "name": "OGUR",
+              "villages": ["ADUU", "ADYANGONGWEO", "ADILEBI", "GUBIDWOGO", "CORNER", "ORIT TIGO", "ODOKOLIT", "TEAKANG"]
+            },
+            {
+              "name": "OKWALOAMARA",
+              "villages": [
+                "ABONGO KWOT",
+                "ACAN PEWINYO ABWOTE",
+                "ABAKO",
+                "ADWEK",
+                "ALENGA",
+                "WICERE",
+                "OBANGA DAG AWAKA",
+                "OKWALOAMARA A",
+                "OKWALOAMARA B"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ERUTE SOUTH",
+      "sub_counties": [
+        {
+          "name": "ADEKOKWOK",
+          "parishes": [
+            {
+              "name": "BOKE",
+              "villages": [
+                "ADAGAYELA",
+                "ADIDIKGWENO A",
+                "ADIDIKGWENO B",
+                "DANGALA A",
+                "LELA ATAR",
+                "LELA-APETA",
+                "OPWOAKERE A",
+                "OPWOAKERE B"
+              ]
+            },
+            {
+              "name": "BOROBORO EAST",
+              "villages": [
+                "AGUROWANYA",
+                "AJUNGA",
+                "ARIKINO",
+                "AWIE ALEM",
+                "BARIDIKE A",
+                "BARIDIKE B",
+                "BOROBORO EAST",
+                "DOGKONGO",
+                "OWINYO A",
+                "OWINYO B",
+                "TE - OBIA",
+                "TE-OBWOLO A",
+                "TE-OBWOLO B",
+                "TELELA"
+              ]
+            },
+            {
+              "name": "BOROBORO WEST",
+              "villages": [
+                "ARAKI",
+                "AWANGDYANG",
+                "BAROPU A",
+                "BAROPU B",
+                "BOROBORO CENTRAL",
+                "BOROBORO WEST",
+                "OPELO",
+                "OCOK CAN",
+                "OCUKURU A",
+                "OCUKURU B"
+              ]
+            },
+            {
+              "name": "ADEKOKWOK",
+              "villages": [
+                "ABONYO OTINGERE",
+                "ABORI A",
+                "ABORI B",
+                "ABEDPINY",
+                "BARKWOYO A",
+                "BARACACI",
+                "OWANGOMOKO",
+                "OBATO"
+              ]
+            },
+            { "name": "AKIA", "villages": ["AMO-OLEL", "AWIODYEK", "OYECA", "OJUNGO", "TEOBWOLO A", "TEOBWOLO B"] },
+            {
+              "name": "ANGWETANGWET",
+              "villages": ["ANGWETANGWET A", "ANGWETANGWET B", "BARLWALA", "GWENGABARA", "OPILA", "OMAA A", "OMAA B"]
+            },
+            { "name": "BURLOBO", "villages": ["AGALI A", "ANGAPARI", "AYAGO EAST", "OKWOROKWOR", "TELELA"] }
+          ]
+        },
+        {
+          "name": "AGALI",
+          "parishes": [
+            {
+              "name": "ABONGORWOT",
+              "villages": ["ABONGORWOT", "AKWACH", "APWOTIC", "BOKE", "ILONG", "ELWANY", "ORORO", "OLORKEDE"]
+            },
+            {
+              "name": "ADYAKA",
+              "villages": [
+                "ACANKONGO",
+                "ABWONG A",
+                "ABWONG B",
+                "AMINOCIRA",
+                "ALIK WIGWENG",
+                "ALIKPORT",
+                "EBUT",
+                "ROCK",
+                "OLIL"
+              ]
+            },
+            {
+              "name": "ALYET",
+              "villages": [
+                "ADAG ANII",
+                "AMORI BODA",
+                "AMORI CITY I",
+                "AMORI EAST",
+                "ANYAPO NENIGOLO",
+                "ELII",
+                "ODIPA BUNG EAST",
+                "ODIPA BUNG WEST",
+                "ODIPA WIGWENG"
+              ]
+            },
+            {
+              "name": "APANYLONGO",
+              "villages": ["ABEI", "APANYLONGO", "ANYANG", "ANYAPO A", "ANYAPO B", "ODYEBONGWEN", "OLIO"]
+            },
+            { "name": "OCAMONYANG", "villages": ["AGWENG BODA A", "AGWENG BODA B", "AKURILUBA", "ORIOCUDI", "ODIT"] },
+            {
+              "name": "OKILE",
+              "villages": [
+                "ABELI",
+                "ACAMROMA",
+                "ADEKNINO",
+                "ANYAPO",
+                "AWIAMOR",
+                "AWER",
+                "ORUINYAMO",
+                "OKILE",
+                "OKWALODYANG"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AMACH",
+          "parishes": [
+            {
+              "name": "ABUTOADI",
+              "villages": ["ABUTOADI", "ABALALAI", "AKONYE A", "AKONYE B", "APANYACEL", "OCANOYERE"]
+            },
+            {
+              "name": "ABWOCOLIL",
+              "villages": [
+                "EWOP A",
+                "EWOP B",
+                "WIODYEK A",
+                "WIODYEK B",
+                "OKIDE A",
+                "OKIDE B",
+                "OLIL A",
+                "OLIL B",
+                "TEILWA A"
+              ]
+            },
+            {
+              "name": "ADOLA",
+              "villages": [
+                "ADOLA",
+                "AKUKINGA",
+                "ALIT",
+                "APINYMOO",
+                "AYITO",
+                "AYUMO",
+                "KONA AMACH",
+                "WIGWENG",
+                "ODYEK CAMO AOR"
+              ]
+            },
+            {
+              "name": "ALWORO",
+              "villages": [
+                "ALWORO A",
+                "ALWORO AGORO",
+                "ALWORO B",
+                "ALWORO CENTRAL",
+                "AWEO",
+                "BAROWO",
+                "BUNG AMON",
+                "EKUDE"
+              ]
+            },
+            {
+              "name": "AMOKOGEE",
+              "villages": ["ABYEMWONYI", "AMOKOGE A", "AMOKOGE B", "ALIK", "OTALOYAT A", "OTALOYAT B", "TEILWA B"]
+            },
+            {
+              "name": "AYACH",
+              "villages": [
+                "ADWILA",
+                "AKAO IDEBE",
+                "AKAO IDEBE CENTRAL",
+                "AKWOYO",
+                "ARITI",
+                "AYACH",
+                "BAROPOK",
+                "BARILWA",
+                "OTONY",
+                "ODWONGA"
+              ]
+            },
+            {
+              "name": "BANYA",
+              "villages": [
+                "ADYAKABANYA",
+                "AMOL",
+                "ALINGIRI",
+                "APAMI",
+                "ATANGO",
+                "ATERI A",
+                "ATERI B",
+                "BUNGICO",
+                "OTWEOTAI",
+                "OLAOIPII",
+                "TE-OBIA"
+              ]
+            },
+            {
+              "name": "RAO",
+              "villages": ["ABERI A", "ABERI B", "ABAKULI A", "ABAKULI B", "ALIT", "AWIRAO A", "AWIRAO B"]
+            },
+            {
+              "name": "ONYAKEDE",
+              "villages": [
+                "ADYEL",
+                "AKANY",
+                "ALWIT",
+                "APUYA",
+                "AWIMON",
+                "BARLELA",
+                "BAROBIA",
+                "BAR OTIT",
+                "TE-ABOLO",
+                "TEABOLO B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BARR",
+          "parishes": [
+            {
+              "name": "ABUNGA",
+              "villages": [
+                "ABERAMAIDO",
+                "ABONG REC",
+                "ACEDE",
+                "ABUR",
+                "ABANY",
+                "ADAGANWATA",
+                "AKWO",
+                "ALELA",
+                "AJALO",
+                "ALUNYU",
+                "ARWOT",
+                "AWEIWO",
+                "OREM",
+                "ONOTO OCAO",
+                "TEYAO",
+                "OBEROYERE",
+                "TE-DAM"
+              ]
+            },
+            {
+              "name": "ALEBERE",
+              "villages": ["ABOLET", "ABALI", "AGULUTWOO", "AYEL", "ATINGTWO", "BARRDYANG", "ETEK", "OKONYO"]
+            },
+            {
+              "name": "AYAMO",
+              "villages": ["ADUNGU", "AGULUKURE", "ALEPO", "AROMO", "AYAMO", "ATEK A", "ATEK B", "MON IRINGO", "ODANO"]
+            },
+            {
+              "name": "AYIRA",
+              "villages": [
+                "ADIP",
+                "AKUTU",
+                "APIT PE NYEK",
+                "ANGUUCAMI",
+                "AYIRA",
+                "ATYENA OWE",
+                "AWEBADA",
+                "BARR TRADING CENTRE",
+                "LWERO",
+                "OBOT A",
+                "OBOT B",
+                "OBOT CENTRAL",
+                "OKWEROWILABONGO",
+                "OGENA",
+                "OLOLANGO A",
+                "OLOLANGO B",
+                "OMARRA"
+              ]
+            },
+            {
+              "name": "OBER",
+              "villages": [
+                "ACUNGKENA A",
+                "ACUNGKENA B",
+                "ACUTKUMU",
+                "AKURILUBA",
+                "OYETTE",
+                "OTONO",
+                "TEYAO",
+                "OBER KONA",
+                "ODIC",
+                "OLOLEE",
+                "TEDAM",
+                "TELELA"
+              ]
+            },
+            {
+              "name": "OLILO",
+              "villages": [
+                "ACANDYANG",
+                "AGERIWANG",
+                "ADUKU",
+                "APIIKONGO",
+                "ARWOTNYAP",
+                "ANGUNYDWIL",
+                "ANGWENYI",
+                "AYINYI",
+                "ATONGOKO",
+                "AUMI",
+                "AWEAYELA",
+                "OMYELONORO",
+                "WOROMITE",
+                "ODYENYERE",
+                "OMENY"
+              ]
+            },
+            {
+              "name": "ONYWAKO",
+              "villages": [
+                "ABULUBULU",
+                "APADE",
+                "APIPIT",
+                "ATIRA",
+                "IGULI",
+                "OYITODERO",
+                "OPUNGO",
+                "OBITOLEYI",
+                "ODOLE",
+                "OLOI",
+                "TEGWENG A",
+                "TEGWENG B"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NGETTA",
+          "parishes": [
+            {
+              "name": "ANYANGAPUC",
+              "villages": [
+                "AKURIWOO",
+                "ATOP AROMA",
+                "COMBONI WARD",
+                "CORE A",
+                "CORE B",
+                "CURA H/QRS",
+                "NGETTA GINNERY",
+                "OLERO",
+                "TE ATURA",
+                "TE GOT"
+              ]
+            },
+            {
+              "name": "ANYOMOREM",
+              "villages": [
+                "AGENGA",
+                "AKWIAWORO",
+                "AKWIAWORO B",
+                "ALIK",
+                "ALOBOLOI",
+                "BANGA BANGA MOKO",
+                "ATEGO B",
+                "ONYAPO YERE",
+                "OTONGO",
+                "OLORO A",
+                "OLORO B"
+              ]
+            },
+            {
+              "name": "IWAL",
+              "villages": [
+                "ABADMUNO",
+                "ADURU",
+                "AKWOYO",
+                "ALUNGA",
+                "ARUMGAI",
+                "ATYANG",
+                "IWAL",
+                "ONEGE",
+                "WILELA",
+                "OKERE PEKOK"
+              ]
+            },
+            {
+              "name": "TELELA",
+              "villages": ["ABONGORWOT", "AYOMET A", "AYOMET B", "ATEGO A", "OKII OYERE", "TEBUNG", "TELELA"]
+            },
+            {
+              "name": "ONGICA",
+              "villages": [
+                "ABUNGA",
+                "ACWAO",
+                "AWIRILAO",
+                "AWANGWIA",
+                "BAROBOGO",
+                "BARRJWINYA",
+                "ONGICA CENTRAL",
+                "OCOKOIMAKI"
+              ]
+            },
+            {
+              "name": "ONGURA",
+              "villages": ["AKWAKA", "ALIRA", "APEDI", "ATIRA", "ONGURA", "OTELNYOR", "OKII", "TEDAM"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LIRA MUNICIPALITY",
+      "sub_counties": [
+        {
+          "name": "ADYEL",
+          "parishes": [
+            { "name": "AKWOYO WARD", "villages": ["KIROMBE NORTH A", "KIROMBE NORTH B", "LANGO COLLEGE"] },
+            { "name": "JUNIOR QUARTERS", "villages": ["JUNIOR QUARTERS A", "JUNIOR QUARTERS B", "UJAMA"] },
+            { "name": "LANGO CENTRAL", "villages": ["CUKEBANGE", "TE-TUGU"] },
+            { "name": "KIROMBE", "villages": ["KIROMBE EAST", "KIROMBE WEST"] },
+            { "name": "STARCH FACTORY", "villages": ["STARCH FACTORY A", "STARCH FACTORY B"] },
+            { "name": "TESO A", "villages": ["CORNER KAMDINI", "LIRA MODERN", "MEDICAL QUARTERS"] },
+            { "name": "TESO C", "villages": ["AMBALAL", "KULU AHALI"] },
+            { "name": "OMITTO WARD", "villages": ["AKITENINO", "ANYWALONINO", "KASUBI"] }
+          ]
+        },
+        {
+          "name": "LIRA CENTRAL",
+          "parishes": [
+            { "name": "BAZAAR", "villages": ["BAZZAR EAST", "BAZZAR WEST"] },
+            {
+              "name": "IREDA EAST",
+              "villages": ["BOKE AGALI", "IREDA AGALI", "IREDA ESTATE", "IREDA LUMUMBA", "OGENGO"]
+            },
+            { "name": "IREDA WEST", "villages": ["IREDA CENTRAL", "IREDA SHAMBA"] },
+            { "name": "SEN. QUARTERS", "villages": ["SENIOR QUARTERS A", "SENIOR QUARTERS B"] },
+            { "name": "TE-OBIA", "villages": ["CAMP SWAHILI", "LIRA TOWN COLLEGE", "TECHNICAL COLLEGE"] }
+          ]
+        },
+        {
+          "name": "OJWINA",
+          "parishes": [
+            { "name": "BLUE CORNER", "villages": ["BLUE CORNER NORTH", "BLUE CORNER SOUTH"] },
+            { "name": "ALITO CAMP", "villages": ["BARONGER", "BAR - AKONG", "CATHEDRAL"] },
+            { "name": "BAR-OGOLE", "villages": ["WIGWENG", "OJWINA QUARTERS", "TEDAM"] },
+            { "name": "IPITO-AWENO", "villages": ["JUBA ROAD", "TEGARAGE", "TEKULU"] },
+            { "name": "JINJA CAMP", "villages": ["JINJA CAMP A", "JINJA CAMP B"] },
+            { "name": "KAKOGE", "villages": ["KAKOGE A", "KAKOGE B", "KAKOGE C"] },
+            { "name": "OBER", "villages": ["OBER ENTEBBE", "OBER KAMPALA"] },
+            { "name": "OBUTOWELLO", "villages": ["OBUTOWELO A", "OBUTOWELO B"] },
+            { "name": "ODOKOMIT", "villages": ["KICHOPE", "ONYAPO YERE"] }
+          ]
+        },
+        {
+          "name": "RAILWAYS",
+          "parishes": [
+            { "name": "AYAGO", "villages": ["AGALI B", "AYAGO", "TE IBIRA"] },
+            { "name": "BARONGER", "villages": ["BARRONGER CENTRAL", "BARRONGER GODOWN"] },
+            { "name": "RAILWAY QUARTERS", "villages": ["RAILWAY QUARTERS A", "RAILWAY QUARTERS B"] },
+            { "name": "TE-MOGO", "villages": ["MARKET SQUARE", "OKOLE"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

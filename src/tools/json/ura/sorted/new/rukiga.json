@@ -1,0 +1,456 @@
+{
+    "counties": [
+        {
+            "name": "RUKIGA",
+            "sub_counties": [
+                {
+                    "name": "BUKINDA",
+                    "parishes": [
+                        {
+                            "name": "KANDAGO",
+                            "villages": [
+                                "BUGARAMA",
+                                "BUZOOBA",
+                                "KAKITURO",
+                                "KARIMBE",
+                                "KIRIMBE",
+                                "NYAMISHENYI",
+                                "OMURUJONDE",
+                                "RWAMAJORO",
+                                "RWENCAKARA"
+                            ]
+                        },
+                        {
+                            "name": "KARORWA",
+                            "villages": [
+                                "KARIBA",
+                                "NTUNGAMO",
+                                "OMURUHITA",
+                                "RUGARAMA",
+                                "RUKOMBE"
+                            ]
+                        },
+                        {
+                            "name": "KYERERO",
+                            "villages": [
+                                "KABIMBIRI",
+                                "KATEMBERO",
+                                "KAZINDIRO",
+                                "KIGAZI",
+                                "KINIOGO",
+                                "NYAMIHANGA",
+                                "NYARUHANGA",
+                                "OMWIMASIRO",
+                                "OMWINONI",
+                                "RUSOONI",
+                                "RUTARABANA",
+                                "RWABUHIMBIRA",
+                                "RWATAMAKARA",
+                                "RWEMISIBA",
+                                "RWEMPANGO",
+                                "RWENGABI"
+                            ]
+                        },
+                        {
+                            "name": "NYAKASIRU",
+                            "villages": [
+                                "AHAMUGANDA",
+                                "KABUGARAMA",
+                                "KAGOROGORO",
+                                "KARUBANDA",
+                                "MUSHABWE",
+                                "NYAKABUNGO",
+                                "NYAMIHANGA",
+                                "RYABIRENGYE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAMWEZI",
+                    "parishes": [
+                        {
+                            "name": "KASHEKYE",
+                            "villages": [
+                                "BUYANGA",
+                                "BUZIIBA",
+                                "KANYEGANYEGYE",
+                                "KIKUTO",
+                                "KIRUHURA",
+                                "KONYO",
+                                "NGANGO",
+                                "NYAKISA",
+                                "NYAMABARE",
+                                "RWENZAZA"
+                            ]
+                        },
+                        {
+                            "name": "KIBANDA",
+                            "villages": [
+                                "KAKAMBA",
+                                "KAKANYORO",
+                                "KAMUHA",
+                                "KASHANSHA",
+                                "KATUNGU",
+                                "KINYAMOOZI",
+                                "KITINDA",
+                                "NYABUNYUNGU",
+                                "RUBOGO",
+                                "RUSHOJWA",
+                                "RWANYAKIJU",
+                                "RWEMIGUGU"
+                            ]
+                        },
+                        {
+                            "name": "KIGARA",
+                            "villages": [
+                                "KABIRIZI",
+                                "KACUCU",
+                                "KAGARAMA",
+                                "KAMWEZI TOWN",
+                                "KAYEBE",
+                                "KIBURARA",
+                                "KIGARA A",
+                                "KIGARA B",
+                                "KINYUNGU",
+                                "MUTOJO",
+                                "NYAKASA",
+                                "NYARUHANGA"
+                            ]
+                        },
+                        {
+                            "name": "KYABUHANGWA",
+                            "villages": [
+                                "BUTARE",
+                                "KABIRA",
+                                "KAMUTUNGU",
+                                "KANKIRO",
+                                "KANYERERE",
+                                "KARERE",
+                                "NYAKABUNGO",
+                                "NYAKEINA",
+                                "RWANDAMIRA",
+                                "RWEIKONKO"
+                            ]
+                        },
+                        {
+                            "name": "KYOGO",
+                            "villages": [
+                                "KARUSHAYA",
+                                "KATERAMABARE",
+                                "KIJONGO",
+                                "NANGO",
+                                "NYABYONDO",
+                                "NYAMABARE",
+                                "NYARURIGATA",
+                                "RWAMASYAZO"
+                            ]
+                        },
+                        {
+                            "name": "RWENYANGYE",
+                            "villages": [
+                                "KABUGARAMA",
+                                "KASOONI",
+                                "NYABUBARE",
+                                "NYAKABUNGO",
+                                "NYAKAMBU",
+                                "NYAMABARE",
+                                "NYAMIRIMA",
+                                "OMURUTARE",
+                                "RUGAGA",
+                                "RUGONGO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KASHAMBYA",
+                    "parishes": [
+                        {
+                            "name": "BUCHUNDURA",
+                            "villages": [
+                                "BUTARE",
+                                "BWEYO",
+                                "KANYASHARWE",
+                                "KARUBANDA",
+                                "KATAGATA",
+                                "KYAMAZINA",
+                                "MIGYESI",
+                                "MUKAJANJARA",
+                                "NYAKASA",
+                                "RWAKINYONYOZI"
+                            ]
+                        },
+                        {
+                            "name": "KAFUNJO",
+                            "villages": [
+                                "KABISHAKA",
+                                "KABUTOORA",
+                                "KANYABUGUNGA",
+                                "KATUNGU",
+                                "KYABIREGYEYA",
+                                "NYAKAGYERA",
+                                "NYAKARAMBI",
+                                "NYAMASHAMBA"
+                            ]
+                        },
+                        {
+                            "name": "KITANGA",
+                            "villages": [
+                                "BIHONDO",
+                                "BUGARAMA",
+                                "HAKATUNTU",
+                                "KAHAMA",
+                                "KAHOKO",
+                                "KAKIRARE",
+                                "KAKIRI",
+                                "KANSHANA",
+                                "KARUBANDA",
+                                "KASHUMURUZI",
+                                "KIITA",
+                                "KYANGARA",
+                                "MAAYA",
+                                "MASHURE",
+                                "MUGABUHWEIRE",
+                                "MUKATOOKYE",
+                                "MUKOONI",
+                                "MUMUREMERE",
+                                "MURUTUNGA",
+                                "MUSHUNGA I",
+                                "MUSHUNGA II",
+                                "NYAKAZIBA",
+                                "NYAMABARE",
+                                "NYAMIREMBE",
+                                "NYAMUGAZA",
+                                "NYARUBISI",
+                                "NYARUGOROGORO",
+                                "NYARUHANGA",
+                                "RUGARAMBIRO",
+                                "RUTOOMA",
+                                "RUYUMBU",
+                                "RWABITAGI",
+                                "RWARA",
+                                "RWENGONGO"
+                            ]
+                        },
+                        {
+                            "name": "NYAKASHEBEYA",
+                            "villages": [
+                                "KABISHAKA",
+                                "KAMUHANGA",
+                                "KAMUSIZA",
+                                "KYONDO",
+                                "MAHURA",
+                                "MURUGANDA",
+                                "NKURURA",
+                                "NYAKATOJO I",
+                                "NYAKATOJO II",
+                                "NYAKITABIRE",
+                                "RWEIBARE"
+                            ]
+                        },
+                        {
+                            "name": "RUTENGYE",
+                            "villages": [
+                                "BWASHA",
+                                "KABWEEMA",
+                                "KAGUNGA",
+                                "KANTAMBARA",
+                                "KANTARE",
+                                "KARANGARA",
+                                "KAZOOHA",
+                                "MUHANGA",
+                                "MWIBUMBA",
+                                "NYAKARIBA",
+                                "NYAMISHAMBA",
+                                "NYARUZIBA",
+                                "RUTENGYE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MUHANGA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUTARE WARD",
+                            "villages": [
+                                "BUZOOBA",
+                                "HAMURAMBI",
+                                "KITABURAZA",
+                                "MURURENGYE",
+                                "RUHONWA",
+                                "RWAKAHUKU"
+                            ]
+                        },
+                        {
+                            "name": "HIGHLAND WARD",
+                            "villages": [
+                                "IBASYO",
+                                "KAYORERO",
+                                "KIGARURA",
+                                "KISHONGATI",
+                                "NYARUHANGA"
+                            ]
+                        },
+                        {
+                            "name": "MUHANGA WARD",
+                            "villages": [
+                                "KAFUKA",
+                                "MUHANGA",
+                                "NYAKABUNGO",
+                                "NYAKITABIRE",
+                                "NYAMABARE",
+                                "RWABAHAZI",
+                                "RWAKIKARA"
+                            ]
+                        },
+                        {
+                            "name": "NYAKABUNGO WARD",
+                            "villages": [
+                                "KAKATUNDA",
+                                "KANAABA",
+                                "KEIHIMBI",
+                                "KITABURAZA",
+                                "RUSOROZA",
+                                "RWAKIMURI",
+                                "RWANYAMUTARE"
+                            ]
+                        },
+                        {
+                            "name": "RUTARE WARD",
+                            "villages": [
+                                "BUTOBERE",
+                                "HAMURAMBI",
+                                "KABAARE",
+                                "KAGUNGA",
+                                "NYAKANENGO",
+                                "RWENCWERA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "RWAMUCUCU",
+                    "parishes": [
+                        {
+                            "name": "BURIME",
+                            "villages": [
+                                "AHAMUNYINYA",
+                                "KAHAMA",
+                                "KAHIIRA",
+                                "KAKAHARAMBIRIZA",
+                                "KIKOMERO",
+                                "KIRERA",
+                                "KITONVE",
+                                "NYAKAFURA",
+                                "NYAKAHITA",
+                                "NYAMABARE",
+                                "NYARUHANGA",
+                                "OMUKISHENYI",
+                                "OMURUSHAKI",
+                                "OMURUTOOMA",
+                                "RWAMPAZI",
+                                "RWANJURA",
+                                "RWEMPISI",
+                                "RWENDEREMA A",
+                                "RWENDEREMA B"
+                            ]
+                        },
+                        {
+                            "name": "KITOJO",
+                            "villages": [
+                                "BIIZI",
+                                "KABIRIZI",
+                                "KAFUNJO",
+                                "KANGONDO",
+                                "KITWE",
+                                "NYAMIKONO",
+                                "NYANGOROGORO",
+                                "RUGARAMA",
+                                "RUSHEBEYA",
+                                "RWARA",
+                                "RWEZA",
+                                "RWONGORA"
+                            ]
+                        },
+                        {
+                            "name": "MPARO",
+                            "villages": [
+                                "BUTEKUMWA",
+                                "KABUMBIRO",
+                                "KANGONDO",
+                                "KANYWERO",
+                                "KASHAKI",
+                                "KATUNGU",
+                                "KIBAALE",
+                                "KIYOGORE",
+                                "RUGARAMA",
+                                "SIINDI"
+                            ]
+                        },
+                        {
+                            "name": "NOOZI",
+                            "villages": [
+                                "BUTAMBI",
+                                "BUTATURWA",
+                                "HAKIKUUTO",
+                                "HAMUKO",
+                                "KABINGO",
+                                "KANYABUTEGYE",
+                                "KASHAMBYA",
+                                "KASOONI",
+                                "KINANIRA",
+                                "NOOZI",
+                                "NYAMIKO",
+                                "NYARUHANGA",
+                                "NYOHOREIRWE",
+                                "RUGARAMA",
+                                "RWABATUNGU",
+                                "RWAKAREMA",
+                                "RWAKASENGO",
+                                "RWENGABO",
+                                "RWENGYENYI"
+                            ]
+                        },
+                        {
+                            "name": "NYAKAGABAGABA",
+                            "villages": [
+                                "KABIIRA",
+                                "KAHAMA",
+                                "KAMUHUNGU",
+                                "KAMUHURUZI",
+                                "KATOOMA",
+                                "KIHOREZO",
+                                "NYAKEINA",
+                                "NYARUTUNTU",
+                                "NYUNGU",
+                                "OMURUGANDA",
+                                "RUBIRIZI",
+                                "RUKIRI",
+                                "RUTOOMA"
+                            ]
+                        },
+                        {
+                            "name": "NYARURAMBI",
+                            "villages": [
+                                "KAHUNYIRA",
+                                "KAKUNZI",
+                                "KATARE",
+                                "KATOOMA",
+                                "MAHEERU",
+                                "MBOGO",
+                                "MURAMBI",
+                                "NYABUBAARE",
+                                "NYAKAGYERA",
+                                "NYAKAHANGA",
+                                "NYAKATUGUNDA"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "RUKIGA"
+}

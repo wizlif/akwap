@@ -1,0 +1,785 @@
+{
+    "counties": [
+        {
+            "name": "BUTEMBE COUNTY",
+            "sub_counties": [
+                {
+                    "name": "BUGEMBE TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "BUDHUMBULI EAST WARD",
+                            "villages": [
+                                "CHURCH ZONE",
+                                "COMMERCIAL ZONE"
+                            ]
+                        },
+                        {
+                            "name": "BUDHUMBULI WEST WARD",
+                            "villages": [
+                                "KALINA ZONE",
+                                "SCHOOL ZONE"
+                            ]
+                        },
+                        {
+                            "name": "KATENDE WARD",
+                            "villages": [
+                                "IGENGE HILL",
+                                "STADIUM",
+                                "TRIANGLE ZONE"
+                            ]
+                        },
+                        {
+                            "name": "NAKANYONYI WARD",
+                            "villages": [
+                                "KATWE",
+                                "NAKANYONYI ANNEX",
+                                "NAKANYONYI BUKWARE",
+                                "NAKANYONYI COMPLEX"
+                            ]
+                        },
+                        {
+                            "name": "WANYAMA WARD",
+                            "villages": [
+                                "CENTRAL CELL",
+                                "EASTERN CELL",
+                                "KATAMBA",
+                                "MUTEKANGA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUSEDDE",
+                    "parishes": [
+                        {
+                            "name": "BUGOBYA",
+                            "villages": [
+                                "BUGAYA",
+                                "BUGOBYA",
+                                "BULAKABYA",
+                                "BULONDO",
+                                "LUKONKO",
+                                "NABIRAMA",
+                                "NAKATI",
+                                "NAMAZALA",
+                                "NANFUGAKI",
+                                "NYENGA"
+                            ]
+                        },
+                        {
+                            "name": "ITAKAIBOLU",
+                            "villages": [
+                                "BUGONGOLO",
+                                "ITAKAIBOLU",
+                                "KALIRO/BUPUPA",
+                                "KASITA",
+                                "KASOZI",
+                                "KIGALAGALA",
+                                "MPAMBWE",
+                                "NAMATOLO",
+                                "WALUMBUGU"
+                            ]
+                        },
+                        {
+                            "name": "KISASI",
+                            "villages": [
+                                "BULINDA",
+                                "IRERA",
+                                "KAKUBA",
+                                "KATALAKABI",
+                                "KISASI",
+                                "NABULAGALA",
+                                "NAKABALE",
+                                "NAMAGANGA",
+                                "NAMAZINGIRI",
+                                "NKALANGE"
+                            ]
+                        },
+                        {
+                            "name": "NABITAMBALA",
+                            "villages": [
+                                "BUSIGE",
+                                "BUWOLOMERA",
+                                "BWIDHABWANGU",
+                                "IRONGO",
+                                "ITENGEZA",
+                                "KISIRIRA",
+                                "NABITAMBALA",
+                                "NABIWAWULO",
+                                "WANTUNDA"
+                            ]
+                        },
+                        {
+                            "name": "NALINAIBI",
+                            "villages": [
+                                "BUDHOOMA",
+                                "KANAMA",
+                                "KIKO",
+                                "KINABIRYE",
+                                "LWINO",
+                                "NALINAIBI",
+                                "NTINDA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAKIRA TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "CHICO WARD",
+                            "villages": [
+                                "BATI SAFI",
+                                "KAGOMA GATE",
+                                "KALANTIN",
+                                "KYENDA",
+                                "MATAFALI"
+                            ]
+                        },
+                        {
+                            "name": "KABYAZA WARD",
+                            "villages": [
+                                "F.F.1",
+                                "G.G.3",
+                                "KABYAZA",
+                                "LINE KUBWA",
+                                "LINE MABATI",
+                                "LINE RAILWAY",
+                                "LINE SAMIA",
+                                "LINE SECURITY",
+                                "LINYA"
+                            ]
+                        },
+                        {
+                            "name": "KAKIRA WARD",
+                            "villages": [
+                                "1.10",
+                                "BANGALOW",
+                                "GO MOJA",
+                                "LINE 40",
+                                "MAJIMAZULI",
+                                "NTINKALU",
+                                "NYANZA QUARTER",
+                                "SINGLE QUARTER"
+                            ]
+                        },
+                        {
+                            "name": "KARONGO WARD",
+                            "villages": [
+                                "KIRINYA",
+                                "KOROKOTO",
+                                "KOSABA/KHA7",
+                                "LAND",
+                                "MUTAI",
+                                "Q.6",
+                                "TEREGO",
+                                "WELFARE/STAFF QUARTERS"
+                            ]
+                        },
+                        {
+                            "name": "MAWOITO WARD",
+                            "villages": [
+                                "KABEMBE  A",
+                                "KABEMBE  B",
+                                "KAGOGWA",
+                                "MAWOITO  A",
+                                "MAWOITO  B"
+                            ]
+                        },
+                        {
+                            "name": "MWIRI WARD",
+                            "villages": [
+                                "BUSOGA COLLEGE MWIRI",
+                                "KINYORO-KITESO",
+                                "MWIRI PRIMARY SCHOOL",
+                                "NAKIGO",
+                                "NAMAZIBA",
+                                "WAIRAKA  B"
+                            ]
+                        },
+                        {
+                            "name": "POLOTA WARD",
+                            "villages": [
+                                "DUMBA",
+                                "MARKET",
+                                "NALONGO",
+                                "POLOTA A",
+                                "POLOTA B",
+                                "SCHOOL"
+                            ]
+                        },
+                        {
+                            "name": "WAIRAKA WARD",
+                            "villages": [
+                                "NALUBAALE",
+                                "WAIRAKA  A",
+                                "WAIRAKA CENTRAL",
+                                "WAIRAKA COLLEGE",
+                                "WALUMBE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MAFUBIRA",
+                    "parishes": [
+                        {
+                            "name": "BUWEKULA",
+                            "villages": [
+                                "BUWEKULA",
+                                "KAINOGOGA",
+                                "MAUTA",
+                                "WAKITAKA"
+                            ]
+                        },
+                        {
+                            "name": "BUWENDA TC",
+                            "villages": [
+                                "BUTIKI KYEKIDDE",
+                                "BUTIKI MATAALA",
+                                "BUWENDA  CENTRAL",
+                                "BUWENDA KYEKIDDE",
+                                "BUWENDA MATAALA",
+                                "IDHOGOLO",
+                                "KAITABAWALA",
+                                "WAKALENGE"
+                            ]
+                        },
+                        {
+                            "name": "MAFUBIRA",
+                            "villages": [
+                                "KAYUNGA",
+                                "KITOVU",
+                                "KYAMAGWA",
+                                "MAFUBIRA  A",
+                                "MAFUBIRA  B",
+                                "MAFUBIRA  C",
+                                "MAKENKE",
+                                "SAKABUSOLO"
+                            ]
+                        },
+                        {
+                            "name": "NAMULESA",
+                            "villages": [
+                                "ISUKWE",
+                                "KAGOGWA",
+                                "LWANDA",
+                                "NAKABANGO",
+                                "NAMULESA",
+                                "WABULENGA  A",
+                                "WABULENGA  B"
+                            ]
+                        },
+                        {
+                            "name": "WANYANGE",
+                            "villages": [
+                                "KALUNGAMI",
+                                "MUSIIMA",
+                                "WANYANGE CENTRAL",
+                                "WANYANGE GIRLS",
+                                "WANYANGE HILL",
+                                "WANYANGE LAKE"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JINJA MUNICIPALITY EAST",
+            "sub_counties": [
+                {
+                    "name": "JINJA CENTRAL",
+                    "parishes": [
+                        {
+                            "name": "CENTRAL JINJA EAST",
+                            "villages": [
+                                "ALIDINA",
+                                "IGANGA ROAD",
+                                "KIRINYA ROAD",
+                                "LUBAS ROAD",
+                                "MAIN  STREET EAST",
+                                "OBOJA ROAD",
+                                "SPIRE ROAD"
+                            ]
+                        },
+                        {
+                            "name": "OLD BOMA",
+                            "villages": [
+                                "GRANT ROAD",
+                                "KIRINYA PRISON",
+                                "KYAGWE",
+                                "LOCO",
+                                "NILE CRESCENT",
+                                "RIPPON FALLS"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "WALUKUBA/MASESE",
+                    "parishes": [
+                        {
+                            "name": "MASESE",
+                            "villages": [
+                                "KILEMBE",
+                                "KISIMA  I",
+                                "KISIMA  II",
+                                "LWABITOOKE",
+                                "MASESE  I",
+                                "MASESE  III",
+                                "MASESE II/DANIDA"
+                            ]
+                        },
+                        {
+                            "name": "WALUKUBA EAST",
+                            "villages": [
+                                "CENTRAL",
+                                "CHURCH",
+                                "NTEGE",
+                                "POLICE WING",
+                                "SCHOOL",
+                                "STEEL"
+                            ]
+                        },
+                        {
+                            "name": "WALUKUBA WEST",
+                            "villages": [
+                                "BABU",
+                                "FACTORY",
+                                "JROP",
+                                "KLMN",
+                                "MATERNITY",
+                                "RAILWAYS",
+                                "WORKS",
+                                "ZABEF"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "JINJA MUNICIPALITY WEST",
+            "sub_counties": [
+                {
+                    "name": "JINJA CENTRAL",
+                    "parishes": [
+                        {
+                            "name": "CENTRAL JINJA WEST",
+                            "villages": [
+                                "GABULA",
+                                "MAIN STREET WEST",
+                                "RIPPON GARDEN NILE AVENUE"
+                            ]
+                        },
+                        {
+                            "name": "MAGGWA",
+                            "villages": [
+                                "GOKHALE",
+                                "MADHIVANI",
+                                "MVULE",
+                                "NIZAM"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KIMAKA /MPUMUDDE",
+                    "parishes": [
+                        {
+                            "name": "KIMAKA",
+                            "villages": [
+                                "AMBERCOURT",
+                                "KIMAKA"
+                            ]
+                        },
+                        {
+                            "name": "LUBAGA",
+                            "villages": [
+                                "COMMERCIAL",
+                                "KAMULI ROAD",
+                                "RUBAGA",
+                                "UPLAND"
+                            ]
+                        },
+                        {
+                            "name": "MPUMUDDE",
+                            "villages": [
+                                "MARKET ZONE  A",
+                                "MARKET ZONE  B",
+                                "NATIONAL HOUSING",
+                                "WEST ZONE  A",
+                                "WEST ZONE  B",
+                                "WEST ZONE  C"
+                            ]
+                        },
+                        {
+                            "name": "NALUFENYA",
+                            "villages": [
+                                "NALUFENYA  A",
+                                "NALUFENYA  B"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "KAGOMA COUNTY",
+            "sub_counties": [
+                {
+                    "name": "BUDONDO",
+                    "parishes": [
+                        {
+                            "name": "BUWAGI (KAKYOMYA)",
+                            "villages": [
+                                "BULEEBA",
+                                "BUWAGI",
+                                "IBBUNGU EAST",
+                                "IBBUNGU WEST",
+                                "KAGERA CENTRAL",
+                                "KAGERA KIDIOPE",
+                                "KAGERA VALLEY",
+                                "KYOMYA CENTRAL",
+                                "KYOMYA EAST",
+                                "KYOMYA WEST"
+                            ]
+                        },
+                        {
+                            "name": "IVUNAMBA",
+                            "villages": [
+                                "BUDHAGALI",
+                                "IVUNAMBA",
+                                "KAZINGA",
+                                "KIVUBUKA  A",
+                                "KIVUBUKA  B",
+                                "KYABIRWA"
+                            ]
+                        },
+                        {
+                            "name": "KIBIBI",
+                            "villages": [
+                                "BUKOSE",
+                                "BUSUSWA",
+                                "BUWAIRAMA",
+                                "BWASE  A",
+                                "KIZINGA",
+                                "NAKANYONYI",
+                                "NAMALEMBA"
+                            ]
+                        },
+                        {
+                            "name": "NAMIZI",
+                            "villages": [
+                                "BUYALA  A",
+                                "BUYALA  B",
+                                "BUYALA  C",
+                                "BUYALA TRADING CENTRE",
+                                "KABOWA KAMPALA",
+                                "KABOWA TRADING CENTRE",
+                                "NAMIZI CENTRAL",
+                                "NAMIZI EAST",
+                                "NAMIZI WEST"
+                            ]
+                        },
+                        {
+                            "name": "NAWANGOMA",
+                            "villages": [
+                                "BUFUULA  A",
+                                "BUFUULA  B",
+                                "LUKOLO EAST",
+                                "LUKOLO WEST",
+                                "NAWANGOMA",
+                                "NSUUBE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUTAGAYA",
+                    "parishes": [
+                        {
+                            "name": "BUDIMA",
+                            "villages": [
+                                "BITULI",
+                                "BUDIMA",
+                                "BUWUMA EAST",
+                                "BUWUMA WEST  A",
+                                "BUWUMA WEST  B",
+                                "KABEMBE EAST",
+                                "KABEMBE WEST",
+                                "KIWAGAMA NORTH",
+                                "KIWAGAMA SOUTH",
+                                "NAKASEGETE"
+                            ]
+                        },
+                        {
+                            "name": "LUBANI",
+                            "villages": [
+                                "KIBUNDAIRE BUDHAGA",
+                                "KIBUNDAIRE BUKWANGA",
+                                "KIBUNDAIRE BUSEMBYA",
+                                "LUBANI  CENTRAL",
+                                "LUBANI WEST",
+                                "NAMWENDWA  A",
+                                "NAMWENDWA  B",
+                                "NAMWENDWA  C",
+                                "NDIWANSI",
+                                "NVUNWA"
+                            ]
+                        },
+                        {
+                            "name": "NAKAKULWE (KISOZI)",
+                            "villages": [
+                                "BUWALA   B",
+                                "BUWALA  A",
+                                "BUWALA ITANDA  C",
+                                "IWOLOLO   B",
+                                "IWOLOLO  A",
+                                "KISOZI  A",
+                                "KISOZI  B",
+                                "LUMULI   A",
+                                "LUMULI   B",
+                                "LUMULI   C",
+                                "LUMULI  KALUGU  D",
+                                "NAKAKULWE  A",
+                                "NAKAKULWE  B"
+                            ]
+                        },
+                        {
+                            "name": "NAMAGERA",
+                            "villages": [
+                                "KAMIRA",
+                                "LUBIRA",
+                                "MABIRA",
+                                "MPUMWIRE CENTRAL",
+                                "MPUMWIRE KIWUMO",
+                                "MPUMWIRE KYEBANDO",
+                                "MPUMWIRE NAWAGUMA  A",
+                                "MPUMWIRE NAWAGUMA  B",
+                                "NAMAGERA BUGUMIRA  A",
+                                "NAMAGERA BUGUMIRA  B",
+                                "NAMAGERA CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "NAWAMPANDA",
+                            "villages": [
+                                "BUBUGO BUGOBI",
+                                "BUBUGO BULONDO",
+                                "BUBUGO CENTRAL",
+                                "BUSOWOOKO  BWEIGAMYE",
+                                "BUSOWOOKO B",
+                                "BUSOWOOKO CENTRAL",
+                                "NABUKOSI BUGAISO  A",
+                                "NABUKOSI BUGAISO  B",
+                                "NABUKOSI CENTRAL",
+                                "NAWAMPANDA BULONDO  A",
+                                "NAWAMPANDA BULONDO  B",
+                                "NAWAMPANDA BUWOLOMERA",
+                                "NAWAMPANDA CENTRAL"
+                            ]
+                        },
+                        {
+                            "name": "WANSIIMBA",
+                            "villages": [
+                                "BUTAGAYA BWASE",
+                                "BUTAGAYA WAIBUGA",
+                                "KIRANGA BUFUTA",
+                                "KIRANGA BUSOOBA",
+                                "KIRANGA BUSUSWA  A",
+                                "KIRANGA BUSUSWA  B",
+                                "KITENGESA BUGERERE",
+                                "KITENGESA MPEMUKIRABUSA",
+                                "WANSIMBA NAKABBALE",
+                                "WANSIMBA NAMAVUNDU"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUWENGE",
+                    "parishes": [
+                        {
+                            "name": "BUWEERA",
+                            "villages": [
+                                "BUWEERA EAST",
+                                "BUWEERA WEST",
+                                "BUWOLERO CENTRAL",
+                                "BUWOLERO IGOMBE",
+                                "BUWOLERO KIZINGA",
+                                "BUWOLERO MAWOLERO",
+                                "BUWOLERO NAKULYAKU",
+                                "YUUKA"
+                            ]
+                        },
+                        {
+                            "name": "KAGOMA",
+                            "villages": [
+                                "KAGOMA BUWOLOMERA",
+                                "KAGOMA CENTRAL",
+                                "KAGOMA MAKOTA",
+                                "MUTAI BUSIBE",
+                                "MUTAI CENTRAL",
+                                "MUTAI KANYALE",
+                                "NAMALERE CENTRAL",
+                                "NAMALERE KABAGANDA",
+                                "NAMALERE SOUTH"
+                            ]
+                        },
+                        {
+                            "name": "KAIIRA",
+                            "villages": [
+                                "BUTEGANA EAST",
+                                "BUTEGANA WEST",
+                                "KAIRA",
+                                "MAWOITO BUBIRO EAST",
+                                "MAWOITO BUBIRO WEST",
+                                "MAWOITO BUKOLOKOTI",
+                                "MAWOITO BUKYEBAMBE",
+                                "MAWOITO BUYEMBA",
+                                "MAWOITO KIGAYA",
+                                "MUWANGI BUKOLWA",
+                                "MUWANGI BULAGALA",
+                                "MUWANGI BULUMBA"
+                            ]
+                        },
+                        {
+                            "name": "KITANABA",
+                            "villages": [
+                                "BUSIA  II",
+                                "IDOOME",
+                                "ISIRI",
+                                "KITANABA",
+                                "MPUNGWE"
+                            ]
+                        },
+                        {
+                            "name": "MAGAMAGA",
+                            "villages": [
+                                "BUTANGALA  A",
+                                "BUTANGALA  B",
+                                "BUTANGALA  C",
+                                "BUTANGALA  D",
+                                "IGOMBE  BULAGALA",
+                                "IGOMBE BUSIGE",
+                                "KALEBERA  EAST",
+                                "KALEBERA WEST",
+                                "KYERINDA SOUTH",
+                                "MAGAMAGA EAST",
+                                "MAGAMAGA WEST",
+                                "MUGULUKA  WEST",
+                                "MUGULUKA EAST"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUWENGE TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "KAGAIRE WARD",
+                            "villages": [
+                                "HOSPITAL ZONE",
+                                "KALAMOYA ZONE",
+                                "MUHOFA ZONE",
+                                "MUKWANGA ZONE",
+                                "WAMUKOLO ZONE"
+                            ]
+                        },
+                        {
+                            "name": "KALITUNSI WARD",
+                            "villages": [
+                                "BUDHUMBULI ZONE",
+                                "BUSIA ZONE",
+                                "KILANGIRA ZONE",
+                                "SWANU ZONE"
+                            ]
+                        },
+                        {
+                            "name": "KAMWANI WARD",
+                            "villages": [
+                                "BWASE",
+                                "CHURCH ZONE",
+                                "KABI ZONE",
+                                "MUZIGITI ZONE"
+                            ]
+                        },
+                        {
+                            "name": "KASALINA WARD",
+                            "villages": [
+                                "KADIBA ZONE",
+                                "KIGENYI ZONE",
+                                "KYERINDA ZONE",
+                                "MARKET ZONE",
+                                "MUNYEGERA ZONE"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "BUYENGO",
+                    "parishes": [
+                        {
+                            "name": "BULUGO",
+                            "villages": [
+                                "BUDHOBYA",
+                                "BULAMA  A",
+                                "BULAMA  B",
+                                "BUSEGULA",
+                                "KAYALWE  A",
+                                "KAYALWE  B",
+                                "LWANYAMA",
+                                "NAKITOKOLO"
+                            ]
+                        },
+                        {
+                            "name": "BUTAMIRA",
+                            "villages": [
+                                "BUBANDA",
+                                "BUGONGWE",
+                                "BUKOLOBOZA",
+                                "KITUMBUGULU",
+                                "LWITAMAKOLI",
+                                "MUSISI",
+                                "NAMATA",
+                                "NAWAMBOGA"
+                            ]
+                        },
+                        {
+                            "name": "BUWABUZI",
+                            "villages": [
+                                "BUDAALI",
+                                "BUWABUZI",
+                                "BUYENGO",
+                                "KAMIIGO",
+                                "KANGULUMIRA",
+                                "LWAMBOGO",
+                                "NABIGWALI",
+                                "NAKIVUMBI",
+                                "NAMISOTA"
+                            ]
+                        },
+                        {
+                            "name": "IZIRU",
+                            "villages": [
+                                "BALIBONA",
+                                "BUDHUMBULU",
+                                "BUKASAMI",
+                                "BUKYEYUNE",
+                                "BUYONGO",
+                                "MBAALE",
+                                "NABITOSI",
+                                "NABULAGALA",
+                                "NABUSAGWA",
+                                "NAKAJO"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "JINJA"
+}

@@ -1,0 +1,218 @@
+{
+  "name": "BUDAKA",
+  "counties": [
+    {
+      "name": "BUDAKA COUNTY",
+      "sub_counties": [
+        {
+          "name": "BUDAKA",
+          "parishes": [
+            { "name": "CHALI", "villages": ["BOLOSYO", "CHALI", "IZIBANGABO", "NABIKETO"] },
+            { "name": "GADUMIRE", "villages": ["GADUMIRE", "NAKAWOLO", "NAMWENDA", "NSAWE"] },
+            { "name": "NAMPANGALA", "villages": ["BULUMBI", "NAMPANGALA", "NANYULU", "NAWANGO"] },
+            { "name": "SAPIRI", "villages": ["NAMUKUMERI", "NANSEKESE", "NANSEMENYE", "SAPIRI"] }
+          ]
+        },
+        {
+          "name": "BUDAKA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BUDAKA WARD", "villages": ["BUWEMBA", "KIBALI  I", "KOLODODO", "NAIGUMIA"] },
+            { "name": "BWASE WARD", "villages": ["BUDAKA TOWNSHIP", "BWASE", "KIBALI II", "NAIGOBYA", "NANKONE"] },
+            { "name": "MACHOLI WARD", "villages": ["BUJJASI", "BUKABINDI", "NAKAJETE", "NAKIBULU"] },
+            { "name": "NABWEYO WARD", "villages": ["NABWEYO", "NALADO", "NALWAYA", "NASAWO"] },
+            { "name": "NAMENGO WARD", "villages": ["NAMENGO", "NAMENGO SAPIRI", "NANYAGO", "NAWOJA"] }
+          ]
+        },
+        {
+          "name": "KABUNA",
+          "parishes": [
+            { "name": "KABUNA", "villages": ["GAYAZA", "IDOKO", "KABUNA II", "KABWERI"] },
+            { "name": "KAPERI", "villages": ["DIDIYO", "KADOTO", "KAPERI I", "KAPERI II"] },
+            { "name": "KOTIA", "villages": ["BULEFE", "KABUNA I", "KOTIYA", "NANGADA"] },
+            { "name": "MUTUKULA", "villages": ["BULOKI A", "BULOKI B", "KACHICHI", "MUTUKULA"] }
+          ]
+        },
+        {
+          "name": "KACHOMO",
+          "parishes": [
+            {
+              "name": "KODIRI",
+              "villages": ["BUKOMOLO", "BUKOMOLO II", "BULALAKA", "BUNAMWERA  I", "BUNYOLE", "BUSETA I", "BUSETA II"]
+            },
+            {
+              "name": "KOTINYANGA",
+              "villages": ["BUGOLO I", "BUGOLO II", "BUGOLYA", "BUKOMBA", "BUNAMWERA  II", "BURWETA"]
+            }
+          ]
+        },
+        {
+          "name": "KACHOMO TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BULALAKA WARD",
+              "villages": ["BUKOMBA B (BUNYEKERO)", "BULALAKA II", "BUNSWENZA (BULALAKA)", "BUNYEKERO"]
+            },
+            {
+              "name": "BURWETA WARD",
+              "villages": ["BUJOLOMO", "BUKOMBA I", "BUKOMBA II", "BULALAKA I", "BURWETA I", "BURWETA II"]
+            },
+            {
+              "name": "KACHOMO WARD",
+              "villages": ["BUKATIKOKO", "KACHOMO I", "KACHOMO II A", "KACHOMO II B", "NAKATENDE A", "NAKATENDE B"]
+            },
+            {
+              "name": "KADENGHE WARD",
+              "villages": ["BUBERA", "BUSIKWE", "KADENGHE I", "KADENGHE II", "KIDODO", "NAGWERE (BUBERA)"]
+            }
+          ]
+        },
+        {
+          "name": "KADERUNA",
+          "parishes": [
+            { "name": "KADERUNA", "villages": ["KADERUNA I", "KADERUNA II", "NAKABALE I", "NAKABALE II"] },
+            { "name": "KEBULA", "villages": ["BUNYOLO", "BWAGE", "KEBULA", "NANSANSA"] },
+            { "name": "KIRYOLO", "villages": ["KIRYOLO I", "KIRYOLO II", "MORU", "NALERA"] },
+            { "name": "NAUNGHOLI", "villages": ["MIJOYI A", "MIJOYI B", "NAUNGHOLI A", "NAUNGHOLI B"] }
+          ]
+        },
+        {
+          "name": "KAKULE",
+          "parishes": [
+            { "name": "KAKULE", "villages": ["BULOKI", "KAKULE I", "KAKULE II", "NAKISULE"] },
+            { "name": "KAPERI", "villages": ["BUNAMWERA", "KAPERI", "KOPIYA", "LERYA"] },
+            { "name": "KASULETA", "villages": ["KASULETA", "KIKALU", "NAKATENDE", "NAMATALE"] },
+            { "name": "LERYA", "villages": ["BUSETA", "LERYA", "PODI"] },
+            { "name": "NAMUSITA", "villages": ["BUGOLYA", "LIKIPI", "NAGURURU", "NAMUSITA"] }
+          ]
+        },
+        {
+          "name": "LYAMA",
+          "parishes": [
+            { "name": "BUYEMBA", "villages": ["BUGEMA", "BUKOLYA", "BUYEMBA A", "BUYEMBA B"] },
+            { "name": "LYAMA", "villages": ["BUWEMBE", "KITABA", "LUKONGE A", "LUKONGE B"] },
+            { "name": "NAKISENYE", "villages": ["IGANIA", "KAKOSI", "LYAMA", "NAKISENYE"] },
+            { "name": "SUNI", "villages": ["BWIKOMBA", "NALUBEMBE", "SUNI A", "SUNI B"] }
+          ]
+        },
+        {
+          "name": "NABOA",
+          "parishes": [
+            { "name": "BUNYEKERO", "villages": ["BULABYA", "BUNYEKERO", "KAKOLI II", "NAKATENDE I", "NAKATENDE II"] },
+            { "name": "LUPADA", "villages": ["LUPADA I", "LUPADA II", "NAMBAGO", "NAMUSERU I", "NAMUSERU II"] },
+            { "name": "NABOA", "villages": ["BUGEMA", "BUSIKWE", "NABOA", "NAKATENDE", "NAMAJA I", "NAMAJJA II"] },
+            { "name": "NANGEYE", "villages": ["BWIKOMBA", "KAKOLI I", "NAMWAMBA", "NANGEYE I", "NANGEYE II"] }
+          ]
+        },
+        {
+          "name": "NANSANGA",
+          "parishes": [
+            { "name": "IDUDI A", "villages": ["IDUDI A", "IDUDI B", "NATAALO A", "NATAALO B"] },
+            { "name": "IDUDI B", "villages": ["BUWUNGA", "KANYONYA", "LUKWANSA", "NAKADEKU"] },
+            { "name": "NANSANGA A", "villages": ["BUSIKWE A", "BUSIKWE B", "NANSANGA A", "NANSANGA B"] },
+            { "name": "NANSANGA B", "villages": ["BUDOBA A", "BUDOBA B", "BULUMBA A", "BULUMBA B"] }
+          ]
+        },
+        {
+          "name": "TADEMERI",
+          "parishes": [
+            { "name": "NALUGONDO", "villages": ["BUGADDE", "BULANGIRA", "BUTOVE", "NALUGONDO"] },
+            { "name": "NALULI", "villages": ["IRABI A", "IRABI B", "NALULI", "NAMAGONGOLO", "NANTAMA"] },
+            { "name": "NAMUKALO", "villages": ["KASULETA", "NAKAJO", "NAMUKALO", "NANSEGA"] },
+            { "name": "TADEMERI", "villages": ["BUNYEKERO", "KAZINGA", "TADEMERI", "WAIRAGALA"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IKI-IKI COUNTY",
+      "sub_counties": [
+        {
+          "name": "IKI-IKI",
+          "parishes": [{ "name": "KADENGHE", "villages": ["BUGOLYA", "BUKOMOLO", "KAKWANGA", "KAWULUMU"] }]
+        },
+        {
+          "name": "IKI-IKI TOWN COUNCIL",
+          "parishes": [
+            { "name": "BULOKI WARD", "villages": ["BULOKI", "BWIKOMBA", "KIZINGA", "NALUBEMBE"] },
+            { "name": "IKI-IKI WARD", "villages": ["IKI-IKI", "IKI-IKI GINARY", "IKI-IKI TOWNSHIP", "KIRURUMA"] },
+            {
+              "name": "KAITANGOLE WARD",
+              "villages": ["BULALAKA", "BULUMBA", "BULYAMPITI", "KADATUMI", "KAITANGOLE A", "KAITANGOLE B"]
+            },
+            { "name": "PETETE WARD", "villages": ["BUNAMINTO", "KADENGE", "KASULETA", "PETETE"] }
+          ]
+        },
+        {
+          "name": "KADIMUKOLI",
+          "parishes": [
+            {
+              "name": "KADIMUKOLI",
+              "villages": ["BUKATIKOKO", "KADIMUKOLI CENTRAL A", "KADIMUKOLI CENTRAL B", "NAMIYAGO"]
+            },
+            { "name": "KOSIITI", "villages": ["BUKEREWU", "KIFENYO", "KOSITI A", "KOSITI B"] },
+            { "name": "NYAYEWO", "villages": ["BUKOMOLO", "BULOKI", "NAKYEWO", "NAMUYEMBE"] },
+            {
+              "name": "SEKULO",
+              "villages": ["BULOKI", "BUNAMWERA", "KAPULUKUCHU A", "KAPULUKUCHU B", "SEKULO A", "SEKULO B"]
+            }
+          ]
+        },
+        {
+          "name": "KAKOLI",
+          "parishes": [
+            { "name": "KABYONGA", "villages": ["BUDOPE I", "BUDOPE II", "KAAJO", "KABYONGA"] },
+            { "name": "KAKOLI", "villages": ["BUKOMOLO", "BULOKI", "BUSETA", "KAKOLI"] },
+            { "name": "KAVULE", "villages": ["BUNAMWERA", "KAMASABA", "KAVULE", "KAVULE T.C"] },
+            { "name": "NYANZA", "villages": ["BUGOLYA", "BUKATIKOKO", "BULEFFE", "NYANZA"] }
+          ]
+        },
+        {
+          "name": "KAMERUKA",
+          "parishes": [
+            { "name": "BUPUCHAI", "villages": ["BUKOMOLO", "BULALAKA", "BUNYEKERO", "NATOTO"] },
+            { "name": "KAMERUKA", "villages": ["BUKATIKOKO", "BUKOMOLO", "KAINJA", "KAMERUKA"] },
+            { "name": "LERYA", "villages": ["BUCHERA", "BUDUKULO", "BUNAMWERA", "LERYA"] },
+            { "name": "NABUGALO", "villages": ["BUGOLYA", "BUKATIKOKO", "DALATAWU", "NABUGALO"] },
+            { "name": "NANZALA", "villages": ["BUGANZA", "BUKALIGWOKO", "BULALAKA", "BULOMI"] }
+          ]
+        },
+        {
+          "name": "KAMONKOLI",
+          "parishes": [
+            { "name": "BUNYOLO", "villages": ["BUKOOLI", "BUMBIRWE", "BUNYOLO A", "BUNYOLO B"] },
+            { "name": "JAMI", "villages": ["BUKADUKA", "JAMI A", "JAMI B", "KILALAKA"] }
+          ]
+        },
+        {
+          "name": "KAMONKOLI TOWN COUNCIL",
+          "parishes": [
+            { "name": "KAMONKOLI NORTH WARD", "villages": ["BUBULANGA A", "BUBULANGA B", "KAMONKOLI B", "KIRALAKA"] },
+            { "name": "KAMONKOLI SOUTH WARD", "villages": ["KAMONKOLI A", "NAMUSANGO", "NYANZA A", "NYANZA B"] }
+          ]
+        },
+        {
+          "name": "KATIRA",
+          "parishes": [
+            { "name": "BUKOKI", "villages": ["BUBERA", "BULALAKA", "BULOKI", "BUSIKWE"] },
+            { "name": "KADATUMI", "villages": ["BUKALIGWOKO", "BUKOMOLO", "BULALAKA", "NANSENYE"] },
+            { "name": "KATIRA", "villages": ["BUGANZA", "BUSIKWE", "BUWUMO", "KATIRA"] },
+            {
+              "name": "KEREKERENE",
+              "villages": ["BUKINOMO", "BUNYOLO", "BURWETA", "BWIKOMBA", "KALAPATA", "KEREKERENE"]
+            }
+          ]
+        },
+        {
+          "name": "MUGITI",
+          "parishes": [
+            { "name": "BUKALIGWOKO", "villages": ["BUKALIGWOKO", "BUKATIKOKO", "BULOKYO", "BUTAGWAIKO"] },
+            { "name": "BUNAMWERA", "villages": ["BUGANZA", "BUKOMOLO", "BUNAMWERA", "BUPALAMA"] },
+            { "name": "MUGITI", "villages": ["BULOKI", "BUMESULA", "BWIKOMBA  I", "NAMAKISYO"] },
+            { "name": "NASENYI", "villages": ["BWIBERE A", "BWIBERE B", "NAMAKISYO II", "NASENYI"] },
+            { "name": "NYANZA", "villages": ["BWIKOMBA  II", "NAMAMBA", "NYANZA NORTH", "NYANZA SOUTH"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

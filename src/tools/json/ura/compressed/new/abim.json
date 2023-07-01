@@ -1,0 +1,468 @@
+{
+  "name": "ABIM",
+  "counties": [
+    {
+      "name": "LABWOR",
+      "sub_counties": [
+        {
+          "name": "ABIM",
+          "parishes": [
+            {
+              "name": "ANINATA",
+              "villages": ["AJUKUNA", "ANINATA CENTRAL", "ANINATA EAST", "ANINATA NORTH", "ANINATA SOUTH"]
+            },
+            {
+              "name": "AREMBWOLA",
+              "villages": [ 
+                "AMITA PRISON",
+                "AMONICEK",
+                "ALUGA",
+                "AREMBWOLA CENTRAL",
+                "AREMBWOLA EAST",
+                "AREMBWOLA NORTH",
+                "AREMBWOLA SOUTH",
+                "OYOMPOLO"
+              ]
+            },
+            {
+              "name": "ATUNGA",
+              "villages": [
+                "APELKERE",
+                "ATUGO",
+                "KOPO",
+                "ORYEOTYENE EAST",
+                "ORYEOTYENE NORTH",
+                "ORYEOTYENE SOUTH",
+                "OTALABAR CENTRAL",
+                "OTALABAR EAST",
+                "OTALABAR NEWLINE",
+                "OTALABAR TRADING CENTRE",
+                "OTALABAR WEST"
+              ]
+            },
+            {
+              "name": "KANU",
+              "villages": [
+                "ANGICA",
+                "APELKORI",
+                "AROO",
+                "AROO WEST",
+                "GEREGERE EAST",
+                "GEREGERE NORTH",
+                "GEREGERE SOUTH",
+                "OBWORO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ABIM TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "KALAKALA WARD",
+              "villages": [
+                "AKADO CENTRAL",
+                "AKADO EAST",
+                "AKADO SOUTH",
+                "AKADO WEST",
+                "AYWEE EAST",
+                "AYWEE MODEL VILLAGE",
+                "AYWEE SOUTH",
+                "AYWEE WEST",
+                "RIAMIRIAM"
+              ]
+            },
+            {
+              "name": "KIRU WARD",
+              "villages": [
+                "ALULA",
+                "MISSION",
+                "OYARO NORTH",
+                "NYIKINYIKI",
+                "OBANGANGEO EAST",
+                "OBANGANGEO NORTH",
+                "OBANGANGEO SOUTH",
+                "OBANGANGEO WEST"
+              ]
+            },
+            {
+              "name": "WIAWER WARD",
+              "villages": [
+                "ABIM CENTRAL",
+                "ABIM EAST",
+                "ABIM HOSPITAL",
+                "ABIM NORTH",
+                "ABIM WEST",
+                "ANGWEE NORTH",
+                "ANGWEE SOUTH",
+                "AYWEE NORTH",
+                "ATING NORTH",
+                "ATING SOUTH",
+                "ATWILO",
+                "DAGARONYA",
+                "ENTEBBE",
+                "ORINGOWELO",
+                "WICERE",
+                "YENGLEMI EAST",
+                "YENGLEMI NORTH",
+                "YENGLEMI WEST"
+              ]
+            },
+            {
+              "name": "OYARO WARD",
+              "villages": [
+                "ABONGEDERO",
+                "ABUK",
+                "ACHARAETHE",
+                "ACHARAETHE EAST",
+                "AROO",
+                "OYARO CENTRAL",
+                "OYARO EAST",
+                "OYARO SOUTH",
+                "OYARO TRIANGLE",
+                "OYARO WEST",
+                "ORUM",
+                "OLIABONG",
+                "OMORU"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ALEREK",
+          "parishes": [
+            { "name": "LOYOROIT", "villages": ["ALIMOCAN", "OLEM CENTRAL", "OLEM EAST", "OLEM NORTH", "OLEM WEST"] },
+            {
+              "name": "KULODWONG",
+              "villages": [
+                "ACANPENINO",
+                "ARINGOBOM EAST",
+                "ARINGOBOM WEST",
+                "KECOKELA",
+                "KOTIDO",
+                "KULODWONG",
+                "KATHIMONGOR",
+                "KAKUTHA",
+                "RIBOCING",
+                "TYENOPOBO EAST",
+                "TYENOPOBO NORTH",
+                "TYENOPOBO SOUTH",
+                "TYENOPOBO WEST"
+              ]
+            },
+            {
+              "name": "WILELA",
+              "villages": [
+                "KINGO",
+                "KANYALAKA NORTH",
+                "KANYALAKA SOUTH",
+                "WILELA CENTRAL I",
+                "WILELA CENTRAL II",
+                "WILELA NORTH",
+                "WILELA SOUTH",
+                "NYIKINYIKI",
+                "YWEE-WII",
+                "ODOKOMIT"
+              ]
+            },
+            {
+              "name": "OTUMPILI",
+              "villages": [
+                "ARENGEPUA",
+                "KAWANG",
+                "LOYOROIT CENTRAL",
+                "OTUMPILI CENTRAL",
+                "OTUMPILI NORTH",
+                "OTUMPILI SOUTH",
+                "OTUMPILI SOUTH WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "AWACH",
+          "parishes": [
+            {
+              "name": "AWACH",
+              "villages": [
+                "ADAG KOLO",
+                "ADAGKOLO NORTH",
+                "PEM KWORO",
+                "ONANGO MOTHO",
+                "OBANGANGEO",
+                "OBOKOLOTH",
+                "OBOKOLOTH CENTRAL",
+                "OBOKOLOTH EAST"
+              ]
+            },
+            {
+              "name": "BARLYECH",
+              "villages": [
+                "ADIOCAI",
+                "AROO",
+                "BARLYECH",
+                "BARLYECH CENTRAL",
+                "BARLYECH WEST",
+                "PAMO",
+                "OPOKOLOBO",
+                "OTHEN"
+              ]
+            },
+            {
+              "name": "GOTAPWOU",
+              "villages": [
+                "ATHEDER CENTRAL",
+                "ATHEDER EAST",
+                "ATHEDER NORTH",
+                "ATHEDER SOUTH",
+                "ATHEDER WEST",
+                "GOTAPWOU",
+                "GOTAPWOU CENTRAL",
+                "MAMKAI",
+                "NATETE",
+                "OMOO CENTRAL",
+                "OMOO EAST",
+                "OMOO SOUTH",
+                "OMOO WEST"
+              ]
+            },
+            {
+              "name": "OPOROTH",
+              "villages": [
+                "ACARAWANG - SOUTH",
+                "ACARAWANG CENTRAL",
+                "ACARAWANG EAST",
+                "ACARAWANG WEST",
+                "AGWENG",
+                "AMONICEK",
+                "ANYALIMA",
+                "ANYALIMA WEST",
+                "BAR OTUKE",
+                "BAR-OTUKE CENTRAL",
+                "BAR-OTUKE WEST",
+                "BARDAGO",
+                "KOLOLO EAST",
+                "KOLOLO NEW LINE",
+                "PAMO",
+                "WIPOLO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "LOTUKEI",
+          "parishes": [
+            {
+              "name": "ACHANGALI",
+              "villages": [
+                "GULOPONO CENTRAL",
+                "GULOPONO EAST",
+                "GULOPONO NORTH",
+                "GULOPONO NORTH EAST",
+                "GULOPONO SOUTH",
+                "GULOPONO SOUTH EAST",
+                "BUTIWINY",
+                "LOTUKEI SEEDS",
+                "ORINGO ADINGA",
+                "TYEN OLAM"
+              ]
+            },
+            {
+              "name": "ARIDAI",
+              "villages": [
+                "AMORUTU-ICAN",
+                "AOJAPIRO",
+                "ARIDAI NORTH",
+                "ARIDAI SOUTH",
+                "BARKOLAM",
+                "MORU HILL",
+                "LOTUKE CENTRAL",
+                "LOTUKE EAST",
+                "LOTUKE NORTH",
+                "LOTUKE SOUTH",
+                "LOTUKE WEST",
+                "LOTUKEI MIXED",
+                "LOTUKEI TRADING CENTRE",
+                "YARAYARA"
+              ]
+            },
+            {
+              "name": "GANGMING",
+              "villages": [
+                "GANGMING CENTRAL",
+                "GANGMING EAST",
+                "GANGMING NEW LINE",
+                "GANGMING NORTH",
+                "GANGMING SOUTH",
+                "GANGMING SOUTH EAST",
+                "GANGMING SOUTH WEST",
+                "GANGMING WEST",
+                "LOKA WARD",
+                "WATHAKAU"
+              ]
+            },
+            {
+              "name": "ORWAMUGE",
+              "villages": [
+                "BARTANGA CENTRAL",
+                "BARTANGA EAST",
+                "BARTANGA NORTH",
+                "BARTANGA SOUTH",
+                "LOKETO EAST",
+                "LOKETO TRADING CENTRE",
+                "NADIKETH",
+                "NYIKINYIKI",
+                "TYEN OPOK EAST",
+                "TYEN OPOK NORTH",
+                "TYEN OPOK SOUTH",
+                "TYEN OPOK TRADING CENTRE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MAGAMAGA",
+          "parishes": [
+            { "name": "GULOTWORO", "villages": ["GULOTWORO"] },
+            {
+              "name": "KOYA",
+              "villages": [
+                "ABIL NINO NORTH",
+                "ABIL NINO SOUTH",
+                "ARWAKARA",
+                "ATHEDER NORTH",
+                "ATHEDER SOUTH",
+                "BEDATA EAST",
+                "BEDATA SOUTH",
+                "BEDATA WEST",
+                "DIC PE EAST",
+                "DIC PE WEST",
+                "OLILIM"
+              ]
+            },
+            { "name": "MONYANG", "villages": ["MONYANG"] }
+          ]
+        },
+        {
+          "name": "MORULEM",
+          "parishes": [
+            {
+              "name": "ADEA",
+              "villages": ["ABWOLOIT", "ADEA CENTRAL", "ADEA TRADING CENTRE", "ADEA WEST", "ALIR", "AYEYE"]
+            },
+            {
+              "name": "AKWANGAGWEL",
+              "villages": ["AKWANGAGWEL CENTRAL", "AKWANGAGWEL NORTH", "AKWANGAGWEL SOUTH", "AJWACHI NEW LINE"]
+            },
+            {
+              "name": "ANGOLEBWAL",
+              "villages": [
+                "AGWENG EAST",
+                "AGWENG WEST",
+                "AYWEE",
+                "OPEIDUKANITH",
+                "ORINGOWELLO",
+                "OBANGANGEO",
+                "UMLONGE",
+                "UMLONGE EAST",
+                "UMLONGE WEST",
+                "OMORU EAST",
+                "OMORU WEST"
+              ]
+            },
+            {
+              "name": "AREMO",
+              "villages": [
+                "AGILE",
+                "AREMO CENTRAL",
+                "AREMO EAST",
+                "AREMO LOBOLWALA",
+                "AREMO NEW LINE",
+                "GOLGOTA",
+                "CHWAILAI",
+                "MISSION",
+                "WIPOLO",
+                "ST. JOSEPH"
+              ]
+            },
+            {
+              "name": "KATABOK EAST",
+              "villages": [
+                "ARENGEPUA NORTH",
+                "ARENGEPUA SOUTH",
+                "GULONGER EAST",
+                "GULONGER WEST",
+                "KATABOK CENTRAL",
+                "KATABOK EAST",
+                "KATABOK TRADING CENTRE",
+                "KATABOK WEST",
+                "LOBO-OYEA"
+              ]
+            },
+            {
+              "name": "KATABOK WEST",
+              "villages": [
+                "RACHKOKO CENTRAL",
+                "RACHKOKO NORTH",
+                "RACHKOKO SOUTH",
+                "RACHKOKO SOUTH EAST",
+                "RACHKOKO SOUTH WEST",
+                "ODOLO EAST",
+                "ODOLO WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NYAKWAE",
+          "parishes": [
+            {
+              "name": "KOBULIN",
+              "villages": ["ABOKATH", "AOYATHOGO", "BARJOBI", "IBONGUSUA", "JERUSALEM", "KAKORINYANG", "KANAAN"]
+            },
+            { "name": "PUPUKAMUYA", "villages": ["AYWEE", "ATHEDER NORTH", "ATHEDER SOUTH", "TERAMOTH"] },
+            {
+              "name": "ROGOM",
+              "villages": [
+                "ABUR",
+                "AGULERUKA",
+                "AKUMAMER",
+                "ANGADA",
+                "ATHEDER",
+                "KATHEBAKUME",
+                "KAPUNABONG",
+                "ROGOM CENTRAL",
+                "OTHUTHUA",
+                "TYEN KWORO",
+                "OLULUNG"
+              ]
+            },
+            {
+              "name": "OPOPONGO",
+              "villages": [
+                "AGULE ANGOLOL",
+                "AKONGUCHWA WEST",
+                "AKONGUCWA",
+                "ARIAMATHOLIM",
+                "CUNG APENYI",
+                "DII CWINYI",
+                "KAETHERENG",
+                "KATALA",
+                "OPEDUR EAST",
+                "OPEDUR WEST",
+                "THULUMUK",
+                "OBAR YATH",
+                "ODOKOMIT",
+                "OKWANGALUK"
+              ]
+            },
+            {
+              "name": "ORETHA",
+              "villages": ["AGULE", "BULLA", "GEREGERE NORTH", "GEREGERE SOUTH", "NYIKINYIKI NORTH", "NYIKINYIKI SOUTH"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

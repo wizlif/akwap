@@ -1,0 +1,178 @@
+{
+  "name": "BUVUMA",
+  "counties": [
+    {
+      "name": "BUVUMA ISLANDS",
+      "sub_counties": [
+        {
+          "name": "BUGAYA",
+          "parishes": [
+            { "name": "BUWAGGA", "villages": ["BUWAGGA", "KIIKO", "KIJAKA", "KAYEMBE"] },
+            { "name": "BUYE", "villages": ["BUYE", "KIBO", "MUBALE", "WAKIKERE"] },
+            { "name": "NDWASI", "villages": ["KIZIBA", "MAWUNGWE", "LWAAZI", "NDWASI"] },
+            { "name": "ZINGA", "villages": ["KALAMBI", "KASENYI", "NAMADIWA", "ZINGA"] }
+          ]
+        },
+        {
+          "name": "BUSAMUZI",
+          "parishes": [
+            { "name": "BUSAMUZI", "villages": ["BUKAYO", "BULIMA", "BUSAMUZI", "BUTENDE", "ZIBA"] },
+            {
+              "name": "LUNYANJA",
+              "villages": ["BUBANZI-MPOLWE", "BUKWAYA", "BUWANGWE", "KASANSA", "MAYINJA", "NAKIWANDE", "NAMUGIRI"]
+            },
+            { "name": "KIRONGO", "villages": ["BUKAGALI", "KIRAITA", "KIRONGO", "GALIGATYA", "NKERE", "NAMBALIRE"] },
+            {
+              "name": "MAWANGA",
+              "villages": ["BANGA", "BUGABO", "MPUMUDDE", "LUKOMA", "MAWANGA", "MUSULO", "NKOKA", "NKUUSI", "SAMUKA"]
+            }
+          ]
+        },
+        {
+          "name": "BUVUMA TOWN COUNCIL",
+          "parishes": [
+            { "name": "BUWANGA CENTRAL WARD", "villages": ["BUGOMBE", "BULIBA", "KITAMIIRO", "LUNYANJA"] },
+            { "name": "BUWANGA WARD", "villages": ["BUKIMERA", "BUKAMBE", "BUWANGA", "MPOLWE", "NAMUNYOLO", "NUUWA"] },
+            { "name": "MAZINGA WARD", "villages": ["KEMBO", "KASIMIZI", "KADININDI", "LWEKUNYI", "NAKYETWA"] },
+            { "name": "TOMME WARD", "villages": ["KABAMBA", "BUYEGO", "MEERU", "NDOTWE", "SIRIBA", "TOMME"] },
+            { "name": "WALWANDA WARD", "villages": ["BUBERE", "GALAMU", "KYANAMU", "NAMASIMBI", "WALWANDA"] }
+          ]
+        },
+        {
+          "name": "BUWOOYA",
+          "parishes": [
+            {
+              "name": "BUWANZI",
+              "villages": [
+                "BUKAALI",
+                "BULUUTA",
+                "BUWANZI",
+                "KABAKUNGU",
+                "KIKONGO",
+                "KATONTE",
+                "KATUBA",
+                "KYEEMA",
+                "KYONDO"
+              ]
+            },
+            {
+              "name": "BUWOOYA",
+              "villages": ["BUKABAALE", "BUWOOYA", "BUZIRI", "KATAMBULA", "LUBAALE", "NAMAGO", "NAMATOOKE", "NAMAVUNDU"]
+            },
+            {
+              "name": "BUKINAALWA",
+              "villages": ["BUKINALWA", "BUMAZIME", "KITEREDDE", "KIGOBERO", "SSEKEBA", "SSESE"]
+            },
+            { "name": "LINGIRA", "villages": ["KATONGA", "LINGIRA", "KYOYA", "ZINGA", "OMOLO"] }
+          ]
+        },
+        {
+          "name": "BWEEMA",
+          "parishes": [
+            {
+              "name": "BUZIRI",
+              "villages": ["BUKWAYA", "BUKWAYA CENTRAL", "KAZIRU", "KASANSA", "KYANJA", "MULOGO", "NAMATALE"]
+            },
+            { "name": "BWEEMA", "villages": ["BUKAYANJA", "KIRUGUMA", "MUTI OMU", "LWAZI", "SEMUJU"] },
+            {
+              "name": "MALIJJA",
+              "villages": ["KIBIBI", "MALIJJA BWANIKA", "MALIJJA WABUZIBA", "MALIJJA WALUKUKU", "SSEGE"]
+            },
+            { "name": "MPATTA", "villages": ["GUNDA", "MPUUGA", "NALUBAALE", "SINDIRO", "NYENDA", "SSULE"] }
+          ]
+        },
+        {
+          "name": "LUBYA",
+          "parishes": [
+            { "name": "LABORO", "villages": ["ADDIS ABABA", "MAKALAGA", "LABORO", "LWAMUSENYU", "NAMBAGO"] },
+            { "name": "LUBYA", "villages": ["KISEKKA", "KIGANDA", "LUBYA", "LUTUNTU"] },
+            { "name": "NAMITI", "villages": ["KIREWE", "LWAAZI", "MUYENGA", "NDOOGO", "NAMITI", "NAKIBIZZI"] }
+          ]
+        },
+        {
+          "name": "LWAJE",
+          "parishes": [
+            { "name": "DDEMBE", "villages": ["KIWOLOLO", "DDEMBE", "LYABALUME", "MAKOPA", "LWAZI"] },
+            { "name": "KASERERE", "villages": ["BANK", "KALUNGI", "KASEREERE"] },
+            { "name": "LUKALU", "villages": ["KERENGE", "LUKALU", "ZIRUMUTO", "SERINYA"] },
+            { "name": "LYABALUME", "villages": ["KALYAMBUZI", "LYABALUME"] }
+          ]
+        },
+        {
+          "name": "LYABAANA",
+          "parishes": [
+            { "name": "LIIBU", "villages": ["BUKUZI", "LYABAANA", "LIIBU", "LUWERO"] },
+            { "name": "MUWAMA", "villages": ["KISENYI", "MPANDE", "MUWAMA", "NKATA"] },
+            { "name": "SAMBA", "villages": ["DDAMBA", "MBULAMWALO", "NDWASI", "SSAMBA"] },
+            { "name": "ZIIRU", "villages": ["BUSHENYI", "KIBULWE", "GAYALO", "NSINGA"] }
+          ]
+        },
+        {
+          "name": "NAIRAMBI",
+          "parishes": [
+            {
+              "name": "BUWANGA",
+              "villages": [
+                "BUGEMA",
+                "BULWA",
+                "BUKIYINDI",
+                "BUKULA",
+                "BWAKA",
+                "KAZIRU",
+                "KANYERERA",
+                "KACHANGA",
+                "NAMUZIRU",
+                "NVUZA"
+              ]
+            },
+            {
+              "name": "LUKALE",
+              "villages": [
+                "BUKINAALWA",
+                "BUIRI",
+                "BULUKU",
+                "BULUBAALE",
+                "KITIKO",
+                "LWEYENJE",
+                "LUKALE",
+                "MAYEMBE",
+                "MUSATU",
+                "MUSOMA",
+                "NZIGU"
+              ]
+            },
+            { "name": "LUUFU", "villages": ["BULUGULU", "BWENGULA", "MPONDWE", "LUBAALE", "MALA", "LUUFU", "YUBWE"] },
+            {
+              "name": "MAGYO",
+              "villages": [
+                "BUBASI",
+                "BUGONGO",
+                "BUSOBA",
+                "KEKEJJE",
+                "KIRINGU",
+                "LWOOLE",
+                "MAGYO CENTRAL",
+                "MUNYAMA",
+                "MAYE"
+              ]
+            },
+            {
+              "name": "NAMUGOMBE",
+              "villages": [
+                "BUKALABATI",
+                "BUTAAWA",
+                "KOJJA",
+                "KIFULU",
+                "KASAALI",
+                "MUBAALE",
+                "NAMAKEBA",
+                "NAMUGOMBE",
+                "TOJJWE"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

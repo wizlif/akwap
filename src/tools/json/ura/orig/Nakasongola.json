@@ -1,0 +1,753 @@
+{
+  "name": "Nakasongola",
+  "id": 67,
+  "counties": [
+    {
+      "name": "Budyebo",
+      "id": 190,
+      "sub_counties": [
+        {
+          "name": "Lwampanga",
+          "id": 772,
+          "parishes": [
+            {
+              "name": "Lwampanga",
+              "id": 4691,
+              "villages": [
+                { "name": "Kabasombwa", "id": 18688 },
+                { "name": "Kisenyi", "id": 29090 },
+                { "name": "Nakalikiirya", "id": 41424 },
+                { "name": "Mbaari", "id": 38043 },
+                { "name": "Lwampanga", "id": 35988 }
+              ]
+            },
+            {
+              "name": "Kikoiro",
+              "id": 3605,
+              "villages": [
+                { "name": "Kikoiro", "id": 27498 },
+                { "name": "Kibuye", "id": 26225 },
+                { "name": "Kasenyi", "id": 23508 }
+              ]
+            },
+            {
+              "name": "Kisaalizi",
+              "id": 3776,
+              "villages": [
+                { "name": "Kikaraganya", "id": 27449 },
+                { "name": "Kisaalizi", "id": 28850 },
+                { "name": "Kimole", "id": 27938 },
+                { "name": "Kigingo", "id": 26789 },
+                { "name": "Kyawaikata", "id": 32893 },
+                { "name": "Kyebisire", "id": 32933 }
+              ]
+            },
+            {
+              "name": "Kiwembi",
+              "id": 4001,
+              "villages": [
+                { "name": "Irimba", "id": 17717 },
+                { "name": "Kiwembi", "id": 30445 },
+                { "name": "Bwire", "id": 14596 },
+                { "name": "Kityoba", "id": 30341 },
+                { "name": "Kamabbala", "id": 21201 },
+                { "name": "Nabwita", "id": 41103 },
+                { "name": "Rwakataba", "id": 53608 },
+                { "name": "Namukago", "id": 43057 }
+              ]
+            },
+            {
+              "name": "Wajjala",
+              "id": 7347,
+              "villages": [
+                { "name": "Air field", "id": 1941 },
+                { "name": "Kitaleba", "id": 29612 },
+                { "name": "Kanyonyi(barracks complex)", "id": 22367 },
+                { "name": "Luwero industries", "id": 35782 },
+                { "name": "Wajjala", "id": 57276 }
+              ]
+            },
+            {
+              "name": "Zengebe",
+              "id": 7466,
+              "villages": [
+                { "name": "Kabira", "id": 18884 },
+                { "name": "Kiyanja", "id": 30548 },
+                { "name": "Muwunami", "id": 40392 },
+                { "name": "Zengebe", "id": 58067 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Migyera town council",
+          "id": 1427,
+          "parishes": [
+            {
+              "name": "Migyera central ward",
+              "id": 4993,
+              "villages": [
+                { "name": "Dembe", "id": 15559 },
+                { "name": "Kibira", "id": 26012 },
+                { "name": "Nalukonge", "id": 42142 },
+                { "name": "Police", "id": 52022 },
+                { "name": "Posta", "id": 52083 }
+              ]
+            },
+            {
+              "name": "Migyera east ward",
+              "id": 4994,
+              "villages": [
+                { "name": "Kiweewa", "id": 30442 },
+                { "name": "Kitwekyambogo", "id": 30323 },
+                { "name": "Kyakala", "id": 31918 },
+                { "name": "Migyera", "id": 38344 },
+                { "name": "Wamukokowe", "id": 57406 }
+              ]
+            },
+            {
+              "name": "Migyera north ward",
+              "id": 4995,
+              "villages": [
+                { "name": "Kyabacwezi", "id": 31543 },
+                { "name": "Kyangogolo", "id": 32541 },
+                { "name": "Vete zone", "id": 57055 }
+              ]
+            },
+            {
+              "name": "Migyera west ward",
+              "id": 4996,
+              "villages": [
+                { "name": "Bizibitukula", "id": 7320 },
+                { "name": "Moslem", "id": 38967 },
+                { "name": "Mayanja", "id": 37929 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nabiswera",
+          "id": 773,
+          "parishes": [
+            {
+              "name": "Katuba",
+              "id": 3237,
+              "villages": [
+                { "name": "Busone", "id": 12696 },
+                { "name": "Kikulubyo", "id": 27683 },
+                { "name": "Katubba", "id": 24712 },
+                { "name": "Kalwala", "id": 21141 },
+                { "name": "Musenyi - moone", "id": 40076 }
+              ]
+            },
+            {
+              "name": "Kalengede",
+              "id": 2686,
+              "villages": [
+                { "name": "Kimaga", "id": 27883 },
+                { "name": "Kalengedde", "id": 20935 },
+                { "name": "Kagiyo", "id": 19739 },
+                { "name": "Kateebe", "id": 24276 },
+                { "name": "Rwandama", "id": 53828 },
+                { "name": "Namiizo", "id": 42852 },
+                { "name": "Walukunyu", "id": 57351 },
+                { "name": "Walusi", "id": 57363 }
+              ]
+            },
+            {
+              "name": "Kyamukonda",
+              "id": 4253,
+              "villages": [
+                { "name": "Bujumbura", "id": 8909 },
+                { "name": "Buyamba", "id": 14004 },
+                { "name": "Buyooro", "id": 14195 },
+                { "name": "Kyabalamukya", "id": 31614 },
+                { "name": "Kyakisyaga", "id": 32057 },
+                { "name": "Kyamukonda", "id": 32376 },
+                { "name": "Ngoizi", "id": 44590 },
+                { "name": "Wadundulya", "id": 57233 }
+              ]
+            },
+            {
+              "name": "Kyangogolo",
+              "id": 4273,
+              "villages": [
+                { "name": "Kanyonyi", "id": 22365 },
+                { "name": "Kyadobo", "id": 31780 },
+                { "name": "Kalubanga", "id": 21082 },
+                { "name": "Kyangogolo", "id": 32540 },
+                { "name": "Nabiswera", "id": 40819 },
+                { "name": "Nakakoola", "id": 41404 },
+                { "name": "Matuugo", "id": 37806 },
+                { "name": "Namakukulu", "id": 42422 }
+              ]
+            },
+            {
+              "name": "Namaasa",
+              "id": 5470,
+              "villages": [
+                { "name": "Butiiti", "id": 13203 },
+                { "name": "Kiramata", "id": 28328 },
+                { "name": "Kirumuko", "id": 28676 },
+                { "name": "Kalungu", "id": 21129 },
+                { "name": "Lugogo", "id": 35151 },
+                { "name": "Namaasa", "id": 42255 },
+                { "name": "Sinja", "id": 55485 },
+                { "name": "Wabusaana", "id": 57213 },
+                { "name": "Wamunkende", "id": 57410 }
+              ]
+            },
+            {
+              "name": "Mulonzi",
+              "id": 5166,
+              "villages": [
+                { "name": "Kabaala/kalula", "id": 18376 },
+                { "name": "Kigalambi", "id": 26569 },
+                { "name": "Mulonzi", "id": 39781 },
+                { "name": "Nambajju", "id": 42724 },
+                { "name": "Zabazula", "id": 58014 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nakitoma",
+          "id": 778,
+          "parishes": [
+            {
+              "name": "Bujjabe",
+              "id": 1002,
+              "villages": [
+                { "name": "Bugaramwa", "id": 8238 },
+                { "name": "Bujjabe", "id": 8888 },
+                { "name": "Kikooba", "id": 27627 },
+                { "name": "Kaikanga", "id": 20065 },
+                { "name": "Kyani-kafo", "id": 32558 },
+                { "name": "Nakitoma", "id": 41885 },
+                { "name": "Wangoiro", "id": 57502 }
+              ]
+            },
+            {
+              "name": "Kasozi",
+              "id": 3118,
+              "villages": [
+                { "name": "Kyamukama", "id": 32368 },
+                { "name": "Kalyampande", "id": 21167 },
+                { "name": "Kasozi", "id": 23917 }
+              ]
+            },
+            {
+              "name": "Kigweri",
+              "id": 3531,
+              "villages": [
+                { "name": "Kabayongo", "id": 18736 },
+                { "name": "Kidugala", "id": 26435 },
+                { "name": "Kiryabyoya", "id": 28751 },
+                { "name": "Kimaatwe", "id": 27882 },
+                { "name": "Kyakatono", "id": 32005 },
+                { "name": "Minaawo", "id": 38415 }
+              ]
+            },
+            {
+              "name": "Njeru",
+              "id": 5811,
+              "villages": [
+                { "name": "Butuuti", "id": 13406 },
+                { "name": "Kiroro", "id": 28628 },
+                { "name": "Katasenywa", "id": 24248 },
+                { "name": "Malombe", "id": 37151 },
+                { "name": "Njeru", "id": 44759 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rwabyata",
+          "id": 776,
+          "parishes": [
+            {
+              "name": "Kansira",
+              "id": 2824,
+              "villages": [
+                { "name": "Gaaba", "id": 16231 },
+                { "name": "Kyambogo", "id": 32229 },
+                { "name": "Kalinda", "id": 20997 },
+                { "name": "Kyankanga", "id": 32603 },
+                { "name": "Kaduba", "id": 19496 },
+                { "name": "Kansiira", "id": 22039 },
+                { "name": "Mpumwiire", "id": 39166 },
+                { "name": "Namiika", "id": 42851 },
+                { "name": "Podya", "id": 51991 },
+                { "name": "Soweto", "id": 55674 },
+                { "name": "Wabusaana", "id": 57211 }
+              ]
+            },
+            {
+              "name": "Kikooge",
+              "id": 3622,
+              "villages": [
+                { "name": "Kikooge", "id": 27633 },
+                { "name": "Kikuuta", "id": 27760 },
+                { "name": "Ndaiga", "id": 44208 },
+                { "name": "Wangoma", "id": 57504 }
+              ]
+            },
+            {
+              "name": "Nakayonza",
+              "id": 5409,
+              "villages": [
+                { "name": "Kirenge", "id": 28464 },
+                { "name": "Kaganja", "id": 19641 },
+                { "name": "Namaato", "id": 42256 },
+                { "name": "Nakayonza", "id": 41666 }
+              ]
+            },
+            {
+              "name": "Nalukonge",
+              "id": 5460,
+              "villages": [
+                { "name": "Kiteredde", "id": 29858 },
+                { "name": "Kamuli", "id": 21582 },
+                { "name": "Mpabye", "id": 39003 },
+                { "name": "Rwanjuki", "id": 53862 },
+                { "name": "Nalukonge", "id": 42144 },
+                { "name": "Nalulongo", "id": 42154 },
+                { "name": "Rwabyata", "id": 53535 },
+                { "name": "Ntagaara", "id": 45286 },
+                { "name": "Tumba", "id": 56849 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nakasongola",
+      "id": 131,
+      "sub_counties": [
+        {
+          "name": "Kakooge",
+          "id": 770,
+          "parishes": [
+            {
+              "name": "Bamusuuta",
+              "id": 668,
+              "villages": [
+                { "name": "Bamusuuta", "id": 6282 },
+                { "name": "Kinoni", "id": 28083 },
+                { "name": "Kitanda", "id": 29642 },
+                { "name": "Kanyogoga", "id": 22325 },
+                { "name": "Kakira", "id": 20408 },
+                { "name": "Kyakiduula", "id": 32038 },
+                { "name": "Wakakooli", "id": 57281 }
+              ]
+            },
+            {
+              "name": "Katuugo",
+              "id": 3250,
+              "villages": [
+                { "name": "Butenga", "id": 13147 },
+                { "name": "Kiwongoire", "id": 30474 },
+                { "name": "Kiralamba", "id": 28317 },
+                { "name": "Kittanswa", "id": 30176 },
+                { "name": "Katuugo", "id": 24831 },
+                { "name": "Kyabukonyogo", "id": 31743 },
+                { "name": "Kyamalimbye", "id": 32165 },
+                { "name": "Kasanga", "id": 23368 }
+              ]
+            },
+            {
+              "name": "Kyabutaika",
+              "id": 4202,
+              "villages": [
+                { "name": "Kyampisi", "id": 32299 },
+                { "name": "Seeta/kiranga", "id": 54996 },
+                { "name": "Wabinyira", "id": 57176 },
+                { "name": "Wakasimba", "id": 57288 }
+              ]
+            },
+            {
+              "name": "Kyambogo",
+              "id": 4238,
+              "villages": [
+                { "name": "Batuusa", "id": 6767 },
+                { "name": "Buseebwe", "id": 12284 },
+                { "name": "Buvuma", "id": 13434 },
+                { "name": "Kyambogo", "id": 32232 },
+                { "name": "Kasambya", "id": 23300 },
+                { "name": "Kyancwende", "id": 32491 },
+                { "name": "Kyanika", "id": 32568 },
+                { "name": "Kabusinde", "id": 19181 },
+                { "name": "Kamuwanula", "id": 21687 },
+                { "name": "Lwanjuki", "id": 36056 }
+              ]
+            },
+            {
+              "name": "Kyankonwa",
+              "id": 4287,
+              "villages": [
+                { "name": "Kabakazi", "id": 18503 },
+                { "name": "Kyalubambula", "id": 32086 },
+                { "name": "Kyalweza", "id": 32116 },
+                { "name": "Kasambya", "id": 23301 },
+                { "name": "Kyandyaga", "id": 32515 },
+                { "name": "Kyankonwa", "id": 32615 },
+                { "name": "Nongo/nakakono", "id": 45031 },
+                { "name": "Wabikonkome", "id": 57167 }
+              ]
+            },
+            {
+              "name": "Kyeyindula",
+              "id": 4369,
+              "villages": [
+                { "name": "Buddu", "id": 7839 },
+                { "name": "Bukabi", "id": 8970 },
+                { "name": "Bulamago", "id": 9954 },
+                { "name": "Busolosolo", "id": 12686 },
+                { "name": "Kitangala", "id": 29656 },
+                { "name": "Kitwe", "id": 30306 },
+                { "name": "Kyansimbi", "id": 32644 },
+                { "name": "Kyebongore", "id": 32938 },
+                { "name": "Kyeyindula", "id": 33334 },
+                { "name": "Lwanjuki", "id": 36057 },
+                { "name": "Ntuuti", "id": 45483 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kakooge town council",
+          "id": 1389,
+          "parishes": [
+            {
+              "name": "Kibira ward",
+              "id": 3397,
+              "villages": [
+                { "name": "Kibira", "id": 26007 },
+                { "name": "Kyabutayika", "id": 31755 },
+                { "name": "Kyansimbi", "id": 32643 },
+                { "name": "Kamukamu", "id": 21534 },
+                { "name": "Mbaale", "id": 38029 }
+              ]
+            },
+            {
+              "name": "Kabaale ward",
+              "id": 2300,
+              "villages": [
+                { "name": "Kabaale klezia", "id": 18407 },
+                { "name": "Kabaale mivule", "id": 18408 },
+                { "name": "Kazzi", "id": 25417 },
+                { "name": "Kyamasanda", "id": 32178 },
+                { "name": "Mulungi omu", "id": 39797 }
+              ]
+            },
+            {
+              "name": "Kakooge central ward",
+              "id": 2616,
+              "villages": [
+                { "name": "Kalina", "id": 20992 },
+                { "name": "Katale", "id": 24143 },
+                { "name": "Namunkanga", "id": 43171 },
+                { "name": "Namunsaala", "id": 43173 }
+              ]
+            },
+            {
+              "name": "Kakooge north ward",
+              "id": 2617,
+              "villages": [
+                { "name": "Haji yasi", "id": 17087 },
+                { "name": "Kikadde", "id": 27382 },
+                { "name": "Kirowooza", "id": 28630 },
+                { "name": "Kasuuge", "id": 24038 },
+                { "name": "Nakaseeta", "id": 41499 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kalongo",
+          "id": 777,
+          "parishes": [
+            {
+              "name": "Bamugolodde",
+              "id": 665,
+              "villages": [
+                { "name": "Bamugolodde", "id": 6270 },
+                { "name": "Kiranga", "id": 28340 },
+                { "name": "Namalinda", "id": 42472 }
+              ]
+            },
+            {
+              "name": "Kamirampango",
+              "id": 2743,
+              "villages": [
+                { "name": "Busansula", "id": 12256 },
+                { "name": "Kibbumba", "id": 25879 },
+                { "name": "Kyakabombwe", "id": 31847 },
+                { "name": "Kalalu", "id": 20834 },
+                { "name": "Kalongo", "id": 21062 },
+                { "name": "Kamirampango", "id": 21380 }
+              ]
+            },
+            {
+              "name": "Kigejjo",
+              "id": 3499,
+              "villages": [
+                { "name": "Bulwandi", "id": 10443 },
+                { "name": "Kigejjo", "id": 26740 },
+                { "name": "Kanyika", "id": 22297 }
+              ]
+            },
+            {
+              "name": "Kisuuma",
+              "id": 3859,
+              "villages": [
+                { "name": "Kireka", "id": 28412 },
+                { "name": "Kibbanja", "id": 25874 },
+                { "name": "Kisuuma", "id": 29462 }
+              ]
+            },
+            {
+              "name": "Kisweera-mayinda",
+              "id": 3863,
+              "villages": [
+                { "name": "Kisozi", "id": 29395 },
+                { "name": "Kisweramainda", "id": 29489 },
+                { "name": "Katuugo", "id": 24834 },
+                { "name": "Kakoola", "id": 20566 },
+                { "name": "Kaleire", "id": 20918 },
+                { "name": "Nakinyama", "id": 41807 }
+              ]
+            },
+            {
+              "name": "Kiwambya",
+              "id": 3994,
+              "villages": [
+                { "name": "Budengedde", "id": 7849 },
+                { "name": "Kiwambya", "id": 30393 },
+                { "name": "Kiwoole", "id": 30479 },
+                { "name": "Nalubobya", "id": 42106 },
+                { "name": "Nalukonge", "id": 42141 }
+              ]
+            },
+            {
+              "name": "Mayirikiti",
+              "id": 4923,
+              "villages": [
+                { "name": "Kabazi", "id": 18739 },
+                { "name": "Kiswerwa", "id": 29493 },
+                { "name": "Kayisolo", "id": 25225 },
+                { "name": "Mayirikiti", "id": 37963 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kalungi",
+          "id": 771,
+          "parishes": [
+            {
+              "name": "Irima",
+              "id": 2212,
+              "villages": [
+                { "name": "Irima", "id": 17716 },
+                { "name": "Junda", "id": 18159 },
+                { "name": "Kiigazi", "id": 27173 },
+                { "name": "Kinamwanga", "id": 28005 },
+                { "name": "Kyalusaka", "id": 32098 },
+                { "name": "Ndaiga", "id": 44207 }
+              ]
+            },
+            {
+              "name": "Kazwaama",
+              "id": 3331,
+              "villages": [
+                { "name": "Kazwama", "id": 25415 },
+                { "name": "Ddagala", "id": 15495 },
+                { "name": "Kapundo", "id": 22797 },
+                { "name": "Madaali", "id": 36502 },
+                { "name": "Mizaala", "id": 38721 },
+                { "name": "Ninga", "id": 44728 },
+                { "name": "Rukoonge", "id": 52969 },
+                { "name": "Nakatubba", "id": 41614 }
+              ]
+            },
+            {
+              "name": "Kisenyi",
+              "id": 3807,
+              "villages": [
+                { "name": "Kigwera", "id": 26967 },
+                { "name": "Kisenyi", "id": 29086 },
+                { "name": "Kigali", "id": 26570 },
+                { "name": "Kasambya", "id": 23296 },
+                { "name": "Kamiga", "id": 21361 },
+                { "name": "Kasozi", "id": 23922 },
+                { "name": "Runyu", "id": 53067 }
+              ]
+            },
+            {
+              "name": "Namungolo",
+              "id": 5585,
+              "villages": [
+                { "name": "Bagambira", "id": 6168 },
+                { "name": "Lutengo", "id": 35686 },
+                { "name": "Namungolo", "id": 43159 },
+                { "name": "Nakataka", "id": 41569 }
+              ]
+            },
+            {
+              "name": "Wanzogi",
+              "id": 7392,
+              "villages": [
+                { "name": "Iremya", "id": 17704 },
+                { "name": "Kabbandi", "id": 18741 },
+                { "name": "Kawondwe", "id": 25039 },
+                { "name": "Kanyonyi", "id": 22366 },
+                { "name": "Katuugo", "id": 24841 },
+                { "name": "Kalungi", "id": 21116 },
+                { "name": "Wanzogi", "id": 57575 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nakasongola town",
+          "id": 775,
+          "parishes": [
+            {
+              "name": "Nakasongola central ward",
+              "id": 5388,
+              "villages": [
+                { "name": "Buruli quarter", "id": 12069 },
+                { "name": "Nakasongola central", "id": 41551 },
+                { "name": "Wakibombo", "id": 57296 }
+              ]
+            },
+            {
+              "name": "Nakasongola east ward",
+              "id": 5389,
+              "villages": [
+                { "name": "Kibengo", "id": 25912 },
+                { "name": "Kalubanga", "id": 21083 },
+                { "name": "Kansirye", "id": 22045 },
+                { "name": "Nakajooga", "id": 41392 },
+                { "name": "Nabyetereka", "id": 41114 },
+                { "name": "Matuugo", "id": 37807 },
+                { "name": "Wabinyonyi", "id": 57180 }
+              ]
+            },
+            {
+              "name": "Nakasongola west ward",
+              "id": 5390,
+              "villages": [
+                { "name": "Kibira", "id": 26013 },
+                { "name": "Kalikoma", "id": 20985 },
+                { "name": "Wabbale", "id": 57157 },
+                { "name": "Sungira", "id": 55928 },
+                { "name": "Wankati", "id": 57526 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Wabinyonyi",
+          "id": 774,
+          "parishes": [
+            {
+              "name": "Kageri",
+              "id": 2489,
+              "villages": [
+                { "name": "Kyakadoko", "id": 31871 },
+                { "name": "Kalobokwe", "id": 21027 },
+                { "name": "Kabugenda", "id": 19019 },
+                { "name": "Kageri", "id": 19709 },
+                { "name": "Mwolwe", "id": 40570 }
+              ]
+            },
+            {
+              "name": "Kamuniina",
+              "id": 2777,
+              "villages": [
+                { "name": "Kaisagara", "id": 20103 },
+                { "name": "Kamuniina", "id": 21597 },
+                { "name": "Mitanzi", "id": 38643 },
+                { "name": "Malengera", "id": 37115 }
+              ]
+            },
+            {
+              "name": "Kyamuyingo",
+              "id": 4264,
+              "villages": [
+                { "name": "Isegero", "id": 17781 },
+                { "name": "Kikangulla", "id": 27442 },
+                { "name": "Kyabaganga", "id": 31553 },
+                { "name": "Kyamuyingo", "id": 32450 },
+                { "name": "Kabuye", "id": 19235 }
+              ]
+            },
+            {
+              "name": "Kiwongoire",
+              "id": 4008,
+              "villages": [
+                { "name": "Kiwongoire", "id": 30475 },
+                { "name": "Kirembo", "id": 28453 },
+                { "name": "Kakondi", "id": 20509 },
+                { "name": "Nsugga", "id": 45252 },
+                { "name": "Wabulime", "id": 57203 }
+              ]
+            },
+            {
+              "name": "Sasiira",
+              "id": 7092,
+              "villages": [
+                { "name": "Katitiiza", "id": 24518 },
+                { "name": "Kambala", "id": 21305 },
+                { "name": "Machumu", "id": 36495 },
+                { "name": "Naitondo", "id": 41299 },
+                { "name": "Sasira", "id": 54942 }
+              ]
+            },
+            {
+              "name": "Sikye",
+              "id": 7131,
+              "villages": [
+                { "name": "Lugogo", "id": 35152 },
+                { "name": "Nakaseeta", "id": 41513 },
+                { "name": "Nalubaale", "id": 42091 },
+                { "name": "Rukinzi", "id": 52931 },
+                { "name": "Nakijjwa", "id": 41780 },
+                { "name": "Sikye", "id": 55415 }
+              ]
+            },
+            {
+              "name": "Wabigalo",
+              "id": 7335,
+              "villages": [
+                { "name": "Kabojja", "id": 18938 },
+                { "name": "Kibatiko", "id": 25845 },
+                { "name": "Kitego", "id": 29742 },
+                { "name": "Kamalanzala", "id": 21242 },
+                { "name": "Namayonjo", "id": 42701 },
+                { "name": "Nambeere", "id": 42750 },
+                { "name": "Wabigalo", "id": 57161 }
+              ]
+            },
+            {
+              "name": "Wampiti",
+              "id": 7370,
+              "villages": [
+                { "name": "Kizongo", "id": 30736 },
+                { "name": "Kikonge", "id": 27585 },
+                { "name": "Kalungu", "id": 21130 },
+                { "name": "Kalyakoti", "id": 21157 },
+                { "name": "Wabikokoma", "id": 57166 },
+                { "name": "Wankerenge/wampiti", "id": 57527 },
+                { "name": "Wantabya", "id": 57547 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

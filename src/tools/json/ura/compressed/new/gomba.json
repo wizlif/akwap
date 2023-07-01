@@ -1,0 +1,334 @@
+{
+  "name": "GOMBA",
+  "counties": [
+    {
+      "name": "GOMBA EAST",
+      "sub_counties": [
+        {
+          "name": "KANONI TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "KANONI WARD",
+              "villages": [
+                "KAALO",
+                "KOOME",
+                "KITEMU",
+                "KITWE",
+                "KASAKA-KIRYABIROKWA",
+                "KAMPUNGU/KIWANDA",
+                "KANONI",
+                "LUSENKE",
+                "NKWALE",
+                "WASINDA"
+              ]
+            },
+            { "name": "WANJEYO WARD", "villages": ["KABALALO/MAYANGAYANGA", "NAJJOOKI", "NAKAYE", "WANJEYO"] }
+          ]
+        },
+        {
+          "name": "KYEGONZA",
+          "parishes": [
+            { "name": "BUKUNDUGULU", "villages": ["BUKUDUGULU", "BUYANA/NABUSANKE", "KITAKA/NSANVU"] },
+            { "name": "MALELE", "villages": ["KABULASOKE", "MALERE/NDODO", "LUMULI"] },
+            { "name": "MAMBA", "villages": ["KIZIBA", "KINONI/KANYA", "KAYUNGA", "MAMBA", "NABUYINDO", "LUKUNYU"] },
+            { "name": "KISOGA", "villages": ["KISOGA/NAMUYOVU", "KASIBA/KABUTALA", "MUKUSU", "SEKULO/KALAGALA"] },
+            {
+              "name": "NAKIJJU",
+              "villages": ["BUYEBEYI", "KIRUNGU", "KIDUMUULE", "KASASA/KIBOMBO", "KAMULI", "NAKIJJU", "NAKIMU"]
+            },
+            { "name": "NAMABEYA", "villages": ["BUZIMBA", "KAKOMA", "MWEESE", "NAMABEYA A", "NAMABEYA B"] },
+            { "name": "NSAMBWE", "villages": ["KIMBO", "NSAMBWE", "WANDAGI/KIZIGO"] },
+            { "name": "MPUNGE", "villages": ["MABOWA", "MPUNGE", "MALYOWE", "NAKASAGAZI", "LWANGANZI-KABUTEMBA"] },
+            { "name": "SAALI", "villages": ["BUKALAGI-KABAMBA", "SAALI", "MABUYE", "MAKOKWA"] }
+          ]
+        },
+        {
+          "name": "MPENJA",
+          "parishes": [
+            {
+              "name": "BBINZI/TTABA",
+              "villages": [
+                "BBUYE",
+                "BUDONGA",
+                "KIMWANYI",
+                "KIGONGO-LUGINGI",
+                "KATIKAMPANDA",
+                "KALIMUMWA-KYANIKA",
+                "NGALAGALA",
+                "TTABA/BBINZI"
+              ]
+            },
+            {
+              "name": "GOLOLA",
+              "villages": ["GOLOLA A", "GOLOLA B", "KIBAKA", "KITOJJO", "KYETUME", "LUWANGALA/JUMBI"]
+            },
+            {
+              "name": "KANZIIRA",
+              "villages": ["BUJJEGE", "BWEGOMBE/MABAALE", "KISAAKA", "KISUBI", "KANZIIRA", "NKOLE"]
+            },
+            { "name": "KAKOMO", "villages": ["KIGULU", "KAKOMO", "MPANGA", "MPENJA"] },
+            { "name": "KIRIRI", "villages": ["KIRIRI EAST", "KIRIRI WEST", "KAKOMO", "NSWANJERE A", "NSWANJERE B"] },
+            { "name": "NGERIBALYA", "villages": ["BWANGA", "KINDIMUNDA", "MPONGO A", "MPONGO B", "NGERIBALYA"] },
+            {
+              "name": "NGOMANENE",
+              "villages": [
+                "BUGABO",
+                "BUNSUKIIZA",
+                "KUBAMITWE",
+                "KAWUGA",
+                "KALYABAYOGA",
+                "NAKASOZI",
+                "NGOMANENE TOWN",
+                "TIGINYA"
+              ]
+            },
+            {
+              "name": "NKOMA",
+              "villages": ["BUGUNGU", "KYEGALIRO", "LUNENE", "LUWEMBE", "LUZIRA", "NDIMULABA", "NGEYE"]
+            },
+            { "name": "MASERUKA", "villages": ["KABUYE", "MASERUKA A", "MASERUKA B", "SUGEEZI"] },
+            {
+              "name": "MPOGO",
+              "villages": ["BUSOLO A", "BUSOLO B", "BUWANGUZI", "KIKOKO", "KWANGA", "KIKONDO", "MPOGO"]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "GOMBA WEST",
+      "sub_counties": [
+        {
+          "name": "KABULASOKE",
+          "parishes": [
+            {
+              "name": "BUTITI",
+              "villages": [
+                "BUKUNDUGULU",
+                "BUNYINYWA",
+                "BUTITI",
+                "KAKIPUUYA",
+                "KABULASOKE A",
+                "KABULASOKE B",
+                "LUBAALE A",
+                "LUBAALE B",
+                "NAMULABA",
+                "NTONWA",
+                "ZZINDA"
+              ]
+            },
+            {
+              "name": "BUKANDULA",
+              "villages": [
+                "BUKANDULA A",
+                "BUKANDULA B",
+                "KIREKU",
+                "KOBERO",
+                "KIBANGA",
+                "KIGGO A",
+                "KIGGO B",
+                "KATETE A",
+                "KATETE B",
+                "KANDEGEYA",
+                "MABUYE",
+                "LUNNYA",
+                "LWEBAJJO",
+                "NANFUKA"
+              ]
+            },
+            {
+              "name": "BULWADDA",
+              "villages": [
+                "BULWADDA EAST",
+                "BULWADDA WEST",
+                "BUTANGA",
+                "KABANKONYO",
+                "KIZIIKO",
+                "GGULA",
+                "KATETE A",
+                "KATETE B",
+                "KANKOLONGO/MALIGA",
+                "MATAKA",
+                "LUNONI",
+                "LUSONGODDE",
+                "LUZIRA",
+                "NSIMBI ZIWOME",
+                "WABITEMBE/KYEVUNZE"
+              ]
+            },
+            {
+              "name": "KIFAMPA",
+              "villages": [
+                "KIREKU",
+                "KIFAMPA T/C",
+                "KITAYITWAKO A",
+                "KITAYITWAKO B",
+                "KIGOMA A",
+                "KIGOMA B",
+                "KAGONGERO",
+                "MITYEGONGA A",
+                "MITYEGONGA B",
+                "LWABAYAGA A",
+                "LWABAYAGA B",
+                "LWABAYAGA C",
+                "LWABAYAGA D",
+                "NANJWENGE A",
+                "NANJWENGE B"
+              ]
+            },
+            {
+              "name": "KALWANGA",
+              "villages": [
+                "BUTAMBAZI",
+                "KIRYAMENVU",
+                "KAKINGA",
+                "KAKUBANSIRI A",
+                "KAKUBANSIRI B",
+                "KAKUBANSIRI C",
+                "KAKUBANSIRI D",
+                "KALWANGA A",
+                "KALWANGA B",
+                "KYENGEZA",
+                "MIRAMBI A",
+                "MIRAMBI B",
+                "LWAMADIBA"
+              ]
+            },
+            {
+              "name": "LUGAAGA",
+              "villages": [
+                "BWEYAZA",
+                "KISAMULA EAST",
+                "KISAMULA WEST",
+                "KAKONI",
+                "KAMPAAMA",
+                "KANGUMBA",
+                "LUGAAGA CENTRAL",
+                "WABIBO",
+                "SERINYA"
+              ]
+            },
+            {
+              "name": "KISOZI",
+              "villages": [
+                "GWANGA",
+                "KIJOJO",
+                "KISOZI",
+                "KIBEERE",
+                "KAWOKO",
+                "KAWUULA A",
+                "KAWUULA B",
+                "KAJUMIRO",
+                "KAMUSENENE",
+                "LUSOZI"
+              ]
+            },
+            {
+              "name": "MATONGO",
+              "villages": [
+                "BUSAALE",
+                "KIJJONGO",
+                "KUNYAMIMWA",
+                "KAMPEEFU",
+                "LUKOOLA",
+                "MATONGO CENTRE",
+                "MUTASINDIRWA",
+                "NKANDWA"
+              ]
+            },
+            {
+              "name": "MAWUKI",
+              "villages": [
+                "BUKINDA",
+                "BUKYAMA",
+                "KASIIKA",
+                "MAWUKI EAST",
+                "MAWUKI WEST",
+                "NAKULAMUDDE A",
+                "NAKULAMUDDE B",
+                "SSESE"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MADDU",
+          "parishes": [
+            {
+              "name": "DDEGEYA",
+              "villages": [
+                "BUYANJA",
+                "KIGULUMBYA",
+                "KILASI",
+                "DDEGEYA",
+                "KAMENGO",
+                "MAKUKUULU",
+                "LUMANYO",
+                "LUZINGA",
+                "LWAWEBA",
+                "NAKITEMBE",
+                "NSANGABYAYI"
+              ]
+            },
+            {
+              "name": "KYAYI",
+              "villages": [
+                "KYAAYI",
+                "KASAMBYA",
+                "KYAMUKAMA",
+                "KYAMULANGWA",
+                "KYENGERA",
+                "MABANDA",
+                "NABUGUYO",
+                "NAKASEETA",
+                "KYETUME",
+                "NSOLOOLO"
+              ]
+            },
+            {
+              "name": "MADDU",
+              "villages": [
+                "KAYUNGA-SEGERO",
+                "KAWAALA",
+                "KYAMABAALE",
+                "SAKABUSOLO",
+                "KASAMBYA-LUGEYE",
+                "KYAMUYIISA",
+                "KANOGOZI",
+                "MADDU A",
+                "MADDU B",
+                "MADDU C",
+                "MAKUKULU-KITO",
+                "MUGGYA",
+                "SEGERO"
+              ]
+            },
+            {
+              "name": "KIGEZI",
+              "villages": [
+                "BUJUNJUUZI",
+                "KIGUMBA",
+                "KIKONOKA",
+                "KIBAALE",
+                "KYABALYEMBA",
+                "KAWERI",
+                "KAWUNGEEZI",
+                "KALAGALA",
+                "KYAMBOOBO",
+                "KALYANJUBA",
+                "LUKONDA",
+                "NAKASEETA",
+                "LUVULE",
+                "LWAKIBIRA",
+                "NSOZIBIRI A",
+                "NSOZIBIRI B"
+              ]
+            },
+            { "name": "KYABAGAMBA", "villages": ["KABALE-KAMUGOLE", "KYABAGAMBA", "KALUSIINA", "KALYAMAWOLU"] },
+            { "name": "NTALAGI", "villages": ["GWANIKA", "KABWIRE", "KAGONGERO", "KANTUNKU", "LUSAANA", "LUSOZI"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

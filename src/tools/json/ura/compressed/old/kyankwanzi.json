@@ -1,0 +1,311 @@
+{
+  "name": "KYANKWANZI",
+  "counties": [
+    {
+      "name": "BUTEMBA COUNTY",
+      "sub_counties": [
+        {
+          "name": "BANANYWA",
+          "parishes": [
+            { "name": "BANANYWA", "villages": ["KAMUGEYE", "KICWEKA", "KIKONGE", "KISOLO", "KITEREDDE", "MAILO"] },
+            {
+              "name": "KAZO",
+              "villages": ["BAKUSEKAMAJJA", "BASOOKAKUTEESA", "KATWE", "KAZO", "MPUMUDDE", "SSETTIMBA"]
+            },
+            { "name": "KIRIMBI", "villages": ["BANANYWA", "KACUNGIRO", "KIRIMBI", "KISENYI", "KYAMWOYA", "NAKASERO"] },
+            { "name": "KIRYANNONGO", "villages": ["KALANGALA", "KIRYANNONGO", "KISIJJA", "KITEREEVU", "NAKABUGO"] },
+            {
+              "name": "KISOODO",
+              "villages": ["KIRYAMUSUNKU", "KISOODO", "KISUMBWA", "KYENYONDO", "MULAMBA", "NYAKABINGO"]
+            },
+            { "name": "KITEESA", "villages": ["BWAYISE", "KIBOOTO", "KIGANGAZZI", "KITESA", "MPONGO"] },
+            { "name": "LWENGO", "villages": ["KASUBI", "KIRYABISOOLI", "LWENGO", "NTONZI", "SINDUULA"] },
+            {
+              "name": "MUJUNZA",
+              "villages": ["BAKULIMYA", "GASOVU", "IKULWE", "KIREKA", "MUJUNZA CENTRAL", "NDAWERINGA"]
+            },
+            {
+              "name": "NTUNDA",
+              "villages": ["BUKOMERO", "KIBIRIGE", "KIZUNGU", "NAMIREMBE", "NTUNDA B", "NTUNDA CENTRAL", "WANDEGEYA"]
+            }
+          ]
+        },
+        {
+          "name": "BANDA",
+          "parishes": [
+            { "name": "BANDA", "villages": ["BANDA 'A'", "KABATUNGI", "KYEMAMBA"] },
+            { "name": "BWAABA", "villages": ["BWAABA", "KABALE", "RUNYANA"] },
+            { "name": "KAMUTIIKA", "villages": ["BANDA 'B'", "KAMUTIIKA", "KYAWUUNYE"] },
+            { "name": "LWEMIGANDA", "villages": ["BUKYEEYA", "BUWANGA", "MAIZIMALUNGI"] }
+          ]
+        },
+        {
+          "name": "BUTEMBA",
+          "parishes": [
+            { "name": "BULAMULA", "villages": ["BEKIINA", "BULAMULA", "GUWE", "LWAMADONGO"] },
+            { "name": "KIKOMA", "villages": ["BUGANGO", "KIKOMA 'A'", "KIKOMA 'B'"] },
+            { "name": "KISIRIBYA", "villages": ["KABADA", "KABANYI", "KASIRIBYA", "KASWA"] },
+            { "name": "KYENDA", "villages": ["KABAGAYA 'A'", "KABAGAYA 'B'", "KIRYAMAKOBE", "KOLOLO", "RUBAARE"] },
+            { "name": "LWABALANGA", "villages": ["BUSAANA", "BWOTO", "KATUNGULU", "KAYONZA", "LWABALANGA"] },
+            {
+              "name": "LWAMAGALI",
+              "villages": ["KYANAWAALO", "LUSENGEJJO", "LWAMAGAALI", "NAMIRINGA 'A'", "NAMIRINGA 'B'"]
+            },
+            { "name": "LWENDAGI", "villages": ["LWENDAGI", "LWENSAMO", "NAMIRIIRO"] },
+            { "name": "MISAGO", "villages": ["MISAGO 'A'", "MISAGO 'B'", "NABITEETE", "NAKATOOGO"] },
+            { "name": "NABITAKULI", "villages": ["BISIIKA", "BUBAALE", "KAMBUGU", "NABITAKULI"] }
+          ]
+        },
+        {
+          "name": "BUTEMBA TOWN COUNCIL",
+          "parishes": [
+            {
+              "name": "BUKWIRI WARD",
+              "villages": ["BUKWIRI CENTRAL", "BUKWIRI CHURCH ZONE", "KAYUNGA", "KIGAMBANANKWALE"]
+            },
+            { "name": "BUTEMBA WARD", "villages": ["BUTEMBA", "KAGALAMA", "KASEETA"] },
+            { "name": "KAMIRAMBAZZI", "villages": ["KAKIFULUKWA", "KAMIRAMBAZZI", "LWENKOMI"] },
+            { "name": "KATANABIRWA WARD", "villages": ["KATANABIRWA TRADING CENTRE", "KITEREDDE", "NKULUBANYI"] },
+            {
+              "name": "LWEBISIRIZA WARD",
+              "villages": ["BUGABA", "KYAMPAGI A", "KYAMPAGI B", "LWEBIJUMBULA", "LWEBISIRIZA"]
+            },
+            { "name": "LWENKONGE WARD", "villages": ["KATANABIRWA UPPER", "LWENKONGE A", "LWENKONGE B"] },
+            { "name": "RWENGIRI WARD", "villages": ["KANYWAMAHULI", "LWENJIRI", "RWENGWE"] }
+          ]
+        },
+        {
+          "name": "BYERIMA",
+          "parishes": [
+            { "name": "BUGULUMA", "villages": ["BUGULUMA 'A'", "BUGULUMA 'B'", "LUWONGOLE", "NAKASAGAZI"] },
+            {
+              "name": "BYERIMA",
+              "villages": ["BUWESERA", "BYERIMA 'A'", "BYERIMA 'B'", "KANYORORO", "KIBULOKA", "NSWAZITAKOMA"]
+            },
+            { "name": "KAMUKANGA", "villages": ["KAMUKANGA 'A'", "KAMUKANGA 'B'", "KIKARAKAMBI", "KYAMAYAMBALA"] },
+            { "name": "KATOVU", "villages": ["BUKIRIMBO 'A'", "BUKIRIMBO 'B'", "KATOVU", "LUTONGO"] },
+            { "name": "KIJUUBYA", "villages": ["BUGONDI", "KIJJUUBYA", "KIKUYA", "KYAGANDA"] },
+            { "name": "KIRYAMUSUNKU", "villages": ["KIRYAMUSUNKU A", "KIRYAMUSUNKU B", "TENDERO A", "TENDERO B"] },
+            { "name": "KITEREDDE", "villages": ["KALUBANGA", "KITEREDDE A", "KITEREDDE B", "LWENTAAYI"] }
+          ]
+        },
+        {
+          "name": "KIGANDO",
+          "parishes": [
+            { "name": "KAKINDU", "villages": ["KAKINDU", "NAKIBIZZI", "NEEME", "NGANDA"] },
+            { "name": "KAMUCOPE", "villages": ["BUKHAALI", "KAMUCOPE", "KIBOLOGA", "KIWUMMULO"] },
+            {
+              "name": "KIGABWA",
+              "villages": ["KABADDA", "KALUNGU", "KIFUMBIRA", "KIGABWA", "KIWAMIREMBE", "LWAMAGWA", "MUSENZE ALANDA"]
+            },
+            { "name": "KIGANDO", "villages": ["BULAZA", "BUSAANA", "KACWAMANGO", "KIGANDO", "KYAMBOGO", "LWEBITOMI"] },
+            { "name": "MBOGOBBIRI", "villages": ["GALILAAYA", "KAMATE", "KASAMBYA", "MBOGOBBIRI", "NAJJANANKUMBI"] }
+          ]
+        },
+        {
+          "name": "KYANKWANZI",
+          "parishes": [
+            { "name": "KASEJERE", "villages": ["KASEJJERE", "RANCH 4", "RANCH 8"] },
+            { "name": "LUBIRI", "villages": ["KOLOLO", "KYALAJOONI", "LUBIRI", "RANCH NO.1"] },
+            { "name": "MPANGO", "villages": ["IKAMIRO", "KATENGETO", "MPANGO"] },
+            { "name": "NABWEYO", "villages": ["KASHEGO", "NYABWEYO", "RUTONGORE"] }
+          ]
+        },
+        {
+          "name": "KYANKWANZI TOWN COUNCIL",
+          "parishes": [
+            { "name": "BIROBOKA WARD", "villages": ["BIROBOKA", "KAGANDO"] },
+            { "name": "GALA WARD", "villages": ["BUMOMI", "GALA"] },
+            { "name": "KIBABI WARD", "villages": ["KABENDERA", "KAGAALI", "KIBABI", "KYABIJWERA", "SUNGA"] },
+            { "name": "KYANKWANZI WARD", "villages": ["KYANKWANZI", "MUYENGA", "NALUKONGE A", "NALUKONGE B"] },
+            { "name": "LWEBISANJA WARD", "villages": ["KITEGWA", "KYENGELERO"] },
+            { "name": "NTEYERA WARD", "villages": ["KAYANJA", "KYANYAMWENGA", "NTEYERA"] },
+            { "name": "RWENGAJU WARD", "villages": ["MBURABUZO", "NKYEREREIRWE", "RWENGAJU"] }
+          ]
+        },
+        {
+          "name": "NSAMBYA",
+          "parishes": [
+            { "name": "KALAGI", "villages": ["KALAGI", "KYABADEBA", "KYAMUTUUMA", "LWENKIBIBI"] },
+            { "name": "KATUUGO", "villages": ["BUKUUTU", "KATUUGO", "KIGALAMA", "KIJOGOLO", "KITEREDDE", "MBAALI"] },
+            { "name": "KIGABWA", "villages": ["KABADDA", "KALUNGU", "KIGABWA", "LWAMAGWA", "MUSENZE ALANDA"] },
+            { "name": "KIGANDO", "villages": ["BULAZA", "BUSAANA", "KACWAMANGO", "KAKINDU", "KYAMBOGO", "LWEBITOMI"] },
+            {
+              "name": "KIKONDA",
+              "villages": ["KAROONGO", "KIKONDA A", "KIKONDA B", "KIRYAAKI", "KITOMA", "KYAMUSAAKAAZI", "MIGONGOLOMI"]
+            },
+            { "name": "KIYIGIKWA", "villages": ["KASAMBYA", "KIRIMANJARO", "KITOMA", "KIYIGIKWA", "RWENZORI"] },
+            {
+              "name": "KYAKABUGA",
+              "villages": ["KALAGI", "KAWUNGEERA", "KYABADEBA", "KYAKABUGA", "LWENKIBIBI", "NDAGGA", "NSAMBYA"]
+            },
+            { "name": "KYAMUSAKAZI", "villages": ["KYAMUSAAKAAZI A", "KYAMUSAAKAAZI B", "MOROTO"] },
+            { "name": "MBAALI", "villages": ["KITEREDDE", "KYAMUNAALI", "MBAALI", "WAYIRANGA"] },
+            { "name": "MBOGOBBIRI", "villages": ["KAMUCOPE", "KASAMBYA", "KIBOLOGA", "MBOGOBBIRI", "NAJJANANKUMBI"] }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NTWETWE COUNTY",
+      "sub_counties": [
+        {
+          "name": "GAYAZA",
+          "parishes": [
+            {
+              "name": "GAYAZA",
+              "villages": [
+                "GAYAZA EAST",
+                "GAYAZA WEST",
+                "KAMUDINDI EAST",
+                "KAMUDINDI WEST",
+                "KIGAGGA",
+                "KIGASANYI",
+                "KYANGA"
+              ]
+            },
+            { "name": "KASANJE", "villages": ["BUTAMBUKA", "GUWE", "KASANJE", "KIBANDA"] },
+            { "name": "KIRYAJOBYO", "villages": ["KAKINGA", "KIRYAJJOBYO EAST", "KIRYAJJOBYO WEST", "NAMUGAMBE"] },
+            {
+              "name": "KIYUNI",
+              "villages": ["BULYANZIGE", "KIKANDWA", "KIYUNI CENTRAL", "KYAMULALAMA", "KYERERE EAST", "KYERERE NORTH"]
+            },
+            { "name": "NKONDO", "villages": ["KIFUMBIRA", "KISUUTWA", "LWENJUNJU", "NKOONDO"] }
+          ]
+        },
+        {
+          "name": "KIRYANNONGO",
+          "parishes": [
+            { "name": "BULAGWE", "villages": ["BULAGWE", "KYAMBIZZI", "NALYAMAGONJA"] },
+            { "name": "KIRYANNONGO", "villages": ["BUDUKU", "BUYONDO 'B'", "KIRYANNONGO A", "KIRYANNONGO B"] },
+            { "name": "KISOMESA", "villages": ["BUYONDO 'C'", "KISOMESA", "NKANDWA C"] },
+            { "name": "NATYOLE", "villages": ["KANYOGOGA", "KIRYOWA", "NATYOLE A", "NATYOLE B"] },
+            { "name": "NCUCWE", "villages": ["KINYUNYA", "NCHUCWE A", "NCHUCWE B"] }
+          ]
+        },
+        {
+          "name": "KISALA",
+          "parishes": [
+            { "name": "KASEKKA", "villages": ["KABANDA A", "KABANDA B", "KANKULUGU", "KASEKKA"] },
+            { "name": "KIKUUBYA", "villages": ["DWALIRO", "KIKUUBYA", "KITOOKE", "MUKUSU"] },
+            { "name": "KISALA", "villages": ["KIGUGWE", "KISALA CENTRAL", "KISALA EAST"] },
+            { "name": "LUWUUNA", "villages": ["KITEBIKKA", "KITEREDDE", "KYABANJA", "LUWUUNA"] },
+            { "name": "NAKIVUBO", "villages": ["KIMBOGOLI", "KISALA WEST", "NAKIVUBO A", "NAKIVUBO B"] }
+          ]
+        },
+        {
+          "name": "KITABONA",
+          "parishes": [
+            { "name": "KABUYE", "villages": ["BIWANGULO", "KANABUGOMA", "KANYERERE", "KITABONA WEST", "LUBUUMBA"] },
+            {
+              "name": "KAYINDIYINDI",
+              "villages": ["KAYINDIYINDI EAST", "KAYINDIYINDI WEST", "KIKOLOOTO 'A'", "KIKWAKULA", "SEESAAMU"]
+            },
+            { "name": "KITABONA", "villages": ["KAGGI EAST", "KAGGI WEST", "KATUUGO", "KITABONA EAST"] },
+            { "name": "SIRIMULA", "villages": ["KASUBI", "KAWAWA", "KIGALAMA", "KIYANJA", "SIRIMULA"] }
+          ]
+        },
+        {
+          "name": "MASODDE-KALAGI TOWN COUNCIL",
+          "parishes": [
+            { "name": "KALAGI WARD", "villages": ["KALAGI A", "KALAGI B", "KISERESI"] },
+            { "name": "KIGOMA WARD", "villages": ["KAYERA", "KIGOMA", "KIRYAMASASA"] },
+            { "name": "MASODDE WARD", "villages": ["KABAALE", "KAYUNGA", "KIKWEYENGO", "KIRANGAAZI", "MASODDE"] },
+            { "name": "VVUMBA WARD", "villages": ["KAFAGAGALA", "KOBYO", "VVUMBA"] }
+          ]
+        },
+        {
+          "name": "MULAGI",
+          "parishes": [
+            { "name": "BUMBIRI", "villages": ["BUMBIRI", "KINONI", "MUGEREKA", "NAKIMPULI"] },
+            { "name": "KIGANDO (MASODDE)", "villages": ["KIGANDO 'A'", "KIGANDO 'B'", "MULAGI", "NAKABISO"] },
+            { "name": "KITEREDDE", "villages": ["KALAGALA", "KAMPIRI", "KASIMBI", "KAWAANGO", "KITEREDDE"] },
+            { "name": "KIWAGUZI", "villages": ["KAKOTO", "KIWAGUZI 'A'", "KIWAGUZI 'B'", "MUNYAMI", "SSEKAMALYA"] },
+            { "name": "LUWAWU", "villages": ["KAKUUTO", "KIDADDA", "KIKABALA", "KITAGAANA", "KIYUNI", "LUWAWU"] }
+          ]
+        },
+        {
+          "name": "MUWANGI",
+          "parishes": [
+            { "name": "BAMBALA", "villages": ["BAMBAALA", "BAMBALA A", "KABATWA", "KITONDWA"] },
+            { "name": "DDEGEYA", "villages": ["DDEGEYA", "KAMULI", "KYAMUTEETE", "KYAMUTEETE B"] },
+            { "name": "KITWALA", "villages": ["KITWALA EAST", "KITWALA WEST", "NAMUTOKWA"] },
+            { "name": "MUWANGI", "villages": ["KAWOLONGOJO", "MUWANGI", "NZO"] }
+          ]
+        },
+        {
+          "name": "NKANDWA",
+          "parishes": [
+            {
+              "name": "BUGOMOLWA",
+              "villages": ["BUGOMOLWA A", "BUGOMOLWA B", "BUGOMOLWA CENTRAL", "KIYINIKIBI", "KYANWA"]
+            },
+            { "name": "KABUWUKA", "villages": ["KABUWUKA CENTRAL", "KABUWUKA EAST", "KABUWUKA WEST", "SERUNYONYI"] },
+            {
+              "name": "KASOOLO",
+              "villages": ["KALAGALA", "KASOOLO", "KIKAJJO WEST 'A'", "KIKAJJO WEST 'B'", "KIKAJO EAST"]
+            },
+            { "name": "NAKALAMA", "villages": ["KYABASIITA B", "MALUNGU", "NAKALAMA A", "NAKALAMA B"] },
+            { "name": "NKANDWA", "villages": ["KASANJA", "LWEMIGAVU", "NKANDWA 'A'", "NKANDWA 'B'"] },
+            { "name": "NTIBA", "villages": ["KYABASIITA A", "KYENGEZA", "NTIBA"] }
+          ]
+        },
+        {
+          "name": "NTWETWE TOWN COUNCIL",
+          "parishes": [
+            { "name": "KIGOMA WARD", "villages": ["KIGOMA A", "KIGOMA B", "KITANGAALA A", "KITANGAALA B"] },
+            {
+              "name": "KISOJO WARD",
+              "villages": ["BUSAANA", "KABINDUULA EAST", "KABINDUULA WEST", "KISOJJO", "NEW YORK"]
+            },
+            { "name": "LWANJALE WARD", "villages": ["KAYEMBE", "LWANJALE A", "LWANJALE B"] },
+            { "name": "NDIBATA WARD", "villages": ["KALODDO", "NDIBATA A", "NDIBATA B"] },
+            { "name": "NTUUTI WARD", "villages": ["KIRYAMAKOBE", "KYAKOLOKOLO", "NTUUTI"] },
+            {
+              "name": "NTWETWE CENTRAL WARD",
+              "villages": ["CITIZEN ZONE", "MUYENGA", "NTWETWE A", "NTWETWE B", "NTWETWE CENTRAL"]
+            },
+            {
+              "name": "NTWETWE UPPER WARD",
+              "villages": ["BUTEREVU A", "BUTEREVU B", "BUYONDO A", "NTWETWE A", "RWENZORI"]
+            }
+          ]
+        },
+        {
+          "name": "WATTUBA",
+          "parishes": [
+            { "name": "KIDUUMI", "villages": ["KALAMBI", "KIDUUMI", "KIJUJUMA", "NAKAKABALA"] },
+            { "name": "KIKOLIMBO", "villages": ["BUGOLOGOLO", "GAYAZA", "KALYABUTAALA", "KIKOLIMBO", "LULONGO"] },
+            { "name": "KISOROZA", "villages": ["KASAMBYA 'A'", "KASAMBYA 'B'", "KIBIKE", "KISOLOOZA"] },
+            { "name": "KISOZI", "villages": ["BUKEEYA", "KANYOGOGA", "KISOZI", "NAMILYANGO"] },
+            {
+              "name": "LWANSAMA",
+              "villages": ["KABANGA", "KABANYI", "KIKAJJO", "KISEKENDE", "KYAKAYINGO", "LWANSAMA"]
+            },
+            {
+              "name": "NABULEMBEKO",
+              "villages": [
+                "KIKAJJO EAST A",
+                "KIKAJJO EAST B",
+                "KIKAJJO EAST C",
+                "NABIDONDOLO EAST",
+                "NABIDONDOLO WEST",
+                "NABULEMBEKO EAST",
+                "NABULEMBEKO WEST"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "WATTUBA TOWN COUNCIL",
+          "parishes": [
+            { "name": "KALUKWAJJU WARD", "villages": ["KALUKWAJJU", "KITABOWA", "KYALUBANGA"] },
+            { "name": "KIYOMBYA WARD", "villages": ["KATUUGO", "KIYOMBYA A", "KIYOMBYA B", "LUKENENE", "LUTUKUMA"] },
+            { "name": "NAKITEMBE WARD", "villages": ["KAKOOLA", "KIREMEERA", "KYADDEMBE", "NAKITEMBE"] },
+            { "name": "WATTUBA WARD", "villages": ["KYAKAYAMBA", "WATTUBA A", "WATTUBA B"] }
+          ]
+        }
+      ]
+    }
+  ]
+}

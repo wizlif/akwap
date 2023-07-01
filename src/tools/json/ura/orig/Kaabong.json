@@ -1,0 +1,1205 @@
+{
+  "name": "Kaabong",
+  "id": 25,
+  "counties": [
+    {
+      "name": "Dodoth east",
+      "id": 46,
+      "sub_counties": [
+        {
+          "name": "Kaabong east",
+          "id": 262,
+          "parishes": [
+            {
+              "name": "Kalongor",
+              "id": 2708,
+              "villages": [
+                { "name": "Kalongor", "id": 21070 },
+                { "name": "Lokicher", "id": 34454 },
+                { "name": "Moru anyaou", "id": 38874 },
+                { "name": "Nanyangaese", "id": 43616 }
+              ]
+            },
+            {
+              "name": "Lokolia",
+              "id": 4507,
+              "villages": [
+                { "name": "Komisika", "id": 31002 },
+                { "name": "Kalodeke", "id": 21032 },
+                { "name": "Lokolia centre", "id": 34513 },
+                { "name": "Lokooli", "id": 34520 },
+                { "name": "Lominyit", "id": 34623 },
+                { "name": "Napetabul", "id": 43688 },
+                { "name": "Simalok", "id": 55424 }
+              ]
+            },
+            {
+              "name": "Losogolo",
+              "id": 4557,
+              "villages": [
+                { "name": "Loburi ekori", "id": 34269 },
+                { "name": "Nakaramoe", "id": 41473 },
+                { "name": "Nameri", "id": 42835 },
+                { "name": "Naporukolong", "id": 43710 },
+                { "name": "Nariwobwal", "id": 43754 },
+                { "name": "Toroae", "id": 56663 }
+              ]
+            },
+            {
+              "name": "Morulem",
+              "id": 5060,
+              "villages": [
+                { "name": "Lodwar east", "id": 34345 },
+                { "name": "Lodwar west", "id": 34347 },
+                { "name": "Lomonye", "id": 34634 },
+                { "name": "Morulem", "id": 38934 },
+                { "name": "Risae", "id": 52369 },
+                { "name": "Natedeero", "id": 43934 },
+                { "name": "Sokodu", "id": 55593 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kaabong town council",
+          "id": 261,
+          "parishes": [
+            {
+              "name": "Biafra ward",
+              "id": 728,
+              "villages": [
+                { "name": "Biafra east", "id": 6926 },
+                { "name": "Biafra north", "id": 6927 },
+                { "name": "Biafra south", "id": 6928 }
+              ]
+            },
+            {
+              "name": "Campswahili ward",
+              "id": 1822,
+              "villages": [
+                { "name": "Campswahili east", "id": 14732 },
+                { "name": "Campswahili north", "id": 14734 },
+                { "name": "Campswahili south", "id": 14735 }
+              ]
+            },
+            {
+              "name": "Central ward",
+              "id": 1840,
+              "villages": [
+                { "name": "Hospital quarters", "id": 17218 },
+                { "name": "Central east", "id": 14873 },
+                { "name": "Central west", "id": 14890 }
+              ]
+            },
+            {
+              "name": "Kapilani bar east ward",
+              "id": 2889,
+              "villages": [
+                { "name": "Kapilan bar east", "id": 22512 },
+                { "name": "Lopedo road", "id": 34737 },
+                { "name": "Nadiirikitoe", "id": 41155 }
+              ]
+            },
+            {
+              "name": "Kapilani bar west ward",
+              "id": 2890,
+              "villages": [
+                { "name": "Kapilan bar west", "id": 22513 },
+                { "name": "Lomachariworet", "id": 34601 },
+                { "name": "Nakadelio", "id": 41379 }
+              ]
+            },
+            {
+              "name": "Loputuk ward",
+              "id": 4546,
+              "villages": [
+                { "name": "Loputuk east", "id": 34786 },
+                { "name": "Loputuk west", "id": 34787 },
+                { "name": "Narisae", "id": 43751 }
+              ]
+            },
+            {
+              "name": "Komuria east ward",
+              "id": 4107,
+              "villages": [
+                { "name": "Komuria north", "id": 31046 },
+                { "name": "Komuria south", "id": 31047 },
+                { "name": "Nakapiripirit", "id": 41470 }
+              ]
+            },
+            {
+              "name": "Komuria west ward",
+              "id": 4108,
+              "villages": [
+                { "name": "Komuria central", "id": 31045 },
+                { "name": "Nawoyabul", "id": 44138 },
+                { "name": "Tank hill", "id": 56076 }
+              ]
+            },
+            {
+              "name": "Pajar ward",
+              "id": 6646,
+              "villages": [
+                { "name": "Kololo (napak/lopeeru)", "id": 30962 },
+                { "name": "Karongo", "id": 23046 },
+                { "name": "Pajar", "id": 51436 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kaabong west",
+          "id": 1128,
+          "parishes": [
+            {
+              "name": "Kaabong",
+              "id": 2289,
+              "villages": [
+                { "name": "Kepak", "id": 25598 },
+                { "name": "Kangigetei", "id": 21883 },
+                { "name": "Lokuret", "id": 34546 },
+                { "name": "Lopetun", "id": 34762 },
+                { "name": "Lorengechora", "id": 34791 },
+                { "name": "Yokotak", "id": 57981 }
+              ]
+            },
+            {
+              "name": "Lobongia",
+              "id": 4476,
+              "villages": [
+                { "name": "Kaiset", "id": 20110 },
+                { "name": "Naakot", "id": 40595 },
+                { "name": "Lobulio", "id": 34264 },
+                { "name": "Nagaala", "id": 41189 },
+                { "name": "Lokumomoe", "id": 34543 },
+                { "name": "Lomusian", "id": 34667 },
+                { "name": "Longoromit", "id": 34703 },
+                { "name": "Nalingaro", "id": 42072 },
+                { "name": "Pajar", "id": 51435 },
+                { "name": "Namorukook", "id": 42977 },
+                { "name": "Naoit", "id": 43648 }
+              ]
+            },
+            {
+              "name": "Lokerui",
+              "id": 4502,
+              "villages": [
+                { "name": "Kobuin", "id": 30789 },
+                { "name": "Karimojong", "id": 22977 },
+                { "name": "Lokerui", "id": 34445 },
+                { "name": "Moruchorong", "id": 38908 },
+                { "name": "Lotiyeket", "id": 34852 },
+                { "name": "Nangolekuruk", "id": 43441 }
+              ]
+            },
+            {
+              "name": "Lomeris",
+              "id": 4526,
+              "villages": [
+                { "name": "Komei", "id": 30991 },
+                { "name": "Kakerekeroi", "id": 20309 },
+                { "name": "Kachikol", "id": 19348 },
+                { "name": "Kangisute", "id": 21890 },
+                { "name": "Moru erau", "id": 38884 },
+                { "name": "Morulem", "id": 38933 }
+              ]
+            },
+            {
+              "name": "Lomoruitae",
+              "id": 4529,
+              "villages": [
+                { "name": "Kateleng", "id": 24335 },
+                { "name": "Kalarilar", "id": 20891 },
+                { "name": "Lomoruitae", "id": 34639 },
+                { "name": "Nangwalachom", "id": 43474 },
+                { "name": "Solikik", "id": 55600 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kakamar",
+          "id": 1355,
+          "parishes": [
+            {
+              "name": "Kakamar",
+              "id": 2574,
+              "villages": [
+                { "name": "Kitee lore", "id": 29727 },
+                { "name": "Kayokong", "id": 25231 },
+                { "name": "Kakamar", "id": 20257 },
+                { "name": "Kanakora", "id": 21771 },
+                { "name": "Lochuruutu", "id": 34309 },
+                { "name": "Nadwaramukuny", "id": 41178 },
+                { "name": "Namus", "id": 43206 }
+              ]
+            },
+            { "name": "Kite-lore", "id": 3894, "villages": [{ "name": "Kite-lore", "id": 29717 }] },
+            { "name": "Kotirae", "id": 4133, "villages": [{ "name": "Kotirae", "id": 31211 }] },
+            {
+              "name": "Morunyang",
+              "id": 5064,
+              "villages": [
+                { "name": "Kaakuma", "id": 18330 },
+                { "name": "Kotirae", "id": 31212 },
+                { "name": "Dangasil", "id": 15487 },
+                { "name": "Moru - engatuny", "id": 38864 },
+                { "name": "Moru - ese", "id": 38865 },
+                { "name": "Nagum-a-lokoringole", "id": 41234 },
+                { "name": "Morunyang", "id": 38951 },
+                { "name": "Lopelipel", "id": 34755 },
+                { "name": "Nakituruturet", "id": 41892 },
+                { "name": "Nanyangadoket", "id": 43615 },
+                { "name": "Napeikidor", "id": 43676 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kalapata",
+          "id": 269,
+          "parishes": [
+            {
+              "name": "Kachemichem",
+              "id": 2425,
+              "villages": [
+                { "name": "Kaitach", "id": 20122 },
+                { "name": "Kachemichem", "id": 19344 },
+                { "name": "Naburekitoe", "id": 40999 },
+                { "name": "Moru ita", "id": 38888 },
+                { "name": "Nakarach", "id": 41472 }
+              ]
+            },
+            {
+              "name": "Kalapata",
+              "id": 2677,
+              "villages": [
+                { "name": "Kurao", "id": 31392 },
+                { "name": "Kalapata centre", "id": 20889 },
+                { "name": "Kalonyangiat", "id": 21071 },
+                { "name": "Kanakuruk", "id": 21775 },
+                { "name": "Locheger east", "id": 34292 },
+                { "name": "Locheger west", "id": 34294 },
+                { "name": "Nabonyia", "id": 40888 },
+                { "name": "Moru - edikae east", "id": 38863 },
+                { "name": "Moru edikae west", "id": 38882 },
+                { "name": "Moruchoro", "id": 38907 },
+                { "name": "Morunyang", "id": 38947 },
+                { "name": "Loputuk", "id": 34779 },
+                { "name": "Nanyangayese", "id": 43617 },
+                { "name": "Napeichokei", "id": 43674 },
+                { "name": "Narengekeru", "id": 43735 },
+                { "name": "Nariwore", "id": 43763 }
+              ]
+            },
+            {
+              "name": "Kurao",
+              "id": 4159,
+              "villages": [
+                { "name": "Kurao", "id": 31393 },
+                { "name": "Kaibeye", "id": 20041 },
+                { "name": "Locheger east", "id": 34293 },
+                { "name": "Locheger west", "id": 34295 },
+                { "name": "Lokasenyak", "id": 34437 },
+                { "name": "Moru-anaido", "id": 38894 },
+                { "name": "Lopeitapar", "id": 34751 }
+              ]
+            },
+            {
+              "name": "Napetakori",
+              "id": 5650,
+              "villages": [
+                { "name": "Lotwal-lokut", "id": 34871 },
+                { "name": "Napetakori", "id": 43690 }
+              ]
+            },
+            {
+              "name": "Meus",
+              "id": 4976,
+              "villages": [
+                { "name": "Naese angichomin", "id": 41179 },
+                { "name": "Lotubae", "id": 34859 },
+                { "name": "Meus", "id": 38277 },
+                { "name": "Meus centre", "id": 38278 },
+                { "name": "Nalemusekon", "id": 42058 },
+                { "name": "Napaat ii", "id": 43654 },
+                { "name": "Nariwogum east", "id": 43760 },
+                { "name": "Nariwogum west", "id": 43761 },
+                { "name": "Natapar-a-lochoro", "id": 43927 }
+              ]
+            },
+            {
+              "name": "Moroto",
+              "id": 5047,
+              "villages": [
+                { "name": "Golopak", "id": 16766 },
+                { "name": "Kalere", "id": 20953 },
+                { "name": "Kangalita", "id": 21866 },
+                { "name": "Lobongia", "id": 34249 },
+                { "name": "Lokatap", "id": 34440 },
+                { "name": "Moroto east", "id": 38841 },
+                { "name": "Moroto west", "id": 38846 },
+                { "name": "Morulem centre", "id": 38936 },
+                { "name": "Morulem north", "id": 38937 },
+                { "name": "Morulem south", "id": 38938 }
+              ]
+            },
+            {
+              "name": "Morunyang",
+              "id": 5063,
+              "villages": [
+                { "name": "Moru angita", "id": 38873 },
+                { "name": "Moru ita", "id": 38889 },
+                { "name": "Morunyang", "id": 38950 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kathile",
+          "id": 264,
+          "parishes": [
+            {
+              "name": "Kathile",
+              "id": 3192,
+              "villages": [
+                { "name": "Kitum", "id": 30212 },
+                { "name": "Kathile east", "id": 24434 },
+                { "name": "Kathile west", "id": 24435 },
+                { "name": "Moru - angikamar", "id": 38862 },
+                { "name": "Lokwakaramoe", "id": 34554 },
+                { "name": "Lopelipel", "id": 34752 },
+                { "name": "Nakosowan", "id": 41956 },
+                { "name": "Napachipacha", "id": 43655 },
+                { "name": "Nasuguru", "id": 43892 }
+              ]
+            },
+            {
+              "name": "Kathile town board",
+              "id": 3193,
+              "villages": [
+                { "name": "Loit", "id": 34394 },
+                { "name": "Moru etom", "id": 38885 },
+                { "name": "Nakore", "id": 41944 },
+                { "name": "Nangolechowa", "id": 43439 },
+                { "name": "Nariamabune", "id": 43744 },
+                { "name": "Narionomoru", "id": 43750 },
+                { "name": "Todokonasse", "id": 56600 }
+              ]
+            },
+            {
+              "name": "Lemugete",
+              "id": 4448,
+              "villages": [
+                { "name": "Lemugete", "id": 34071 },
+                { "name": "Nalebeny", "id": 42053 },
+                { "name": "Namamutau", "id": 42492 },
+                { "name": "Natipem", "id": 43958 }
+              ]
+            },
+            { "name": "Lobatou", "id": 4474, "villages": [{ "name": "Lobatou", "id": 34226 }] },
+            { "name": "Lokarengak", "id": 4500, "villages": [{ "name": "Nwakapicha", "id": 45513 }] },
+            { "name": "Lomaler", "id": 4521, "villages": [{ "name": "Lokili", "id": 34462 }] },
+            {
+              "name": "Narube",
+              "id": 5659,
+              "villages": [
+                { "name": "Lokariwon", "id": 34431 },
+                { "name": "Losanae", "id": 34826 },
+                { "name": "Lowala", "id": 34882 },
+                { "name": "Poongo", "id": 52064 },
+                { "name": "Narube", "id": 43778 },
+                { "name": "Usake", "id": 57032 }
+              ]
+            },
+            { "name": "Naryonomoru", "id": 5660, "villages": [{ "name": "Naryonomoru", "id": 43787 }] },
+            {
+              "name": "Teregu",
+              "id": 7249,
+              "villages": [
+                { "name": "Moru angisigiria", "id": 38871 },
+                { "name": "Naitakwae", "id": 41296 },
+                { "name": "Lomunyen", "id": 34663 },
+                { "name": "Teregu", "id": 56449 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kathile south",
+          "id": 1354,
+          "parishes": [
+            {
+              "name": "Kamacharikol",
+              "id": 2723,
+              "villages": [
+                { "name": "Kamacharikol", "id": 21204 },
+                { "name": "Kamacharikol c", "id": 21205 },
+                { "name": "Peikale", "id": 51897 },
+                { "name": "Napeiratil", "id": 43679 },
+                { "name": "Nakemilian", "id": 41685 },
+                { "name": "Tulianyang", "id": 56803 },
+                { "name": "Urutukapel", "id": 57030 }
+              ]
+            },
+            {
+              "name": "Lois",
+              "id": 4492,
+              "villages": [
+                { "name": "Koteen", "id": 31202 },
+                { "name": "Lois", "id": 34393 },
+                { "name": "Lokwamoru", "id": 34561 },
+                { "name": "Mamuk", "id": 37214 },
+                { "name": "Nakere", "id": 41686 },
+                { "name": "Tulelo north", "id": 56801 },
+                { "name": "Tulelo south", "id": 56802 }
+              ]
+            },
+            { "name": "Lokali", "id": 4497, "villages": [{ "name": "Lokali", "id": 34419 }] },
+            {
+              "name": "Nariamaaoi",
+              "id": 5654,
+              "villages": [
+                { "name": "Dangasil", "id": 15488 },
+                { "name": "Naangorit", "id": 40604 },
+                { "name": "Lokali east", "id": 34420 },
+                { "name": "Lokali west", "id": 34421 },
+                { "name": "Lokwapoo", "id": 34565 },
+                { "name": "Nariamaaoi north", "id": 43742 },
+                { "name": "Nariamaaoi south", "id": 43743 }
+              ]
+            },
+            {
+              "name": "Nachukul",
+              "id": 5337,
+              "villages": [
+                { "name": "Komeresia", "id": 30999 },
+                { "name": "Kapelimong", "id": 22502 },
+                { "name": "Lorengechora", "id": 34797 },
+                { "name": "Nachukul east", "id": 41148 },
+                { "name": "Nachukul west", "id": 41149 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lodiko",
+          "id": 1129,
+          "parishes": [
+            {
+              "name": "Kangios",
+              "id": 2809,
+              "villages": [
+                { "name": "Kangios east", "id": 21887 },
+                { "name": "Kangios north", "id": 21888 },
+                { "name": "Lomilip", "id": 34620 },
+                { "name": "Morudoochi", "id": 38910 },
+                { "name": "Nalemsekon", "id": 42056 }
+              ]
+            },
+            {
+              "name": "Kajiir",
+              "id": 2562,
+              "villages": [
+                { "name": "Lokodoe", "id": 34504 },
+                { "name": "Lomamulepot", "id": 34603 },
+                { "name": "Nariwobwal east", "id": 43755 },
+                { "name": "Nariwobwal west", "id": 43756 },
+                { "name": "Natedeepong", "id": 43933 }
+              ]
+            },
+            {
+              "name": "Lopedo/teuso",
+              "id": 4539,
+              "villages": [
+                { "name": "Kaakuta", "id": 18332 },
+                { "name": "Lopedo/teuso", "id": 34738 }
+              ]
+            },
+            {
+              "name": "Kotome",
+              "id": 4134,
+              "villages": [
+                { "name": "Kotome", "id": 31217 },
+                { "name": "Komisika", "id": 31001 },
+                { "name": "Kakutatom", "id": 20681 },
+                { "name": "Naburekitoe", "id": 41000 },
+                { "name": "Loguto", "id": 34379 },
+                { "name": "Sokodu", "id": 55592 }
+              ]
+            },
+            {
+              "name": "Sakatan",
+              "id": 7076,
+              "villages": [
+                { "name": "Sakatan", "id": 54853 },
+                { "name": "Morunyang", "id": 38953 },
+                { "name": "Lomuton", "id": 34668 },
+                { "name": "Nawoyakali", "id": 44140 },
+                { "name": "Naukoret amoru", "id": 43993 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lolelia",
+          "id": 265,
+          "parishes": [
+            {
+              "name": "Kaimese",
+              "id": 2545,
+              "villages": [
+                { "name": "Chumakaku", "id": 15277 },
+                { "name": "Kailob", "id": 20077 },
+                { "name": "Kaiwele", "id": 20142 },
+                { "name": "Lokwamor", "id": 34559 },
+                { "name": "Morunyang", "id": 38946 }
+              ]
+            },
+            {
+              "name": "Lolelia",
+              "id": 4515,
+              "villages": [
+                { "name": "Kotarukot", "id": 31201 },
+                { "name": "Kolimeu", "id": 30931 },
+                { "name": "Lobalangit", "id": 34219 },
+                { "name": "Lochokei", "id": 34300 },
+                { "name": "Lochoto", "id": 34304 },
+                { "name": "Lokiriwo", "id": 34476 },
+                { "name": "Moru angita", "id": 38872 },
+                { "name": "Lolelia centre", "id": 34573 },
+                { "name": "Nachakunet", "id": 41133 },
+                { "name": "Nacheeletem", "id": 41135 },
+                { "name": "Nakwakwa", "id": 41998 },
+                { "name": "Piyoitu", "id": 51974 },
+                { "name": "Riteen", "id": 52370 }
+              ]
+            },
+            {
+              "name": "Loteteleit",
+              "id": 4559,
+              "villages": [
+                { "name": "Kaabil - kichir", "id": 18318 },
+                { "name": "Kaakuma", "id": 18329 },
+                { "name": "Kalotwo", "id": 21075 },
+                { "name": "Kasenyiseny", "id": 23514 },
+                { "name": "Lokapakine", "id": 34425 },
+                { "name": "Morukinei", "id": 38926 },
+                { "name": "Lorengechora", "id": 34795 },
+                { "name": "Nakamuriae", "id": 41444 }
+              ]
+            },
+            {
+              "name": "Narogos",
+              "id": 5658,
+              "villages": [
+                { "name": "Nakodiokodioi", "id": 41924 },
+                { "name": "Napetabul", "id": 43689 },
+                { "name": "Narogos", "id": 43772 },
+                { "name": "Natorokokito", "id": 43972 },
+                { "name": "Natumugerai", "id": 43983 },
+                { "name": "Takanikial", "id": 56032 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lotim",
+          "id": 1353,
+          "parishes": [
+            {
+              "name": "Kakutatom",
+              "id": 2635,
+              "villages": [
+                { "name": "Enik", "id": 16066 },
+                { "name": "Kakutatom", "id": 20680 },
+                { "name": "Naachuka", "id": 40591 },
+                { "name": "Lokariwon east", "id": 34432 },
+                { "name": "Lokariwon west", "id": 34433 },
+                { "name": "Lokwasinyon", "id": 34567 },
+                { "name": "Nakapeliyese", "id": 41466 },
+                { "name": "Nakarengan", "id": 41475 },
+                { "name": "Nariwogum", "id": 43757 }
+              ]
+            },
+            {
+              "name": "Kaloboki",
+              "id": 2700,
+              "villages": [
+                { "name": "Kaloboki", "id": 21026 },
+                { "name": "Kacharik", "id": 19340 },
+                { "name": "Lobatae", "id": 34225 },
+                { "name": "Lolobae", "id": 34593 },
+                { "name": "Morunyang", "id": 38948 },
+                { "name": "Lopie", "id": 34764 },
+                { "name": "Nawuakiru", "id": 44145 },
+                { "name": "Nakwaka cell", "id": 41995 },
+                { "name": "Nangolemoru", "id": 43442 }
+              ]
+            },
+            {
+              "name": "Lotim",
+              "id": 4561,
+              "villages": [
+                { "name": "Nadoomeit", "id": 41172 },
+                { "name": "Lokwaapoo", "id": 34550 },
+                { "name": "Loojim", "id": 34720 },
+                { "name": "Lorengechora", "id": 34796 },
+                { "name": "Lotim centre", "id": 34849 },
+                { "name": "Napalabur", "id": 43662 },
+                { "name": "Tulyanyang", "id": 56837 }
+              ]
+            },
+            {
+              "name": "Kosui",
+              "id": 4124,
+              "villages": [
+                { "name": "Kosui east", "id": 31192 },
+                { "name": "Kosui west", "id": 31193 },
+                { "name": "Lokicher", "id": 34455 },
+                { "name": "Lokoki", "id": 34510 },
+                { "name": "Moru epirich", "id": 38883 },
+                { "name": "Nakwanyia", "id": 42010 },
+                { "name": "Nalemusekon", "id": 42057 },
+                { "name": "Naporukolong", "id": 43708 },
+                { "name": "Nariwogum", "id": 43758 },
+                { "name": "Natiaket", "id": 43949 }
+              ]
+            },
+            {
+              "name": "Morukori",
+              "id": 5059,
+              "villages": [
+                { "name": "Kailele", "id": 20075 },
+                { "name": "Lochoto", "id": 34306 },
+                { "name": "Lokodopei", "id": 34507 },
+                { "name": "Morukori centre", "id": 38931 },
+                { "name": "Morunyang", "id": 38949 },
+                { "name": "Lookuse", "id": 34723 },
+                { "name": "Lopelipel", "id": 34754 },
+                { "name": "Nangaamit", "id": 43397 },
+                { "name": "Napeichokei", "id": 43675 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Loyoro",
+          "id": 266,
+          "parishes": [
+            {
+              "name": "Lokanayona",
+              "id": 4499,
+              "villages": [
+                { "name": "Ligot", "id": 34127 },
+                { "name": "Lobongia", "id": 34248 },
+                { "name": "Lokanayona central", "id": 34422 },
+                { "name": "Lokanayona west", "id": 34423 },
+                { "name": "Loleokot", "id": 34576 },
+                { "name": "Losulut/nakicher", "id": 34838 },
+                { "name": "Nariwogum", "id": 43759 },
+                { "name": "Nariwose", "id": 43767 }
+              ]
+            },
+            {
+              "name": "Lomerima",
+              "id": 4525,
+              "villages": [
+                { "name": "Kalapata", "id": 20888 },
+                { "name": "Lomerima east", "id": 34615 },
+                { "name": "Lomerima west", "id": 34616 },
+                { "name": "Nariwore", "id": 43764 }
+              ]
+            },
+            {
+              "name": "Toroi",
+              "id": 7282,
+              "villages": [
+                { "name": "Logumasiroi", "id": 34375 },
+                { "name": "Lokode/chakalum", "id": 34500 },
+                { "name": "Moru - akuring", "id": 38861 },
+                { "name": "Lokooli", "id": 34521 },
+                { "name": "Morunyag", "id": 38945 },
+                { "name": "Lorengechora", "id": 34798 },
+                { "name": "Toroi central", "id": 56665 },
+                { "name": "Toroi east", "id": 56666 },
+                { "name": "Toroi mission west", "id": 56667 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sidok (kopoth)",
+          "id": 1352,
+          "parishes": [
+            {
+              "name": "Kasimeri",
+              "id": 3093,
+              "villages": [
+                { "name": "Kajiriwar", "id": 20163 },
+                { "name": "Karichor", "id": 22966 },
+                { "name": "Kalolib", "id": 21052 },
+                { "name": "Lochom centre", "id": 34302 },
+                { "name": "Rupa", "id": 53070 },
+                { "name": "Nariwore north", "id": 43765 },
+                { "name": "Nariwore south", "id": 43766 }
+              ]
+            },
+            {
+              "name": "Locherep",
+              "id": 4484,
+              "villages": [
+                { "name": "Kalapata", "id": 20887 },
+                { "name": "Locherep", "id": 34297 },
+                { "name": "Nalamanaro", "id": 42052 },
+                { "name": "Narwaarot", "id": 43785 },
+                { "name": "Nasidok/kasimeri", "id": 43847 }
+              ]
+            },
+            {
+              "name": "Lomilimil (natingorok)",
+              "id": 4527,
+              "villages": [
+                { "name": "Lengonyia", "id": 34077 },
+                { "name": "Lomilimil", "id": 34619 }
+              ]
+            },
+            {
+              "name": "Longaro",
+              "id": 4535,
+              "villages": [
+                { "name": "Kopoth", "id": 31142 },
+                { "name": "Kaloula", "id": 21077 },
+                { "name": "Kachinga", "id": 19351 },
+                { "name": "Longaro", "id": 34686 },
+                { "name": "Louriong", "id": 34875 },
+                { "name": "Nakwakou", "id": 41996 },
+                { "name": "Tiiti", "id": 56543 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dodoth west",
+      "id": 194,
+      "sub_counties": [
+        {
+          "name": "Kapedo",
+          "id": 263,
+          "parishes": [
+            {
+              "name": "Kapedo",
+              "id": 2882,
+              "villages": [
+                { "name": "Itanyia", "id": 17877 },
+                { "name": "K.d.a", "id": 18296 },
+                { "name": "Kololo", "id": 30945 },
+                { "name": "Kololo kraals", "id": 30965 },
+                { "name": "Kanyikwar", "id": 22301 },
+                { "name": "Katanga", "id": 24201 },
+                { "name": "Mogos", "id": 38743 },
+                { "name": "Lorengechora", "id": 34792 },
+                { "name": "Loyoro", "id": 34919 },
+                { "name": "Nakorichokei", "id": 41951 },
+                { "name": "Nasinyonoit east", "id": 43875 },
+                { "name": "Nasinyonoit west", "id": 43876 }
+              ]
+            },
+            { "name": "Kalimon", "id": 2695, "villages": [{ "name": "Kalimon", "id": 20990 }] },
+            {
+              "name": "Komolicher",
+              "id": 4104,
+              "villages": [
+                { "name": "Guruma", "id": 16978 },
+                { "name": "Kaachomin", "id": 18325 },
+                { "name": "Komem", "id": 30995 },
+                { "name": "Kariwonyang", "id": 22998 },
+                { "name": "Katanyia", "id": 24223 },
+                { "name": "Lobeluna", "id": 34231 },
+                { "name": "Lowala", "id": 34881 },
+                { "name": "Nabutera", "id": 41027 },
+                { "name": "Nawoyapie", "id": 44142 }
+              ]
+            },
+            {
+              "name": "Nakitemyet (lotwal)",
+              "id": 5425,
+              "villages": [
+                { "name": "Kumet", "id": 31364 },
+                { "name": "Kalokieny", "id": 21045 },
+                { "name": "Nabas", "id": 40650 },
+                { "name": "Loesemudang", "id": 34349 },
+                { "name": "Nachukul", "id": 41147 },
+                { "name": "Napook", "id": 43703 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Karenga(napore)",
+          "id": 267,
+          "parishes": [
+            { "name": "Kangole", "id": 2812, "villages": [{ "name": "Kangole", "id": 21894 }] },
+            {
+              "name": "Kidepo",
+              "id": 3452,
+              "villages": [
+                { "name": "Apoka", "id": 4642 },
+                { "name": "Kidepo", "id": 26377 },
+                { "name": "Katurum", "id": 24820 },
+                { "name": "Loitanit", "id": 34397 },
+                { "name": "Nataaba-a-lokure", "id": 43911 }
+              ]
+            },
+            {
+              "name": "Karenga",
+              "id": 2972,
+              "villages": [
+                { "name": "Kamukoi central", "id": 21543 },
+                { "name": "Kamukoi north", "id": 21544 },
+                { "name": "Kamukoi south", "id": 21545 },
+                { "name": "Kangole central", "id": 21896 },
+                { "name": "Kangole north", "id": 21900 },
+                { "name": "Kangole south", "id": 21902 },
+                { "name": "Lokodope", "id": 34505 },
+                { "name": "Loputuk", "id": 34780 },
+                { "name": "Lorwama", "id": 34825 },
+                { "name": "Nalemoru", "id": 42055 },
+                { "name": "Telel", "id": 56350 },
+                { "name": "Wapakiru", "id": 57578 }
+              ]
+            },
+            {
+              "name": "Loyoro/napore",
+              "id": 4565,
+              "villages": [
+                { "name": "Geremech", "id": 16554 },
+                { "name": "Lorukul", "id": 34819 },
+                { "name": "Loyoro central", "id": 34920 },
+                { "name": "Loyoro north", "id": 34921 },
+                { "name": "Loyoro south", "id": 34922 },
+                { "name": "New karenga", "id": 44444 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kawalakol",
+          "id": 1132,
+          "parishes": [
+            {
+              "name": "Kawalakol",
+              "id": 3271,
+              "villages": [
+                { "name": "Kawalakol central", "id": 24962 },
+                { "name": "Lobele", "id": 34230 },
+                { "name": "Morungole", "id": 38942 },
+                { "name": "Lopeeru", "id": 34750 },
+                { "name": "Nakapangitenga", "id": 41461 },
+                { "name": "Nakodoikodio", "id": 41926 },
+                { "name": "Namatenge", "id": 42604 },
+                { "name": "Nangolechowa", "id": 43440 }
+              ]
+            },
+            {
+              "name": "Lomanok",
+              "id": 4522,
+              "villages": [
+                { "name": "Dangasil", "id": 15486 },
+                { "name": "Lokoona", "id": 34523 },
+                { "name": "Lomanok", "id": 34605 },
+                { "name": "Loputuk", "id": 34782 },
+                { "name": "Matakuwar", "id": 37685 },
+                { "name": "Nakiirias", "id": 41775 },
+                { "name": "Naurutochom", "id": 43996 }
+              ]
+            },
+            {
+              "name": "Lomej/natiira",
+              "id": 4524,
+              "villages": [
+                { "name": "Kocholo", "id": 30814 },
+                { "name": "Naapong", "id": 40612 },
+                { "name": "Lopwa", "id": 34789 },
+                { "name": "Lotipwal", "id": 34851 },
+                { "name": "Loukomor", "id": 34873 },
+                { "name": "Nakunguroit", "id": 41986 },
+                { "name": "Naporukolong", "id": 43709 },
+                { "name": "Tulelo", "id": 56800 }
+              ]
+            },
+            {
+              "name": "Kokoro",
+              "id": 4084,
+              "villages": [
+                { "name": "Kaakochil", "id": 18328 },
+                { "name": "Kokoro", "id": 30897 },
+                { "name": "Kolele", "id": 30928 },
+                { "name": "Kalokorio", "id": 21048 },
+                { "name": "Moru-arengan", "id": 38895 },
+                { "name": "Nagolopak", "id": 41218 },
+                { "name": "Morungole", "id": 38943 },
+                { "name": "Lopelipel", "id": 34753 }
+              ]
+            },
+            {
+              "name": "Naoyagum",
+              "id": 5649,
+              "villages": [
+                { "name": "Naapong", "id": 40613 },
+                { "name": "Lodirinyang", "id": 34332 },
+                { "name": "Lokodope", "id": 34506 },
+                { "name": "Lokosimalitit", "id": 34538 },
+                { "name": "Morulem", "id": 38935 },
+                { "name": "Morunyang", "id": 38952 },
+                { "name": "Lopokor", "id": 34769 },
+                { "name": "Nawoyagum", "id": 44139 },
+                { "name": "Napusimoru", "id": 43719 },
+                { "name": "Nakidiir", "id": 41743 }
+              ]
+            },
+            {
+              "name": "Naseperwae",
+              "id": 5663,
+              "villages": [
+                { "name": "Lemukial", "id": 34072 },
+                { "name": "Moru ita", "id": 38890 },
+                { "name": "Lookuse", "id": 34724 },
+                { "name": "Loritit", "id": 34810 },
+                { "name": "Nakisimoe", "id": 41846 },
+                { "name": "Naseperwae", "id": 43811 },
+                { "name": "Nataaba-a-lokure", "id": 43912 },
+                { "name": "Semukoi", "id": 55048 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lobalangit",
+          "id": 1131,
+          "parishes": [
+            {
+              "name": "Kakwanga",
+              "id": 2639,
+              "villages": [
+                { "name": "Kakwanga", "id": 20708 },
+                { "name": "Lokipie", "id": 34468 },
+                { "name": "Naesekapel north", "id": 41180 },
+                { "name": "Naesekapel south", "id": 41181 },
+                { "name": "Naryonomoru", "id": 43786 }
+              ]
+            },
+            {
+              "name": "Lobalangit",
+              "id": 4473,
+              "villages": [
+                { "name": "Lobalangit central", "id": 34220 },
+                { "name": "Lodapal", "id": 34324 },
+                { "name": "Lodwari", "id": 34348 },
+                { "name": "Nagolopak", "id": 41219 },
+                { "name": "Nawoyaro", "id": 44143 },
+                { "name": "Narengepuwa", "id": 43739 }
+              ]
+            },
+            {
+              "name": "Nakellio",
+              "id": 5413,
+              "villages": [
+                { "name": "Kakira", "id": 20419 },
+                { "name": "Lokapuke east", "id": 34429 },
+                { "name": "Lokapuke west", "id": 34430 },
+                { "name": "Nawara", "id": 44116 },
+                { "name": "Nakellio north", "id": 41683 },
+                { "name": "Nakellio south", "id": 41684 }
+              ]
+            },
+            {
+              "name": "Pire",
+              "id": 6766,
+              "villages": [
+                { "name": "Lomanako", "id": 34604 },
+                { "name": "Longoletyanga north", "id": 34696 },
+                { "name": "Longoletyanga south", "id": 34697 },
+                { "name": "Nakungurit", "id": 41985 },
+                { "name": "Pire", "id": 51968 },
+                { "name": "Pire central", "id": 51969 },
+                { "name": "Nariupwal", "id": 43752 }
+              ]
+            },
+            {
+              "name": "Sarachom",
+              "id": 7090,
+              "villages": [
+                { "name": "Lokwakinei", "id": 34556 },
+                { "name": "Lokwangkir", "id": 34564 },
+                { "name": "Lopet", "id": 34758 },
+                { "name": "Puda", "id": 52117 },
+                { "name": "Sarachom", "id": 54937 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lokori",
+          "id": 1431,
+          "parishes": [
+            {
+              "name": "Lokori",
+              "id": 4509,
+              "villages": [
+                { "name": "Kaakuruk", "id": 18331 },
+                { "name": "Kailungo", "id": 20078 },
+                { "name": "Kachapangole", "id": 19339 },
+                { "name": "Nabeteleng", "id": 40674 },
+                { "name": "Lokori", "id": 34535 },
+                { "name": "Lopian", "id": 34763 }
+              ]
+            },
+            {
+              "name": "Nakitoit",
+              "id": 5426,
+              "villages": [
+                { "name": "Nakitoit north", "id": 41872 },
+                { "name": "Nakitoit south", "id": 41873 }
+              ]
+            },
+            {
+              "name": "Opotipot",
+              "id": 6517,
+              "villages": [
+                { "name": "Kaalimon", "id": 18335 },
+                { "name": "Dukoole", "id": 15793 },
+                { "name": "Kalokudo", "id": 21049 },
+                { "name": "Lochwangalem", "id": 34310 },
+                { "name": "Lokabaiya", "id": 34408 },
+                { "name": "Lokuyon", "id": 34548 },
+                { "name": "Nawoyaro", "id": 44144 },
+                { "name": "Opotipot", "id": 50463 },
+                { "name": "Nangolemoru", "id": 43443 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sangar",
+          "id": 1430,
+          "parishes": [
+            {
+              "name": "Lokial",
+              "id": 4503,
+              "villages": [
+                { "name": "Kaalimon", "id": 18334 },
+                { "name": "Lokial", "id": 34451 },
+                { "name": "Nagara", "id": 41201 },
+                { "name": "Longerep", "id": 34691 },
+                { "name": "Nakwayelel", "id": 42015 },
+                { "name": "Naleech", "id": 42054 }
+              ]
+            },
+            { "name": "Kocholo", "id": 4063, "villages": [{ "name": "Kocholo", "id": 30813 }] },
+            {
+              "name": "Kumet",
+              "id": 4156,
+              "villages": [
+                { "name": "Golopak", "id": 16765 },
+                { "name": "Kumet", "id": 31363 },
+                { "name": "Lolibikan", "id": 34589 },
+                { "name": "Lorengechora", "id": 34794 },
+                { "name": "Loroborob", "id": 34813 },
+                { "name": "Lotoukoroe", "id": 34858 },
+                { "name": "Napetaaoi", "id": 43686 }
+              ]
+            },
+            {
+              "name": "Sangar",
+              "id": 7085,
+              "villages": [
+                { "name": "Golopak", "id": 16767 },
+                { "name": "Daisik", "id": 15460 },
+                { "name": "Kalanyakori", "id": 20881 },
+                { "name": "Lokasangate", "id": 34436 },
+                { "name": "Lomodooch", "id": 34628 },
+                { "name": "Lomoniyolo", "id": 34633 },
+                { "name": "Lomorunyangae", "id": 34641 },
+                { "name": "Lowakuj", "id": 34880 },
+                { "name": "Nangolemoru", "id": 43444 },
+                { "name": "Naoyase", "id": 43653 },
+                { "name": "Napetaaoi", "id": 43687 },
+                { "name": "Naporukolong", "id": 43711 },
+                { "name": "Nariwose", "id": 43768 },
+                { "name": "Narouchom", "id": 43776 },
+                { "name": "Sokodokan", "id": 55591 },
+                { "name": "Tore", "id": 56661 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kamion",
+      "id": 416,
+      "sub_counties": [
+        {
+          "name": "Kamion",
+          "id": 1130,
+          "parishes": [
+            {
+              "name": "Kamion",
+              "id": 2741,
+              "villages": [
+                { "name": "Kokosowa", "id": 30901 },
+                { "name": "Lochoto", "id": 34303 },
+                { "name": "Lokiyoto", "id": 34493 },
+                { "name": "Moru arengan", "id": 38875 },
+                { "name": "Moru-a-atap", "id": 38892 },
+                { "name": "Lousuna", "id": 34877 },
+                { "name": "Nachakunet", "id": 41132 },
+                { "name": "Narukieny", "id": 43782 },
+                { "name": "Nawadou/kamion centre", "id": 44001 }
+              ]
+            },
+            {
+              "name": "Lokwakaramoe",
+              "id": 4514,
+              "villages": [
+                { "name": "Kaiteba", "id": 20131 },
+                { "name": "Lokwakaramoe centre", "id": 34555 },
+                { "name": "Lomil", "id": 34618 },
+                { "name": "Morungole/usake updf barracks", "id": 38944 },
+                { "name": "Lotinyam", "id": 34850 },
+                { "name": "Nakaale", "id": 41320 },
+                { "name": "Paalakan", "id": 51274 },
+                { "name": "Pire", "id": 51967 },
+                { "name": "Puta", "id": 52187 },
+                { "name": "Natipeem", "id": 43957 },
+                { "name": "Usake", "id": 57031 }
+              ]
+            },
+            {
+              "name": "Timu",
+              "id": 7264,
+              "villages": [
+                { "name": "Kochokio", "id": 30812 },
+                { "name": "Kololo", "id": 30961 },
+                { "name": "Kaikoba", "id": 20067 },
+                { "name": "Kapalu", "id": 22415 },
+                { "name": "Kanaro", "id": 21825 },
+                { "name": "Loita", "id": 34395 },
+                { "name": "Lokinene", "id": 34466 },
+                { "name": "Lokitela ka elob", "id": 34479 },
+                { "name": "Lokitoe", "id": 34487 },
+                { "name": "Loodoi", "id": 34714 },
+                { "name": "Lopokok", "id": 34768 },
+                { "name": "Nawoyakingol", "id": 44141 },
+                { "name": "Tultul", "id": 56807 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

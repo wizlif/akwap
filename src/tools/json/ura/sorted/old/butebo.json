@@ -1,0 +1,723 @@
+{
+    "counties": [
+        {
+            "name": "BUTEBO COUNTY",
+            "sub_counties": [
+                {
+                    "name": "BUTEBO",
+                    "parishes": [
+                        {
+                            "name": "BUTEBO",
+                            "villages": [
+                                "BULYAMBWA A",
+                                "BULYAMBWA B",
+                                "BUSEKERO",
+                                "BUTEBO A",
+                                "BUTEBO B",
+                                "KABELEKEKE A",
+                                "KABELEKEKE B",
+                                "KAMENYAMUGONGO",
+                                "KAPWATAI A",
+                                "KAPWATAI B",
+                                "KATAKWI",
+                                "KIRURUMA",
+                                "KOTUYAI",
+                                "MATAKOKORE A",
+                                "MATAKOKORE B"
+                            ]
+                        },
+                        {
+                            "name": "KABELAI",
+                            "villages": [
+                                "GAYAZA A",
+                                "GAYAZA B",
+                                "KABELAI",
+                                "KAYOGA",
+                                "KOBUROKOU"
+                            ]
+                        },
+                        {
+                            "name": "KANGADO",
+                            "villages": [
+                                "KANGADO A",
+                                "KANGADO B",
+                                "KATAKWI A",
+                                "KATAKWI B",
+                                "RARAKA",
+                                "SOLONKO"
+                            ]
+                        },
+                        {
+                            "name": "KANYUM",
+                            "villages": [
+                                "AKISIMI",
+                                "AMUSALA",
+                                "BUSOGA",
+                                "KADUON",
+                                "KALEKO",
+                                "KANYUM A",
+                                "KANYUM B",
+                                "KITUBA",
+                                "KITUBA ATAPAR",
+                                "KOKALEN"
+                            ]
+                        },
+                        {
+                            "name": "KASYEBAI",
+                            "villages": [
+                                "AKOBOI",
+                                "KALALAKA A",
+                                "KALALAKA B",
+                                "KANGADO",
+                                "KASYEBAI",
+                                "KATAKWI",
+                                "KOMOROTOTO",
+                                "MORUPEDEL",
+                                "OBOKORA",
+                                "ODIPANYA",
+                                "SOLONKO"
+                            ]
+                        },
+                        {
+                            "name": "ODIPANYA",
+                            "villages": [
+                                "ACHUMET",
+                                "KALALAKA A",
+                                "KALALAKA B",
+                                "KATAKA",
+                                "KIRURUMA A",
+                                "KIRURUMA B",
+                                "KOMOLO",
+                                "MORUPEDEL",
+                                "OBOKORA A",
+                                "OBOKORA B",
+                                "ODIPANYA",
+                                "SETA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KABELAI",
+                    "parishes": [
+                        {
+                            "name": "GAYAZA",
+                            "villages": [
+                                "BUKALIGWOKO",
+                                "GAYAZA A",
+                                "GAYAZA B",
+                                "MUMPI"
+                            ]
+                        },
+                        {
+                            "name": "KABELAI",
+                            "villages": [
+                                "BUSETA",
+                                "KABELAI",
+                                "KOBUROKOU A",
+                                "KOBUROKOU B"
+                            ]
+                        },
+                        {
+                            "name": "KAYOGA",
+                            "villages": [
+                                "BUKALIJOKO",
+                                "BUSETA",
+                                "BUSWENZA",
+                                "KAYOGA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KABWANGASI",
+                    "parishes": [
+                        {
+                            "name": "BULALAKA",
+                            "villages": [
+                                "BUKATIKOKO",
+                                "BUKOMOLO",
+                                "BULALAKA",
+                                "BUMESURA"
+                            ]
+                        },
+                        {
+                            "name": "DOKO",
+                            "villages": [
+                                "BUNYEKERO",
+                                "DOKO I",
+                                "INDUSTRIAL",
+                                "NASENYI II"
+                            ]
+                        },
+                        {
+                            "name": "KACHURU",
+                            "villages": [
+                                "KACHURU",
+                                "KATEKI",
+                                "KATUBAI",
+                                "KINAKUMI",
+                                "KISOGA",
+                                "KOMOLO",
+                                "OGWERE",
+                                "RARAKA I",
+                                "RARAKA II"
+                            ]
+                        },
+                        {
+                            "name": "KALOJA",
+                            "villages": [
+                                "BUNGWANYI",
+                                "BWIBERE",
+                                "KALOJA I",
+                                "KALOJA II"
+                            ]
+                        },
+                        {
+                            "name": "MAIZIMASA",
+                            "villages": [
+                                "BUGOLO",
+                                "IKI-IKI",
+                                "KAKORO",
+                                "KAWORIA",
+                                "KOMOLO",
+                                "MAIZIMASA",
+                                "NAKAWA",
+                                "OKAKATYO",
+                                "OSOMORA",
+                                "SUKUSUKU",
+                                "TIIRA"
+                            ]
+                        },
+                        {
+                            "name": "NASENYI",
+                            "villages": [
+                                "BUKACHERA",
+                                "BULALAKA",
+                                "BUNYEKERO",
+                                "BWIBERE",
+                                "DOKO I",
+                                "KALOJA",
+                                "NASENYI"
+                            ]
+                        },
+                        {
+                            "name": "PUTTI",
+                            "villages": [
+                                "BUKATIKOKO",
+                                "BUKOMOLO",
+                                "BULOKI",
+                                "BUNAMWERA",
+                                "MBULA",
+                                "NABIKU",
+                                "NABITENDE",
+                                "NYADERA",
+                                "PUTTI",
+                                "TIIRA  I"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KABWANGASI TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "KABWANGASI WARD",
+                            "villages": [
+                                "JAWA",
+                                "KABWANGASI",
+                                "OGOSOI"
+                            ]
+                        },
+                        {
+                            "name": "KASEKINYI WARD",
+                            "villages": [
+                                "BYAKIKA",
+                                "KABWANGASI COLLEGE",
+                                "KASEKENYI"
+                            ]
+                        },
+                        {
+                            "name": "MORUTOME WARD",
+                            "villages": [
+                                "BUDUKULO",
+                                "BWASE",
+                                "MORUTOME"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KACHURU",
+                    "parishes": [
+                        {
+                            "name": "KACHURU",
+                            "villages": [
+                                "BULYAMBWA",
+                                "KACHURU",
+                                "KATEKI",
+                                "KOMOLO II"
+                            ]
+                        },
+                        {
+                            "name": "KATUBAI",
+                            "villages": [
+                                "BUSETA II",
+                                "KATUBAI",
+                                "KISOGA",
+                                "OGWERE"
+                            ]
+                        },
+                        {
+                            "name": "KINAKUMI",
+                            "villages": [
+                                "BUKATIKOKO",
+                                "KINAKUMI",
+                                "RARAKA I",
+                                "RARAKA II"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KADOKOLENE",
+                    "parishes": [
+                        {
+                            "name": "BUCHEMA",
+                            "villages": [
+                                "BUCHEMA",
+                                "BULOKI",
+                                "IDOTOI"
+                            ]
+                        },
+                        {
+                            "name": "KADOKOLENE",
+                            "villages": [
+                                "BUKAMUGEWO",
+                                "BUKINOMO",
+                                "BUKOMOLO",
+                                "BWASE",
+                                "KADOKOLENE"
+                            ]
+                        },
+                        {
+                            "name": "KATERYO",
+                            "villages": [
+                                "BUGOLYA",
+                                "BUKOMBA",
+                                "KATERYO"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAKORO",
+                    "parishes": [
+                        {
+                            "name": "KADOKOLENE",
+                            "villages": [
+                                "BUGOLYA",
+                                "BUKAMUGEWO",
+                                "BUKOMBA",
+                                "BUKOMOLO",
+                                "KADOKOLENE",
+                                "KATERYO"
+                            ]
+                        },
+                        {
+                            "name": "KADOTO",
+                            "villages": [
+                                "BUBULANGA",
+                                "KADOTO",
+                                "KAVULE",
+                                "MAIZIMASA"
+                            ]
+                        },
+                        {
+                            "name": "KAKORO",
+                            "villages": [
+                                "BUBULANGA",
+                                "BUKAKATYO",
+                                "KABEKUN A",
+                                "KADOTO",
+                                "KAKORO",
+                                "KAVULE",
+                                "MAIZIMASA",
+                                "OKURUKA"
+                            ]
+                        },
+                        {
+                            "name": "KASAJJA",
+                            "villages": [
+                                "BUKATIKOMBA",
+                                "KALECHERU",
+                                "KASAJJA A",
+                                "KASONE"
+                            ]
+                        },
+                        {
+                            "name": "TEKWANA",
+                            "villages": [
+                                "BUKOMOLO",
+                                "OGURAMAI",
+                                "OKAWORIA",
+                                "PETTA",
+                                "TEKWANA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAKORO TOWN COUNCIL",
+                    "parishes": [
+                        {
+                            "name": "EASTERN WARD",
+                            "villages": [
+                                "BUKATEGULE",
+                                "BUKATIKOKO A",
+                                "KABEKUN B"
+                            ]
+                        },
+                        {
+                            "name": "KAITISYA WARD",
+                            "villages": [
+                                "BUNYOLO",
+                                "KAITISYA A",
+                                "MUKOGE"
+                            ]
+                        },
+                        {
+                            "name": "KASAJJA WARD",
+                            "villages": [
+                                "BUKATIKOMBA",
+                                "KALECHERU",
+                                "KASAJJA A",
+                                "KASONE"
+                            ]
+                        },
+                        {
+                            "name": "NORTHERN WARD",
+                            "villages": [
+                                "BUMESURA A",
+                                "BUMESURA B",
+                                "BUMUSANA",
+                                "SOGONO A",
+                                "SOGONO B"
+                            ]
+                        },
+                        {
+                            "name": "WESTERN WARD",
+                            "villages": [
+                                "BUKATIKOKO B",
+                                "BULOKI",
+                                "KAITISYA B",
+                                "KASAJJA B"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KANGINIMA",
+                    "parishes": [
+                        {
+                            "name": "KANGINIMA",
+                            "villages": [
+                                "BUPADOYI",
+                                "KANGINIMA",
+                                "LUKONE",
+                                "WENENE"
+                            ]
+                        },
+                        {
+                            "name": "KASUPETE",
+                            "villages": [
+                                "BULALAKA",
+                                "DODOI",
+                                "KASUPETE",
+                                "NAKALOKE"
+                            ]
+                        },
+                        {
+                            "name": "KITOIKA WONONI",
+                            "villages": [
+                                "KATIKA",
+                                "KATORONGO",
+                                "KITOIKAWONONI",
+                                "LADOTO",
+                                "TINGOLI"
+                            ]
+                        },
+                        {
+                            "name": "NALIDI",
+                            "villages": [
+                                "BUGUMBA",
+                                "KADALACHI",
+                                "KISENYI",
+                                "NALIDI I",
+                                "NALIDI II"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KANYUM",
+                    "parishes": [
+                        {
+                            "name": "AKISIM",
+                            "villages": [
+                                "AKISIM B",
+                                "AKISIMI A",
+                                "AMUSALA A",
+                                "AMUSALA B",
+                                "KALEKO A",
+                                "KALEKO B",
+                                "OBULE"
+                            ]
+                        },
+                        {
+                            "name": "KADUYON",
+                            "villages": [
+                                "KADUYON A",
+                                "KADUYON B",
+                                "OKAWORIA",
+                                "OMESURA"
+                            ]
+                        },
+                        {
+                            "name": "KANYUM",
+                            "villages": [
+                                "KANYUM A",
+                                "KANYUM B",
+                                "KITUBA A",
+                                "KITUBA B",
+                                "ODUKURO"
+                            ]
+                        },
+                        {
+                            "name": "KOKALEN",
+                            "villages": [
+                                "BUSOGA",
+                                "KITUBA ATAPAR",
+                                "KOKALEN",
+                                "ODOKET KILOKI"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "KAPUNYASI",
+                    "parishes": [
+                        {
+                            "name": "BUYEDA",
+                            "villages": [
+                                "BUPALAMA",
+                                "BUYEDA A",
+                                "JAMI-JAMI",
+                                "NAMEDDE"
+                            ]
+                        },
+                        {
+                            "name": "KAPUNYASI",
+                            "villages": [
+                                "DISIRI",
+                                "KABWALALI",
+                                "KAPUNYASI",
+                                "NABWALI"
+                            ]
+                        },
+                        {
+                            "name": "NASULETA",
+                            "villages": [
+                                "BUKAURYA",
+                                "BUMESULA",
+                                "KIRYOLO",
+                                "NASULETA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "MAIZIMASA",
+                    "parishes": [
+                        {
+                            "name": "KAWOJAN",
+                            "villages": [
+                                "BANDA",
+                                "KAKORO",
+                                "MATENDE",
+                                "OKAKATYO",
+                                "OSOMORA"
+                            ]
+                        },
+                        {
+                            "name": "KOMOLO",
+                            "villages": [
+                                "BUKADUKA",
+                                "KINYOLE",
+                                "KOMOLO",
+                                "NAKAWA",
+                                "OKAWORIA"
+                            ]
+                        },
+                        {
+                            "name": "MAIZIMASA",
+                            "villages": [
+                                "BUGOLO",
+                                "IKI-IKI",
+                                "ITAKA-IWOLU",
+                                "KAFUNGO",
+                                "MAIZIMASA"
+                            ]
+                        },
+                        {
+                            "name": "SUKUSUKU",
+                            "villages": [
+                                "BULALAKA",
+                                "KAJULE",
+                                "NSAMBYA",
+                                "SUKUSUKU",
+                                "TIIRA"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PETETE",
+                    "parishes": [
+                        {
+                            "name": "KACHABALI",
+                            "villages": [
+                                "BURWETA",
+                                "BUYEDA B",
+                                "KACHABALI",
+                                "KACHABALI COMPLEX",
+                                "KALYANTE",
+                                "MANYOWE",
+                                "NALYETE"
+                            ]
+                        },
+                        {
+                            "name": "KACHOCHA",
+                            "villages": [
+                                "BUGANZA",
+                                "BUKATIKOKO",
+                                "BULYAWITA",
+                                "BUNAMWERA",
+                                "KABELEKEKE",
+                                "KACHOCHA",
+                                "KADOTO",
+                                "NAMUSWATA"
+                            ]
+                        },
+                        {
+                            "name": "KAPUNYASI",
+                            "villages": [
+                                "BUKAWOLYA",
+                                "BUMESULA",
+                                "BUPALAMA",
+                                "BUYEDA A",
+                                "DISIRI",
+                                "JAMI-JAMI",
+                                "KABWALALI",
+                                "KAPUNYASI",
+                                "KIRYOLO",
+                                "NABWALI",
+                                "NAMEDDE",
+                                "NASULETA"
+                            ]
+                        },
+                        {
+                            "name": "MANYOWE",
+                            "villages": [
+                                "BURWETA",
+                                "KALYANTE",
+                                "MANYOWE",
+                                "NALYETE"
+                            ]
+                        },
+                        {
+                            "name": "PETETE",
+                            "villages": [
+                                "BUKALIGWOKO",
+                                "BUKOMOLO",
+                                "BULALAKA",
+                                "KABUYAYI",
+                                "KAKWERETA",
+                                "KAVULE",
+                                "KOSINGHE",
+                                "PETETE"
+                            ]
+                        },
+                        {
+                            "name": "SIDANYI",
+                            "villages": [
+                                "BUDOBA",
+                                "BUKATUKI",
+                                "BUKOMOLO",
+                                "KABUSULE A",
+                                "KABUSULE B",
+                                "SIDANYI A",
+                                "SIDANYI B",
+                                "SIDANYI CENTRAL"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "PUTTI",
+                    "parishes": [
+                        {
+                            "name": "BULOKI",
+                            "villages": [
+                                "BUGOLIA",
+                                "BULOKI",
+                                "KYABAGWERE",
+                                "MAUDO",
+                                "MBULA"
+                            ]
+                        },
+                        {
+                            "name": "NABIKU",
+                            "villages": [
+                                "BUGOLO",
+                                "BUKATIKOKO",
+                                "MBULAMBAGO",
+                                "NABIKU"
+                            ]
+                        },
+                        {
+                            "name": "NABITENDE",
+                            "villages": [
+                                "BUNAMWERA",
+                                "BUSOMORA",
+                                "KAMUGO",
+                                "KISENYI",
+                                "NABITENDE"
+                            ]
+                        },
+                        {
+                            "name": "PUTTI",
+                            "villages": [
+                                "BUKOMOLO",
+                                "BULYAMPITI",
+                                "BUSOBYA",
+                                "MUGANZI",
+                                "PUTTI"
+                            ]
+                        },
+                        {
+                            "name": "TIIRA",
+                            "villages": [
+                                "BULALAKA",
+                                "BUSETA",
+                                "NYADERA",
+                                "TIIRA  I"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "name": "BUTEBO"
+}

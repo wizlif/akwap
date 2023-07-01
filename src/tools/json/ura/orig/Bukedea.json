@@ -1,0 +1,628 @@
+{
+  "name": "Bukedea",
+  "id": 12,
+  "counties": [
+    {
+      "name": "Bukedea",
+      "id": 20,
+      "sub_counties": [
+        {
+          "name": "Bukedea",
+          "id": 113,
+          "parishes": [
+            {
+              "name": "Akero",
+              "id": 231,
+              "villages": [
+                { "name": "Akero", "id": 2380 },
+                { "name": "Tank", "id": 56073 }
+              ]
+            },
+            {
+              "name": "Akuoro",
+              "id": 264,
+              "villages": [
+                { "name": "Akuoro", "id": 2618 },
+                { "name": "Okichira", "id": 48955 }
+              ]
+            },
+            {
+              "name": "Kasoka",
+              "id": 3101,
+              "villages": [
+                { "name": "Ajamaka", "id": 1981 },
+                { "name": "Kauje", "id": 24890 },
+                { "name": "Kasoka", "id": 23833 }
+              ]
+            },
+            {
+              "name": "Kakere",
+              "id": 2582,
+              "villages": [
+                { "name": "Atiriri", "id": 5421 },
+                { "name": "Gagama central", "id": 16275 },
+                { "name": "Kakere", "id": 20305 }
+              ]
+            },
+            {
+              "name": "Kaloko",
+              "id": 2703,
+              "villages": [
+                { "name": "Adodoi", "id": 1224 },
+                { "name": "Kaloko", "id": 21046 }
+              ]
+            },
+            {
+              "name": "Kamon",
+              "id": 2750,
+              "villages": [
+                { "name": "Kamon", "id": 21414 },
+                { "name": "Okolimeri", "id": 49028 }
+              ]
+            },
+            {
+              "name": "Kocheka",
+              "id": 4061,
+              "villages": [
+                { "name": "Kocheka", "id": 30807 },
+                { "name": "Omonyono", "id": 49835 }
+              ]
+            },
+            {
+              "name": "Kokolotum",
+              "id": 4081,
+              "villages": [
+                { "name": "Kokolotum", "id": 30888 },
+                { "name": "Odoot etom", "id": 48355 },
+                { "name": "Omoneik", "id": 49832 }
+              ]
+            },
+            {
+              "name": "Kokutu",
+              "id": 4086,
+              "villages": [
+                { "name": "Aputiput", "id": 4732 },
+                { "name": "Kokutu", "id": 30907 }
+              ]
+            },
+            {
+              "name": "Suula",
+              "id": 7201,
+              "villages": [
+                { "name": "Okobwa", "id": 49002 },
+                { "name": "Suula", "id": 55954 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Bukedea town council",
+          "id": 118,
+          "parishes": [
+            {
+              "name": "Emokori ward",
+              "id": 1989,
+              "villages": [
+                { "name": "Emokori a", "id": 16033 },
+                { "name": "Emokori b", "id": 16034 }
+              ]
+            },
+            {
+              "name": "Bukedea ward",
+              "id": 1036,
+              "villages": [
+                { "name": "Bukedea", "id": 9230 },
+                { "name": "Okoona united", "id": 49051 }
+              ]
+            },
+            {
+              "name": "Kide ward",
+              "id": 3450,
+              "villages": [
+                { "name": "Kide central", "id": 26356 },
+                { "name": "Kide north", "id": 26357 },
+                { "name": "Tank", "id": 56074 }
+              ]
+            },
+            {
+              "name": "Kachabule ward",
+              "id": 2420,
+              "villages": [
+                { "name": "Apopo", "id": 4665 },
+                { "name": "Kabolo", "id": 18948 },
+                { "name": "Kachabule", "id": 19331 },
+                { "name": "Rock view", "id": 52397 }
+              ]
+            },
+            {
+              "name": "Tamula ward",
+              "id": 7215,
+              "villages": [
+                { "name": "Abilakin", "id": 232 },
+                { "name": "Orapada", "id": 50533 },
+                { "name": "Tamula", "id": 56053 }
+              ]
+            },
+            {
+              "name": "Okunguro complex ward",
+              "id": 6352,
+              "villages": [
+                { "name": "Atapar okodan", "id": 5250 },
+                { "name": "Mission", "id": 38624 },
+                { "name": "Okwakol cell", "id": 49153 }
+              ]
+            },
+            {
+              "name": "Okunguro parents ward",
+              "id": 6353,
+              "villages": [
+                { "name": "Sagam", "id": 54838 },
+                { "name": "Okunguro", "id": 49118 },
+                { "name": "Ogaala", "id": 48492 }
+              ]
+            },
+            {
+              "name": "Oswapai ward",
+              "id": 6558,
+              "villages": [
+                { "name": "Agule", "id": 1712 },
+                { "name": "Kareu", "id": 22960 },
+                { "name": "Omugalai", "id": 49888 },
+                { "name": "Oswapai", "id": 50836 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kidongole",
+          "id": 115,
+          "parishes": [
+            {
+              "name": "Chodong",
+              "id": 1911,
+              "villages": [
+                { "name": "Chodong", "id": 15260 },
+                { "name": "Kanyanga", "id": 22186 }
+              ]
+            },
+            {
+              "name": "Kanyamutamu",
+              "id": 2837,
+              "villages": [
+                { "name": "Kanyamutamu", "id": 22170 },
+                { "name": "Kadoa", "id": 19480 }
+              ]
+            },
+            {
+              "name": "Katekwan",
+              "id": 3178,
+              "villages": [
+                { "name": "Kotwongo", "id": 31224 },
+                { "name": "Katekwan", "id": 24333 }
+              ]
+            },
+            {
+              "name": "Kawo",
+              "id": 3280,
+              "villages": [
+                { "name": "Apungurei", "id": 4701 },
+                { "name": "Kawo", "id": 25015 }
+              ]
+            },
+            {
+              "name": "Kidongole",
+              "id": 3462,
+              "villages": [
+                { "name": "Kidongole", "id": 26424 },
+                { "name": "Kotolut", "id": 31216 }
+              ]
+            },
+            {
+              "name": "Kajamaka",
+              "id": 2559,
+              "villages": [
+                { "name": "Kosire", "id": 31185 },
+                { "name": "Kajamaka", "id": 20147 }
+              ]
+            },
+            {
+              "name": "Kalupo",
+              "id": 2715,
+              "villages": [
+                { "name": "Koboli", "id": 30782 },
+                { "name": "Kalupo", "id": 21134 }
+              ]
+            },
+            {
+              "name": "Koena",
+              "id": 4074,
+              "villages": [
+                { "name": "Koena", "id": 30835 },
+                { "name": "Kachul", "id": 19373 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Kolir",
+          "id": 116,
+          "parishes": [
+            {
+              "name": "Abilaep",
+              "id": 34,
+              "villages": [
+                { "name": "Abilaep", "id": 230 },
+                { "name": "Kaseera", "id": 23453 }
+              ]
+            },
+            {
+              "name": "Aminit",
+              "id": 369,
+              "villages": [
+                { "name": "Aminit", "id": 3641 },
+                { "name": "Busano", "id": 12245 }
+              ]
+            },
+            {
+              "name": "Angangam",
+              "id": 423,
+              "villages": [
+                { "name": "Angangam", "id": 4036 },
+                { "name": "Kalapata", "id": 20885 }
+              ]
+            },
+            {
+              "name": "Apopong",
+              "id": 498,
+              "villages": [
+                { "name": "Apopong", "id": 4670 },
+                { "name": "Kayukum", "id": 25273 }
+              ]
+            },
+            {
+              "name": "Kanyipa",
+              "id": 2860,
+              "villages": [
+                { "name": "Kanyipa", "id": 22321 },
+                { "name": "Tukum", "id": 56794 }
+              ]
+            },
+            {
+              "name": "Kamutur",
+              "id": 2791,
+              "villages": [
+                { "name": "Akakaat", "id": 2235 },
+                { "name": "Kamutur", "id": 21681 }
+              ]
+            },
+            {
+              "name": "Kocus",
+              "id": 4065,
+              "villages": [
+                { "name": "Kocus", "id": 30821 },
+                { "name": "Tajar", "id": 56026 }
+              ]
+            },
+            {
+              "name": "Kodiata",
+              "id": 4066,
+              "villages": [
+                { "name": "Amuen", "id": 3823 },
+                { "name": "Kodiata", "id": 30824 }
+              ]
+            },
+            {
+              "name": "Kolir",
+              "id": 4091,
+              "villages": [
+                { "name": "Kolir", "id": 30932 },
+                { "name": "Kolir town", "id": 30933 },
+                { "name": "Kagoloto", "id": 19770 }
+              ]
+            },
+            {
+              "name": "Komongomeri",
+              "id": 4105,
+              "villages": [
+                { "name": "Akou-etome", "id": 2557 },
+                { "name": "Komongomeri", "id": 31037 }
+              ]
+            },
+            {
+              "name": "Miroi",
+              "id": 5011,
+              "villages": [
+                { "name": "Miroi", "id": 38524 },
+                { "name": "Oluwa", "id": 49575 }
+              ]
+            },
+            {
+              "name": "Okum",
+              "id": 6348,
+              "villages": [
+                { "name": "Kalengo", "id": 20945 },
+                { "name": "Okum", "id": 49101 }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Malera",
+          "id": 117,
+          "parishes": [
+            {
+              "name": "Kangole",
+              "id": 2811,
+              "villages": [
+                { "name": "Kaleuleun", "id": 20959 },
+                { "name": "Kangole", "id": 21893 }
+              ]
+            },
+            {
+              "name": "Kabarwa",
+              "id": 2326,
+              "villages": [
+                { "name": "Kabarwa", "id": 18655 },
+                { "name": "Tokor", "id": 56610 }
+              ]
+            },
+            {
+              "name": "Kachede",
+              "id": 2422,
+              "villages": [
+                { "name": "Kachabule", "id": 19332 },
+                { "name": "Kachede", "id": 19341 }
+              ]
+            },
+            {
+              "name": "Kachoc",
+              "id": 2428,
+              "villages": [
+                { "name": "Kasechi", "id": 23449 },
+                { "name": "Kacoc", "id": 19386 }
+              ]
+            },
+            {
+              "name": "Kachonga",
+              "id": 2431,
+              "villages": [
+                { "name": "Kokwech", "id": 30911 },
+                { "name": "Kachonga", "id": 19369 }
+              ]
+            },
+            {
+              "name": "Kakori",
+              "id": 2620,
+              "villages": [
+                { "name": "Kakori", "id": 20588 },
+                { "name": "Magara", "id": 36629 }
+              ]
+            },
+            {
+              "name": "Kakutot",
+              "id": 2636,
+              "villages": [
+                { "name": "Kakurau", "id": 20673 },
+                { "name": "Kakutot", "id": 20686 }
+              ]
+            },
+            {
+              "name": "Kalou",
+              "id": 2709,
+              "villages": [
+                { "name": "Kalou", "id": 21076 },
+                { "name": "Takaramiam", "id": 56034 }
+              ]
+            },
+            {
+              "name": "Malera",
+              "id": 4833,
+              "villages": [
+                { "name": "Kanyanga", "id": 22187 },
+                { "name": "Malera", "id": 37116 }
+              ]
+            },
+            {
+              "name": "Kobaale",
+              "id": 4052,
+              "villages": [
+                { "name": "Kobaale", "id": 30777 },
+                { "name": "Kaparis", "id": 22422 }
+              ]
+            },
+            {
+              "name": "Kodike",
+              "id": 4067,
+              "villages": [
+                { "name": "Akungur", "id": 2609 },
+                { "name": "Kodike", "id": 30826 }
+              ]
+            },
+            {
+              "name": "Koreng",
+              "id": 4121,
+              "villages": [
+                { "name": "Koreng", "id": 31149 },
+                { "name": "Kamailuk", "id": 21221 }
+              ]
+            },
+            {
+              "name": "Kotiokot",
+              "id": 4132,
+              "villages": [
+                { "name": "Kotiokot", "id": 31209 },
+                { "name": "Kamuno", "id": 21601 }
+              ]
+            },
+            {
+              "name": "Okouba",
+              "id": 6342,
+              "villages": [
+                { "name": "Abitibit", "id": 296 },
+                { "name": "Okouba", "id": 49067 }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kachumbala",
+      "id": 413,
+      "sub_counties": [
+        {
+          "name": "Kachumbala",
+          "id": 114,
+          "parishes": [
+            {
+              "name": "Aligoi",
+              "id": 310,
+              "villages": [
+                { "name": "Aligoi", "id": 3081 },
+                { "name": "Kakere-kachinga", "id": 20308 }
+              ]
+            },
+            {
+              "name": "Amus",
+              "id": 404,
+              "villages": [
+                { "name": "Amus", "id": 3879 },
+                { "name": "Sapir", "id": 54931 }
+              ]
+            },
+            {
+              "name": "Kapaang",
+              "id": 2872,
+              "villages": [
+                { "name": "Akunyuko", "id": 2615 },
+                { "name": "Kapaang", "id": 22406 }
+              ]
+            },
+            {
+              "name": "Kapuyan",
+              "id": 2953,
+              "villages": [
+                { "name": "Bungokho", "id": 11733 },
+                { "name": "Kapuyan", "id": 22807 }
+              ]
+            },
+            {
+              "name": "Kawo",
+              "id": 3281,
+              "villages": [
+                { "name": "Kawo", "id": 25016 },
+                { "name": "Kakira", "id": 20414 }
+              ]
+            },
+            {
+              "name": "Kabwalin",
+              "id": 2399,
+              "villages": [
+                { "name": "Kabwalin", "id": 19255 },
+                { "name": "Nyakoi", "id": 46614 }
+              ]
+            },
+            {
+              "name": "Kachaboi",
+              "id": 2417,
+              "villages": [
+                { "name": "Kachaboi", "id": 19327 },
+                { "name": "Mukura", "id": 39669 }
+              ]
+            },
+            {
+              "name": "Kachumbala",
+              "id": 2434,
+              "villages": [
+                { "name": "Kachumbala", "id": 19374 },
+                { "name": "Obur", "id": 47985 }
+              ]
+            },
+            {
+              "name": "Kachuru",
+              "id": 2435,
+              "villages": [
+                { "name": "Komolo", "id": 31017 },
+                { "name": "Kachuru", "id": 19376 }
+              ]
+            },
+            {
+              "name": "Komuge",
+              "id": 4106,
+              "villages": [
+                { "name": "Komuge", "id": 31043 },
+                { "name": "Manga", "id": 37242 }
+              ]
+            },
+            {
+              "name": "Kongatuny",
+              "id": 4109,
+              "villages": [
+                { "name": "Kongatuny", "id": 31064 },
+                { "name": "Kachabule", "id": 19333 }
+              ]
+            },
+            {
+              "name": "Kongunga",
+              "id": 4113,
+              "villages": [
+                { "name": "Kongunga", "id": 31102 },
+                { "name": "Komelekes", "id": 30993 }
+              ]
+            },
+            {
+              "name": "Kotia",
+              "id": 4126,
+              "villages": [
+                { "name": "Kotia", "id": 31204 },
+                { "name": "Mukongoro", "id": 39608 }
+              ]
+            },
+            {
+              "name": "Koutulai",
+              "id": 4136,
+              "villages": [
+                { "name": "Koutulai", "id": 31225 },
+                { "name": "Kokwakipi", "id": 30909 },
+                { "name": "Komuriakere", "id": 31048 },
+                { "name": "Kongoidi", "id": 31074 }
+              ]
+            },
+            {
+              "name": "Kwarikwari",
+              "id": 4162,
+              "villages": [
+                { "name": "Apujan", "id": 4691 },
+                { "name": "Kwarikwari", "id": 31464 }
+              ]
+            },
+            {
+              "name": "Nalugai",
+              "id": 5455,
+              "villages": [
+                { "name": "Nalugai", "id": 42118 },
+                { "name": "Olasai", "id": 49284 }
+              ]
+            },
+            {
+              "name": "Ongaara",
+              "id": 6476,
+              "villages": [
+                { "name": "Ongaara", "id": 50126 },
+                { "name": "Omonyono", "id": 49836 }
+              ]
+            },
+            {
+              "name": "Otimonga",
+              "id": 6568,
+              "villages": [
+                { "name": "Apuuton", "id": 4769 },
+                { "name": "Otimonga", "id": 50918 }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

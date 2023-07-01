@@ -1,0 +1,606 @@
+{
+  "name": "BUKWO",
+  "counties": [
+    {
+      "name": "KONGASIS",
+      "sub_counties": [
+        {
+          "name": "BUKWA",
+          "parishes": [
+            {
+              "name": "AMANANG",
+              "villages": [
+                "AMANANG CENTRAL",
+                "KAWORYO",
+                "KAPCHESOY",
+                "KAPCHUNIAY",
+                "MOKOYWET",
+                "MARAMBACH",
+                "POSHA",
+                "TOBOSWO",
+                "TOROKYO",
+                "SUMOTWET"
+              ]
+            },
+            {
+              "name": "CHEBOI",
+              "villages": [
+                "BUMATET",
+                "KONGTA",
+                "CHEBIRBEI",
+                "CHEBOI",
+                "CHEBOMBAI",
+                "KAPCHEBAI",
+                "KAPKWOTOY",
+                "KAPSWAYOY",
+                "KAPTERIT",
+                "KAPTOLONGI",
+                "MAJIMOT",
+                "TERIET",
+                "SAPTET"
+              ]
+            },
+            {
+              "name": "KAMUTUNGON",
+              "villages": [
+                "CHEMULWO",
+                "KONGTA",
+                "CHEBINYINY",
+                "KAMUTUNGON",
+                "MARAMBACH",
+                "MEREWO",
+                "ROTYO",
+                "SITIYO",
+                "SEREM"
+              ]
+            },
+            {
+              "name": "KULULU",
+              "villages": [
+                "KABAMBAN",
+                "CHEMURON",
+                "KWEEN",
+                "KULULU",
+                "KOLONGEI",
+                "KAPRENGER",
+                "KAPSUKWAR",
+                "LOCH",
+                "SEREM"
+              ]
+            },
+            {
+              "name": "MUIMET",
+              "villages": [
+                "BARKOYOY",
+                "CHEPTINGENY",
+                "KOTIPCHEBKWOROT",
+                "KWONGOR",
+                "KOKOPCHAYA",
+                "KAPSIYWO",
+                "LAMITINA",
+                "SIKUROY"
+              ]
+            },
+            {
+              "name": "SOSHO",
+              "villages": [
+                "CHEPTINGEN",
+                "KUBULWO",
+                "KAPKOROSOI",
+                "KAPLAKATET",
+                "KAPRENGER",
+                "KAPSONGOROCH",
+                "LWONGON",
+                "RWANDA",
+                "LAGAAM",
+                "LAGAM",
+                "ROROK",
+                "SOSHO",
+                "TULWO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "BUKWO TOWN COUNCIL",
+          "parishes": [
+            { "name": "KAPKURESON WARD", "villages": ["KAPKURESON", "MOKOYON", "MARKET", "MUNDA", "NDISHANIA"] },
+            {
+              "name": "KAPSUKWAR WARD",
+              "villages": ["KORKORWET", "KWEEN", "KAPKOROSOI", "KAPSWAYOY", "MOKOYO", "MOWET", "TULWO", "SUMATON"]
+            },
+            { "name": "KABASKEN WARD", "villages": ["KABASKEN", "CHEMURON", "CHEPTERERE", "KAPNGOKIN", "TUYOBEI"] },
+            {
+              "name": "TORASIS WARD",
+              "villages": ["ESSO", "CHELELECHBEI", "KAPKOLOSWO", "KAMARUR", "KABUNWA", "LOMOYWO", "MUKENGERET", "TOWN"]
+            }
+          ]
+        },
+        {
+          "name": "CHEPKWASTA",
+          "parishes": [
+            {
+              "name": "CHEKWASTA",
+              "villages": ["CHEPKITIN", "CHEPSOYKEI", "KWEEN", "CHEBINYINY", "KAPSEROR", "LOMOYWO"]
+            },
+            {
+              "name": "CHEPKUTO",
+              "villages": ["CHEPKUTO LOWER", "CHEPTANDAN", "CHEPTENGAN", "CHEPTILIAL", "KICHINGICH", "KAPTA"]
+            },
+            {
+              "name": "KAPSABIT",
+              "villages": ["KOKORWO", "CENTER VILLAGE", "KAPSABIT", "MUTOROKWO", "TOROKYO", "TULWO", "SEREM"]
+            },
+            {
+              "name": "KAPSARUR",
+              "villages": ["CHEMWEYET", "KORIRI", "CHOROI", "CHEBENI", "KAPSARUR", "KAPSWOM", "KASKA"]
+            },
+            {
+              "name": "KAPSEKEK",
+              "villages": ["KONGTA", "KURONGURWA", "CENTRE", "KAPSEKEK", "MOKOTU", "MANN", "TITTIM"]
+            },
+            {
+              "name": "KIRETEI",
+              "villages": ["CHEPKUTO UPPER", "KIRETEI", "CHEPTOROR", "CHEPTUYA", "KOMELIL", "KAPSIYWO", "KAPTABOSON"]
+            },
+            { "name": "SUNGORA", "villages": ["CHEMUGUN", "CHEMURON", "KAPSOYEN", "MURYAMAT", "SUNGORA", "SURUMOYO"] }
+          ]
+        },
+        {
+          "name": "CHESOWER",
+          "parishes": [
+            {
+              "name": "BISHO",
+              "villages": [
+                "BISHO",
+                "CHEMURON",
+                "KAPCHEYOS",
+                "KAPNGARAM",
+                "MAKAYON",
+                "MUKULEI",
+                "LAKATETWO",
+                "MERE",
+                "NGANGARA",
+                "ROTIN",
+                "SUMOTWET"
+              ]
+            },
+            {
+              "name": "CHESOWER",
+              "villages": ["BUMOTOY", "CHESIMOT", "CHESOWER", "KWEEN", "KONGTA", "KAPCHUNIAY", "TOROKYO"]
+            },
+            {
+              "name": "KAPTEKA",
+              "villages": ["BOYET", "CHERINGANY", "KWANWA", "LOCH", "RWANDET", "TUYOBEI", "TAKATET"]
+            },
+            {
+              "name": "SIIT",
+              "villages": [
+                "KIYOTO",
+                "CHEPKWASTA",
+                "CHEPTANDAN",
+                "KAPCHONBOW",
+                "KAPSWAYOY",
+                "KAMUNJAN",
+                "MOLOL",
+                "LAMOYWO",
+                "NAMBUYA",
+                "SIIT",
+                "TULWO"
+              ]
+            },
+            {
+              "name": "YATUI",
+              "villages": [
+                "ATIANGOI",
+                "CHEMUKULA",
+                "CHERANGUT",
+                "KITECHKA",
+                "KAMUSOR",
+                "MOSOWO",
+                "LONGET",
+                "YATUI",
+                "SWOYEN"
+              ]
+            },
+            {
+              "name": "NYALIT",
+              "villages": [
+                "CHEMURON",
+                "CHEPKWATIT",
+                "CHEKWOBORTIN",
+                "KAPNGOMUY",
+                "KAPNGOTUNY",
+                "KAPSIYWO",
+                "KAPSWAYOY",
+                "NYALIT",
+                "ROROK"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KABEI",
+          "parishes": [
+            {
+              "name": "KAPSENETON",
+              "villages": [
+                "KABORTI",
+                "CHEPTOROR",
+                "CHEPTUYET",
+                "CHORONOK",
+                "KITAW",
+                "CHEMBILWAK",
+                "KAPSENETON",
+                "NYALIT",
+                "NANKWAY",
+                "TULWO",
+                "SUMATON",
+                "SEMIA"
+              ]
+            },
+            {
+              "name": "KAPTERIT",
+              "villages": ["KONGTA", "KOROSHO", "KONA", "KAWORIO", "KAPTERIT", "KAMAIS", "WORKOYEN"]
+            },
+            {
+              "name": "KABEI",
+              "villages": [
+                "CHEMUKANG",
+                "KIPTUI",
+                "CHESURUR",
+                "KUTUNG",
+                "CHEBINYINY",
+                "KATINGA",
+                "KAPRENSI",
+                "MAKUNGA",
+                "MAKUTANO",
+                "LUNGWA",
+                "ROROK"
+              ]
+            },
+            {
+              "name": "LWONGON",
+              "villages": [
+                "KOWOBELYO",
+                "KOLONGEI",
+                "CHEBINYINY",
+                "KAPKUMOLON",
+                "KAPNAUNJURO",
+                "LWONGON",
+                "LOBOTWO",
+                "NDILAI",
+                "RABET",
+                "TARAK"
+              ]
+            },
+            {
+              "name": "MUTUSHET",
+              "villages": [
+                "CHEMURON",
+                "KULULU",
+                "KAPKUKUYU",
+                "KAPNAUNJURO",
+                "LAMAYWO",
+                "POSHA",
+                "TULWO",
+                "SWAYOK",
+                "TABOSWO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KAMET",
+          "parishes": [
+            {
+              "name": "KAPKUMOLON",
+              "villages": ["CHEMURON", "CHEPTOLOCH", "CHEKWIR", "KAPCHESIKWA", "KAPKUMOLON", "KAPSAYOY", "MUKULEI"]
+            },
+            {
+              "name": "KAMET",
+              "villages": ["CHIKONDI", "CHEBINYINY", "CHEMENEN", "KAMET", "MOSON", "TESHENI", "TOMTO", "TWOLUK"]
+            },
+            {
+              "name": "LWONGON",
+              "villages": ["ALALAM", "KOKORWO", "KAPKOLDIN", "KAPYAKAN", "LWONGON", "NDILAI", "TARAK"]
+            },
+            {
+              "name": "MOKOYON",
+              "villages": ["KONGTA", "CHEBINYINY", "CHEKWIR", "LOCH", "MOKOYON", "TUYOBEI", "SASARA"]
+            },
+            {
+              "name": "YEMITEK",
+              "villages": ["BOROWON", "CHEMOTOW", "KAPKWICHA", "KAPKWIMINY", "KAPTOBOSWO", "MOKOYON", "YEMITEK"]
+            }
+          ]
+        },
+        {
+          "name": "KAPTERERWO",
+          "parishes": [
+            {
+              "name": "CHEBINYINY",
+              "villages": ["KABARAK", "CHEBINYINY", "KAPCHANGIL", "KAPCHEMUTULYIN", "KAPRETWO", "MURKUCHIT"]
+            },
+            { "name": "KAPKOLOSWO", "villages": ["KOKWO", "KAPKOLOSWO", "KAPKWIRWOK", "NAIT", "LUNGWA"] },
+            {
+              "name": "KAPNANDI",
+              "villages": [
+                "CHEMURON",
+                "CHOMIANDET",
+                "KAPNANDI CENTRAL",
+                "KAPNANDI LOWER",
+                "KAPNANDI UPPER",
+                "KAMATONG",
+                "KAMBIMAWE EAST",
+                "KAMBIMAWE WEST",
+                "SOSET",
+                "SEKEK"
+              ]
+            },
+            {
+              "name": "KAPTALI",
+              "villages": ["CHEPKOROS", "KAPTALI CENTRAL", "KAPTALI LOWER", "MOSONDO", "RIRA", "TARTAR"]
+            },
+            { "name": "KAPTERERWA", "villages": ["BRIRWOK", "KAPKURESON", "RYOTYONDET", "KAMAKUNGA"] },
+            {
+              "name": "KAPTOMOLOGON",
+              "villages": [
+                "CHEPCHOLOL",
+                "KAPTOMOLOGON CENTRAL",
+                "KAPTOMOLOGON LOWER",
+                "KAPTOMOLOGON UPPER",
+                "LULU",
+                "LAGAM"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KORTEK",
+          "parishes": [
+            {
+              "name": "CHEMWAISUS",
+              "villages": ["CHEMWAISUS", "CHEPTANDAN", "KAPSETA", "MUTON", "LALAK", "TENDERA", "SUKWO", "SUMATON"]
+            },
+            {
+              "name": "CHESIMAT",
+              "villages": ["CHESIMAT", "KOKORWO", "CHEBINYINY", "CHEBUYONON", "KAPSIKWA", "RWANDOI", "SINDET", "SOSUR"]
+            },
+            {
+              "name": "KAPKOKOYO",
+              "villages": [
+                "KABELYO",
+                "CHEMUKUN",
+                "CHEPKWENEROI",
+                "KAPKOKOYO",
+                "KAPKOROSOI",
+                "KAPSES",
+                "MUNDA",
+                "ROTYO",
+                "SIRON"
+              ]
+            },
+            {
+              "name": "KUBOBEI",
+              "villages": ["CHEMURON", "KWEEN", "KUBOBEI", "CHELELECHBEI", "KAPKOROS", "KAPLAKATET", "MAKUNGA", "TULWO"]
+            }
+          ]
+        },
+        {
+          "name": "RIWO",
+          "parishes": [
+            {
+              "name": "BRIM",
+              "villages": [
+                "BRIM",
+                "CHEMURON",
+                "KITAW",
+                "KAPKWASABEN",
+                "KAPMUSHEMBUN",
+                "KAMAKUNGA",
+                "MOWO",
+                "REBER",
+                "SUMATON",
+                "SHAMBABEL"
+              ]
+            },
+            {
+              "name": "ARALAM",
+              "villages": [
+                "ARALAM",
+                "BIRIRWOK",
+                "KABASKEN",
+                "CHEPSOIKEI",
+                "CHEPTOROR",
+                "KEWARWONG",
+                "KULULU",
+                "CHEBOROM",
+                "CHEBUREI",
+                "KAPKWEN",
+                "KAPSASUR",
+                "NGENY",
+                "TUYOBEI"
+              ]
+            },
+            {
+              "name": "CHEPSOYKEI",
+              "villages": ["KABEN", "CHEMUKANG", "CHEPSOYKEY", "CHERUI", "CHESURUR", "KAPNGOKIN", "KAMATONY", "MUNDA"]
+            },
+            {
+              "name": "KAPCHEMOGEN",
+              "villages": [
+                "CHEMUSABE",
+                "CHERUNGUNY",
+                "KULWAL",
+                "KONGTA",
+                "KAPCHEBURONY",
+                "KAPCHEMOGEN",
+                "KAPKURES",
+                "KAPLAKWATEN",
+                "KAPNDILAI",
+                "SOSET"
+              ]
+            },
+            {
+              "name": "KAPKWARE",
+              "villages": [
+                "CHEPTUIMAT",
+                "CHEBINYINY",
+                "KAPKWARE",
+                "KAPSUKUT",
+                "KAMAKONGEN",
+                "KAMOKON",
+                "LOCH",
+                "LULWO",
+                "LAKAM",
+                "ROROK",
+                "TUYET"
+              ]
+            },
+            {
+              "name": "RIWO",
+              "villages": [
+                "KOKOYONG",
+                "KAPKUTUNYO",
+                "KAPLAKATET",
+                "KAPSEKEI",
+                "MENGO",
+                "MUYEMBE",
+                "RIWO HILL",
+                "NYOKOSWO",
+                "SOSYO"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SENENDET",
+          "parishes": [
+            {
+              "name": "CHEMWABIT",
+              "villages": [
+                "CHEMWABIT",
+                "KUTOWOY",
+                "KOLONGEI",
+                "KAPKOMBOLOI",
+                "KAPKWOTOY",
+                "KAMAKONGEN",
+                "MOKOYEK",
+                "NJORO",
+                "TULWET",
+                "TUYOBEI"
+              ]
+            },
+            { "name": "KAPKOROS", "villages": ["BONIO", "KWEEN", "KAWIMBI", "KAKAWA", "KAPKOROS", "MAKUNGA", "NGENY"] },
+            {
+              "name": "KAPROBEN",
+              "villages": [
+                "CHEPTOROR",
+                "KOSTOY",
+                "KAPAREYWO",
+                "KAPROBEN",
+                "SACHAYENY",
+                "LUNGWA",
+                "MAYEMBE",
+                "ROTYO",
+                "SURUM"
+              ]
+            },
+            {
+              "name": "RWANDA",
+              "villages": ["CHESOIKEY", "KOROSHONDET", "KAPKOMOL", "RWANDA", "MUNDA", "POSHA", "TABASHAT"]
+            },
+            {
+              "name": "SENENDET",
+              "villages": ["KABARAK", "KONGTA", "KAPNERO", "MOKOYWET", "LAMAYWET", "REBERON", "SENENDET"]
+            }
+          ]
+        },
+        {
+          "name": "SUAM",
+          "parishes": [
+            {
+              "name": "CHEPKUSAWAR",
+              "villages": [
+                "ASHEWA",
+                "CHEPKUSAWAR",
+                "KONGASIS",
+                "KAPCHUNIAY",
+                "KAPKOBOR",
+                "LOCH",
+                "MOSOP",
+                "TERIET",
+                "SUAM UPPER"
+              ]
+            },
+            {
+              "name": "KAPKWENO",
+              "villages": ["KOROSYO", "KAPKWENO", "KAPYOMAT", "KARIMUKWON", "POSHA", "REBERWO", "RIKWO", "TOROKYO"]
+            },
+            {
+              "name": "KABYOYON",
+              "villages": ["CHEMUROT", "KULULU", "KAPSIRIKWO", "KABYOYON", "RAKWAYANDET", "SUMOTWET"]
+            },
+            {
+              "name": "KWIRWOT",
+              "villages": ["BERKEYA", "KURONGUR", "KWIRWOT", "KUBAU", "LAMAYWO", "SIMOTWET", "SUAM LOWER"]
+            },
+            {
+              "name": "MATIMBEI",
+              "villages": ["KONGTA", "KOIBEI", "KOLONGEI", "MATIMBEI", "ROROK", "TULWO", "TEGERES"]
+            }
+          ]
+        },
+        {
+          "name": "TULEL",
+          "parishes": [
+            {
+              "name": "CHEKWIR",
+              "villages": ["CHEMURON", "CHEKWIR", "CHELAIBEI", "KAPWUSHO", "SIIT", "TULWO", "TUYOBEI"]
+            },
+            {
+              "name": "BURKEYWO",
+              "villages": [
+                "BERKEYA",
+                "BURKEYWO",
+                "CHEMURON",
+                "CHEKWARIN",
+                "KAPKOROSOY",
+                "KAPROTWO",
+                "LEKETETWO",
+                "MESSA",
+                "SOYMINING"
+              ]
+            },
+            {
+              "name": "KAPSWAMA",
+              "villages": [
+                "ARYOWET",
+                "BANAWA",
+                "KABAMBAN",
+                "CHEMONDIN",
+                "CHEMUYAT",
+                "CHEPTUIMET",
+                "KAPSWAMA",
+                "KAPTOBORI"
+              ]
+            },
+            {
+              "name": "KABOKWO",
+              "villages": ["KABOKWO", "CHEPKWATIT", "CHUCHUKA", "CHEKWIR", "MUSOP", "ROROK", "TULWO"]
+            },
+            {
+              "name": "MAYAK",
+              "villages": ["KOROSI", "CHOKOROR", "KOIKOI", "CHEBINYINY", "KAPSWENJEN", "RWANDET", "MAYAK"]
+            },
+            {
+              "name": "TULEL",
+              "villages": ["CHEPTAREI", "KOROT", "KAMOKOYON", "LOCH", "MASASHA", "NGARYOMWO", "TULEL", "TUNGURURWO"]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
