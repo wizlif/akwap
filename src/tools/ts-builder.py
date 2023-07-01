@@ -123,20 +123,20 @@ districts = json.loads(open('src/tools/json/districts-ura.json', 'r').read())
 
 #     data = dirtyjson.loads(data)
 
-#     ndt = compress_obj(data)
+#     ndt = clean_obj(data)
 
 #     open(
-#         f'src/tools/json/ura/compressed/old/{district.lower()}.json', '+w').write(json.dumps(ndt))
-for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
-    district = dt.split(".")[0]
-    print(district)
-    data = json.loads(
-        open(f'src/tools/json/ura/compressed/old/{district.lower()}.json', 'r').read())
+#         f'src/tools/json/ura/orig/old/{district.lower()}.json', '+w').write(json.dumps(ndt))
+# for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
+#     district = dt.split(".")[0]
+#     print(district)
+#     data = json.loads(
+#         open(f'src/tools/json/ura/compressed/old/{district.lower()}.json', 'r').read())
 
-    ndt = sort_obj(data)
+#     ndt = sort_obj(data)
 
-    open(
-        f'src/tools/json/ura/sorted/old/{district.lower()}.json', '+w').write(json.dumps(ndt, indent=4, sort_keys=True))
+#     open(
+#         f'src/tools/json/ura/sorted/old/{district.lower()}.json', '+w').write(json.dumps(ndt, indent=4, sort_keys=True))
 # for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
 #     district = dt.split(".")[0]
 #     print(district)
@@ -162,4 +162,36 @@ for dt in sorted(listdir('src/tools/json/ura/compressed/old')):
 #             for parish in sub_county['parishes']:
 #                 if len(parish['villages']) == 0:
 #                     print(f'> VILLAGE: {parish["name"]}')
+
+## 71251 Get largest id
+id = -1
+for dt in sorted(listdir('src/tools/json/ura/orig/old')):
+    district = dt.split(".")[0]
+    
+    d = json.loads(
+        open(f'src/tools/json/ura/orig/old/{district.lower()}.json', 'r').read())
+
+    if d['id'] > id:
+        id = d['id']
+        print(id)
+    for county in d['counties']:
+        if county['id'] > id:
+            id = county['id']
+            print(id)
+        for sub_county in county['sub_counties']:
+            if sub_county['id'] > id:
+                id = sub_county['id']
+                print(id)
+
+
+            for parish in sub_county['parishes']:
+                if parish['id'] > id:
+                    id = parish['id']
+                    print(id)
+                
+                for village in parish['villages']:
+                    if village['id'] > id:
+                        id = village['id']
+                        print(id)
+
 
