@@ -167,3 +167,29 @@ console.log(villages);
 //       ...
 //    ]
 ```
+## Get village by subcounty details 
+
+```js
+import { getVillageFromSubCounty } from 'akwap';
+
+const villages = getVillageFromSubCounty(
+    {
+      sub_county: 'BUKIGAI',
+      parish: 'MBELEMA',
+      village: 'ETUMBU',
+    },
+    0.8,
+  );
+
+console.log(villages);
+//    [
+//      {
+//        id: 70864,
+//        name: 'TUMBU',
+//        district: { id: 106, name: 'BUDUDA' },
+//        county: { id: 256, name: 'MANJIYA COUNTY' },
+//        sub_county: { id: 1666, name: 'BUKIGAI' },
+//        parish: { id: 9970, name: 'MBELEMA' }
+//      }
+//    ]
+```

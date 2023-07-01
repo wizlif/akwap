@@ -735,8 +735,8 @@ export function getVillage(village: string, accuracy: number = 0.5): BaseVillage
         return cs.sub_counties
           .map((gs) => {
             const _subcounty: Base = {
-              id: cs.id,
-              name: cs.name,
+              id: gs.id,
+              name: gs.name,
             };
 
             return gs.parishes
@@ -770,4 +770,21 @@ export function getVillage(village: string, accuracy: number = 0.5): BaseVillage
   });
 
   return counties.reduce((accumulator, value) => accumulator.concat(value), []);
+}
+
+export function getVillageFromSubCounty({sub_county,parish,village}: { sub_county: string;parish: string;village: string; }, accuracy: number = 0.8): BaseVillage[] {
+  const data = getVillage(village,accuracy);
+
+  const results:BaseVillage[] = [];
+
+  for(const v of data){
+    const subCountyScore = stringSimilarity.compareTwoStrings(v.sub_county.name.toLowerCase(), sub_county.toLowerCase());
+    const parishScore = stringSimilarity.compareTwoStrings(v.parish.name.toLowerCase(), parish.toLowerCase());
+
+    if(subCountyScore >= accuracy && parishScore >= accuracy){
+      results.push(v);
+    }
+  }
+
+  return results;
 }

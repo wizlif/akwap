@@ -6,7 +6,7 @@ export default {
   counties: [
     {
       id: 257,
-      name: 'LUTSESHE COUNTY',
+      name: 'LUTSESHE',
       sub_counties: [
         {
           id: 1668,
@@ -1128,7 +1128,7 @@ export default {
     },
     {
       id: 256,
-      name: 'MANJIYA COUNTY',
+      name: 'MANJIYA',
       sub_counties: [
         {
           id: 1654,
@@ -1688,7 +1688,7 @@ export default {
         },
         {
           id: 1666,
-          name: 'BUKIGAI TOWN COUNCIL',
+          name: 'BUKIGAI',
           parishes: [
             {
               id: 9331,
@@ -1762,7 +1762,7 @@ export default {
             },
             {
               id: 9970,
-              name: 'MBELEMA WARD',
+              name: 'MBELEMA',
               villages: [
                 { id: 59075, name: 'BIKITONGO' },
                 { id: 59891, name: 'BUMULOKWA LOWER' },

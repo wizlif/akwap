@@ -1,4 +1,4 @@
-import { getCounty, getDistrict, getParish, getSubCounty, getVillage } from '../src/index';
+import { getCounty, getDistrict, getParish, getSubCounty, getVillage, getVillageFromSubCounty } from '../src/index';
 const stringSimilarity = require('string-similarity');
 
 it('loads selected district', () => {
@@ -31,4 +31,16 @@ it('gives list of parishes on `getParish`', () => {
 it('gives list of villages on `getVillage`', () => {
   const villages = getVillage('KAMULI', 0.8);
   expect(villages.length).toEqual(31);
+});
+
+it('gives list of villages on `getVillageFromSubCounty`', () => {
+  const villages = getVillageFromSubCounty(
+    {
+      sub_county: 'BUKIGAI',
+      parish: 'MBELEMA',
+      village: 'ETUMBU',
+    },
+    0.8,
+  );
+  expect(villages.length).toEqual(1);
 });
